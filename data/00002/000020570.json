@@ -1,0 +1,12 @@
+{
+    "url": "https://s0.wklcdn.com/image_45/1373355/35042195/22630284Master.jpg",
+    "key": "000020570",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 675,
+    "original_height": 1200,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"675\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "c286dcba673692b4ae5cf436a9483a3f17e002282864a63dede16238978331ac"
+}

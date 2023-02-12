@@ -1,0 +1,12 @@
+{
+    "url": "https://raotak.se/wp-content/uploads/2014/04/image2-560x418.jpg",
+    "key": "000020141",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 560,
+    "original_height": 418,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2056\", \"EXIF ExifImageLength\": \"1536\"}",
+    "sha256": "cc8badb8c8bfa021fe36d5f8ccdfcea1e8f497868ea990f549e24a9c0aef7cae"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Travel/North-America/New-Mexico-2017/Santa-Fe-and-Bandelier-National-Monument/i-XHMwvVW/1/202375f8/L/Bandelier%20National%20Monument-20170506-5-L.jpg",
+    "key": "000019236",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 534,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D750\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.3 (Windows)\", \"Image DateTime\": \"2017:06:12 17:02:07\", \"Image Artist\": \"Steven Sullivan\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"2017\", \"Image ExifOffset\": \"286\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[35, 46, 2957/50]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[106, 16, 1317/50]\", \"Image GPSInfo\": \"716\", \"EXIF ExposureTime\": \"1/320\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:05:06 15:01:03\", \"EXIF DateTimeDigitized\": \"2017:05:06 18:01:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"23673/3734\", \"EXIF MeteringMode\": \"other\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"36\", \"EXIF SubSecTimeDigitized\": \"71\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3044265\", \"EXIF LensModel\": \"24.0-70.0 mm f/2.8\"}",
+    "sha256": "c4ad89f1533651aee02eedcf3f34a6c3705398610b6038b740a3dea4da48127b"
+}

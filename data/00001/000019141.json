@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Faces-of-Nature/i-gZZNzDK/0/c23017c6/L/P1120572e-L.jpg",
+    "key": "000019141",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 600,
+    "exif": "{\"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "da71a3c96d503239db3a6c6ba998ec44526f7f7fe701ff52f388d472b5caa9ab"
+}

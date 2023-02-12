@@ -1,0 +1,12 @@
+{
+    "url": "https://www.oldmanarmory.com/UploadedFiles/Images/oldman2.jpg",
+    "key": "000027035",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 770,
+    "exif": "{\"Image ImageWidth\": \"800\", \"Image ImageLength\": \"770\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 22.1 (Macintosh)\", \"Image DateTime\": \"2021:01:07 09:03:45\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"9634\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"770\"}",
+    "sha256": "d41a6144e2898692dd10bfb7fdd4a874dbbc770e5d9d4287384d28cd6cb6c49f"
+}

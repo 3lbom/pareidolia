@@ -1,0 +1,12 @@
+{
+    "url": "https://media.karousell.com/media/photos/products/2019/05/18/224156_229772560_thumbnail_progressive_thumbnail.jpg",
+    "key": "000017940",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 426,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"756\", \"EXIF ExifImageLength\": \"1008\"}",
+    "sha256": "ab88052fd293ad4d4cf10995307737d26ea3acfc04e23a486bdd7e28d0a8e715"
+}

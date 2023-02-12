@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Travel/Year-In-Review-2016/i-7WXvpwr/0/47575b90/S/20160504_151655-S.jpg",
+    "key": "000019239",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 225,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G900V\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image Software\": \"G900VVRU2BPB1\", \"Image DateTime\": \"2016:12:31 07:32:34\", \"Image Artist\": \"Picasa\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"210\", \"EXIF ExposureTime\": \"1/1300\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:05:04 15:16:55\", \"EXIF DateTimeDigitized\": \"2016:05:04 15:16:55\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"8074/3549\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"24/5\", \"EXIF SubSecTime\": \"135\", \"EXIF SubSecTimeOriginal\": \"135\", \"EXIF SubSecTimeDigitized\": \"135\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "d28f16e4e674f2835f4a4636f10b070720b80bb4c1ab7e09c045343518f64cfd"
+}

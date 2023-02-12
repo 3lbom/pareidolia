@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/2017B/i-V3Kn9HK/1/ea78c89a/L/201706160940-L.jpg",
+    "key": "000019108",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark IV\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Camera Raw 9.10.1 (Macintosh)\", \"Image DateTime\": \"2017:06:17 21:41:57\", \"Image Artist\": \"PATRICK LUETHY\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"272\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[47, 16, 2707/50]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[7, 22, 5593/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"2698/5\", \"Image GPSInfo\": \"648\", \"EXIF ExposureTime\": \"1/640\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:06:16 12:51:32\", \"EXIF DateTimeDigitized\": \"2017:06:16 12:51:32\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"6\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"188\", \"EXIF SubSecTimeOriginal\": \"18\", \"EXIF SubSecTimeDigitized\": \"18\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"043022001057\", \"EXIF LensModel\": \"EF70-300mm f/4-5.6L IS USM\", \"EXIF LensSerialNumber\": \"7310003706\"}",
+    "sha256": "db3c7a806576e3ed7bfe4e732836a7e4d83a1a19ff11574372db5045a2c240e7"
+}

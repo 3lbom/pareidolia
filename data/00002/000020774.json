@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.amazonaws.com/sagebudphotos/PYCO/Hedrick_(1921)_-_Bartlett_600.jpg",
+    "key": "000020774",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{}",
+    "sha256": "65df212a32710160279c6e3ebd332cfcc932ef6897bed63980704bcd35ecd952"
+}

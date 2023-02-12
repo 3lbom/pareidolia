@@ -1,0 +1,12 @@
+{
+    "url": "https://s0.geograph.org.uk/photos/01/86/018696_0b3e6a55.jpg",
+    "key": "000020559",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS OPTICAL CO.,LTD\", \"Image Model\": \"u20D,S400D,u400D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"144\", \"Image YResolution\": \"144\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"06-1001\", \"Image DateTime\": \"2005:06:10 10:49:51\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"266\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"7206\", \"Thumbnail JPEGInterchangeFormatLength\": \"6420\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"26/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2005:06:10 10:49:51\", \"EXIF DateTimeDigitized\": \"2005:06:10 10:49:51\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"163/50\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"1499/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2272\", \"EXIF ExifImageLength\": \"1704\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"722\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "ef12f287b05d4d2f3952ce2c95bf5a3b27e28f764a23292885c7b9ae668dd933"
+}

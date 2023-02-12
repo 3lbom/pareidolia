@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.us-east-2.amazonaws.com/homestead.org/wp-content/uploads/2017/02/Citron-1-502x416.jpg",
+    "key": "000020825",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 502,
+    "original_height": 416,
+    "exif": "{}",
+    "sha256": "f0f78d5180bf55cf00818f65f0524ca326e953ac70c99488decd1fe3b5c52d6c"
+}

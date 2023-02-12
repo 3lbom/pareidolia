@@ -1,0 +1,12 @@
+{
+    "url": "https://i1.kwejk.pl/k/obrazki/2012/10/dceff7c6b126fe9b280d88691356e491.jpg",
+    "key": "000012926",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 610,
+    "original_height": 494,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 3GS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.1.7600.16385\", \"Image DateTime\": \"2012:10:21 22:17:34\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2318\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[53, 2911/50, 0]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[15, 733/25, 0]\", \"GPS GPSTimeStamp\": \"[15, 17, 4333/100]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"82502/741\", \"Image GPSInfo\": \"4782\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5048\", \"Thumbnail JPEGInterchangeFormatLength\": \"6609\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:08:02 17:17:44\", \"EXIF DateTimeDigitized\": \"2012:08:02 17:17:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"3711/949\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"4152/1705\", \"EXIF MeteringMode\": \"Average\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[1023, 767, 614, 614]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2048\", \"EXIF ExifImageLength\": \"1536\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Soft\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "889f8ce41a1084c083a086e3b5d11b2983eab3340d3f5a1673ed341ab99abf15"
+}

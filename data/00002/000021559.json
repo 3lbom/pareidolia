@@ -1,0 +1,12 @@
+{
+    "url": "https://static.wixstatic.com/media/a2df1e_8067b74d966f4c8986b618f68370b6b5~mv2.jpg",
+    "key": "000021559",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 907,
+    "original_height": 1340,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 6D\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.4 (Windows)\", \"Image DateTime\": \"2018:08:06 14:08:01\", \"Image Artist\": \"Francois LE BOURG\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Francois LE BOURG\", \"Image ExifOffset\": \"286\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"994\", \"Thumbnail JPEGInterchangeFormatLength\": \"16020\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:04:14 10:59:23\", \"EXIF DateTimeDigitized\": \"2017:04:14 10:59:23\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"15303/2002\", \"EXIF ApertureValue\": \"9297/2002\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"105\", \"EXIF SubSecTimeOriginal\": \"56\", \"EXIF SubSecTimeDigitized\": \"56\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1520\", \"EXIF FocalPlaneYResolution\": \"1520\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"Francois LE BOURG\", \"EXIF BodySerialNumber\": \"333051002789\", \"EXIF LensSpecification\": \"[24, 105, 0/0, 0/0]\", \"EXIF LensModel\": \"EF24-105mm f/4L IS USM\", \"EXIF LensSerialNumber\": \"0000b24eda\"}",
+    "sha256": "10c7f69a8e371ca05c4f2c34f5ed520d1f6f729581e13d87d7c2f3cc770301f6"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.ydo.or.jp/wp-content/uploads/2021/10/IMG_20211013_071811.jpg",
+    "key": "000028028",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 337,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image Software\": \"Google\", \"Image Copyright\": \"COPYRIGHT\", \"Image ExifOffset\": \"120\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"337\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "148a8247e20f567435cb1c6479d1e84e13a89599009cc62958ead19f0cb51d77"
+}

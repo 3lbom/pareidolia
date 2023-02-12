@@ -1,0 +1,12 @@
+{
+    "url": "https://p.bookcdn.com/data/Photos/300x302/9540/954045/954045511/Jahorinska-Planinska-Vila-photos-Exterior.JPEG",
+    "key": "000018767",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 302,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"302\"}",
+    "sha256": "21bdf513b5564063ee381b79764facd5cb05dc91a325f10cce2871621ddad85e"
+}

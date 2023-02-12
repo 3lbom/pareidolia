@@ -1,0 +1,12 @@
+{
+    "url": "https://skalnispomeni.com/-cms/wp-content/uploads/2020/07/strogiyat-scaled.jpg",
+    "key": "000021050",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 2560,
+    "original_height": 1439,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-WX350\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACDSee Pro 10\", \"Image DateTime\": \"2020:07:19 11:49:40\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"243\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"31656\", \"Thumbnail JPEGInterchangeFormatLength\": \"10635\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:07:18 16:26:28\", \"EXIF DateTimeDigitized\": \"2020:07:18 16:26:28\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF BrightnessValue\": \"8097/1280\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"463/128\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"43/10\", \"EXIF SubSecTime\": \"783\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4896\", \"EXIF ExifImageLength\": \"2752\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"31544\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[43/10, 86, 7/2, 13/2]\"}",
+    "sha256": "b56387efe31a71f07c2d95a92c0126dda87243440d294103df48227c03ec149a"
+}

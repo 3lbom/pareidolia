@@ -1,0 +1,12 @@
+{
+    "url": "https://life-routes.ru/wp-content/uploads/2016/03/Kamenniy-les0-300x225.jpg",
+    "key": "000016965",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 225,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-W330\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2014:09:07 13:03:24\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"230\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Make\": \"SONY\", \"Thumbnail Model\": \"DSC-W330\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail DateTime\": \"2014:09:07 13:03:24\", \"Thumbnail JPEGInterchangeFormat\": \"5704\", \"Thumbnail JPEGInterchangeFormatLength\": \"10221\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:09:07 13:03:24\", \"EXIF DateTimeDigitized\": \"2014:09:07 13:03:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"23/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"47/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2592\", \"EXIF ExifImageLength\": \"1944\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"5464\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF OffsetSchema\": \"-16\"}",
+    "sha256": "f73e5085a29e26cc5d996e4f159b31853bc45b4f4ff8524574a49e064cc2a978"
+}

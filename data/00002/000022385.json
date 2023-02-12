@@ -1,0 +1,12 @@
+{
+    "url": "https://thumb.mp-farm.com/74474/vertical.jpg",
+    "key": "000022385",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"Andreas Gradin\", \"Image Copyright\": \"Andreas Gradin copyright\", \"Image ExifOffset\": \"156\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"267\"}",
+    "sha256": "b56153c5dc2bdae54d818303c21776272b2afb76f0899836f5cbe90b75753587"
+}

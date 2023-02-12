@@ -1,0 +1,12 @@
+{
+    "url": "https://www.thekua.com/rant/wp-content/uploads/2009/09/HappyPlugs.jpg",
+    "key": "000027733",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 550,
+    "original_height": 413,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2009:08:07 00:28:26\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"184\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[55, 4009/100, 0]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[12, 853/25, 0]\", \"GPS GPSTimeStamp\": \"[0, 27, 117/4]\", \"Image GPSInfo\": \"346\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"590\", \"Thumbnail JPEGInterchangeFormatLength\": \"6082\", \"EXIF FNumber\": \"14/5\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:08:07 00:28:26\", \"EXIF DateTimeDigitized\": \"2009:08:07 00:28:26\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"550\", \"EXIF ExifImageLength\": \"413\"}",
+    "sha256": "3cd18924648a31f745e4c45470a3f36c7fd1c9ec3656d19a41736b2adfec8568"
+}

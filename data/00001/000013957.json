@@ -1,0 +1,12 @@
+{
+    "url": "https://image.jimcdn.com/app/cms/image/transf/none/path/sb1d839376d7c1cac/image/i148324f5f8c08810/version/1626015222/image.jpg",
+    "key": "000013957",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1920,
+    "original_height": 1440,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-W830\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2021:03:31 16:26:37\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"274\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Make\": \"SONY\", \"Thumbnail Model\": \"DSC-W830\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail DateTime\": \"2021:03:31 16:26:37\", \"Thumbnail JPEGInterchangeFormat\": \"11192\", \"Thumbnail JPEGInterchangeFormatLength\": \"7372\", \"EXIF ExposureTime\": \"1/500\", \"EXIF FNumber\": \"33/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:03:31 16:26:37\", \"EXIF DateTimeDigitized\": \"2021:03:31 16:26:37\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"441/128\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"9/2\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1920\", \"EXIF ExifImageLength\": \"1440\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"10968\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "b753eeeb1f36ac14f5299a0a1efde5f2f350677b2a66e3599ca185bf0fab4ede"
+}

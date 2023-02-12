@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/ARCHIVE/NATURE/Forest/i-x2jZ4G5/1/2b3a853f/Ti/20181102-1618-DSC08280s-Ti.jpg",
+    "key": "000019109",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 100,
+    "original_height": 100,
+    "exif": "{\"Image ImageDescription\": \"Beautiful trunk of the tree closeup view, autumnal forest\", \"Image Make\": \"SONY\", \"Image Model\": \"SLT-A99\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.4 (Windows)\", \"Image DateTime\": \"2018:11:15 19:35:31\", \"Image Artist\": \"http://www.sashka.me/\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Alexander Sorokopud\", \"Image ExifOffset\": \"356\", \"EXIF ExposureTime\": \"1/60\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"1250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:11:02 16:18:44\", \"EXIF DateTimeDigitized\": \"2018:11:02 16:18:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"10717/2018\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF LensModel\": \"50mm F1.4\"}",
+    "sha256": "529b7a8f8c113928b8ebd670cdf791dde962eb7f9c741dc3c2928ddadf8206a5"
+}

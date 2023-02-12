@@ -1,0 +1,12 @@
+{
+    "url": "https://pixnio.com/free-images/2017/09/18/2017-09-18-10-48-43-400x300.jpg",
+    "key": "000019765",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"E-300\", \"Image ExifOffset\": \"78\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"250\", \"Thumbnail JPEGInterchangeFormatLength\": \"2662\", \"EXIF ExposureTime\": \"1/25\", \"EXIF FNumber\": \"28/5\", \"EXIF ISOSpeedRatings\": \"[172, 0]\", \"EXIF DateTimeOriginal\": \"2006:09:11 20:47:08\", \"EXIF Flash\": \"196Flash did not fire\", \"EXIF FocalLength\": \"50\"}",
+    "sha256": "3e0d49293971802dbc9e625b1f3dbdad1cd032d3a9421214cae726cdc9d9108e"
+}

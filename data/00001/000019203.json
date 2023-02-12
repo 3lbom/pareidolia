@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Photography/Store/i-cMxn7Px/0/4adca764/L/Mountain%20Lion%20Rock-L.jpg",
+    "key": "000019203",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image XResolution\": \"700\", \"Image YResolution\": \"700\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"Scott Hellickson\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"All photographs and artworks in this portfolio are copyrighted and owned by the artist, Scott Hellickson (aka. Outdoorphoto Photography). Any reproduction, modification, publication, transmission, transfer, or exploitation of the content, for personal or commercial use, whether in whole or in part, without written permission from the artist is strictly prohibited. All rights reserved.\", \"Image ExifOffset\": \"520\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "bcbdc6a7615771fa68abd1c09669220c50c14bd776d4f1ac595464a103fe1302"
+}

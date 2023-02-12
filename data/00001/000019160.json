@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Hiking/National-Forests/Pinhoti-Trail-010512/i-PSJmQN2/0/83e1cecb/Ti/_DSC6683-Ti.jpg",
+    "key": "000019160",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 100,
+    "original_height": 100,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D7000\", \"Image DateTime\": \"2013:01:05 11:44:48\", \"Image Artist\": \"Dianne Frost\", \"Image Copyright\": \"Dianne Frost\", \"Image ExifOffset\": \"230\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF DateTimeOriginal\": \"2013:01:05 11:44:48\", \"EXIF DateTimeDigitized\": \"2013:01:05 11:44:48\", \"EXIF ExposureBiasValue\": \"-5/3\", \"EXIF MaxApertureValue\": \"22/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"48\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "debd7fd3e9546bb4bf4ec70613b1c065051f12b5594407ee56dd010aee0231f2"
+}

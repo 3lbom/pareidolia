@@ -1,0 +1,12 @@
+{
+    "url": "https://images.squarespace-cdn.com/content/v1/52c2fec6e4b0537e2cba5c2c/1397865963227-B5FMN9FADANO06564HNE/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/img_0929.jpg",
+    "key": "000014954",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 2500,
+    "original_height": 1667,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XTi\", \"Image XResolution\": \"648\", \"Image YResolution\": \"648\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 5.0\", \"Image DateTime\": \"2008:03:22 06:41:27\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"222\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"648\", \"Thumbnail YResolution\": \"648\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5648\", \"Thumbnail JPEGInterchangeFormatLength\": \"5038\", \"EXIF ExposureTime\": \"1/800\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:03:15 13:09:24\", \"EXIF DateTimeDigitized\": \"2008:03:15 13:09:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"158005/16384\", \"EXIF ApertureValue\": \"162885/32768\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"64\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3888\", \"EXIF ExifImageLength\": \"2592\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"5508\", \"EXIF FocalPlaneXResolution\": \"3888000/877\", \"EXIF FocalPlaneYResolution\": \"432000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "ecb73114be18bc6871dc4b3f478ebbc372a43b3b2e132e86f4c018d13e677e3c"
+}

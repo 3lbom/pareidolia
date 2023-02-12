@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/GeoETC-Hawaii-Volcanoes-Tour/i-FzLNbXS/1/30c030ff/S/DSC_7770-S.jpg",
+    "key": "000019156",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5200\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Ver.1.02\", \"Image DateTime\": \"2017:02:13 14:23:14\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"198\", \"EXIF ExposureTime\": \"1/500\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:02:13 14:23:14\", \"EXIF DateTimeDigitized\": \"2017:02:13 14:23:14\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"140\", \"EXIF SubSecTime\": \"10\", \"EXIF SubSecTimeOriginal\": \"10\", \"EXIF SubSecTimeDigitized\": \"10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "fe048b8a2ca51529b2a73e808108f9d2ebd76c37d87b79338d80fb1556f19ff0"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://pixy.org/src/11/thumbs190/117208.jpg",
+    "key": "000019769",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 271,
+    "original_height": 190,
+    "exif": "{\"Image Make\": \"Samsung Electronics\", \"Image Model\": \"SGH-F480\", \"Image ExifOffset\": \"80\", \"EXIF FNumber\": \"181/64\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF DateTimeOriginal\": \"2009:12:21 07:51:50\"}",
+    "sha256": "d5d435012a54f766d89d498c0b15bcb1726fd458b22d774216337ed85ac11f46"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://objects.artspan.com/member/anebel/500/3339989.jpg",
+    "key": "000018615",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 331,
+    "original_height": 500,
+    "exif": "{\"Image PhotometricInterpretation\": \"32803\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5100\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image Software\": \"Photos 3.0\", \"Image DateTime\": \"2019:05:16 17:19:19\", \"Image ExifOffset\": \"188\", \"EXIF ExposureTime\": \"8\", \"EXIF FNumber\": \"11\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF DateTimeOriginal\": \"2019:05:16 17:19:19\", \"EXIF DateTimeDigitized\": \"2019:05:16 17:19:19\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTime\": \"50\", \"EXIF SubSecTimeOriginal\": \"50\", \"EXIF SubSecTimeDigitized\": \"50\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"4928\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"82\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "4f8d7f6914d1f451966b044a02db602a687b3094a0fff05ca491ecef13def0e5"
+}

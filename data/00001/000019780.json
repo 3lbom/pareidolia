@@ -1,0 +1,12 @@
+{
+    "url": "https://planet-terre.ens-lyon.fr/planetterre/objets/Images/Bonifacio-granitoides-Lavezzi/Bonifacio-granitoides-Lavezzi-26-br.jpg",
+    "key": "000019780",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 304,
+    "original_height": 540,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-A510F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"100\", \"Image YResolution\": \"100\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"GIMP 2.8.22\", \"Image DateTime\": \"2020:05:04 17:32:24\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"212\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[41, 20, 44]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[9, 15, 25]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"50\", \"GPS GPSTimeStamp\": \"[10, 27, 5]\", \"GPS GPSDate\": \"2019:10:27\", \"Image GPSInfo\": \"784\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Rotated 90 CW\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1120\", \"Thumbnail JPEGInterchangeFormatLength\": \"7935\", \"EXIF ExposureTime\": \"1/2227\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:10:27 11:31:49\", \"EXIF DateTimeDigitized\": \"2019:10:27 11:31:49\", \"EXIF ShutterSpeedValue\": \"278/25\", \"EXIF ApertureValue\": \"37/20\", \"EXIF BrightnessValue\": \"923/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"37/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"675\", \"EXIF ExifImageLength\": \"1200\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"U13LLIA00VM U13LLKI01SA\"}",
+    "sha256": "883743b9886480e66e87ed3f710f18b309b2a7e1e27b396f8a51907fbc13d490"
+}

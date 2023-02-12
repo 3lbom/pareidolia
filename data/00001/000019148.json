@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Food/Toad-in-the-Hole/i-VKdsWDg/0/1d33ef45/S/Toad-In-The-Hole...Asda...20-10-16-S.jpg",
+    "key": "000019148",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 225,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G920F\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image Software\": \"PaintShop Pro 14.00\", \"Image DateTime\": \"2016:10:21 13:54:15\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"EXIF ExposureTime\": \"1/58\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:10:20 18:08:59\", \"EXIF DateTimeDigitized\": \"2016:10:20 18:08:59\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"12601/6804\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash fired\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9ac3cc50caedb824e76be7a71f88f9b9f3f5e0a5ba3fd9d9340e636ebddb4ba8"
+}

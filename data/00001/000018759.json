@@ -1,0 +1,12 @@
+{
+    "url": "https://outsidesuburbia.com/wp-content/uploads/2020/03/REDROCK_canyon_outsidesuburbia-2.jpg",
+    "key": "000018759",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 1024,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4S\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.4 (Macintosh)\", \"Image DateTime\": \"2020:03:17 17:52:01\", \"Image Artist\": \"Vinod Ramachandran\", \"Image Copyright\": \"\\u00a9OutsideSuburbia All Rights Reserved.\", \"Image ExifOffset\": \"296\", \"EXIF ExposureTime\": \"1/350\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:04:27 13:08:13\", \"EXIF DateTimeDigitized\": \"2013:04:27 13:08:13\", \"EXIF ShutterSpeedValue\": \"8451211/1000000\", \"EXIF ApertureValue\": \"2526069/1000000\", \"EXIF BrightnessValue\": \"5078/647\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"6185/1539\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "d409da509141f05c113388fb5a62724895d3765e936d4e1a9f06545ec48efdbb"
+}

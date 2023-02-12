@@ -1,0 +1,12 @@
+{
+    "url": "https://www.55hike.com/uploads/arcimgs/29451613979596.jpg",
+    "key": "000025533",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 650,
+    "original_height": 450,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2021:02:22 10:24:17\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"7800\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"650\", \"EXIF ExifImageLength\": \"450\"}",
+    "sha256": "b719d14c0156d068763c768fb61d3bea910cdc814b0acbd9b906174e9435b7a7"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.melkgalleri.no/wp-content/uploads/2020/01/the-shape-of-a-pear_2019_archival-inkjet-print_90x140cm-768x508.jpg",
+    "key": "000026863",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 508,
+    "exif": "{\"Image ImageWidth\": \"5361\", \"Image ImageLength\": \"3543\", \"Image BitsPerSample\": \"[16, 16, 16, 16, 16]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"5\", \"Image XResolution\": \"110\", \"Image YResolution\": \"110\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 21.0 (Macintosh)\", \"Image DateTime\": \"2020:01:30 08:42:22\", \"Image ExifOffset\": \"264\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"402\", \"Thumbnail JPEGInterchangeFormatLength\": \"2299\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2000\", \"EXIF ExifImageLength\": \"1322\"}",
+    "sha256": "7ba8fd15fabfb5f67dd0b8e76dc586d856a77c0389b1454fc291d8d53dc006cc"
+}

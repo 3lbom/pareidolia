@@ -1,0 +1,12 @@
+{
+    "url": "https://nieoczywista.pl/wp-content/uploads/2020/06/Czaszka-G%C3%B3ry-Sto%C5%82owe-5-345x230.jpg",
+    "key": "000018549",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 345,
+    "original_height": 230,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-LX7\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Camera Raw 11.3 (Windows)\", \"Image DateTime\": \"2020:05:31 15:18:05\", \"Image ExifOffset\": \"206\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"856\", \"Thumbnail JPEGInterchangeFormatLength\": \"17410\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:05:30 12:26:24\", \"EXIF DateTimeDigitized\": \"2020:05:30 12:26:24\", \"EXIF OffsetTime\": \"+02:00\", \"EXIF ShutterSpeedValue\": \"415241/62500\", \"EXIF ApertureValue\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"31/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"47/10\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF FocalPlaneXResolution\": \"160668903/32768\", \"EXIF FocalPlaneYResolution\": \"160668903/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF BodySerialNumber\": \"F121410080265\"}",
+    "sha256": "e1205a87f7a3ffecf04823adb1090be9cc0f8801a26adf436eecffa5c29b1024"
+}

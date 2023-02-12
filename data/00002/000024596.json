@@ -1,0 +1,12 @@
+{
+    "url": "https://trip.todoetan.com/wp-content/uploads/2015/01/12.jpg",
+    "key": "000024596",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"7.1.1\", \"Image DateTime\": \"2014:12:26 12:11:24\", \"Image ExifOffset\": \"180\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:12:26 12:11:24\", \"EXIF DateTimeDigitized\": \"2014:12:26 12:11:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6337/1622\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"-2125/4659\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF SubSecTimeOriginal\": \"949\", \"EXIF SubSecTimeDigitized\": \"949\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[815905/190632, 815905/190632, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 4S back camera 4.28mm f/2.4\"}",
+    "sha256": "bafa55755cf432ea65726243bc9914c326786f2665e33c4f185417f9cb2fe421"
+}

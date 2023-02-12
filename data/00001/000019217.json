@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Sarah-Korp-Trail-running/i-SgjrfHD/0/6a14b58f/M/TyHoltanPhotography-19-M.jpg",
+    "key": "000019217",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 450,
+    "exif": "{\"Image ImageDescription\": \"Sarah Korp Trail Run Seymour Mountain\", \"Image Make\": \"SONY\", \"Image Model\": \"ILCE-7M3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 9.1 (Macintosh)\", \"Image DateTime\": \"2020:01:27 17:00:31\", \"Image Artist\": \"Ty Holtan\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"296\", \"EXIF ExposureTime\": \"1/80\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:01:26 13:34:16\", \"EXIF DateTimeDigitized\": \"2020:01:26 13:34:16\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"13166/7763\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensModel\": \"FE 55mm F1.8 ZA\"}",
+    "sha256": "ff2597e982ff0aea2ab30478ecde780832b3bee6c35bddb02240fbe9e0b89511"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://nurseilife.cc/wp-content/uploads/2015-04-15-131643-91.jpg",
+    "key": "000018608",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"E-M1\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2015:04:15 12:53:44\", \"Image Artist\": \"NURSEILIFE\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"NURSEILIFE\", \"Image ExifOffset\": \"420\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"6880\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:04:15 11:43:22\", \"EXIF DateTimeDigitized\": \"2015:04:15 11:43:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"3/10\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"30\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"6850\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF LensSpecification\": \"[12, 40, 14/5, 14/5]\", \"EXIF LensModel\": \"OLYMPUS M.12-40mm F2.8\"}",
+    "sha256": "21447035a1aa4be2eaf59bf6f0dfc417a0e84164937909d66e69971c1d70cfe7"
+}

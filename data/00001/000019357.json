@@ -1,0 +1,12 @@
+{
+    "url": "https://pic.pimg.tw/tinahsieh/24ce8a9299c33068c861489e00441a53.jpg",
+    "key": "000019357",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"uT8000,ST8000\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"160\", \"Image YResolution\": \"160\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Version 1.0\", \"Image DateTime\": \"2010:06:26 13:58:53\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"158\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"160\", \"Thumbnail YResolution\": \"160\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"10100\", \"Thumbnail JPEGInterchangeFormatLength\": \"6014\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:06:26 13:58:53\", \"EXIF DateTimeDigitized\": \"2010:06:26 13:58:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"361/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"960\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"626\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "bc222c74c1564adb57710b82f8b44a774297399af4fe95965baeab9c691f9bec"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.fotolabpro.it/wp-content/uploads/2017/01/labante-02-PH-vitale-705x469.jpg",
+    "key": "000026298",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 705,
+    "original_height": 469,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D40\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ViewNX-i 1.2 W\", \"Image DateTime\": \"2018:01:20 01:15:00\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"216\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3632\", \"Thumbnail JPEGInterchangeFormatLength\": \"3928\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Shutter Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:04:05 11:31:24\", \"EXIF DateTimeDigitized\": \"2009:04:05 11:31:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"18/5\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"18\", \"EXIF SubSecTime\": \"20\", \"EXIF SubSecTimeOriginal\": \"20\", \"EXIF SubSecTimeDigitized\": \"20\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1064\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Soft\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "ad4c73e0932de724a332de0468c11747ed8e5514ee29480abe4e3d234aa83530"
+}

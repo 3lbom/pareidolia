@@ -1,0 +1,12 @@
+{
+    "url": "https://i.notrefamille.com/400x280/smart/2020/09/24/10810-large.jpg",
+    "key": "000010195",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 280,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"280\"}",
+    "sha256": "be198f2b06f4ccf63ab63a640c5ba86968dd1c44791648e4764ebe7a57d1b6d8"
+}

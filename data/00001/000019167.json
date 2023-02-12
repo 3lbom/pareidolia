@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Landscapes/Landskap/i-CQb62b8/3/4bf3524b/L/DA_20110721-170237-L.jpg",
+    "key": "000019167",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 600,
+    "exif": "{\"Image ImageDescription\": \"Lok\\u00f8y 2011. Mannen i Lok\\u00f8yfjellet\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D700\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 11.5 (Windows)\", \"Image DateTime\": \"2022:09:09 11:08:06\", \"Image Artist\": \"Dan Aamlid\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Dan Aamlid\", \"Image ExifOffset\": \"346\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[60, 19, 1123/25]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[4, 57, 1118/25]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"20\", \"Image GPSInfo\": \"788\", \"EXIF ExposureTime\": \"1/320\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:07:21 17:02:37\", \"EXIF DateTimeDigitized\": \"2011:07:21 17:02:37\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"6\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"95\", \"EXIF SubSecTimeOriginal\": \"24\", \"EXIF SubSecTimeDigitized\": \"24\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2303903\", \"EXIF LensModel\": \"24.0-120.0 mm f/4.0\"}",
+    "sha256": "31728e0f71eec9a5b8070bd08b527380a8ed6cd076fbe327a5b8292049fcc4c7"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://sohanews.sohacdn.com/zoom/260_162/160588918557773824/2020/8/24/photo1598232154460-1598232154720487104649.jpg",
+    "key": "000021108",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 260,
+    "original_height": 162,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2009:05:22 16:24:28\", \"Image ExifOffset\": \"162\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"550\", \"EXIF ExifImageLength\": \"734\"}",
+    "sha256": "6369bf5e97d35fc797e4463962ef28f2335d2049400262d0871c56da0d78b7aa"
+}

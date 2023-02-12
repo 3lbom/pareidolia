@@ -1,0 +1,12 @@
+{
+    "url": "https://xn--80aeal8bmm8fsa.xn--p1ai/wp-content/uploads/2019/02/8-22.jpg",
+    "key": "000028082",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACDSee Pro 9\", \"Image DateTime\": \"2019:02:10 17:51:09\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"159\", \"EXIF SubSecTime\": \"257\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "eb96bb386e2029d523bd1e05e63253b0ee6b425efcd53e20ca7eed29c4d85af4"
+}

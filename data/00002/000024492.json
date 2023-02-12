@@ -1,0 +1,12 @@
+{
+    "url": "https://tiimg.tistatic.com/fp/1/006/326/delicious-taste-orange-fruit-554.jpg",
+    "key": "000024492",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 299,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Model\": \"Moto E (4) Plus\", \"Image ImageWidth\": \"2661\", \"Image ExifOffset\": \"143\", \"Image ImageLength\": \"1590\", \"Image DateTime\": \"2020:03:06 15:21:50\", \"Image Make\": \"motorola\", \"EXIF FocalLength\": \"7/2\", \"EXIF ExposureTime\": \"299/10000\", \"EXIF LightSource\": \"Unknown\", \"EXIF FNumber\": \"2\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF ISOSpeedRatings\": \"294\"}",
+    "sha256": "1d555e8477844f83c206c1f8e00c5f266d0cca549855a4d97a0ff1f00e1c6bdc"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.lelud.ee/wp-content/uploads/images/products/products-51668-300x173.jpg",
+    "key": "000026723",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 173,
+    "exif": "{\"Image ImageWidth\": \"2453\", \"Image ImageLength\": \"1417\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"120\", \"Image YResolution\": \"120\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Macintosh)\", \"Image DateTime\": \"2015:07:15 14:37:09\", \"Image ExifOffset\": \"260\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"914\", \"Thumbnail JPEGInterchangeFormatLength\": \"4293\", \"EXIF ExposureTime\": \"1/6\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:01:22 20:26:17\", \"EXIF DateTimeDigitized\": \"2013:01:22 20:26:17\", \"EXIF ShutterSpeedValue\": \"5948/2301\", \"EXIF ApertureValue\": \"2956/995\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"100\", \"EXIF SubSecTimeOriginal\": \"80\", \"EXIF SubSecTimeDigitized\": \"80\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"709\", \"EXIF ExifImageLength\": \"409\", \"EXIF FocalPlaneXResolution\": \"39739/194\", \"EXIF FocalPlaneYResolution\": \"39739/194\", \"EXIF FocalPlaneResolutionUnit\": \"4\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"100\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "ded5528bcb98d8898400ba97cbcc45f6707a14da5269ec932f4b4d7281ced1d2"
+}

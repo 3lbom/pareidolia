@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Story-Photos-2/i-jrNc5SG/0/f36f3f0e/Ti/NZ_TAK201604261341-Ti.jpg",
+    "key": "000019223",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 100,
+    "original_height": 100,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image Software\": \"Adobe Photoshop CC 2014 (Macintosh)\", \"Image DateTime\": \"2016:11:03 20:27:10\", \"Image Artist\": \"Chetan Karkhanis\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\\u00a9 2016 Chetan Karkhanis\", \"Image ExifOffset\": \"290\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"S\", \"GPS GPSLatitude\": \"[40, 51, 47/10]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[172, 49, 2653/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"12213/754\", \"Image GPSInfo\": \"642\", \"EXIF ExposureTime\": \"1/30\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:04:26 12:51:35\", \"EXIF DateTimeDigitized\": \"2016:04:26 12:51:35\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"8074/3549\", \"EXIF ExposureBiasValue\": \"-119/100\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"21/5\", \"EXIF SubSecTimeOriginal\": \"02\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\"}",
+    "sha256": "73c591562cac4dec4d4abcd74df47edc7a5a32f21679159ee22be0b6fca9ed82"
+}

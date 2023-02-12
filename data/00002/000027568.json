@@ -1,0 +1,12 @@
+{
+    "url": "https://www.speedsterowners.com/fileSendAction/fcType/0/fcOid/557786615260384243/filePointer/659132192708281149/fodoid/659132192708281134/imageType/MEDIUM/inlineImage/true/My%2520Beck%2520550%2527s%2520Fibersteel%2520Alloy%2520Tonneau%2520%2520%282%2529.JPG?nc=1",
+    "key": "000027568",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{\"Image Tag 0x001F\": \"10\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"14.2\", \"Image DateTime\": \"2020:11:29 11:25:13\", \"Image HostComputer\": \"iPhone 6s\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2436\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"535639/8192\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"535639/8192\", \"Image GPSInfo\": \"6062\", \"Image OffsetTime\": \"-05:00\", \"Image OffsetTimeOriginal\": \"-05:00\", \"Image OffsetTimeDigitized\": \"-05:00\", \"Image LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"Image LensMake\": \"Apple\", \"Image LensModel\": \"iPhone 6s back camera 4.15mm f/2.2\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:11:29 11:25:13\", \"EXIF DateTimeDigitized\": \"2020:11:29 11:25:13\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"84572/17235\", \"EXIF ApertureValue\": \"193685/85136\", \"EXIF BrightnessValue\": \"50282/17699\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubSecTimeOriginal\": \"87\", \"EXIF SubSecTimeDigitized\": \"87\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4070\"}",
+    "sha256": "e42a33a4ef6836bb685424e84e747d5dd57870fdc48ab105685a100909cf06be"
+}

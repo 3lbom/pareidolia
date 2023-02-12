@@ -1,0 +1,12 @@
+{
+    "url": "https://img.izismile.com/img/img4/20110930/640/some_idiotic_conversations_on_facebook_640_16.jpg",
+    "key": "000015692",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 209,
+    "exif": "{\"Image ImageWidth\": \"600\", \"Image ImageLength\": \"196\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2011:09:30 11:20:19\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"378\", \"Thumbnail JPEGInterchangeFormatLength\": \"2242\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"765\", \"EXIF ExifImageLength\": \"250\"}",
+    "sha256": "387523c4cab1205f366de155407dbcbb4d658568a01ef2f33d627b58c9ea9ed3"
+}

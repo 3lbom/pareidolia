@@ -1,0 +1,12 @@
+{
+    "url": "https://www.lausannebondyblog.ch/wp-content/uploads/2015/01/boite-osche-4-365x365.jpg",
+    "key": "000026719",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 365,
+    "original_height": 365,
+    "exif": "{\"Image ImageDescription\": \"<KENOX S760  / Samsung S760>\", \"Image Make\": \"Samsung Techwin\", \"Image Model\": \"<KENOX S760  / Samsung S760>\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2013:09:28 16:38:20\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"COPYRIGHT, 2007\", \"Image ExifOffset\": \"304\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"946\", \"Thumbnail JPEGInterchangeFormatLength\": \"4841\", \"EXIF ExposureTime\": \"1/180\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:07:30 14:38:04\", \"EXIF DateTimeDigitized\": \"2008:07:30 14:38:04\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3475285/884736\", \"EXIF ShutterSpeedValue\": \"369/50\", \"EXIF ApertureValue\": \"297/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"297/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"63/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1200\", \"EXIF ExifImageLength\": \"812\", \"EXIF RelatedSoundFile\": \"RelatedSound\", \"EXIF ExposureIndex\": \"1\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"38\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "9b96fce5f8594ef90ac0de11f7816282051d9ace66d0eda2519bf389f29ae78c"
+}

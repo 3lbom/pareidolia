@@ -1,0 +1,12 @@
+{
+    "url": "https://t4.ftcdn.net/jpg/00/64/04/57/240_F_64045731_AmoarlxRkM9iXEdDbtEdg9h6isK6bsUb.jpg",
+    "key": "000022126",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 240,
+    "original_height": 240,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "cb02a93ed3805029dd43b28418e80a80aa9f10dad0a69aec5a99371394917e26"
+}

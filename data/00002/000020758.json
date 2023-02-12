@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.amazonaws.com/gs-waymarking-images/f8ee4149-1695-474c-bc46-cdcc41ca6bea_sm.jpg",
+    "key": "000020758",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 86,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"u720SW,S720SW\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"220\", \"Image YResolution\": \"220\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Paint Shop Pro Photo 11.20\", \"Image DateTime\": \"2008:05:02 22:54:18\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"284\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"1/96\", \"Thumbnail YResolution\": \"1/96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"958\", \"Thumbnail JPEGInterchangeFormatLength\": \"5468\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:05:01 03:28:37\", \"EXIF DateTimeDigitized\": \"2008:05:01 03:28:37\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"361/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"201/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1544\", \"EXIF ExifImageLength\": \"1103\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "cbf28b17d4a26ca6637596377d745400bc4fb9e0bcda22f5d06886e4300cf036"
+}

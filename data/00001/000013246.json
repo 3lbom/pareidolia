@@ -1,0 +1,12 @@
+{
+    "url": "https://i1.wp.com/www.lanclin.com/wp-content/uploads/2016/07/battur-pa-donau-kelheim-bergsansikte.jpg?resize=667%2C1000",
+    "key": "000013246",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 667,
+    "original_height": 1000,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 750D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Macintosh)\", \"Image DateTime\": \"2016:07:06 21:15:42\", \"Image ExifOffset\": \"216\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"910\", \"Thumbnail JPEGInterchangeFormatLength\": \"7987\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"63/10\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:06:26 14:41:21\", \"EXIF DateTimeDigitized\": \"2016:06:26 14:41:21\", \"EXIF ShutterSpeedValue\": \"790241/125000\", \"EXIF ApertureValue\": \"331919/62500\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"33/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTime\": \"54\", \"EXIF SubSecTimeOriginal\": \"54\", \"EXIF SubSecTimeDigitized\": \"54\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"667\", \"EXIF ExifImageLength\": \"1000\", \"EXIF FocalPlaneXResolution\": \"6000000/893\", \"EXIF FocalPlaneYResolution\": \"2000000/297\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"073032000900\", \"EXIF LensSpecification\": \"[15, 85, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S15-85mm f/3.5-5.6 IS USM\", \"EXIF LensSerialNumber\": \"0000127507\"}",
+    "sha256": "df6216d185994ed54c7bbf3f9a605a6b3002fb274a3adb781f82557ac051c2b1"
+}

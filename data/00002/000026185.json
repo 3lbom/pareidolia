@@ -1,0 +1,12 @@
+{
+    "url": "https://www.ephotozine.com/resize/2014/46/xlrg/266435_1416651902.jpg?RTUdGk5cXyJFAQ4JVANtdQ9nYF8JERFaGwJRNQh6SlYUAEw1cmsCdg1hAWoxXFNGLSI=",
+    "key": "000026185",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 174,
+    "original_height": 260,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 50D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iPhoto 9.6\", \"Image DateTime\": \"2011:06:30 12:08:23\", \"Image WhitePoint\": \"313/1000\", \"Image PrimaryChromaticities\": \"16/25\", \"Image ExifOffset\": \"230\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"71/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:06:30 12:08:23\", \"EXIF DateTimeDigitized\": \"2011:06:30 12:08:23\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"8\", \"EXIF ApertureValue\": \"45/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"21008/4679\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"70\", \"EXIF SubSecTime\": \"23\", \"EXIF SubSecTimeOriginal\": \"23\", \"EXIF SubSecTimeDigitized\": \"23\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"174\", \"EXIF ExifImageLength\": \"260\", \"EXIF FocalPlaneXResolution\": \"207302/39\", \"EXIF FocalPlaneYResolution\": \"488201/92\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Gamma\": \"11/5\"}",
+    "sha256": "2b0bfff20c20b629c52bde741d6c839c700ac7c2dca74ebc974a3124c13073b7"
+}

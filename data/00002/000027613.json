@@ -1,0 +1,12 @@
+{
+    "url": "https://www.svatosi.cz/wp-content/uploads/2015/04/20150311289.jpg",
+    "key": "000027613",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SX50 HS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Nero PhotoSnap 1, 2, 0, 23\", \"Image DateTime\": \"2015:04:03 20:42:15\", \"Image Artist\": \"\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"284\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail Software\": \"Nero PhotoSnap 1, 2, 0, 23\", \"Thumbnail DateTime\": \"2015:04:03 20:42:15\", \"Thumbnail JPEGInterchangeFormat\": \"5074\", \"Thumbnail JPEGInterchangeFormatLength\": \"3490\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"4\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:03:11 17:09:24\", \"EXIF DateTimeDigitized\": \"2015:03:11 17:09:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"245/32\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"633/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"72\", \"EXIF ExifImageLength\": \"2816\", \"EXIF FocalPlaneXResolution\": \"704000/61\", \"EXIF FocalPlaneYResolution\": \"704000/61\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "b5e5ce3405c0aa8ba3f5feae543dbc8e8315aa67ac8b17f2c5017e1ce3b24312"
+}

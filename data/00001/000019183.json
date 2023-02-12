@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Faces-in-Nature/Wood-Faces/i-xmQ9tLK/0/4a4bda7c/L/_DSC5400-L.jpg",
+    "key": "000019183",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 399,
+    "original_height": 599,
+    "exif": "{\"Image XResolution\": \"90\", \"Image YResolution\": \"90\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "e116add85881509e7f66bafc04003e6f9a21e342e980f53f22d4d876898a72f0"
+}

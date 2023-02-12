@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Landscapes/Around-Nevada-County/i-pjQtnHG/0/42b17f05/L/Mobius%20Arch%20in%20the%20Alabama%20Hills-0041-L.jpg",
+    "key": "000019164",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 534,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D800\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.4 (Macintosh)\", \"Image DateTime\": \"2014:05:16 12:41:10\", \"Image Artist\": \"Robert Lowe\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Robert Lowe Photography\", \"Image ExifOffset\": \"290\", \"EXIF ExposureTime\": \"1/30\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:05:12 06:24:49\", \"EXIF DateTimeDigitized\": \"2014:05:12 06:24:49\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"21655/2428\", \"EXIF ExposureBiasValue\": \"1/3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"70\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF LensModel\": \"70.0-200.0 mm f/2.8\"}",
+    "sha256": "2842d582e04893d3b3a4a1131cabea2ad253f36c372c4233469569479b46c6a3"
+}

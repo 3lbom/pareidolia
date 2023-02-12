@@ -1,0 +1,12 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/002_2015_06_06_Archaeologie.jpg/120px-002_2015_06_06_Archaeologie.jpg",
+    "key": "000024830",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 80,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Friedrich Haag, CC-BY-SA-4.0\"}",
+    "sha256": "a55dc8f76874e3f784d151221265c71d488ebf4cf7b1000ed4ef0657776a9150"
+}

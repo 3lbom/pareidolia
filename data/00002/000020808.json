@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.envato.com/files/1116448/37-590.jpg",
+    "key": "000020808",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 590,
+    "original_height": 590,
+    "exif": "{\"Image ImageDescription\": \"Half a yellow pear on a white background\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Tag 0x0000\": \"0\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2010:08:26 22:15:41\", \"Image Copyright\": \"Elena Garbar\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"378\", \"Thumbnail JPEGInterchangeFormatLength\": \"3959\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"590\", \"EXIF ExifImageLength\": \"590\"}",
+    "sha256": "c11fdb68f83f5300a0ceb73d9b5bbefa8cf9b9c593e6e9fc518238867faf7034"
+}

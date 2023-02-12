@@ -1,0 +1,12 @@
+{
+    "url": "https://wokocot.pl/wp-content/uploads/2003-Sardynia_030-Capo-Testa-twarz-Ksiezyca-400x602.jpg",
+    "key": "000025463",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 602,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"44\", \"Image YResolution\": \"44\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2019:03:08 23:12:15\", \"Image Artist\": \"\\u0163\", \"Image ExifOffset\": \"176\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"314\", \"Thumbnail JPEGInterchangeFormatLength\": \"5146\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"931\", \"EXIF ExifImageLength\": \"1400\"}",
+    "sha256": "827ad463ff2ee9a19a12bdd3e8ab07cef697dfdfc0cc9420a313796387725557"
+}

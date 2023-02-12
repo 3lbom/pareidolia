@@ -1,0 +1,12 @@
+{
+    "url": "https://olharfeliz.typepad.com/cuisine/images/2008/02/19/poire_pear_pra_0.jpg",
+    "key": "000018678",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 370,
+    "original_height": 259,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 400D DIGITAL\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2007:10:15 09:42:08\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"220\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1002\", \"Thumbnail JPEGInterchangeFormatLength\": \"2425\", \"EXIF ExposureTime\": \"1/500\", \"EXIF FNumber\": \"10\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:10:14 12:39:03\", \"EXIF DateTimeDigitized\": \"2007:10:14 12:39:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"293791/32768\", \"EXIF ApertureValue\": \"108853/16384\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"650\", \"EXIF ExifImageLength\": \"455\", \"EXIF FocalPlaneXResolution\": \"3888000/877\", \"EXIF FocalPlaneYResolution\": \"432000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "49a97c9ddb1d51312e7ed97936ad2da665a727dfe3234199b9d9e1ed91a1222e"
+}

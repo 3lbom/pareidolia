@@ -1,0 +1,12 @@
+{
+    "url": "https://lomonosov.org/userfiles/image/Odinn.jpg",
+    "key": "000017066",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2010:09:23 16:24:57\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"31\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"400\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "0826380916a7e935db8d643aa056b159e30f163c5acb2dabbc8cbc6989b53b77"
+}

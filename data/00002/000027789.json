@@ -1,0 +1,12 @@
+{
+    "url": "https://www.toxel.com/wp-content/uploads/2019/04/hfoodart03.jpg",
+    "key": "000027789",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 450,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Pixelmator 3.7\", \"Image DateTime\": \"2019:04:13 17:04:81\", \"Image ExifOffset\": \"150\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"450\", \"EXIF ExifImageLength\": \"450\"}",
+    "sha256": "687e2a1f3f72ff117f4d860c2de6a416d357d7ed4c686028fe0aa8749fb39813"
+}

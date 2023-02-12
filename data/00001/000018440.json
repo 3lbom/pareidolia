@@ -1,0 +1,12 @@
+{
+    "url": "https://nalofoto.fr/wp-content/uploads/2021/06/MG_9968-Nalofoto-705x470.jpg",
+    "key": "000018440",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 705,
+    "original_height": 470,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Compressed by NanoJPG 4.1.0\", \"Image Artist\": \"Loic Guillet\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Loic Guillet\", \"Image ExifOffset\": \"182\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF CameraOwnerName\": \"Loic Guillet\"}",
+    "sha256": "25db80d116a4d6712314fdbc75dfa872890f0278453fb70e32bc4c8678c0afeb"
+}

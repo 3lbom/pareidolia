@@ -1,0 +1,12 @@
+{
+    "url": "https://www.pulsk.com/images/2018/03/08/15205165595aa13dcf2dabe.jpeg",
+    "key": "000027313",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 431,
+    "exif": "{\"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"274\", \"Thumbnail JPEGInterchangeFormatLength\": \"12166\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"431\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "ea1afc9d30329e7cf87a37f992cea98f06af1cbf298d06a3a804b0209f4b0fb6"
+}

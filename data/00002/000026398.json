@@ -1,0 +1,12 @@
+{
+    "url": "https://www.googleapis.com/download/storage/v1/b/static-goxo/o/dishes%2F152892028555405393998501395849.jpg?generation=1528920285722213&alt=media",
+    "key": "000026398",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 640,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"640\"}",
+    "sha256": "3f7ce6a4d66df448787a957d25747db39aa55593e2ae6ff712b64d80bbbd3137"
+}

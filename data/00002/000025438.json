@@ -1,0 +1,12 @@
+{
+    "url": "https://wideopenroad.ru/wp-content/uploads/2011/08/19105-big1.jpg",
+    "key": "000025438",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"SAMSUNG TECHWIN CO., LTD.\", \"Image Model\": \"Samsung L73\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"32\", \"Image YResolution\": \"32\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"0.9200\", \"Image DateTime\": \"2009:08:20 15:11:46\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"Copyright 2006\", \"Image ExifOffset\": \"318\", \"Image ExposureMode\": \"Auto Exposure\", \"Image WhiteBalance\": \"Auto\", \"Image DigitalZoomRatio\": \"1\", \"Image FocalLengthIn35mmFilm\": \"62\", \"Image SceneCaptureType\": \"Portrait\", \"Image Sharpness\": \"Normal\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"37720\", \"Thumbnail JPEGInterchangeFormatLength\": \"4745\", \"EXIF ExposureTime\": \"1/620\", \"EXIF FNumber\": \"37/10\", \"EXIF ExposureProgram\": \"Portrait Mode\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:08:20 15:11:46\", \"EXIF DateTimeDigitized\": \"2009:08:20 15:11:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"871667/209952\", \"EXIF ShutterSpeedValue\": \"459/50\", \"EXIF ApertureValue\": \"151/40\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"2971/1000\", \"EXIF MeteringMode\": \"MultiSpot\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"5181/500\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1944\", \"EXIF ExifImageLength\": \"2592\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF OffsetSchema\": \"16\"}",
+    "sha256": "d036bc57c5f2e140ff51f1070ff2503f2ed098bf881d56beac0c6ddd14e4eb68"
+}

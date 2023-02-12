@@ -1,0 +1,12 @@
+{
+    "url": "https://static.ukrinform.com/photos/2019_02/thumb_files/630_360_1549714229-912.jpg",
+    "key": "000021529",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 630,
+    "original_height": 360,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot G7 X Mark II\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iPhoto 9.6.1\", \"Image DateTime\": \"2019:02:06 12:27:02\", \"Image ExifOffset\": \"240\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:02:06 12:27:02\", \"EXIF DateTimeDigitized\": \"2019:02:06 12:27:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ShutterSpeedValue\": \"157/32\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"2037/200\", \"EXIF SubSecTime\": \"72\", \"EXIF SubSecTimeOriginal\": \"72\", \"EXIF SubSecTimeDigitized\": \"72\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2628\", \"EXIF ExifImageLength\": \"1651\", \"EXIF FocalPlaneXResolution\": \"303412/43\", \"EXIF FocalPlaneYResolution\": \"204429/29\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"698155004662\"}",
+    "sha256": "6c3d90748b32335438024eabd476da2d1d8c1f682cf797e52e4b046836192178"
+}

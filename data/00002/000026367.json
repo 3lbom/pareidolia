@@ -1,0 +1,12 @@
+{
+    "url": "https://www.gipfel-glueck.de/wp-content/uploads/2019/10/inntaler-h%C3%B6henweg_IMG_20190831_091804.jpg",
+    "key": "000026367",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 681,
+    "original_height": 866,
+    "exif": "{\"Image ImageWidth\": \"2976\", \"Image ImageLength\": \"3968\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image ImageDescription\": \"cof\", \"Image Make\": \"HUAWEI\", \"Image Model\": \"VIE-L09\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2019:08:31 09:18:05\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"252\", \"Image DeviceSettingDescription\": \"[0, 0, 0, 0]\", \"EXIF DocumentName\": \"[]\", \"EXIF ExposureTime\": \"11/12500\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:08:31 09:18:05\", \"EXIF DateTimeDigitized\": \"2019:08:31 09:18:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"298973/10000\", \"EXIF ApertureValue\": \"227/100\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Daylight\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"9/2\", \"EXIF SubSecTime\": \"510316\", \"EXIF SubSecTimeOriginal\": \"510316\", \"EXIF SubSecTimeDigitized\": \"510316\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2976\", \"EXIF ExifImageLength\": \"3968\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"872\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "cd32aeec6be3f74e4926bb28ae18ccee84ce6725ad7cce010a3246e7d1636b48"
+}

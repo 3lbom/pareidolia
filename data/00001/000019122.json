@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/By-Location/The-Midwest/Hannibal-Missouri/Mark-Twains-Hannibal/i-xNf9pvH/0/e1a41ef3/L/IMG_0895-L.jpg",
+    "key": "000019122",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image ImageDescription\": \"Mark Twain Cave, Hannibal, MO\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 9.3 (Macintosh)\", \"Image DateTime\": \"2020:09:13 14:11:30\", \"Image Artist\": \"Todd Atteberry\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Copyright 2013, Historyandhaunts.com\", \"Image ExifOffset\": \"356\", \"EXIF ExposureTime\": \"1/640\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"6400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:07:16 15:15:46\", \"EXIF DateTimeDigitized\": \"2013:07:16 15:15:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"16205/3734\", \"EXIF ExposureBiasValue\": \"-2\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"35\", \"EXIF SubSecTimeOriginal\": \"42\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"1220703994\", \"EXIF LensModel\": \"Canon EF 24-105mm f/4L IS\"}",
+    "sha256": "0687d4732e311e46e9f53570c50e83de5c1365a553bdbe1d672488d3187dfe62"
+}

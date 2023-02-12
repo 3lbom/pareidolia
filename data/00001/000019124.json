@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/California/SouthernCalifornia/Joshua-Tree-California/i-Dm3FHKN/20/fb6a2e5b/S/Joshua%20Tree-6894-S.jpg",
+    "key": "000019124",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 199,
+    "original_height": 300,
+    "exif": "{\"Image ImageDescription\": \"Joshua Tree National Park--Twentynine Palms, California\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D90\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.0 (Windows)\", \"Image DateTime\": \"2013:08:09 17:19:26\", \"Image Artist\": \"Jon Zich\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"2013 Jon Zich\", \"Image ExifOffset\": \"342\", \"EXIF ExposureTime\": \"1/350\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:03:05 15:07:17\", \"EXIF DateTimeDigitized\": \"2011:03:05 15:07:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"40761/8200\", \"EXIF SubjectDistance\": \"4294967295\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"105\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3237272\", \"EXIF LensModel\": \"18.0-105.0 mm f/3.5-5.6\"}",
+    "sha256": "20f61c040f236d260b0f3a8028b0decef74cad74a3c731ab4e16065ce075e2b7"
+}

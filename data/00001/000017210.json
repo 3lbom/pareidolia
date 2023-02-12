@@ -1,0 +1,12 @@
+{
+    "url": "https://mangup.su/wp-content/uploads/mangup/teshkli-burun30-150x150.jpg",
+    "key": "000017210",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 150,
+    "original_height": 150,
+    "exif": "{\"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"FE115,X715\", \"Image XResolution\": \"314\", \"Image YResolution\": \"314\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"1.0\", \"Image DateTime\": \"2007:10:12 01:59:06\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"226\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"704\", \"Thumbnail JPEGInterchangeFormatLength\": \"4992\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"3\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF DateTimeOriginal\": \"2007:10:12 01:59:06\", \"EXIF DateTimeDigitized\": \"2007:10:12 01:59:06\", \"EXIF ExposureBiasValue\": \"3/10\", \"EXIF MaxApertureValue\": \"317/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"31/5\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2560\", \"EXIF ExifImageLength\": \"1920\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "24b47aba9bb67b3954eba70fb08570021aa1dc0d68c7a54fd38f442f77a787f6"
+}

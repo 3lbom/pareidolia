@@ -1,0 +1,12 @@
+{
+    "url": "https://ilovecowichan.ca/wp-content/uploads/2019/07/4F631170-C8B2-44B0-8653-EA494922DB01-520x347.jpeg",
+    "key": "000013829",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 520,
+    "original_height": 347,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPad mini 4\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"12.3.1\", \"Image DateTime\": \"2019:07:10 10:56:25\", \"Image ExifOffset\": \"172\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:07:10 10:56:25\", \"EXIF DateTimeDigitized\": \"2019:07:10 10:56:25\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"164177/33456\", \"EXIF ApertureValue\": \"126503/50079\", \"EXIF BrightnessValue\": \"360938/73525\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"33/10\", \"EXIF SubjectArea\": \"[1223, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"661\", \"EXIF SubSecTimeDigitized\": \"661\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"37\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"8277b30e79cd68960000000000000000\", \"EXIF LensSpecification\": \"[33/10, 33/10, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPad mini 4 back camera 3.3mm f/2.4\"}",
+    "sha256": "185994bff86bf83e725b1aaf9e9909c27531f35ea198876f9dba056e4d58351d"
+}

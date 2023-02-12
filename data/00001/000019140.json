@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Faces-of-Nature/i-9NMd4Bk/0/53e5579f/XL/P1100785e-XL.jpg",
+    "key": "000019140",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 576,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"\\\"Panasonic\\\"\", \"Image Model\": \"\\\"DMC-GH4\\\"\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image Software\": \"\\\"Paint Shop Pro Photo 12.50\\\"\", \"Image DateTime\": \"2015:06:27 14:35:25\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"210\", \"EXIF ExposureTime\": \"1/1000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:06:25 18:30:47\", \"EXIF DateTimeDigitized\": \"2015:06:25 18:30:47\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "1b224ad683597eb9f2eeeb8d241b1c899f9a18745fcff6829f8cf5a80c841d07"
+}

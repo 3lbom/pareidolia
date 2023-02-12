@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.amazonaws.com/gs-waymarking-images-stage/ba2b0dd2-2341-4bb1-978d-b79ea69fd2b8_d.jpg",
+    "key": "000020754",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 150,
+    "original_height": 266,
+    "exif": "{\"Image ImageWidth\": \"2340\", \"Image ImageLength\": \"4160\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"LG Electronics\", \"Image Model\": \"VS980 4G\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5.1 Windows\", \"Image DateTime\": \"2014:05:06 13:02:49\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"292\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"0\", \"Image GPSInfo\": \"644\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"778\", \"Thumbnail JPEGInterchangeFormatLength\": \"7878\", \"EXIF ExposureTime\": \"1/523\", \"EXIF FNumber\": \"12/5\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:03:25 08:23:44\", \"EXIF DateTimeDigitized\": \"2014:03:25 08:23:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"281949/31250\", \"EXIF ApertureValue\": \"2526069/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"397/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"2340\", \"EXIF ExifImageLength\": \"4160\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"614\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\"}",
+    "sha256": "41623605576f6c9bdb1f185d37810be8c6779738ef1514c49cb7f4c0c2411da0"
+}

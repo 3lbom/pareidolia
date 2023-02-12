@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Winter-on-the-Mountain/i-q8T6qTm/1/5cfba955/L/_DSC3545-L.jpg",
+    "key": "000019245",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"SONY\", \"Image Model\": \"DSC-RX10M3\", \"Image XResolution\": \"360\", \"Image YResolution\": \"360\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.10 (Windows)\", \"Image DateTime\": \"2017:04:21 09:38:58\", \"Image Artist\": \"Ranger Perspective\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"250\", \"EXIF ExposureTime\": \"1/80\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"2500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:01:17 10:25:38\", \"EXIF DateTimeDigitized\": \"2017:01:17 10:25:38\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"9297/2002\", \"EXIF ExposureBiasValue\": \"-3/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Shade\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"111/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Hard\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF LensModel\": \"24-600mm F2.4-4.0\"}",
+    "sha256": "ed9c5aa369ae8eb4dbd0d2a2f0629b1cb5607f7c706db4a87c3dcb157e367143"
+}

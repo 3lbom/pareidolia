@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Architecture/Boulder-Colorado/i-Zx2JTNf/5/7ca3742e/M/IMG_2774-M.jpg",
+    "key": "000019112",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 338,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot S2 IS\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 3.0 Windows\", \"Image DateTime\": \"2010:07:25 13:40:30\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"224\", \"EXIF ExposureTime\": \"1/400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:07:03 20:39:49\", \"EXIF DateTimeDigitized\": \"2007:07:03 20:39:49\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ApertureValue\": \"5357/1482\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"27/2\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\"}",
+    "sha256": "75dc00cf259a957e1627d5874074864ccf689865415f45f5a3fa12097ab5f3fa"
+}

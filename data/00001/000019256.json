@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/photos/i-QFWmxP6/0/L/i-QFWmxP6-L.jpg",
+    "key": "000019256",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Google\", \"Image Model\": \"Pixel 5\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"HDR+ 1.0.362396382zd\", \"Image DateTime\": \"2021:04:11 09:58:32\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"208\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[21, 0, 84/5]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[156, 39, 5251/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"3301/100\", \"Image GPSInfo\": \"606\", \"EXIF ExposureTime\": \"1/1672\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"57\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:04:11 09:58:32\", \"EXIF DateTimeDigitized\": \"2021:04:11 09:58:32\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"8747/5713\", \"EXIF SubjectDistance\": \"426/125\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"22/5\", \"EXIF SubSecTime\": \"583\", \"EXIF SubSecTimeOriginal\": \"583\", \"EXIF SubSecTimeDigitized\": \"583\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"7\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"3\"}",
+    "sha256": "9eaf1a7523043155416bf5f3693bc0b28eac9b32e174ed2f6e4e40c07c1ec92e"
+}

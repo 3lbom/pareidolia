@@ -1,0 +1,12 @@
+{
+    "url": "https://store-images.microsoft.com/image/apps.61126.9007199266242743.50be40be-28a9-44be-a3b4-c34b689b4cd1.7c8ba7a0-83b4-4218-a94f-e40ecf5250a0",
+    "key": "000021930",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1366,
+    "original_height": 768,
+    "exif": "{\"Image Tag 0x0301\": \"20000/9091\", \"Image Tag 0x0303\": \"0\", \"Image Tag 0x5110\": \"0\", \"Image Tag 0x5111\": \"3779\", \"Image Tag 0x5112\": \"3779\"}",
+    "sha256": "2fc2527a5805aa7ed9a55686b9946f0d78e450164916858463bd1b246e80c2c8"
+}

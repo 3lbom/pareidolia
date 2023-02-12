@@ -1,0 +1,12 @@
+{
+    "url": "https://static.wixstatic.com/media/9c51eae249e14bd4ba739ea817612f4b.jpg",
+    "key": "000021558",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 844,
+    "original_height": 1179,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Macintosh)\", \"Image DateTime\": \"2016:08:20 22:55:06\", \"Image ExifOffset\": \"172\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"310\", \"Thumbnail JPEGInterchangeFormatLength\": \"4016\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"844\", \"EXIF ExifImageLength\": \"1179\"}",
+    "sha256": "5c775cfa52a8aa1ba4c34d0211b411e80a209900cc2720f1b5cd70c194e6d550"
+}

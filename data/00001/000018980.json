@@ -1,0 +1,12 @@
+{
+    "url": "https://photo.hotellook.com/image_v2/limit/h46586092_11/600/400.auto",
+    "key": "000018980",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"400\"}",
+    "sha256": "f62f8b7deca6aecd3c86455ae96b42b8c6b3f53a9bfc9100d0bd114f2e13aaa1"
+}

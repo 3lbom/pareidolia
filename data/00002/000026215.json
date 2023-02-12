@@ -1,0 +1,12 @@
+{
+    "url": "https://www.excursionesporhuesca.es/wp-content/uploads/2009/04/ascension_guara031-690x460.jpg",
+    "key": "000026215",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 690,
+    "original_height": 460,
+    "exif": "{\"Image ImageWidth\": \"1080\", \"Image ImageLength\": \"720\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2013:01:14 23:38:41\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"6912\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"690\", \"EXIF ExifImageLength\": \"460\"}",
+    "sha256": "f5b47da8651633f90d58befec53b224f9e87e6c1b406d7401aac35b0f438bc6d"
+}

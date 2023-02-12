@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/photos/i-MNpWQnk/6/S/i-MNpWQnk-S.jpg",
+    "key": "000019255",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Snapseed 2.19.280302127\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"126\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "03157966816331ec263c618e9320d2cb4f17fbcd102e73d56a1cd8601d4cbd53"
+}

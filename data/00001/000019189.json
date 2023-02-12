@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Western-US/i-frDRpsJ/1/dff4d07e/Ti/Duckbill%202019.11.6-3347rwa2%2B-Ti.jpg",
+    "key": "000019189",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 83,
+    "original_height": 100,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D750\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2019:12:09 08:24:24\", \"Image Artist\": \"Tom Jesiolowski\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"northlandartsnatureimages\", \"Image ExifOffset\": \"282\", \"EXIF ExposureTime\": \"1/250\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:06 14:09:58\", \"EXIF DateTimeDigitized\": \"2019:11:06 14:09:58\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"16799/2428\", \"EXIF MeteringMode\": \"Spot\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"52\", \"EXIF SubSecTimeOriginal\": \"55\", \"EXIF SubSecTimeDigitized\": \"55\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "0670ed43d95c402b3c2faf2d89b6c6740fa303085b3aa4f492f0c8ba5ac7cfe4"
+}

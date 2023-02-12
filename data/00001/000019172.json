@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Misc/i-G8qSCtg/0/e41cdc72/S/28373047952-S.jpg",
+    "key": "000019172",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G935V\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G935VVRS2APF2\", \"Image DateTime\": \"2016:07:22 13:35:46\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"202\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[36, 35, 949/20]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[118, 5, 2741/50]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"1268\", \"Image GPSInfo\": \"508\", \"EXIF ExposureTime\": \"1/4624\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:07:22 13:35:46\", \"EXIF DateTimeDigitized\": \"2016:07:22 13:35:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"8747/5713\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "aa50d07b8563bcaf15c8068242d8147452b94760a4eeaa35ba7c7c1024820c99"
+}

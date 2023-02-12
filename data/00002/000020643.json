@@ -1,0 +1,12 @@
+{
+    "url": "https://s2.wklcdn.com/image_13/400635/18669535/11755970Master.jpg",
+    "key": "000020643",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1600,
+    "original_height": 886,
+    "exif": "{\"Image ImageWidth\": \"2080\", \"Image ImageLength\": \"1152\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-J500FN\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"J500FNXXU1APE3\", \"Image DateTime\": \"2017:07:15 20:35:01\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"216\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:07:15 11:37:39\", \"EXIF DateTimeDigitized\": \"2017:07:15 11:37:39\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"Average\", \"EXIF FocalLength\": \"37/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"886\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"4\"}",
+    "sha256": "989f0e4f74668266910c8f71a1b37326bc80900e953ea06864c1a66a12f523af"
+}

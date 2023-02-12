@@ -1,0 +1,12 @@
+{
+    "url": "https://image.shutterstock.com/shutterstock/photos/1404023081/display_1500/avopix-1404023081.jpg",
+    "key": "000014396",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1500,
+    "original_height": 523,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"299999/1000\", \"Image YResolution\": \"299999/1000\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"1500\", \"EXIF ExifImageLength\": \"523\"}",
+    "sha256": "c094ac400fab678a20e4dc2e7c4c19f172c7a21d65d3c8f988a1b21d65802a84"
+}

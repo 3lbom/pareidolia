@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Galleries/Abstract-and-motion-blur/i-V3PkrqP/1/7648f285/S/Abstract%20Carmel%20Highlands%2004-S.jpg",
+    "key": "000019151",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark IV\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2019:04:05 22:05:03\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"174\", \"EXIF ExposureTime\": \"1/60\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:04:05 22:05:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"32993/3941\", \"EXIF ExposureBiasValue\": \"-1\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"75\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Hard\", \"EXIF BodySerialNumber\": \"022121000554\", \"EXIF LensModel\": \"EF24-105mm f/4L IS USM\", \"EXIF LensSerialNumber\": \"0000190cb0\"}",
+    "sha256": "aad7437e413750d46690cc5890080bfffdd9dcc68058147452a6db841728d989"
+}

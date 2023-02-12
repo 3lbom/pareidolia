@@ -1,0 +1,12 @@
+{
+    "url": "https://www.zagurami.eu/wp-content/uploads/2018/05/29-Waxenberg.jpg",
+    "key": "000028041",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1249,
+    "original_height": 2000,
+    "exif": "{\"Image ImageWidth\": \"4128\", \"Image ImageLength\": \"2322\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-A500FU\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"A500FUXXS1CQC4\", \"Image DateTime\": \"2017:08:07 16:43:36\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"240\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"3216\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Rotated 90 CW\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3364\", \"Thumbnail JPEGInterchangeFormatLength\": \"33475\", \"EXIF ExposureTime\": \"1/121\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:08:07 16:43:36\", \"EXIF DateTimeDigitized\": \"2017:08:07 16:43:36\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"691/100\", \"EXIF ApertureValue\": \"2\", \"EXIF BrightnessValue\": \"128/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"2\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"369/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4128\", \"EXIF ExifImageLength\": \"2322\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"3186\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"F13QSHJ01MM\"}",
+    "sha256": "e6cd99cd4fead951f3dc3305e8b316f62d0e4b2a5c251e4459deb1e530a46780"
+}

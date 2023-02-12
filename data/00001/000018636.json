@@ -1,0 +1,12 @@
+{
+    "url": "https://od-doors.com/wp-content/od_contents/2015/m07/d31/_sg005.jpg",
+    "key": "000018636",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 267,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"RICOH\", \"Image Model\": \"GXR S10\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.6 (Macintosh)\", \"Image DateTime\": \"2015:07:24 23:31:01\", \"Image ExifOffset\": \"370\", \"Image SensitivityType\": \"Standard Output Sensitivity\", \"Image ExposureMode\": \"Auto Exposure\", \"Image WhiteBalance\": \"Auto\", \"Image SceneCaptureType\": \"Standard\", \"Image Sharpness\": \"Hard\", \"Image LensSpecification\": \"[51/10, 153/10, 5/2, 22/5]\", \"Image LensMake\": \"RICOH\", \"Image LensModel\": \"RICOH LENS S10 24-72mm F2.5-4.4VC\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"778\", \"Thumbnail JPEGInterchangeFormatLength\": \"14330\", \"EXIF ExposureTime\": \"1/5\", \"EXIF FNumber\": \"22/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:07:18 06:18:05\", \"EXIF DateTimeDigitized\": \"2015:07:18 06:18:05\", \"EXIF ShutterSpeedValue\": \"290241/125000\", \"EXIF ApertureValue\": \"4275007/1000000\", \"EXIF BrightnessValue\": \"3/10\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5/2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"153/10\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "9273d61b90ae5400cccac85f6c8d6c5099354e29608bb73b0b86861f41c90920"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.smashingapps.com/wp-content/uploads/2010/09/creative-artworks/Orangeman.jpg",
+    "key": "000027537",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 368,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2010:09:19 07:12:55\", \"Image ExifOffset\": \"156\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"294\", \"Thumbnail JPEGInterchangeFormatLength\": \"4342\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"368\"}",
+    "sha256": "6c0c3ba4be2af580d5000d4316bf8826a135beffed33ba3aa157bb3682141d6d"
+}

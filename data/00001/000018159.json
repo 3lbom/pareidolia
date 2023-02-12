@@ -1,0 +1,12 @@
+{
+    "url": "https://media3.scdn.vn/img3/2019/7_2/IyaC8n_simg_de2fe0_500x500_maxb.jpg",
+    "key": "000018159",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 500,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"286\", \"Thumbnail JPEGInterchangeFormatLength\": \"12432\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"720\", \"EXIF ExifImageLength\": \"720\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "f590c560ef84d09190567c97370f36b5ba53fe69bd89c37760c9a4c23f963b24"
+}

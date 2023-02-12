@@ -1,0 +1,12 @@
+{
+    "url": "https://media.camptocamp.org/c2corg-active/1258315933_1527172050BI.jpg",
+    "key": "000017700",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1500,
+    "original_height": 1000,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon DIGITAL IXUS 850 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2009:09:30 23:25:38\", \"Image YCbCrPositioning\": \"Centered\", \"Image Tag 0x1001\": \"3072\", \"Image Tag 0x1002\": \"2304\", \"Image Tag 0x5012\": \"1\", \"Image ExifOffset\": \"254\", \"Image CustomRendered\": \"Normal\", \"Image ExposureMode\": \"Manual Exposure\", \"Image WhiteBalance\": \"Manual\", \"Image DigitalZoomRatio\": \"1\", \"Image SceneCaptureType\": \"Standard\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"926\", \"Thumbnail JPEGInterchangeFormatLength\": \"2351\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"5\", \"EXIF DateTimeOriginal\": \"2009:09:30 23:25:38\", \"EXIF DateTimeDigitized\": \"2009:09:30 23:25:38\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"101/16\", \"EXIF ApertureValue\": \"149/32\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MaxApertureValue\": \"149/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"1584/125\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3072\", \"EXIF ExifImageLength\": \"2304\", \"EXIF FocalPlaneXResolution\": \"40960/3\", \"EXIF FocalPlaneYResolution\": \"2304000/169\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\"}",
+    "sha256": "9d1d6872c24f3bdbd1fcec03d11cb472341a5c5e97e1531315d578aa8fa4837c"
+}

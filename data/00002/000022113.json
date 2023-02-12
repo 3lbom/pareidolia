@@ -1,0 +1,12 @@
+{
+    "url": "https://t3.ftcdn.net/jpg/01/93/99/82/240_F_193998257_mL8ChzYPGBi94uDRC1immFiQtMlWGSSt.jpg",
+    "key": "000022113",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 240,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "75e0fcaaccc6bfa1320f086ecc310191822ec1f1fab1dfd2a151ef10dffe6696"
+}

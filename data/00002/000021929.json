@@ -1,0 +1,12 @@
+{
+    "url": "https://storage.yvision.kz/images/user/almazoff/978AptIzf7jtWEWZ6Es09F3nCbpjzH.jpg",
+    "key": "000021929",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1000,
+    "original_height": 563,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"160\", \"Thumbnail JPEGInterchangeFormatLength\": \"17716\"}",
+    "sha256": "1714c728bf761c5b04f255015d623ac8b5475c438f5ff37c2f7862bab40e505c"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://t2.ftcdn.net/jpg/00/68/29/71/240_F_68297168_bCP68KewEWkEIc4f8AXBUINJ5dLzwGkO.jpg",
+    "key": "000022082",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 240,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "8a9b38a030f79898ca792ec48d6f7af82bda31b69ff3b44fd8c0b453e6e1d35c"
+}

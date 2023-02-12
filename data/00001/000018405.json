@@ -1,0 +1,12 @@
+{
+    "url": "https://mynizhyn.com/image/news/misto/28082020_r8.jpg",
+    "key": "000018405",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 393,
+    "original_height": 700,
+    "exif": "{\"Image Model\": \"Redmi Note 8T\", \"Image Software\": \"willow-user 9 PKQ1.190616.001 V11.0.4.0.PCXMIXM release-keys\", \"Image Orientation\": \"Horizontal (normal)\", \"Image DateTime\": \"2020:08:28 10:13:10\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"264\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image GPSInfo\": \"2907\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image Make\": \"Xiaomi\", \"Thumbnail JPEGInterchangeFormat\": \"3019\", \"Thumbnail Orientation\": \"Rotated 90 CW\", \"Thumbnail JPEGInterchangeFormatLength\": \"11778\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"EXIF Tag 0x9AAA\": \"[]\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF FNumber\": \"179/100\", \"EXIF ExposureTime\": \"1/120\", \"EXIF Tag 0x9999\": \"{\\\"mirror\\\":false,\\\"?sensor_type\\\":\\\"rear\\\",\\\"Hdr\\\":\\\"off\\\",\\\"OpMode\\\":32769,\\\"AIScene\\\":9}\", \"EXIF SensingMethod\": \"0\", \"EXIF Tag 0x8895\": \"9\", \"EXIF SubSecTimeDigitized\": \"310713\", \"EXIF SubSecTimeOriginal\": \"310713\", \"EXIF SubSecTime\": \"310713\", \"EXIF FocalLength\": \"237/50\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF SceneCaptureType\": \"Standard\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"2877\", \"EXIF FocalLengthIn35mmFilm\": \"0\", \"EXIF DateTimeDigitized\": \"2020:08:28 10:13:10\", \"EXIF ExifImageLength\": \"700\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DateTimeOriginal\": \"2020:08:28 10:13:10\", \"EXIF BrightnessValue\": \"13/10\", \"EXIF ExifImageWidth\": \"393\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF ApertureValue\": \"167/100\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SceneType\": \"0\", \"EXIF ShutterSpeedValue\": \"1381/200\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\"}",
+    "sha256": "94b9ed924f4f420edeca118bee74214fb53b53ca8721dec1e730dfd35721c8e8"
+}

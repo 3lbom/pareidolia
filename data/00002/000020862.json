@@ -1,0 +1,12 @@
+{
+    "url": "https://salik.biz/upload/000/u1/71/b3/6f9ddc4b.jpg",
+    "key": "000020862",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 690,
+    "original_height": 690,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2017:04:27 20:53:06\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"855\", \"EXIF ExifImageWidth\": \"690\", \"EXIF ExifImageLength\": \"690\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "229c549297d71a783f876b16316f424117f2701516faffee67d8f814f50ad14f"
+}

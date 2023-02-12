@@ -1,0 +1,12 @@
+{
+    "url": "https://ig-klettern.org/wp-content/uploads/2021/06/03-balkenstein-loser-fels-buergermeisterin-1536x2048.jpg",
+    "key": "000013805",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1536,
+    "original_height": 2048,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone X\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"14.6\", \"Image DateTime\": \"2021:06:14 13:33:24\", \"Image HostComputer\": \"iPhone X\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"238\", \"EXIF ExposureTime\": \"1/800\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"20\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:06:14 13:33:24\", \"EXIF DateTimeDigitized\": \"2021:06:14 13:33:24\", \"EXIF OffsetTime\": \"+02:00\", \"EXIF OffsetTimeOriginal\": \"+02:00\", \"EXIF OffsetTimeDigitized\": \"+02:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"102736/10653\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"112796/13299\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4\", \"EXIF SubjectArea\": \"[1388, 1348, 753, 756]\", \"EXIF SubSecTimeOriginal\": \"341\", \"EXIF SubSecTimeDigitized\": \"341\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone X back dual camera 4mm f/1.8\"}",
+    "sha256": "5901dcde807bfc469b490055abb7e1b8c581e5cb6bb0d62da41819686031c972"
+}

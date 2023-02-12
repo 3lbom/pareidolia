@@ -1,0 +1,12 @@
+{
+    "url": "https://s1.wklcdn.com/image_2/60673/60863303/40543396Master.jpg",
+    "key": "000020610",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 901,
+    "original_height": 1200,
+    "exif": "{\"Image ImageWidth\": \"4624\", \"Image ImageLength\": \"3472\", \"Image Make\": \"Xiaomi\", \"Image Model\": \"Redmi Note 8 Pro\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2020:11:21 11:28:15\", \"Image ExifOffset\": \"208\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[41, 37, 50]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[1, 57, 181/4]\", \"GPS GPSTimeStamp\": \"[10, 28, 16]\", \"GPS GPSDate\": \"2020:11:21\", \"Image GPSInfo\": \"410\", \"EXIF ExposureTime\": \"1697/1000000\", \"EXIF FNumber\": \"189/100\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF ShutterSpeedValue\": \"-919/100\", \"EXIF ApertureValue\": \"46/25\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"543/100\", \"EXIF SubSecTime\": \"413\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"901\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "ebcde36b2bee4826907566b40c7867a71c0436c57ecb20706c18c8a8f60dc4fc"
+}

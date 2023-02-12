@@ -1,0 +1,12 @@
+{
+    "url": "https://tricksofmind.pl/wp-content/uploads/2016/08/Pareidolia-budynek-buzia.jpg",
+    "key": "000024592",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 558,
+    "original_height": 577,
+    "exif": "{\"Image ImageWidth\": \"545\", \"Image ImageLength\": \"564\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2013:04:25 09:41:29\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"9155\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"558\", \"EXIF ExifImageLength\": \"577\"}",
+    "sha256": "0139b3b15f27efa20064449a453a073d327c3474a42c328d52143dcd703a8f8e"
+}

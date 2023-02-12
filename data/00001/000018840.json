@@ -1,0 +1,12 @@
+{
+    "url": "https://pagely.c.presscdn.com/wp-content/uploads/2014/03/5155336644_83f0d3639d_o.jpg",
+    "key": "000018840",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1297,
+    "original_height": 1297,
+    "exif": "{\"Image Make\": \"Sony Ericsson\", \"Image Model\": \"K800i\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"R1ED001     prgCXC1250211_VODAFONE_ 0.0\", \"Image DateTime\": \"2009:05:01 20:07:17\", \"Image ExifOffset\": \"218\", \"EXIF ExposureTime\": \"1/8\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:05:01 20:07:17\", \"EXIF DateTimeDigitized\": \"2009:05:01 20:07:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1297\", \"EXIF ExifImageLength\": \"1297\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF SubjectDistanceRange\": \"1\"}",
+    "sha256": "af9c4be6c5f53849b2e8bf1854a30bdf58ca1b96a7fde6a89184518f03aa4098"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Animals/Joshua-Tree-National-Monument/i-4RGKkgq/0/XL/joshua%20rocks03-XL.jpg",
+    "key": "000019111",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 512,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XSi\", \"Image DateTime\": \"2011:05:24 06:37:26\", \"Image ExifOffset\": \"116\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"16\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF DateTimeOriginal\": \"2011:05:23 16:43:12\", \"EXIF DateTimeDigitized\": \"2011:05:23 16:43:12\", \"EXIF ShutterSpeedValue\": \"1040241/125000\", \"EXIF ApertureValue\": \"8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "ddf1d6f58366c6411c4d99fb89e8bc0f076f8f4830a225a86df9054bbcb3566a"
+}

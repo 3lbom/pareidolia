@@ -1,0 +1,12 @@
+{
+    "url": "https://www.jardinier-amateur.fr/img/forum/i/m/img-42712-l260-h0.jpeg",
+    "key": "000026624",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 260,
+    "original_height": 195,
+    "exif": "{\"Image Make\": \"EASTMAN KODAK COMPANY\", \"Image Model\": \"KODAK Z612 ZOOM DIGITAL CAMERA\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"230\", \"Image YResolution\": \"230\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"504\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"230\", \"Thumbnail YResolution\": \"230\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"12196\", \"Thumbnail JPEGInterchangeFormatLength\": \"2602\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"16/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:08:22 19:48:29\", \"EXIF DateTimeDigitized\": \"2012:08:22 19:48:29\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"16/3\", \"EXIF ApertureValue\": \"17/5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"17/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"81/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2832\", \"EXIF ExifImageLength\": \"2128\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"11892\", \"EXIF ExposureIndex\": \"80\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"96\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "16f16cd0cc1eb3e738c3a99fa585c7547838d210f62fd5e59842c0d097d2de87"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.gorno-altaisk.info:443/wp-content/uploads/2017/03/IMG_8726.jpeg",
+    "key": "000026407",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 427,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 650D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image DateTime\": \"2017:03:02 17:59:21\", \"Image ExifOffset\": \"156\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Portrait Mode\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:03:02 17:59:21\", \"EXIF DateTimeDigitized\": \"2017:03:02 17:59:21\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"5\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"427\", \"EXIF FocalPlaneXResolution\": \"135302/35\", \"EXIF FocalPlaneYResolution\": \"104201/27\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "238da5f34b015b5a7aab08745bc597bac123dbbcf3a5090f22e738048ad2f6e6"
+}

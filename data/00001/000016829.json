@@ -1,0 +1,12 @@
+{
+    "url": "https://lchaberajansi.com/wp-content/uploads/2021/01/IMG_20210108_155550-360x200.jpg",
+    "key": "000016829",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 200,
+    "exif": "{\"Image ImageWidth\": \"1200\", \"Image ImageLength\": \"674\", \"Image DateTime\": \"2021:01:08 15:55:50\", \"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"94\", \"EXIF ExifImageLength\": \"674\", \"EXIF ExifImageWidth\": \"1200\"}",
+    "sha256": "3f6ba829d7837fc5271ab08ab7515b4dd4c286aa399d68636ef6e948bb3ad833"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Southwest-Four-Corners/Arizona/i-BVcGS4n/0/434054a6/X2/Canyon-de-Chelly-9356-X2.jpg",
+    "key": "000019219",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1279,
+    "original_height": 853,
+    "exif": "{\"Image Make\": \"\\\"NIKON CORPORATION\\\"\", \"Image Model\": \"\\\"NIKON D7000\\\"\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image Software\": \"\\\"Adobe Photoshop CC (Windows)\\\"\", \"Image DateTime\": \"2014:07:30 16:06:10\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\\\"CherylLynn West\\\"\", \"Image ExifOffset\": \"254\", \"EXIF ExposureTime\": \"1/30\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:06:27 19:45:31\", \"EXIF DateTimeDigitized\": \"2014:06:27 19:45:31\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "7195305839486c6885d9c59d69318958bf7099f444cfc5c4847a1972fdec6fec"
+}

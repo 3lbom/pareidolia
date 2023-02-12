@@ -1,0 +1,12 @@
+{
+    "url": "https://www.in12uur.nl/wp-content/uploads/2016/10/kos-0720-ontbijt-fruit.jpg",
+    "key": "000026551",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1260,
+    "original_height": 840,
+    "exif": "{\"Image Make\": \"SONY\", \"Image Model\": \"DSC-RX100M4\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.7 (Macintosh)\", \"Image DateTime\": \"2016:10:12 13:30:37\", \"Image ExifOffset\": \"206\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"856\", \"Thumbnail JPEGInterchangeFormatLength\": \"11180\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:09:28 07:39:20\", \"EXIF DateTimeDigitized\": \"2016:09:28 07:39:20\", \"EXIF ShutterSpeedValue\": \"870723/125000\", \"EXIF ApertureValue\": \"4\", \"EXIF BrightnessValue\": \"557/80\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"217/128\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"44/5\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[44/5, 257/10, 9/5, 14/5]\", \"EXIF LensModel\": \"8.8-25.7 mm f/1.8-2.8\"}",
+    "sha256": "883b307a6bd639fba04ec84bb9d6e7517f55d0dad286acb6abd587dcf4329f18"
+}

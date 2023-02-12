@@ -1,0 +1,12 @@
+{
+    "url": "https://www.ehrenreich-massivhaus.de/0_uploads/ehrenreich_gmbh/galerie/thumbs/1461329655.jpg",
+    "key": "000026158",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 300,
+    "exif": "{\"Image ImageWidth\": \"640\", \"Image ImageLength\": \"480\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2019 (Windows)\", \"Image DateTime\": \"2019:07:16 13:46:07\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"4498\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"300\"}",
+    "sha256": "3524eb47943f3b668eebc00601122295b9a946504bc1b7564000b469eafd981a"
+}

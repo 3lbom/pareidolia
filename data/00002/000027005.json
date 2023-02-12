@@ -1,0 +1,12 @@
+{
+    "url": "https://www.nonniavventura.it/wp-content/uploads/2020/12/krabi-e-le-sue-isole-poda-island-1024x611.jpg",
+    "key": "000027005",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 611,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5000\", \"Image Software\": \"Ver.1.00\", \"Image DateTime\": \"2011:12:03 04:40:11\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"158\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"35834\", \"EXIF ExposureTime\": \"1/500\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"360\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:12:03 04:40:11\", \"EXIF DateTimeDigitized\": \"2011:12:03 04:40:11\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"116\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4288\", \"EXIF ExifImageLength\": \"2848\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"174\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "c2261bf5da512996f53117c2ba9d7ed1f093fa20ac85bae5991074fef2f7fe3c"
+}

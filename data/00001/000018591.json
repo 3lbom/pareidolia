@@ -1,0 +1,12 @@
+{
+    "url": "https://nouvelle-renaissance.fr/wp-content/uploads/2020/08/vieux-sage-du-chene-768x1024-640x480.jpg",
+    "key": "000018591",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"ZTE\", \"Image Model\": \"ZTE BLADE A506\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2019:11:29 14:56:01\", \"Image ExifOffset\": \"162\", \"EXIF ExposureTime\": \"1/40\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"59\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:29 14:56:01\", \"EXIF DateTimeDigitized\": \"2019:11:29 14:56:01\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"133/25\", \"EXIF ApertureValue\": \"12/5\", \"EXIF BrightnessValue\": \"119/25\", \"EXIF MeteringMode\": \"Average\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"147/50\", \"EXIF SubSecTime\": \"322490\", \"EXIF SubSecTimeOriginal\": \"322490\", \"EXIF SubSecTimeDigitized\": \"322490\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2000\", \"EXIF ExifImageLength\": \"2667\", \"EXIF ExposureIndex\": \"201\", \"EXIF SensingMethod\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF FocalLengthIn35mmFilm\": \"0\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\"}",
+    "sha256": "dea9a380b3a29552e4f83b529639ad0edbd8cf7f4c846e441b49a23e9acc3935"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://laure.demophoto.fr/wp-content/gallery/temple-du-rocher-de-isurumuniya/thumbs/thumbs_IMG_2598.jpg",
+    "key": "000016823",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 240,
+    "original_height": 160,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot G7 X\", \"Image XResolution\": \"75\", \"Image YResolution\": \"75\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.1.1 (Macintosh)\", \"Image DateTime\": \"2018:05:10 20:40:45\", \"Image Artist\": \"LAURE DESRUMAUX\", \"Image Copyright\": \"tous droits reserves Laure desrumaux\", \"Image ExifOffset\": \"295\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormatLength\": \"16983\", \"Thumbnail JPEGInterchangeFormat\": \"803\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF FNumber\": \"4\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:06:08 06:44:53\", \"EXIF DateTimeDigitized\": \"2016:06:08 06:44:53\", \"EXIF ShutterSpeedValue\": \"321491/31250\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"27/16\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"44/5\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"5472000/517\", \"EXIF FocalPlaneYResolution\": \"243200/23\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9b2814d82fc2305d97549fced4f7a8b44d2fa25ba90f3f543ab0005bde4005a8"
+}

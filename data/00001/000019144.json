@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Flowers/Sunflowers/SunfFlowers/i-BZ3ZCPh/8/8e918c30/L/Sun_Flower_Echichens_01092013_0357-L.jpg",
+    "key": "000019144",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 399,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D4\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACDSee Pro 6\", \"Image DateTime\": \"2013:09:01 20:11:26\", \"Image Artist\": \"HR LIENHARD\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"HRL\", \"Image ExifOffset\": \"236\", \"EXIF ExposureTime\": \"1/400\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:09:01 18:35:30\", \"EXIF DateTimeDigitized\": \"2013:09:01 18:35:30\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"4/3\", \"EXIF MeteringMode\": \"Spot\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"16\", \"EXIF SubSecTime\": \"535\", \"EXIF SubSecTimeOriginal\": \"10\", \"EXIF SubSecTimeDigitized\": \"10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "93d54dbcde74d6cd9911f0869baa6145a3c0ceafdfa72ff1f0bce25cc098ec06"
+}

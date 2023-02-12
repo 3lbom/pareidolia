@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Travel/20120517-27-Moab-Utah-Workshop/20120523-AM-Windows-District/i-559SzrR/0/a7a4ac71/S/20120523-0904-3927_8_9-A-S.jpg",
+    "key": "000019229",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image Model\": \"\\\"NIKON D7000\\\"\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image Software\": \"\\\"Adobe Photoshop Lightroom 5.7.1 (Windows)\\\"\", \"Image DateTime\": \"2015:04:20 16:16:29\", \"Image Artist\": \"\\\"Steve Bresson\\\"\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\\\"\\u00a92013 Steve Bresson\\\"\", \"Image ExifOffset\": \"280\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitude\": \"[38, 42, 271/100]\", \"GPS GPSLongitude\": \"[109, 33, 1339/25]\", \"Image GPSInfo\": \"478\", \"EXIF ExposureTime\": \"1/25\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:05:23 07:04:22\", \"EXIF DateTimeDigitized\": \"2012:05:23 09:04:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF BodySerialNumber\": \"\\\"3113215\\\"\", \"EXIF LensModel\": \"\\\"18.0-200.0 mm f/3.5-5.6\\\"\"}",
+    "sha256": "9245288e1fd0aef87e25abdba6d5fd3283e0f44ec3832e491972502d996e45e8"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.krajoznawcy.info.pl/wp-content/uploads/2012/09/kazantyp-10.jpg",
+    "key": "000026678",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 690,
+    "original_height": 450,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"HDR-XR155E\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image PageName\": \"6?634814175680000000?206245?0?1?0:800:450?C:\\\\PRZEWODNIK-MATERIALY\\\\OPK-do obr?bki\\\\Krym-maj 2011-foty-datami\\\\3.VI-Kercz-Kazanti\\\\Kazantyp\\\\DSC01336_800x800.JPG\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2011:06:03 13:25:06\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ReferenceBlackWhite\": \"[0, 255, 128, 255, 128, 255]\", \"Image ExifOffset\": \"462\", \"EXIF ExposureTime\": \"1/1000\", \"EXIF FNumber\": \"17/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:06:03 13:25:06\", \"EXIF DateTimeDigitized\": \"2011:06:03 13:25:06\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"17/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"48\", \"EXIF FocalLength\": \"5/2\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"690\", \"EXIF ExifImageLength\": \"450\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "625df4e62fd1607c674e82aadcab2303f79baf81062528f49cdb33b7355fc1ab"
+}

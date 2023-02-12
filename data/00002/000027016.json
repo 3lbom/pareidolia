@@ -1,0 +1,12 @@
+{
+    "url": "https://www.nuffy.net/wp-content/uploads/2009/09/funny_banana_10.jpg",
+    "key": "000027016",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 468,
+    "original_height": 625,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2009:09:29 00:15:48\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"226\", \"EXIF ExifImageWidth\": \"468\", \"EXIF ExifImageLength\": \"625\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "a1e2a37e478b762be79b68f27ab5bc9612ba39a5982a8894c03b37f10c0c3980"
+}

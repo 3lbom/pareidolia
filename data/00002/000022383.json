@@ -1,0 +1,12 @@
+{
+    "url": "https://thumb.mp-farm.com/43566/preview.jpg",
+    "key": "000022383",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 563,
+    "original_height": 602,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"Andreas Gradin\", \"Image Copyright\": \"Andreas Gradin copyright\", \"Image ExifOffset\": \"156\", \"EXIF ExifImageWidth\": \"563\", \"EXIF ExifImageLength\": \"602\"}",
+    "sha256": "92e2a76f15d2706302552d0c14e01b1a0e80205a66522ca64f33e8faa2e83c77"
+}

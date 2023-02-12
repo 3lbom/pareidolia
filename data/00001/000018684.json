@@ -1,0 +1,12 @@
+{
+    "url": "https://ololo.tv/wp-content/uploads/2018/10/skarmavbild-2015-03-18-kl.-14.21.17.jpg",
+    "key": "000018684",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 666,
+    "original_height": 664,
+    "exif": "{\"Image XResolution\": \"144\", \"Image YResolution\": \"144\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"78\", \"EXIF ExifImageWidth\": \"666\", \"EXIF ExifImageLength\": \"664\"}",
+    "sha256": "d666594a4a04981c03e5544c2ff6d5d45f7cc376f5c116513da718df61533b4c"
+}

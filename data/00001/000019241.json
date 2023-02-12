@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Untitled-Export/i-xMJnJ3Q/2/99e62dd1/L/JOSHUA%20TREE%20SNOW_-34-L.jpg",
+    "key": "000019241",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"SONY\", \"Image Model\": \"ILCE-7M2\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 8.3.1 (Macintosh)\", \"Image DateTime\": \"2020:01:20 17:40:57\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"EXIF ExposureTime\": \"1/160\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"1250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:12:27 06:49:57\", \"EXIF DateTimeDigitized\": \"2019:12:27 06:49:57\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"31141/3734\", \"EXIF ExposureBiasValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensModel\": \"FE 24-240mm F3.5-6.3 OSS\"}",
+    "sha256": "58d2d91d8e73cfd34eaaffb180b063fff0c88660e1e982bd45fe8824eba278e3"
+}

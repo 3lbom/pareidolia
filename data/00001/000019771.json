@@ -1,0 +1,12 @@
+{
+    "url": "https://pixy.org/src/28/thumbs190/280474.jpg",
+    "key": "000019771",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 253,
+    "original_height": 190,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot ELPH 110 HS\", \"Image ExifOffset\": \"84\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"8\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF DateTimeOriginal\": \"2013:11:15 00:53:20\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"43/10\"}",
+    "sha256": "70098d9aa3561e656a1a067eb890a4cd76ed10497d1126ddcbee94b9d06cf73a"
+}

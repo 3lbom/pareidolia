@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Faces-in-Nature/Wood-Faces/i-tLSqKHV/0/967c53a2/L/DSC_3812-L.jpg",
+    "key": "000019181",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 534,
+    "exif": "{\"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "96b3fd0588e2b97b32706f156b7b5e0ba59f4a6eeed8b3419b8f2ef96b93fa56"
+}

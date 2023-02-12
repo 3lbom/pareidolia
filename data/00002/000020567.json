@@ -1,0 +1,12 @@
+{
+    "url": "https://s0.wklcdn.com/image_26/783128/5362207/2803821Master.jpg",
+    "key": "000020567",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 900,
+    "original_height": 1200,
+    "exif": "{\"Image XResolution\": \"4294966289/169093161\", \"Image YResolution\": \"4294966289/169093161\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"900\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "00dc307c21545df1dcec395b65d5c777cca580653ab38e1c33da65d70085c455"
+}

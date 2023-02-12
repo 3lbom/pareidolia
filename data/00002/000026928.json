@@ -1,0 +1,12 @@
+{
+    "url": "https://www.muhl-fotografie.de/wp-content/uploads/2010/05/20071223_0244-640x480.jpg",
+    "key": "000026928",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot S2 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2007:12:23 07:36:57\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5108\", \"Thumbnail JPEGInterchangeFormatLength\": \"3969\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"4\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:12:23 07:36:57\", \"EXIF DateTimeDigitized\": \"2007:12:23 07:36:57\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"277/32\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"29/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"208/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"778\", \"EXIF ExifImageLength\": \"583\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"2592\", \"Interoperability RelatedImageLength\": \"1944\", \"EXIF InteroperabilityOffset\": \"2174\", \"EXIF FocalPlaneXResolution\": \"11520\", \"EXIF FocalPlaneYResolution\": \"81000/7\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "8ba12030c88710e21f06967cb367844866c05a3dbb0c2c2b026d59db13c082bd"
+}

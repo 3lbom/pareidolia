@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/photos/i-F5tgR9H/1/L/i-F5tgR9H-L.jpg",
+    "key": "000019252",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 545,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot S90\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 4.3 (Windows)\", \"Image DateTime\": \"2013:01:30 17:47:51\", \"Image Artist\": \"pbkelly\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"pbkelly\", \"Image ExifOffset\": \"264\", \"EXIF ExposureTime\": \"1/40\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:01:30 14:40:41\", \"EXIF DateTimeDigitized\": \"2013:01:30 14:40:41\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"16205/3734\", \"EXIF SubjectDistance\": \"147/50\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"91/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensModel\": \"6.0-22.5 mm\"}",
+    "sha256": "edf4d95102bf6c7b47006e5c42b054dc6d30d4ad2787b6aee539655238489c3c"
+}

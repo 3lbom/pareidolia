@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/National-Parks/Arches-Utah/i-P9m4PDS/1/0d9ed800/S/Double%20Arch_Arches%20National%20Park-4181-S.jpg",
+    "key": "000019173",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D7100\", \"Image XResolution\": \"94\", \"Image YResolution\": \"94\", \"Image ResolutionUnit\": \"Pixels/Centimeter\", \"Image Software\": \"Adobe Photoshop Lightroom 6.5 (Windows)\", \"Image DateTime\": \"2016:04:07 21:28:01\", \"Image Artist\": \"Jon Zich\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\\u00a9 Jon Zich, All Rights Reserved\", \"Image ExifOffset\": \"296\", \"EXIF ExposureTime\": \"1/250\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:04:02 14:15:36\", \"EXIF DateTimeDigitized\": \"2016:04:02 14:15:36\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTimeOriginal\": \"6\", \"EXIF SubSecTimeDigitized\": \"60\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2536756\"}",
+    "sha256": "dffd2fbed621005480728ca9bb5748d8dfeaa1745a742206ecc12fb91b7f6316"
+}

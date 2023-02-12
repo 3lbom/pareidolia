@@ -1,0 +1,12 @@
+{
+    "url": "https://imageproxy.icook.network/resize?background=255%2C255%2C255&height=360&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Fdish%2Fphoto%2F436311%2Fc06e5e85ff66d49b.jpg&width=360",
+    "key": "000014457",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 360,
+    "exif": "{}",
+    "sha256": "8a61e821da5a3d1193f890d243cd7867f3ca4f291613b2060014527aa1e72b8c"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Val-Bregaglia-con-valli-laterali/i-HM88bFR/0/44c95683/S/DSC_9770_Watermarked_1-S.jpg",
+    "key": "000019188",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D800\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Ver.1.01\", \"Image DateTime\": \"2017:04:16 15:25:17\", \"Image Artist\": \"CRASTALVA-Tom Baerfuss\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Copyright by CRASTALVA\", \"Image ExifOffset\": \"270\", \"EXIF ExposureTime\": \"1/500\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:04:16 15:25:17\", \"EXIF DateTimeDigitized\": \"2017:04:16 15:25:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"85\", \"EXIF SubSecTime\": \"50\", \"EXIF SubSecTimeOriginal\": \"50\", \"EXIF SubSecTimeDigitized\": \"50\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "b282c7432eda5864fbe0b29481442738438e776f412eac33322f60088711eb6b"
+}

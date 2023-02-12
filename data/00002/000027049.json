@@ -1,0 +1,12 @@
+{
+    "url": "https://www.opereinsasso.com/wp-content/uploads/2018/11/box4.jpg",
+    "key": "000027049",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 500,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2016:11:23 09:14:27\", \"Image ExifOffset\": \"134\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "d2557b7601da2ae33579edc14edfff14e7cdf042c3dafa4d6c38730014c4635c"
+}

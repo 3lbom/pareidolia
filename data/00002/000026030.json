@@ -1,0 +1,12 @@
+{
+    "url": "https://www.daveporterphotography.co.uk/wp-content/gallery/landscapes-of-staffordshire/thumbs/thumbs_012-Staffs.jpg",
+    "key": "000026030",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 240,
+    "original_height": 160,
+    "exif": "{\"Image ImageWidth\": \"3744\", \"Image ImageLength\": \"5616\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"The Winking Eye Rock Sandstone formation, a favourite with rock climbers and part of the Ramshaw Rocks, Staffordshire, England. UK.\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2017:01:05 19:01:54\", \"Image Artist\": \"Dave Porter\", \"Image Copyright\": \"Copyrighted to Dave Porter Photography\", \"Image ExifOffset\": \"523\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormatLength\": \"5111\", \"Thumbnail JPEGInterchangeFormat\": \"1287\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"8\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:04:21 10:40:47\", \"EXIF DateTimeDigitized\": \"2010:04:21 10:40:47\", \"EXIF ShutterSpeedValue\": \"5\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"93\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"432\", \"EXIF ExifImageLength\": \"648\", \"EXIF FocalPlaneXResolution\": \"15766371/4096\", \"EXIF FocalPlaneYResolution\": \"16007749/4096\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Gamma\": \"11/5\"}",
+    "sha256": "0c67b72e3f9fe7e5ba0306b00b7f9e5bb93cdfdd5163a2212765f963dabf3d06"
+}

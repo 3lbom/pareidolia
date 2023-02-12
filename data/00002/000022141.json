@@ -1,0 +1,12 @@
+{
+    "url": "https://t4.ftcdn.net/jpg/02/44/36/41/240_F_244364177_Nt7cnxKhbPjxgHZzNjMSg2AuY3Fr0e4D.jpg",
+    "key": "000022141",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 240,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "ed9aebb2978faa18095b5311663461d4d0bc82c23a6968f85b79ad475b8b48a6"
+}

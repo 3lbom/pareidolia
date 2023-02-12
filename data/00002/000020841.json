@@ -1,0 +1,12 @@
+{
+    "url": "https://s4.bukalapak.com/img/476303141/s-178-178/167067_be8459d6-1d05-4749-9ad3-39573d418b88.jpg",
+    "key": "000020841",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 178,
+    "original_height": 178,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2015:11:07 07:42:51\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"174\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"983\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"178\", \"EXIF ExifImageLength\": \"178\"}",
+    "sha256": "16cecab3245af463e90e00d684cef81fc54d50b888d353c5ff2837a7bff08554"
+}

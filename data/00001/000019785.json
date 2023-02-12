@@ -1,0 +1,12 @@
+{
+    "url": "https://planet-terre.ens-lyon.fr/planetterre/objets/Images/Img560/560-paleo-marmite-geant-Quebec-01-br.jpg",
+    "key": "000019785",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 336,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-GF5\", \"Image Orientation\": \"0\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"0\", \"Image Software\": \"GIMP 2.8.16\", \"Image DateTime\": \"2017:02:06 11:14:44\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"420\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"0\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"0\", \"Thumbnail JPEGInterchangeFormat\": \"11134\", \"Thumbnail JPEGInterchangeFormatLength\": \"8289\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"5/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:10 00:36:48\", \"EXIF DateTimeDigitized\": \"2016:08:10 00:36:48\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"677/256\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"14\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"671\", \"EXIF ExifImageLength\": \"900\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"10986\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "4b989f8df57f22d477fa46874d13d3a5802f787c5a040686d4517eed7d605bad"
+}

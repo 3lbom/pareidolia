@@ -1,0 +1,12 @@
+{
+    "url": "https://r1.mt.ru/r7/photo7656/20545595697-0/jpg/bp.jpeg",
+    "key": "000020079",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 620,
+    "original_height": 345,
+    "exif": "{\"Image ImageWidth\": \"640\", \"Image ImageLength\": \"640\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 21.2 (Windows)\", \"Image DateTime\": \"2021:05:10 10:30:50\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"8040\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"558\"}",
+    "sha256": "3280f7a73733a5a691847535a0a43107cf121d47725b050f83f623db14e8ef9c"
+}

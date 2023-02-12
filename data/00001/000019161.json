@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Joe-Whitten/Landscapes/Colorado/i-6qQfNTh/4/b4fceb68/S/DSC_0011CS6-S.jpg",
+    "key": "000019161",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 399,
+    "original_height": 243,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D70\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2013:04:17 14:35:52\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"216\", \"EXIF ExposureTime\": \"1/125\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2099:04:05 13:16:22\", \"EXIF DateTimeDigitized\": \"2099:04:05 13:16:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"16799/2428\", \"EXIF ExposureBiasValue\": \"-1/2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"28\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF LensModel\": \"28.0-70.0 mm f/2.8-4.0\"}",
+    "sha256": "fddfbdb79620459d1b22c1d151775cf81b272e980d981b4f7688a25f6794d922"
+}

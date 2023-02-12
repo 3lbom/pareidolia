@@ -1,0 +1,12 @@
+{
+    "url": "https://imgcdn.thitruongsi.com/tts/fill/320/320/sm/0/plain/file://product/2020/02/14/4835e870-4f4d-11ea-9780-9baea2f08517.jpg",
+    "key": "000016242",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 320,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"320\", \"EXIF ExifImageLength\": \"320\"}",
+    "sha256": "2fb10a2d6db0fa4dad51fd1c472ca0ce5d1cd33387a0ddb7c20d93d9e5ed41be"
+}

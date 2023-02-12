@@ -1,0 +1,12 @@
+{
+    "url": "https://media.mehrnews.com/d/2020/07/15/3/3500542.jpg",
+    "key": "000017972",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"www.mehrnews.com\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"www.mehrnews.com\"}",
+    "sha256": "9320fae65418f0ec36eb46628ddae7c2aa119d99d2f68a832720ded118cfa393"
+}

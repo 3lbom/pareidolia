@@ -1,0 +1,12 @@
+{
+    "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6899/6899397_sa.jpg",
+    "key": "000019739",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 489,
+    "exif": "{\"Image ImageWidth\": \"1200\", \"Image ImageLength\": \"1185\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 10D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Macintosh\", \"Image DateTime\": \"2012:10:17 17:56:36\", \"Image ExifOffset\": \"276\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"626\", \"Thumbnail JPEGInterchangeFormatLength\": \"7770\", \"EXIF ExposureTime\": \"7/10\", \"EXIF FNumber\": \"13\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:02:20 20:58:58Z\", \"EXIF ShutterSpeedValue\": \"514573/1000000\", \"EXIF ApertureValue\": \"7400879/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Partial\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"38\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"489\"}",
+    "sha256": "205983bfb63d7fc13995a6a0474a5a6a014515b3d6bacaea948ad99fb80b5088"
+}

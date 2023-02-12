@@ -1,0 +1,12 @@
+{
+    "url": "https://milima.pl/wp-content/uploads/2019/03/DSC_3007.jpg",
+    "key": "000018248",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 684,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D750\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"GIMP 2.8.16\", \"Image DateTime\": \"2019:03:22 21:14:22\", \"Image Artist\": \"BBUDREWICZ.COM\", \"Image ExifOffset\": \"216\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"888\", \"Thumbnail JPEGInterchangeFormatLength\": \"7163\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:01:22 17:47:41\", \"EXIF DateTimeDigitized\": \"2019:01:22 17:47:41\", \"EXIF ShutterSpeedValue\": \"995723/125000\", \"EXIF ApertureValue\": \"2485427/500000\", \"EXIF ExposureBiasValue\": \"1/3\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"116\", \"EXIF SubSecTimeOriginal\": \"89\", \"EXIF SubSecTimeDigitized\": \"89\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"54886891/32768\", \"EXIF FocalPlaneYResolution\": \"54886891/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"116\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "f3da6530f6595ac19b67e73a92c98ac9e57e6a4e82807e934fa205d15160a93f"
+}

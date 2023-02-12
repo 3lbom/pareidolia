@@ -1,0 +1,12 @@
+{
+    "url": "https://www.greifswalder.net/wp-content/uploads/2019/11/wp-1573641621988.jpg",
+    "key": "000026425",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1920,
+    "original_height": 1646,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G920F\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Express (Android)\", \"Image DateTime\": \"2019:11:13 11:38:01\", \"Image ExifOffset\": \"210\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[54, 4, 44]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[13, 25, 15]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"55\", \"GPS GPSTimeStamp\": \"[10, 23, 26]\", \"GPS GPSDate\": \"2019:11:13\", \"Image GPSInfo\": \"602\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:13 11:23:39\", \"EXIF DateTimeDigitized\": \"2019:11:13 11:23:39\", \"EXIF ShutterSpeedValue\": \"352741/62500\", \"EXIF ApertureValue\": \"1851999/1000000\", \"EXIF BrightnessValue\": \"107/50\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"43/10\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensModel\": \"Samsung Galaxy S6 Rear Camera\"}",
+    "sha256": "ce4643ae54cc17c3646c80798c01bb7595689870189160abbcff0f3009f3767d"
+}

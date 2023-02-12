@@ -1,0 +1,12 @@
+{
+    "url": "https://infantandtoddlerforum.org/media/upload/portion-sizes/PS-_0014_DSC_0707.jpg.jpg",
+    "key": "000016306",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 244,
+    "original_height": 170,
+    "exif": "{\"Image ImageWidth\": \"244\", \"Image ImageLength\": \"170\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Macintosh)\", \"Image DateTime\": \"2015:07:27 10:41:35\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"3113\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"244\", \"EXIF ExifImageLength\": \"170\"}",
+    "sha256": "0a1654c30b24e09e060768aaf78562b7a1580f57b08ec7fc922720c3377b92a1"
+}

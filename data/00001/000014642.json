@@ -1,0 +1,12 @@
+{
+    "url": "https://images.liketoknow.it/4d3c11ac-d777-11eb-8684-0242ac110004?v=0&auto=format&fm=jpg&w=450&q=80&dpr=1",
+    "key": "000014642",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 562,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"9144/5\", \"Image YResolution\": \"9144/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"450\", \"EXIF ExifImageLength\": \"562\"}",
+    "sha256": "5ddbda390da8692e1df234485e9573ddf06e515963071fd61a891b3fec28006f"
+}

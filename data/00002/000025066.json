@@ -1,0 +1,12 @@
+{
+    "url": "https://usercontent.village.co/a1a503d6-07b1-4ad8-8c2c-17bf4e8c0d8f-image.jpg",
+    "key": "000025066",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 1024,
+    "exif": "{\"Image ISOSpeedRatings\": \"1000\", \"Image Model\": \"SAMSUNG-SM-N900A\", \"Image Orientation\": \"0\", \"Image WhiteBalance\": \"Auto\", \"Image MeteringMode\": \"65535\", \"Image ImageLength\": \"1024\", \"Image FocalLength\": \"413/100\", \"Image Flash\": \"Flash did not fire\", \"Image DateTime\": \"2018:01:01 13:57:16\", \"Image LightSource\": \"Unknown\", \"Image ExposureTime\": \"67/1000\", \"Image FNumber\": \"11/5\", \"Image ImageWidth\": \"1024\", \"Image Make\": \"SAMSUNG\", \"Image ExifOffset\": \"264\", \"EXIF JPEGInterchangeFormat\": \"294\", \"EXIF JPEGInterchangeFormatLength\": \"0\"}",
+    "sha256": "b4ad9e8453cd56a13837cc31bea8c31cab964a927a05b32df27afb401f9408d0"
+}

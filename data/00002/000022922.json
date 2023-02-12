@@ -1,0 +1,12 @@
+{
+    "url": "https://thumbnailer.mixcloud.com/unsafe/160x160/extaudio/8/1/7/d/13a2-d599-4a5a-ace9-726f6a5a56f7.jpg",
+    "key": "000022922",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 160,
+    "original_height": 160,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"160\", \"EXIF ExifImageLength\": \"160\"}",
+    "sha256": "6e32648acf6f3a647656c0422fb8d011be1949c522ca2856b7223c79ea00aba5"
+}

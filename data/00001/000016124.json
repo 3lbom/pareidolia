@@ -1,0 +1,12 @@
+{
+    "url": "https://img2.festima.ru/1/g5TaziwPsgYyVYJ",
+    "key": "000016124",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 787,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"787\"}",
+    "sha256": "c9d5136b255c7573b98f8831389d4820c128559e774603fa463e1ef8f9e56540"
+}

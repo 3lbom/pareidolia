@@ -1,0 +1,12 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hoher_Stein_bei_M%C3%B6ckenlohe_-_panoramio.jpg/120px-Hoher_Stein_bei_M%C3%B6ckenlohe_-_panoramio.jpg",
+    "key": "000024802",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 90,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"COPYRIGHT, 2009\"}",
+    "sha256": "6867d67324ffd56eb293a97317c7118ec174cdb0f75bc748c7cd20570066ebbc"
+}

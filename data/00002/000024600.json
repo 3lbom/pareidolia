@@ -1,0 +1,12 @@
+{
+    "url": "https://trolli.is/wp-content/uploads/2021/10/11-627x376.jpg",
+    "key": "000024600",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 627,
+    "original_height": 376,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2011:12:05 15:37:25\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF SubSecTime\": \"712\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"743\"}",
+    "sha256": "4d3488f445b9da8aa711abc2291fe76d058a24c487e623b1234058612ad5fa44"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Faces-in-Nature/Wood-Faces/i-vgnHRVR/0/7b058af9/L/DSC_2977-L.jpg",
+    "key": "000019182",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 401,
+    "original_height": 600,
+    "exif": "{\"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"LARISA CROCKETT\", \"Image ExifOffset\": \"118\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "0a6251062c10ae1e93aefadbd45a4373595b68f8a34f685668236908ed2e18df"
+}

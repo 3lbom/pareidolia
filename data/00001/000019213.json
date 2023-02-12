@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Reader-SubmittedPhotos-5/April-2017-Reader-Photos/i-cdCfwNJ/0/d2f78793/M/DSCF7830-M.jpg",
+    "key": "000019213",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"FUJIFILM\", \"Image Model\": \"FinePix S4500\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2017:04:05 16:21:10\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"220\", \"EXIF ExposureTime\": \"1/105\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:02:06 03:44:48\", \"EXIF DateTimeDigitized\": \"2012:02:06 03:44:48\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ApertureValue\": \"40761/8200\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"231/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "358a6c6917b811b35f1bb60a0c185687108dfdb7f79b8b0d01ac17ccc06a1e68"
+}

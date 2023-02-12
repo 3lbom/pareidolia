@@ -1,0 +1,12 @@
+{
+    "url": "https://s0.wklcdn.com/image_12/378323/72945229/47876094Master.jpg",
+    "key": "000020565",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 1200,
+    "exif": "{\"Image Make\": \"OnePlus\", \"Image Model\": \"ONEPLUS A5010\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"OnePlus5T-user 9 PKQ1.180716.001 1906100000 release-keys\", \"Image DateTime\": \"2021:05:09 10:49:08\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"250\", \"EXIF ExposureTime\": \"1/231\", \"EXIF FNumber\": \"17/10\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:05:09 10:49:08\", \"EXIF DateTimeDigitized\": \"2021:05:09 10:49:08\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"7851/1000\", \"EXIF ApertureValue\": \"153/100\", \"EXIF BrightnessValue\": \"76/25\", \"EXIF MeteringMode\": \"Unidentified\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4103/1000\", \"EXIF SubSecTime\": \"153464\", \"EXIF SubSecTimeOriginal\": \"153464\", \"EXIF SubSecTimeDigitized\": \"153464\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"1200\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"752\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "559c2862cc5e1cf1a939b827715bb1d3749e5af237e948516a80ab47f01c5d65"
+}

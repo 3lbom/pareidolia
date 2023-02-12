@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/DMJPix-Portfolios/2017-DMJPix-Portfolio/i-xKvz5j5/4/31af139c/S/DJ174996-S.jpg",
+    "key": "000019132",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image Make\": \"FUJIFILM\", \"Image Model\": \"X-T1\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 10.2 (Macintosh)\", \"Image DateTime\": \"2021:04:06 14:27:37\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"EXIF ExposureTime\": \"1/180\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"3200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:01:07 16:56:09\", \"EXIF DateTimeDigitized\": \"2017:01:07 16:56:09\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"-67/100\", \"EXIF MeteringMode\": \"Average\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"16\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF LensModel\": \"XF16mmF1.4 R WR\", \"EXIF LensSerialNumber\": \"56A10552\"}",
+    "sha256": "3917d28d7e6a074c53a0b5864d85c66434b68297011c23ecb638f2f49044a571"
+}

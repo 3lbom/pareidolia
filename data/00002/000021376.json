@@ -1,0 +1,12 @@
+{
+    "url": "https://static.eldiario.es/clip/a3edf0a9-37c1-4c11-b647-3c8e49f6d794_16-9-aspect-ratio_default_0.jpg",
+    "key": "000021376",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 880,
+    "original_height": 495,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"880\", \"EXIF ExifImageLength\": \"495\"}",
+    "sha256": "51bebfacb38f2c2f58eef77a9d87a65099c8d67b73b004ffb52ea24352aea8cd"
+}

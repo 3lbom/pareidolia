@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.amazonaws.com/sagebudphotos/MANGI/Large_mango_600.jpg",
+    "key": "000020772",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{}",
+    "sha256": "a912743eafa0031247b77dc7b3fb23a5dbd4be4d5f9cc23c3336a33d951d086c"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://image.shutterstock.com/shutterstock/photos/1397070074/display_1500/stock-photo-fun-food-for-kids-cute-smiling-clown-face-on-ham-sandwich-decorated-with-fresh-cucumber-carrots-1397070074.jpg",
+    "key": "000014395",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1500,
+    "original_height": 1101,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"299999/1000\", \"Image YResolution\": \"299999/1000\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"1500\", \"EXIF ExifImageLength\": \"1101\"}",
+    "sha256": "8a508ac6a670683aca5ac3f56bb9014d2d21d932006fede4c8433ad4dc557dd0"
+}

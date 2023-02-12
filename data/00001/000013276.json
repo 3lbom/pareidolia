@@ -1,0 +1,12 @@
+{
+    "url": "https://i1.wp.com/www.routetothesoul.com/wp-content/uploads/2017/10/image2.jpg?resize=750%2C730&ssl=1",
+    "key": "000013276",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 750,
+    "original_height": 730,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF DateTimeOriginal\": \"2017:10:29 07:56:18\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"750\", \"EXIF ExifImageLength\": \"730\"}",
+    "sha256": "cf95314177a0f67b376c7db2b3836c0fb6fa7168cfe262e16a3c44c7133f9091"
+}

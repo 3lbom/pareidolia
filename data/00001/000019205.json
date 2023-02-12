@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Places/Valley-of-Fire-State-Park-NV/i-XbMCCfC/0/056dd7c1/S/_DEM8619a11x14-S.jpg",
+    "key": "000019205",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 236,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D800\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2016:03:23 21:36:22\", \"Image Artist\": \"David McGowen     580-917-8767\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"David McGowen     580-917-8767\", \"Image ExifOffset\": \"306\", \"EXIF ExposureTime\": \"1/80\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:03:20 12:55:27\", \"EXIF DateTimeDigitized\": \"2016:03:20 12:55:27\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"8\", \"EXIF ExposureBiasValue\": \"-1/3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"66\", \"EXIF SubSecTime\": \"70\", \"EXIF SubSecTimeOriginal\": \"70\", \"EXIF SubSecTimeDigitized\": \"70\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3080994\", \"EXIF LensModel\": \"24.0-70.0 mm f/2.8\"}",
+    "sha256": "9fc5761078cc02b5c4b85dc1c589c87dbe3f8de2cfeb32b28e117f11cd3b4649"
+}

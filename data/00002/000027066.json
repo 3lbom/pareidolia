@@ -1,0 +1,12 @@
+{
+    "url": "https://www.otherside.gr/wp-content/uploads/2012/09/proswpa-pantou-31.jpg",
+    "key": "000027066",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 585,
+    "original_height": 390,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2012:07:13 16:41:35\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"3180\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"585\", \"EXIF ExifImageLength\": \"390\"}",
+    "sha256": "91b7b3befbb234a89d82f62d299ba36f2d125bbafdadd6802afa2a5ed62cac48"
+}

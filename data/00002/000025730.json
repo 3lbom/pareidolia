@@ -1,0 +1,12 @@
+{
+    "url": "https://www.beatrice-sonntag.de/wp-content/uploads/red-rock-6.jpg",
+    "key": "000025730",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-HX50\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"DSC-HX50 v1.00\", \"Image DateTime\": \"2016:09:03 21:22:48\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2338\", \"Image SensitivityType\": \"Recommended Exposure Index\", \"Image RecommendedExposureIndex\": \"80\", \"Image XPTitle\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image XPSubject\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image LensSpecification\": \"[43/10, 129, 7/2, 63/10]\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:09:03 21:22:48\", \"EXIF DateTimeDigitized\": \"2016:09:03 21:22:48\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF BrightnessValue\": \"6891/640\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"555/128\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"753/100\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"5184\", \"EXIF ExifImageLength\": \"3888\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"42776\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4204\"}",
+    "sha256": "1184836337f6f1da2d52329b94cf99c9c922ad8e2a2279e8b478c2abaa66c6e7"
+}

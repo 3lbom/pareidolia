@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Nature/i-LczsGvC/7/6a3940a7/L/Bark%20Owl-L.jpg",
+    "key": "000019187",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 486,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XTi\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Macintosh\", \"Image DateTime\": \"2011:09:28 17:41:38\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"222\", \"EXIF ExposureTime\": \"1/100\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:10:31 13:33:27\", \"EXIF DateTimeDigitized\": \"2009:10:31 13:33:27\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"6\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"59\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "16bc173a33133832617a724360713dee76c95ca4539188a3d329fd4e04e2cf5a"
+}

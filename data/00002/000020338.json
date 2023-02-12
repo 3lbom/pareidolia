@@ -1,0 +1,12 @@
+{
+    "url": "https://resc.deskline.net/images/SBR/1/78717c38-191a-4729-bfe7-0aadd4dc3130/99/image.jpg",
+    "key": "000020338",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1,
+    "original_height": 1,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1\", \"EXIF ExifImageLength\": \"1\"}",
+    "sha256": "c5d5cefe36d71b2c62aca663cb7821b5e2848359565fe66cc7ce0f5b2c85459f"
+}

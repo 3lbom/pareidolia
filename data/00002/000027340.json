@@ -1,0 +1,12 @@
+{
+    "url": "https://www.rantapallo.fi/mutkiamatkassa/files/2020/12/Ahvenanmaa_joulu_9.jpg",
+    "key": "000027340",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 625,
+    "original_height": 833,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2020:12:06 17:04:46\", \"Image ExifOffset\": \"2242\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4516\", \"Thumbnail JPEGInterchangeFormatLength\": \"16160\", \"EXIF DateTimeOriginal\": \"2020:12:06 16:18:49\", \"EXIF DateTimeDigitized\": \"2020:12:06 16:18:49\", \"EXIF SubSecTimeOriginal\": \"14\", \"EXIF SubSecTimeDigitized\": \"14\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "6f6736cc6832d388344b79b835a2a44a35231dd2779a9c30a2f1806432d0633c"
+}

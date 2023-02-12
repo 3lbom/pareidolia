@@ -1,0 +1,12 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hindenburgkopf.jpg/200px-Hindenburgkopf.jpg",
+    "key": "000024787",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 150,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Copyright 2009\"}",
+    "sha256": "140080c204a0d40c747ac9a4430b411fcf9a034346d8a1ddf9be0864238b3d40"
+}

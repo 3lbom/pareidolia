@@ -1,0 +1,12 @@
+{
+    "url": "https://jploveslife.com/wp-content/uploads/2018/03/fullsizeoutput_3def-360x360.jpeg",
+    "key": "000016562",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 360,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 3.0\", \"Image DateTime\": \"2018:03:03 17:29:01\", \"Image ExifOffset\": \"186\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:03:03 17:29:01\", \"EXIF DateTimeDigitized\": \"2018:03:03 17:29:01\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5845/1191\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"3640/1133\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"414\", \"EXIF SubSecTimeDigitized\": \"414\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"1452\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\"}",
+    "sha256": "94e9ec6b4bdf362992e3fbdced31c6aa5a48f2fe3b4385f065cffda7cdf375bd"
+}

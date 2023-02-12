@@ -1,0 +1,12 @@
+{
+    "url": "https://jujubeaustralia.com/wp-content/uploads/2015/09/Finn-the-jujube-fruit-1024x803.jpg",
+    "key": "000016570",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 803,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.0\", \"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"2448\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"GT-I9210T\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Windows Photo Editor 10.0.10011.0\", \"Image DateTime\": \"2015:09:02 22:36:16\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2364\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5038\", \"Thumbnail JPEGInterchangeFormatLength\": \"11076\", \"EXIF ExposureTime\": \"1/236\", \"EXIF FNumber\": \"53/20\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:03:17 12:05:20\", \"EXIF DateTimeDigitized\": \"2015:03:17 12:05:20\", \"EXIF ShutterSpeedValue\": \"197/25\", \"EXIF ApertureValue\": \"281/100\", \"EXIF BrightnessValue\": \"174/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"281/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"403/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"SDEH0D\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4206\"}",
+    "sha256": "2e6cb8302a8c6fa18f240907e212575a7af10742560f4e2f788a8f36dd0d5407"
+}

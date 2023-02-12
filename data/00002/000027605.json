@@ -1,0 +1,12 @@
+{
+    "url": "https://www.superjagd.com/images/magazin/gallery/377/superjagd_magazin_377g2.jpg",
+    "key": "000027605",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 160,
+    "original_height": 240,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACDSee Pro 6\", \"Image DateTime\": \"2014:04:03 16:09:54\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"159\", \"EXIF SubSecTime\": \"946\", \"EXIF ExifImageWidth\": \"160\", \"EXIF ExifImageLength\": \"240\"}",
+    "sha256": "c4176d456de22156886d54f337348b8eb09878c93518f411adfd7829d68fecc2"
+}

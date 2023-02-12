@@ -1,0 +1,12 @@
+{
+    "url": "https://t2.ftcdn.net/jpg/00/46/80/49/400_F_46804956_OPAc66rCE53ZYqLDCBywEOSvi6KwnNe1.jpg",
+    "key": "000022072",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 333,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "87ce6d09865c81fabbda165fb3cca36246e37acf3cf6f1ace91d1cacaf11d5e0"
+}

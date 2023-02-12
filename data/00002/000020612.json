@@ -1,0 +1,12 @@
+{
+    "url": "https://s1.wklcdn.com/image_25/760561/58768514/39214102Master.jpg",
+    "key": "000020612",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 675,
+    "original_height": 1200,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"675\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "db40ee4c940c7e40e21456b5c9a1a2419adb9e8c399c6cafb3a4ab44ba9d3419"
+}

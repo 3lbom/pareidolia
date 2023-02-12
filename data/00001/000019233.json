@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Travel/Faroe-Islands/i-P3m99sk/0/c9c99ded/M/Faroer%20Islands-134-M.jpg",
+    "key": "000019233",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 298,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D7000\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.12 (Macintosh)\", \"Image DateTime\": \"2017:09:30 13:23:30\", \"Image Artist\": \"Thomas J. Schmal\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"(C) Thomas J. Schmal\", \"Image ExifOffset\": \"296\", \"EXIF ExposureTime\": \"1/400\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:09:29 11:03:13\", \"EXIF DateTimeDigitized\": \"2017:09:29 11:03:13\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"10717/2018\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"400\", \"EXIF SubSecTimeOriginal\": \"20\", \"EXIF SubSecTimeDigitized\": \"20\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"6017320\", \"EXIF LensModel\": \"18.0-400.0 mm f/3.5-6.3\"}",
+    "sha256": "fd17f044fa994328e8c001d86f20712ff0f9ed0680eedc3f06c52d9d3e4cb113"
+}

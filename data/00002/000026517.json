@@ -1,0 +1,12 @@
+{
+    "url": "https://www.hotelveronesilatorre.it/wp-content/uploads/2021/02/La-torre-facciata-1000x666-1.jpg",
+    "key": "000026517",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1000,
+    "original_height": 666,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"666\"}",
+    "sha256": "5bfe69cca837b01dc101d21181845d5f8a26e799d2d2e490b026324cef40780f"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://storage.googleapis.com/static.smalljoys.me/2017/09/1709030108.jpg",
+    "key": "000021906",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 625,
+    "original_height": 430,
+    "exif": "{\"Image Artist\": \"jaeyoung kim\", \"Image ExifOffset\": \"2136\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2017:09:03 01:57:17\", \"EXIF DateTimeDigitized\": \"2017:09:03 01:57:17\", \"EXIF SubSecTimeOriginal\": \"88\", \"EXIF SubSecTimeDigitized\": \"88\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "899485c37123f95fa321354711b9961ef41ce0796901bac56d785460a318f5d4"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.itinera-magica.com/wp-content/uploads/IMG_3901-683x1024.jpg",
+    "key": "000026601",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 683,
+    "original_height": 1024,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS Rebel T6i\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.2.1 (Windows)\", \"Image DateTime\": \"2016:09:27 21:15:43\", \"Image ExifOffset\": \"214\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"874\", \"Thumbnail JPEGInterchangeFormatLength\": \"19559\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:09:21 14:23:20\", \"EXIF DateTimeDigitized\": \"2015:09:21 14:23:20\", \"EXIF ShutterSpeedValue\": \"790241/125000\", \"EXIF ApertureValue\": \"2485427/500000\", \"EXIF ExposureBiasValue\": \"-1\", \"EXIF MaxApertureValue\": \"29/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"18\", \"EXIF SubSecTimeOriginal\": \"34\", \"EXIF SubSecTimeDigitized\": \"34\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"6000000/893\", \"EXIF FocalPlaneYResolution\": \"2000000/297\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"012021001071\", \"EXIF LensSpecification\": \"[18, 135, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S18-135mm f/3.5-5.6 IS STM\", \"EXIF LensSerialNumber\": \"00002b5b25\"}",
+    "sha256": "94dc97105a1125ef7e3d203188bae19dc6677db4bd3eb6549f68c2c78ad0d690"
+}

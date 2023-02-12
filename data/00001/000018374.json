@@ -1,0 +1,12 @@
+{
+    "url": "https://mtdata.ru/u23/photoBDB5/20863213086-0/original.jpg",
+    "key": "000018374",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Google\", \"Image ExifOffset\": \"58\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "499d7e7c1a83703fe8619f6303e6e6a56811598237ee13b9c17ec6dc1a26ee32"
+}

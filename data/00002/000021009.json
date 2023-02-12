@@ -1,0 +1,12 @@
+{
+    "url": "https://silaorekha.ru/wp-content/uploads/2020/01/plody.jpg",
+    "key": "000021009",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 458,
+    "exif": "{\"Image DateTime\": \"2020:01:20 17:57:23\", \"Image ExifOffset\": \"58\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"106\", \"Thumbnail JPEGInterchangeFormatLength\": \"5973\"}",
+    "sha256": "85a1b74addda533d003f38c92b64ce716a756aec2c62c646b4937d6078310fb0"
+}

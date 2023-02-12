@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/photos/i-CGZ8bNr/0/L/i-CGZ8bNr-L.jpg",
+    "key": "000019251",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Google\", \"Image Model\": \"Pixel 3 XL\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 8.4 (Windows)\", \"Image DateTime\": \"2019:10:21 17:27:18\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"EXIF ExposureTime\": \"1/25\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"84\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:10:06 20:21:38\", \"EXIF DateTimeDigitized\": \"2019:10:06 20:21:38\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"13166/7763\", \"EXIF SubjectDistance\": \"237/1000\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"22/5\", \"EXIF SubSecTimeOriginal\": \"157411\", \"EXIF SubSecTimeDigitized\": \"157411\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"1\", \"EXIF LensModel\": \"Google Pixel 3 XL Rear Camera\"}",
+    "sha256": "ca8f14c48663cbfec3396ce236ed09883a4a0446d1108ec6f9a37df96d01a062"
+}

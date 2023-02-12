@@ -1,0 +1,12 @@
+{
+    "url": "https://www.gazzetta.gr/sites/default/files/migrated/2018/12/rock_0.jpg",
+    "key": "000026355",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 700,
+    "original_height": 403,
+    "exif": "{\"Image Make\": \"BeFunky\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"BeFunky Photo Editor\"}",
+    "sha256": "fbec7303b7c4368fc2fa93b500a951cd2799dd48a82ce452537f81a285316f45"
+}

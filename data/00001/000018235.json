@@ -1,0 +1,12 @@
+{
+    "url": "https://mhssz.hu/wp-content/uploads/2021/09/2021_Vadorzo_SzaszLaci_SanthaGergo_03_1500-1080x675.jpg",
+    "key": "000018235",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1080,
+    "original_height": 675,
+    "exif": "{\"Image Make\": \"Xiaomi\", \"Image Model\": \"Mi Note 3\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"jason-user 9 PKQ1.181007.001 V12.0.1.0.PCHMIXM release-keys\", \"Image DateTime\": \"2021:08:19 08:02:55\", \"Image YCbCrSubSampling\": \"[2, 2]\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"260\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"942\", \"Thumbnail JPEGInterchangeFormatLength\": \"7256\", \"EXIF ExposureTime\": \"1/346\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"307\", \"EXIF Tag 0x8889\": \"HHT\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:08:19 08:02:55\", \"EXIF DateTimeDigitized\": \"2021:08:19 08:02:55\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2109/250\", \"EXIF ApertureValue\": \"169/100\", \"EXIF BrightnessValue\": \"179/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"191/50\", \"EXIF SubSecTime\": \"395672\", \"EXIF SubSecTimeOriginal\": \"395672\", \"EXIF SubSecTimeDigitized\": \"395672\", \"EXIF Tag 0x9999\": \"{\\\"sensor_type\\\":\\\"rear\\\",\\\"mirror\\\":false}\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1500\", \"EXIF ExifImageLength\": \"1122\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"818\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"dbc31cb64940f48b0000000000000000\"}",
+    "sha256": "8b93e7796e5143295dff47bdb4f9ed6e241337c31a37258919d0b6c73386ee56"
+}

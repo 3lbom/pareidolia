@@ -1,0 +1,12 @@
+{
+    "url": "https://simplecraftylife.files.wordpress.com/2014/02/20140211-165457.jpg",
+    "key": "000021017",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 2448,
+    "original_height": 2448,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"102\", \"GPS GPSLatitudeRef\": \"S\", \"GPS GPSLatitude\": \"[33, 37, 3531/100]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[151, 8, 3389/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"37941/191\", \"GPS GPSTimeStamp\": \"[5, 53, 21]\", \"GPS GPSDate\": \"2014:02:11\", \"Image GPSInfo\": \"844\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:02:11 16:53:27\", \"EXIF DateTimeDigitized\": \"2014:02:11 16:53:27\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"3799/879\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"-457/11537\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1222, 1223, 1794, 1077]\", \"EXIF SubSecTimeOriginal\": \"410\", \"EXIF SubSecTimeDigitized\": \"410\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"44\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[103/25, 103/25, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5 back camera 4.12mm f/2.4\"}",
+    "sha256": "0eb41e44bec9121472122da369ae58f1536231d51dc20d3bf95c97da15b8840e"
+}

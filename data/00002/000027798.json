@@ -1,0 +1,12 @@
+{
+    "url": "https://www.travel-finnmark.no/wp-content/uploads/2016/03/Loppa-Steinmannen-5-300x200.jpg",
+    "key": "000027798",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 200,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 6D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2016:06:23 14:42:48\", \"Image ExifOffset\": \"166\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"9\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:06:23 14:42:48\", \"EXIF DateTimeDigitized\": \"2016:06:23 14:42:48\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"59/8\", \"EXIF ApertureValue\": \"51/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"6149/1087\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"73\", \"EXIF SubSecTime\": \"63\", \"EXIF SubSecTimeOriginal\": \"63\", \"EXIF SubSecTimeDigitized\": \"63\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"853\", \"EXIF FocalPlaneXResolution\": \"201961/53\", \"EXIF FocalPlaneYResolution\": \"873841/229\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "c237ef7e4f195e9814baaaf8499222d20fa8d5915946829027e0642fe3e15d3d"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://pds.exblog.jp/pds/1/201910/12/56/a0254656_16335540.jpg",
+    "key": "000018917",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"Fujitsu\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Eizoukan\", \"Image DateTime\": \"2014:02:18 15:08:50\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"176\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"424\", \"Thumbnail JPEGInterchangeFormatLength\": \"6752\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:02:18 14:44:31\", \"EXIF DateTimeDigitized\": \"2014:02:18 15:08:50\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4000\", \"EXIF ExifImageLength\": \"3000\", \"EXIF CustomRendered\": \"Custom\"}",
+    "sha256": "eef6984ab31f99a27da9dbd8da1d7779d7bc0b61ec1ec8ba371f7540c7d66886"
+}

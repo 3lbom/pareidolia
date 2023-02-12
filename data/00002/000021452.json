@@ -1,0 +1,12 @@
+{
+    "url": "https://static.openfoodfacts.org/images/products/306/199/013/9764/front_fr.6.200.jpg",
+    "key": "000021452",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 78,
+    "original_height": 200,
+    "exif": "{\"Image Orientation\": \"Rotated 90 CW\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\"}",
+    "sha256": "15d05c00a6df016b1c665b8b082b9e0aa362a43fe5dd8d7f8f15033d7c6c3d09"
+}

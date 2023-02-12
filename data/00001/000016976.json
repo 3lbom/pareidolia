@@ -1,0 +1,12 @@
+{
+    "url": "https://lijekipriroda.com/wp-content/uploads/2018/06/jaja1.jpg",
+    "key": "000016976",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 620,
+    "original_height": 400,
+    "exif": "{\"Image ImageWidth\": \"3648\", \"Image ImageLength\": \"2643\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"Cooking homemade fried eggs\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2017:12:21 13:18:32\", \"Image Artist\": \"Jeff R Clow\", \"Image Copyright\": \"This content is subject to copyright.\", \"Image ExifOffset\": \"313\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"620\", \"EXIF ExifImageLength\": \"400\"}",
+    "sha256": "82f5cf160b47e00f2edca01f2e92beecb798f6391bf0bf126e0971df65ec60e5"
+}

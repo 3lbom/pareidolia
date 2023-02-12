@@ -1,0 +1,12 @@
+{
+    "url": "https://static.webshopapp.com/shops/142554/files/120488135/900-x-612-maantjes-fijn-gesnedenjpg.jpg",
+    "key": "000021544",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 900,
+    "original_height": 612,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone SE\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2017:05:17 08:53:34\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"186\", \"EXIF ExposureTime\": \"1/33\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:05:17 08:53:34\", \"EXIF DateTimeDigitized\": \"2017:05:17 08:53:34\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2297/454\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"5705/1913\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"541\", \"EXIF SubSecTimeDigitized\": \"541\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone SE back camera 4.15mm f/2.2\"}",
+    "sha256": "0b76adf4e3e1f3f67e4f9e2b236a9763778cb5b6bb8aac9e9f8dc0fdd42567e3"
+}

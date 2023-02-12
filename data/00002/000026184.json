@@ -1,0 +1,12 @@
+{
+    "url": "https://www.ephotozine.com/resize/2012/32/xlrg/96496_1344758740.jpg?RTUdGk5cXyJFBQgJVANtcQlnYF8JERFaGwJRNQh6SlYUAEw1cmsCdg1hAWoxXFNGLSI=",
+    "key": "000026184",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2012:08:06 09:32:40\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"178\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4534\", \"Thumbnail JPEGInterchangeFormatLength\": \"13791\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"11\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:08:06 09:32:40\", \"EXIF DateTimeDigitized\": \"2012:08:06 09:32:40\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6\", \"EXIF ApertureValue\": \"7\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Unidentified\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"90\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"400\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"4410\", \"EXIF FocalPlaneXResolution\": \"873600/283\", \"EXIF FocalPlaneYResolution\": \"1456000/471\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "dbe59e921cdc53b38fd2efcb118e6ea14a47156c0a1d9547a9587a1eb40da420"
+}

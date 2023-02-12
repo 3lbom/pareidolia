@@ -1,0 +1,12 @@
+{
+    "url": "https://virali.video/wp-content/uploads/2021/03/alberi.jpg",
+    "key": "000025199",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 628,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"GIMP 2.10.6\", \"Image DateTime\": \"2021:03:17 12:03:03\", \"Thumbnail ImageWidth\": \"256\", \"Thumbnail ImageLength\": \"133\", \"Thumbnail BitsPerSample\": \"[8, 8, 8]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail PhotometricInterpretation\": \"6\", \"Thumbnail SamplesPerPixel\": \"3\", \"Thumbnail JPEGInterchangeFormat\": \"242\", \"Thumbnail JPEGInterchangeFormatLength\": \"10575\"}",
+    "sha256": "77319d625d56b00088a9c0b74a005d26f1c631281d8e93a483d32228fd74e03f"
+}

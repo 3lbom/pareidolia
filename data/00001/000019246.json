@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/photos/i-39DrxpT/1/L/i-39DrxpT-L.jpg",
+    "key": "000019246",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image ImageDescription\": \"A collection of Hawaiian citrus\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone X\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.0 (Macintosh)\", \"Image DateTime\": \"2018:04:11 17:42:13\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"By Jefferson Graham\", \"Image ExifOffset\": \"312\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[21, 58, 477/100]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[159, 23, 226/5]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"25003/238\", \"Image GPSInfo\": \"658\", \"EXIF ExposureTime\": \"1/60\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:04:07 12:15:22\", \"EXIF DateTimeDigitized\": \"2018:04:07 12:15:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"6\", \"EXIF SubSecTimeOriginal\": \"830\", \"EXIF SubSecTimeDigitized\": \"830\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensModel\": \"iPhone X back dual camera 6mm f/2.4\"}",
+    "sha256": "5d88ee23539c1477cbcf54f7eafbdc32c04184b2271edcbfc8b557c16825694e"
+}

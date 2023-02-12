@@ -1,0 +1,12 @@
+{
+    "url": "https://m.smedata.sk/api-media/media/image/sme/7/11/114947/114947_600x400.jpg?rev=1",
+    "key": "000017148",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{}",
+    "sha256": "189051218f7faff58e7213ab5c3e69ac373cf1e5605b3d969883bfc49bee6ed5"
+}

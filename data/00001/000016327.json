@@ -1,0 +1,12 @@
+{
+    "url": "https://inteng-storage.s3.amazonaws.com/images/uploads/sizes/googly-eyes_resize_md.jpg",
+    "key": "000016327",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 744,
+    "original_height": 528,
+    "exif": "{}",
+    "sha256": "f0ac7ca56143dd5c0e85124fc4611bc34a4327f9e4a32aa3a40ceb1299f67267"
+}

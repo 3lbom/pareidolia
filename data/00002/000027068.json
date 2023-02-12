@@ -1,0 +1,12 @@
+{
+    "url": "https://www.otherside.gr/wp-content/uploads/2013/02/entypwsiaka-graffiti-37.jpg",
+    "key": "000027068",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 605,
+    "original_height": 454,
+    "exif": "{\"Image ImageWidth\": \"500\", \"Image ImageLength\": \"375\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2013:02:16 21:41:10\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"378\", \"Thumbnail JPEGInterchangeFormatLength\": \"5484\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"605\", \"EXIF ExifImageLength\": \"454\"}",
+    "sha256": "8e0308a01cfd05d75efda8f7fa38fbe0ad981c74fa21d05b20cb79d7e36778f0"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://img.piri.net/mnresize/720/2000/resim/upload/2021/02/22/03/46/8ecd59fce0bc4cdfb7c6a0c7c266be6d.jpg",
+    "key": "000015912",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 414,
+    "exif": "{\"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"78\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\"}",
+    "sha256": "808abecd0a9344e56e7013cb4d2f886d78f5f1bb564147ac19a660cb28977ec2"
+}

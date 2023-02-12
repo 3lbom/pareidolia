@@ -1,0 +1,12 @@
+{
+    "url": "https://images.sandicliffe.co.uk/blog_images/57efd93a58-mceu-2495377551589370384187jpg.jpg",
+    "key": "000014861",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 405,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2020:05:13 12:45:45\", \"Image ExifOffset\": \"2242\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4516\", \"Thumbnail JPEGInterchangeFormatLength\": \"3386\", \"EXIF DateTimeOriginal\": \"2020:05:13 12:45:27\", \"EXIF DateTimeDigitized\": \"2020:05:13 12:45:27\", \"EXIF SubSecTimeOriginal\": \"96\", \"EXIF SubSecTimeDigitized\": \"96\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "d401ee8557b8ab27fc5d2b9f035077d14ba86338fbeb7bc1ec4745754b627763"
+}

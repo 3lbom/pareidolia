@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/photos/i-JwBkkMV/0/M/i-JwBkkMV-M.jpg",
+    "key": "000019253",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 336,
+    "original_height": 449,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:08:26 12:07:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "65aae94f48a0394a5473f2e26aa426c5a298b5d72a7803dbe4a3d3f8eb86a5c6"
+}

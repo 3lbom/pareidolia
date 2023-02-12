@@ -1,0 +1,12 @@
+{
+    "url": "https://lloydandlauren.com/wp-content/uploads/2008/06/emo.jpg",
+    "key": "000017052",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 520,
+    "original_height": 360,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SD30\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"QuickTime 7.4.1\", \"Image DateTime\": \"2008:06:18 21:48:05\", \"Image HostComputer\": \"Mac OS X 10.4.9\", \"Image ExifOffset\": \"229\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"16/5\", \"EXIF ISOSpeedRatings\": \"3\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:06:18 21:29:15\", \"EXIF DateTimeDigitized\": \"2008:06:18 21:29:15\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"85/16\", \"EXIF ApertureValue\": \"107/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"107/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"63/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"520\", \"EXIF ExifImageLength\": \"360\", \"EXIF FocalPlaneXResolution\": \"11520\", \"EXIF FocalPlaneYResolution\": \"81000/7\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "1f0f531967d9faa8062bff0c89f34a93ee04ceac8bed21b5732443dba29346d6"
+}

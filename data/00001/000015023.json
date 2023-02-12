@@ -1,0 +1,12 @@
+{
+    "url": "https://images.tori.fi/api/v1/imagestori/images/100051813250.jpg?rule=images",
+    "key": "000015023",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 427,
+    "exif": "{}",
+    "sha256": "795c298012bcd01804c0f5ef07212461681c16f1b3e7108067828d248cba6f1e"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://littlehungrylady.pl/wp-content/uploads/2016/05/mango.jpg",
+    "key": "000016988",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 360,
+    "exif": "{\"Image Software\": \"Picasa\", \"Image DateTime\": \"2016:05:05 13:29:20\", \"Image Artist\": \"Picasa\", \"Image ExifOffset\": \"96\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"364\", \"Thumbnail JPEGInterchangeFormatLength\": \"4744\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:05:05 13:25:57\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"360\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"5120\", \"Interoperability RelatedImageLength\": \"2880\", \"EXIF InteroperabilityOffset\": \"228\", \"EXIF ImageUniqueID\": \"d14252c604e6fcf86485aaa0ef4b9e7a\"}",
+    "sha256": "c79294033bffa538574dc4e509225938f43e88585ec14c8cce0b874ff0486c5b"
+}

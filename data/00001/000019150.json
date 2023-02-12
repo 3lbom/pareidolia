@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Galleries/A-Hungary-14/i-6kzHXKd/1/544edd49/L/Hungary%2714-18-L.jpg",
+    "key": "000019150",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Cheryl Harvey 2014\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "29a2583aba6c5156b2bedc4721ce24a86af70314a620014ffd32a685dbb639a6"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://salt.tikicdn.com/cache/192x192/ts/product/9a/fa/ac/a1df7250def0fb7e6e0d13c699cca48d.jpg",
+    "key": "000020864",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 192,
+    "original_height": 192,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"192\", \"EXIF ExifImageLength\": \"192\"}",
+    "sha256": "d0691648a9bcbd9ba5e52e03dd577baca3acedb9a3be81e93e639b8df583abde"
+}

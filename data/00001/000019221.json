@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Sports/trail-running/2010-RockCreek-StumpJump/i-NWMSmv8/0/M/IMG_4812-M.jpg",
+    "key": "000019221",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image DateTime\": \"2010:10:02 14:42:28\", \"Image ExifOffset\": \"110\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF DateTimeOriginal\": \"2010:10:02 14:42:28\", \"EXIF DateTimeDigitized\": \"2010:10:02 14:42:28\", \"EXIF ShutterSpeedValue\": \"51/8\", \"EXIF ApertureValue\": \"5\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "4eed5290c414e88c739f18c181cc3b69a05de28d06c79dd103950c27eb1bcf83"
+}

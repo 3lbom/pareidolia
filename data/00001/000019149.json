@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Further-Collections/Nature/i-TKq3WxB/7/52ef8969/L/IMG_1371-L.jpg",
+    "key": "000019149",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image ImageDescription\": \"Joshua Tree National Park\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot S2 IS\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 8.4.1 (Macintosh)\", \"Image DateTime\": \"2019:10:21 18:15:43\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Copyright: Jason Ruvelson\", \"Image ExifOffset\": \"314\", \"EXIF ExposureTime\": \"1/400\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:05:05 11:45:06\", \"EXIF DateTimeDigitized\": \"2008:05:05 11:45:06\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"101/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensModel\": \"6.0-72.0 mm\"}",
+    "sha256": "a45b2a35ecd32722b59d0274df39a0b09f5f4dd6a8a790875f474b505962de25"
+}

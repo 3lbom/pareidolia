@@ -1,0 +1,12 @@
+{
+    "url": "https://t1.ftcdn.net/jpg/01/82/92/06/400_F_182920690_kc9iOptQBBJM0F2Ae7wyRLGQJTaZQmg1.jpg",
+    "key": "000022058",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 332,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "43cc8a9dd9640eca41b87b9c61ea0f20a4815be317e8848b5f6fc6f045ce1927"
+}

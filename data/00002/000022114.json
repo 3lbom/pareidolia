@@ -1,0 +1,12 @@
+{
+    "url": "https://t3.ftcdn.net/jpg/02/08/75/22/240_F_208752254_DMTVa9vUSD2CPaHJb66S3eszZGwcIkvM.jpg",
+    "key": "000022114",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 240,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "1b9da80da584106047ca668d300a51aa7b5c01d4e23dca75552eb430b33c602f"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://images.squarespace-cdn.com/content/v1/5168bda8e4b0f1cbdeebeaac/1371181043910-GVCM4SXZ4WMO0LWJ8YJ4/ke17ZwdGBToddI8pDm48kP9ixLvegiCiaphYrxDbh8B7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUsb6TDm6lwtyvufj6lXSkk9qP8EwNT_O62_qbM5aCAUa2TWYoExZvBjfEz7VOpF6Q/day+13",
+    "key": "000014950",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1936,
+    "original_height": 2592,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"QuickTime 7.6.6\", \"Image DateTime\": \"2013:06:13 16:46:06\", \"Image HostComputer\": \"Mac OS X 10.6.8\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"242\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"738\", \"Thumbnail JPEGInterchangeFormatLength\": \"5215\", \"Thumbnail YCbCrPositioning\": \"Centered\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:06:13 08:09:39\", \"EXIF DateTimeDigitized\": \"2013:06:13 08:09:39\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"4889/1250\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"1712/2741\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[2087, 764, 484, 484]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2592\", \"EXIF ExifImageLength\": \"1936\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "aafda3721045dc23ccd10d476890ccf859dde98477f52d33f29bd0d31ccd5f12"
+}

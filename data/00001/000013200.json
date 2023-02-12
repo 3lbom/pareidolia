@@ -1,0 +1,12 @@
+{
+    "url": "https://i1.wp.com/www.diversitasnaturae.be/wp-content/gallery/rockscapes/jd_20150408_104421.jpg?resize=600%2C400",
+    "key": "000013200",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image XResolution\": \"100\", \"Image YResolution\": \"100\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image DateTime\": \"2015:04:08 10:44:21\", \"Image Artist\": \"Dierckx Johan\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"b'\\\\xa9 Johan Dierckx. All rights reserved'\", \"Image ExifOffset\": \"198\", \"EXIF TimeZoneOffset\": \"1\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:04:08 10:44:21\", \"EXIF DateTimeDigitized\": \"2015:04:08 10:44:21\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\"}",
+    "sha256": "560384b65325cc088b64f465b16decd891f6af47f9319e92ffc0e6e8d3278b84"
+}

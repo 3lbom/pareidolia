@@ -1,0 +1,12 @@
+{
+    "url": "https://pds.exblog.jp/pds/1/201904/04/07/f0316507_14262576.jpg",
+    "key": "000018916",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 435,
+    "original_height": 580,
+    "exif": "{\"Image ImageDescription\": \"DSC_9952\", \"Image Make\": \"SHARP\", \"Image Model\": \"SH-01K\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2019:04:04 08:05:41\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"180\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:04:04 08:05:41\", \"EXIF DateTimeDigitized\": \"2019:04:04 08:05:41\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2453/500\", \"EXIF ApertureValue\": \"227/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"227/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"3264\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"30\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Saturation\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"626\"}",
+    "sha256": "422f3c0805a09eaa7f8e998adba1fe1525f751ceb9f14ff1e6cd98e219b086f5"
+}

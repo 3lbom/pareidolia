@@ -1,0 +1,12 @@
+{
+    "url": "https://vanderhoofphotography.files.wordpress.com/2013/05/eat-a-peach-rock_5715.jpg?w=450",
+    "key": "000025094",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 7D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5.1 Windows\", \"Image DateTime\": \"2013:05:11 15:54:57\", \"Image ExifOffset\": \"208\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"886\", \"Thumbnail JPEGInterchangeFormatLength\": \"7703\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Unknown\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:03:30 09:53:59\", \"EXIF DateTimeDigitized\": \"2013:03:30 09:53:59\", \"EXIF ShutterSpeedValue\": \"870723/125000\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"35/8\", \"EXIF SubjectDistance\": \"4294967295\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"34\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"600\", \"EXIF FocalPlaneXResolution\": \"5184000/907\", \"EXIF FocalPlaneYResolution\": \"691200/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"1270805962\", \"EXIF LensSpecification\": \"[18, 55, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S18-55mm f/3.5-5.6 IS II\"}",
+    "sha256": "86e6c1e0f3df3e217e5c0f1be743b1eb9fb93dfa5015373675a02c60e6babdcd"
+}

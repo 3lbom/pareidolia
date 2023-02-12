@@ -1,0 +1,12 @@
+{
+    "url": "https://www.teepr.com/wp-content/uploads/2017/01/veggie-430x225.jpg",
+    "key": "000027677",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 430,
+    "original_height": 225,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"26\", \"Image YResolution\": \"26\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2017:01:14 13:31:27\", \"Image ExifOffset\": \"168\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"26\", \"Thumbnail YResolution\": \"26\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"306\", \"Thumbnail JPEGInterchangeFormatLength\": \"8147\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"417\"}",
+    "sha256": "612374467ca999548fb7070d2e8b1c6bd757a43ef4423e687cee6f56f0f9b295"
+}

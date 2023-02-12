@@ -1,0 +1,12 @@
+{
+    "url": "https://thirst4adventure.files.wordpress.com/2015/02/240.jpg?w=960",
+    "key": "000022325",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 180,
+    "original_height": 240,
+    "exif": "{\"Image Software\": \"Google\", \"Image ExifOffset\": \"46\", \"EXIF ExifVersion\": \"\", \"EXIF Tag 0x9009\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF ExifImageWidth\": \"180\", \"EXIF ExifImageLength\": \"240\"}",
+    "sha256": "1491e699a2a2ff5f85c69dd8f0b507b2091b3ce18a7c792b38d46efb51086e3f"
+}

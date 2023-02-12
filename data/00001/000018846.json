@@ -1,0 +1,12 @@
+{
+    "url": "https://palweather.ps/data/image/120X80/01066619722100728082250723850721.jpg",
+    "key": "000018846",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 80,
+    "exif": "{}",
+    "sha256": "67616392ad0d60ea21ea91c6ba13eda7440c6b8198956e9dfd068a856aa6136a"
+}

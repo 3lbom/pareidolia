@@ -1,0 +1,12 @@
+{
+    "url": "https://pimg.mycdn.me/getImage?disableStub=true&type=VIDEO_S_720&url=http%3A%2F%2Fvdp.mycdn.me%2FgetImage%3Fid%3D39200557762%26idx%3D7%26thumbType%3D32%26f%3D1&signatureToken=gnzAF9BvYDRxA5jw8giTUQ",
+    "key": "000019726",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 405,
+    "exif": "{}",
+    "sha256": "7d82c888a7d3a5cf868f277eda2808acd2f20b5e2893e8a46d019eb15679003e"
+}

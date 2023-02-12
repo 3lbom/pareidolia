@@ -1,0 +1,12 @@
+{
+    "url": "https://kep.cdn.indexvas.hu/1/0/1726/17262/172629/17262901_7872f9fe53c6d0525e8c3e4c9deca60e_wm.jpg",
+    "key": "000016636",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 856,
+    "original_height": 571,
+    "exif": "{\"Image ImageWidth\": \"2112\", \"Image ImageLength\": \"2816\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"FE190/X750\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2016:07:26 13:54:56\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"332\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1066\", \"Thumbnail JPEGInterchangeFormatLength\": \"10104\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"23/5\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:04:24 13:49:23\", \"EXIF DateTimeDigitized\": \"2008:04:24 13:49:23\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"1040241/125000\", \"EXIF ApertureValue\": \"1100817/250000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"163/50\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"63/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2112\", \"EXIF ExifImageLength\": \"1410\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "de49de679f893176692a98cd47afcf7a993e8bc747a6be8c10e917284edcb301"
+}

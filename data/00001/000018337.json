@@ -1,0 +1,12 @@
+{
+    "url": "https://mookblog-aws.hmgcdn.com/public/article/2019/atl_20200728210822_449.JPG",
+    "key": "000018337",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 750,
+    "original_height": 1000,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2020:06:26 17:42:27\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"210\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:06:26 17:42:27\", \"EXIF DateTimeDigitized\": \"2020:06:26 17:42:27\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"62712/16045\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"35849/30826\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"525\", \"EXIF SubSecTimeDigitized\": \"525\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4183519/1048501, 4183519/1048501, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 back camera 3.99mm f/1.8\"}",
+    "sha256": "393449130b23224540456a580708bd34701108314a686cbb7828b12de387cdb1"
+}

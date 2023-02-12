@@ -1,0 +1,12 @@
+{
+    "url": "https://static.boredpanda.com/blog/wp-content/uploads/2015/06/20141117_193142__605.jpg",
+    "key": "000021337",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 605,
+    "original_height": 340,
+    "exif": "{\"Image ImageWidth\": \"5312\", \"Image ImageLength\": \"2988\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"SM-G900F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G900FXXU1ANCF\", \"Image DateTime\": \"2014:11:17 19:31:41\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:11:17 19:31:41\", \"EXIF DateTimeDigitized\": \"2014:11:17 19:31:41\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF MaxApertureValue\": \"57/25\", \"EXIF MeteringMode\": \"Average\", \"EXIF FocalLength\": \"24/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"5312\", \"EXIF ExifImageLength\": \"2988\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"648\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Night\", \"EXIF ImageUniqueID\": \"F16QLHC04GB\"}",
+    "sha256": "5fb8ace7b0ed9ce45d4eec5d5ff498541dbcc6196a54df6b27e317151a02f854"
+}

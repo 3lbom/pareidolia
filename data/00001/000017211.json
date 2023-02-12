@@ -1,0 +1,12 @@
+{
+    "url": "https://maniac-pink.com/wp-content/uploads/2014/06/jojo_coffee4-400x387.jpg",
+    "key": "000017211",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 387,
+    "exif": "{\"Image Make\": \"Sony\", \"Image Model\": \"SOL24\", \"Image Software\": \"Adobe Photoshop Express 9.0 (Windows)\", \"Image DateTime\": \"2014:06:25 20:57:06\", \"Image ExifOffset\": \"144\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"12/5\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:06:25 19:58:42\", \"EXIF DateTimeDigitized\": \"2014:06:25 19:58:42\", \"EXIF ShutterSpeedValue\": \"4906891/1000000\", \"EXIF ApertureValue\": \"2526069/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Fluorescent\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"74/25\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "56541b835297ea870fdf4093ee44ec8a3b1f053091bf350ce6f46691106c6b69"
+}

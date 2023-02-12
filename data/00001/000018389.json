@@ -1,0 +1,12 @@
+{
+    "url": "https://myagi.jp/images/manhole/nagoya18.jpg",
+    "key": "000018389",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"7.1.1\", \"Image DateTime\": \"2014:05:18 09:27:03\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"204\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[35, 10, 467/25]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[136, 53, 417/50]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"3443/109\", \"GPS GPSTimeStamp\": \"[0, 27, 7/2]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"44621/366\", \"Image GPSInfo\": \"946\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1242\", \"Thumbnail JPEGInterchangeFormatLength\": \"9520\", \"EXIF ExposureTime\": \"1/228\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:05:18 09:27:03\", \"EXIF DateTimeDigitized\": \"2014:05:18 09:27:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"9679/1236\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"6172/871\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"552\", \"EXIF SubSecTimeDigitized\": \"552\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"768\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[103/25, 103/25, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5 back camera 4.12mm f/2.4\"}",
+    "sha256": "4b005e19c1e846a0cee5759c3a6eb438cbfd15d964c2c7528df6b4e9a7b9f2dd"
+}

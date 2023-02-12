@@ -1,0 +1,12 @@
+{
+    "url": "https://www.espressohead.com.au/wp-content/uploads/2017/02/IMG_3074-300x228.jpg",
+    "key": "000026202",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 228,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 2.0\", \"Image DateTime\": \"2017:01:11 22:19:46\", \"Image ExifOffset\": \"186\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:01:11 22:19:46\", \"EXIF DateTimeDigitized\": \"2017:01:11 22:19:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2028/469\", \"EXIF ApertureValue\": \"2159/1273\", \"EXIF BrightnessValue\": \"2875/1282\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[1662, 354, 2196, 1320]\", \"EXIF SubSecTimeOriginal\": \"485\", \"EXIF SubSecTimeDigitized\": \"485\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"531\", \"EXIF ExifImageLength\": \"403\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"6\", \"EXIF FocalLengthIn35mmFilm\": \"170\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF LensSpecification\": \"[399/100, 399/100, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 back camera 3.99mm f/1.8\"}",
+    "sha256": "c9eea9628d16dedd1f6a15320ef1f7cd60fccfd83e09d40e917bc0af150aada0"
+}

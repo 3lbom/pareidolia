@@ -1,0 +1,12 @@
+{
+    "url": "https://i1.wp.com/readyjetroam.com/wp-content/uploads/2021/07/img_5879.jpg?resize=600%2C800&ssl=1",
+    "key": "000013113",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone XS Max\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"14.4.1\", \"Image DateTime\": \"2021:04:26 11:50:04\", \"Image HostComputer\": \"iPhone XS Max\", \"Image ExifOffset\": \"212\", \"EXIF ExposureTime\": \"1/122\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"25\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:04:26 11:50:04\", \"EXIF DateTimeDigitized\": \"2021:04:26 11:50:04\", \"EXIF OffsetTime\": \"-05:00\", \"EXIF OffsetTimeOriginal\": \"-05:00\", \"EXIF OffsetTimeDigitized\": \"-05:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"71685/10351\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"147165/24221\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"17/4\", \"EXIF SubjectArea\": \"[2013, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"854\", \"EXIF SubSecTimeDigitized\": \"854\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"800\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[17/4, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone XS Max back dual camera 4.25mm f/1.8\", \"EXIF Tag 0xA460\": \"2\"}",
+    "sha256": "914e277741838da9c014b781533037296a5d57ebf7038d699a72494c9cf0e095"
+}

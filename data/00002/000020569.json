@@ -1,0 +1,12 @@
+{
+    "url": "https://s0.wklcdn.com/image_32/961396/34801364/22493940Master.jpg",
+    "key": "000020569",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1600,
+    "original_height": 900,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS CORPORATION\", \"Image Model\": \"E-M10 Mark III\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Snapseed 2.0\", \"Image DateTime\": \"2019:04:01 23:03:31\", \"Image Artist\": \"\", \"Image WhitePoint\": \"[313/1000, 329/1000]\", \"Image PrimaryChromaticities\": \"[16/25, 33/100, 21/100, 71/100, 3/20, 3/50]\", \"Image YCbCrCoefficients\": \"[299/1000, 587/1000, 57/500]\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"558\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"1188\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"71/10\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:04:01 15:44:21\", \"EXIF DateTimeDigitized\": \"2019:04:01 15:44:21\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"925/256\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"8\", \"EXIF FocalLength\": \"14\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"900\", \"Interoperability InteroperabilityIndex\": \"R03\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1158\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF Gamma\": \"11/5\"}",
+    "sha256": "21f5ee0883df0cad1a65f969b21d7b254e496f2a679f90c0785cac03d29f166a"
+}

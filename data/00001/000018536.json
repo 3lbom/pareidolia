@@ -1,0 +1,12 @@
+{
+    "url": "https://newsorbit.com/wp-content/uploads/2021/06/9.79.jpeg.jpg",
+    "key": "000018536",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 391,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2021:06:09 18:57:49\", \"Image ExifOffset\": \"156\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"294\", \"Thumbnail JPEGInterchangeFormatLength\": \"3609\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"391\"}",
+    "sha256": "90e1d725521aaf6798d19c81db72e7b0dc82aa962ef27dbe4eea4fafc1f38531"
+}

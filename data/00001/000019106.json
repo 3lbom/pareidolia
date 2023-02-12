@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/2012/Cave-Creek-Canyon-2012/i-k8D3hCQ/0/bba387c4/S/CaveCreekCanyon2012-39-S.jpg",
+    "key": "000019106",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 225,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SD870 IS\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 4.1 (Windows)\", \"Image DateTime\": \"2012:06:27 11:07:39\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"230\", \"EXIF ExposureTime\": \"1/640\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:06:18 11:41:51\", \"EXIF DateTimeDigitized\": \"2012:06:18 11:41:51\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"91/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensModel\": \"4.6-17.3 mm\"}",
+    "sha256": "b4c6a6001eb5826ee45780a3cab9042bc3b95c327596e3183a79d8078d950e8d"
+}

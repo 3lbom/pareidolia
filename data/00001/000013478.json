@@ -1,0 +1,12 @@
+{
+    "url": "https://i2.wp.com/pt-hyatt.com/wp-content/uploads/2020/02/doubletree-bangkok-ploenchit46.jpg?ssl=1",
+    "key": "000013478",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 432,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 11 Pro Max\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Simple Camera 3.9.2\", \"Image DateTime\": \"2020:02:26 09:45:36\", \"Image ExifOffset\": \"202\", \"EXIF ExposureTime\": \"1/103\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:02:26 09:45:36\", \"EXIF DateTimeDigitized\": \"2020:02:26 09:45:36\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"62770/9387\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"29687/4940\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"17/4\", \"EXIF SubjectArea\": \"[2003, 1505, 2112, 1264]\", \"EXIF SubSecTimeOriginal\": \"479\", \"EXIF SubSecTimeDigitized\": \"479\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"432\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"bb526e5536ff13130000000000000000\", \"EXIF LensSpecification\": \"[807365/524263, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 11 Pro Max back triple camera 4.25mm f/1.8\"}",
+    "sha256": "10eb48515645f0d279ee6195d3650ea877b0c1ce2c8da7d8356288fd56b552be"
+}

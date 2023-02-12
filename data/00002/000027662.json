@@ -1,0 +1,12 @@
+{
+    "url": "https://www.tberg.de/wp-content/uploads/2021/07/TB-2020-0204.jpg",
+    "key": "000027662",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1017,
+    "original_height": 678,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON Z 50\", \"Image XResolution\": \"60\", \"Image YResolution\": \"60\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 10.3 (Windows)\", \"Image DateTime\": \"2021:07:07 21:25:47\", \"Image Artist\": \"Torsten Berg      info@tberg.de\", \"Image ExifOffset\": \"270\", \"EXIF ExposureTime\": \"1/1600\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:06:21 12:17:01\", \"EXIF DateTimeDigitized\": \"2020:06:21 12:17:01\", \"EXIF OffsetTime\": \"+02:00\", \"EXIF OffsetTimeOriginal\": \"+01:00\", \"EXIF OffsetTimeDigitized\": \"+01:00\", \"EXIF ShutterSpeedValue\": \"665241/62500\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"16\", \"EXIF SubSecTimeOriginal\": \"49\", \"EXIF SubSecTimeDigitized\": \"49\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"19397103/8192\", \"EXIF FocalPlaneYResolution\": \"19397103/8192\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"6019572\", \"EXIF LensSpecification\": \"[16, 50, 7/2, 63/10]\", \"EXIF LensMake\": \"NIKON\", \"EXIF LensModel\": \"NIKKOR Z DX 16-50mm f/3.5-6.3 VR\", \"EXIF LensSerialNumber\": \"20054922\"}",
+    "sha256": "fe2b1f39d08be24a1ceb114f07c590dccfff3c092900571efbdadf2959843f00"
+}

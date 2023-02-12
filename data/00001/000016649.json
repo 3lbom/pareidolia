@@ -1,0 +1,12 @@
+{
+    "url": "https://kidfriendlythingstodo.com/wp-content/uploads/2012/05/strawberry-snake-tongue-300x300.jpg",
+    "key": "000016649",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Embettered by PicMonkey. http://www.picmonkey.com\", \"Image DateTime\": \"2013:05:24 15:19:33\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2276\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[41, 4411/100, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[72, 1083/20, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"20977/263\", \"GPS GPSTimeStamp\": \"[19, 19, 649/20]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"67885/297\", \"Image GPSInfo\": \"4740\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"0\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5110\", \"Thumbnail JPEGInterchangeFormatLength\": \"6596\", \"Thumbnail YCbCrPositioning\": \"0\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:05:24 15:19:33\", \"EXIF DateTimeDigitized\": \"2013:05:24 15:19:33\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"4889/1250\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"4303/3180\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[1295, 967, 699, 696]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2592\", \"EXIF ExifImageLength\": \"1936\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "31251ef4193a09efe1c81d2881c7d673f04edf30ee07ffa0927fce0ca6b84973"
+}

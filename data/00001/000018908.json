@@ -1,0 +1,12 @@
+{
+    "url": "https://pds.exblog.jp/pds/1/201310/10/99/e0077899_8273855.jpg",
+    "key": "000018908",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 413,
+    "original_height": 310,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-FT4\", \"Image DateTime\": \"2013:10:07 08:41:53\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"584\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"2637\", \"GPS GPSImgDirectionRef\": \"M\", \"GPS GPSImgDirection\": \"45\", \"Image GPSInfo\": \"11966\", \"Image SensitivityType\": \"Standard Output Sensitivity\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D2\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D3\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"11/2\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:10:07 08:41:53\", \"EXIF DateTimeDigitized\": \"2013:10:07 08:41:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"315/64\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"67/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4000\", \"EXIF ExifImageLength\": \"3000\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"76\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "52b2ab0cf884767925495e367631d5fc4cd1f12ec32ea652cc5f9864d1cbdc12"
+}

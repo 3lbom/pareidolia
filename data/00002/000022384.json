@@ -1,0 +1,12 @@
+{
+    "url": "https://thumb.mp-farm.com/621081/vertical.jpg",
+    "key": "000022384",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Copyright\": \"Lothar Hinz\", \"Image ExifOffset\": \"114\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"267\"}",
+    "sha256": "5086db91a6a8518573018b50625ca36fd6c3caa055ccde62a36827364950986a"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://images.angelpub.com/2016/50/41393/pareidolia-box.jpg",
+    "key": "000014499",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 500,
+    "exif": "{\"Image Make\": \"Motorola\", \"Image Model\": \"Milestone\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"picnik.com\", \"Image DateTime\": \"2011:01:30 12:14:25\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"202\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[0, 0, 0]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[0, 0, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"Image GPSInfo\": \"710\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"EXIF ExposureTime\": \"1/411\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"59\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:01:30 12:14:25\", \"EXIF DateTimeDigitized\": \"2011:01:30 12:14:25\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"23358/2689\", \"EXIF ApertureValue\": \"24361/8200\", \"EXIF BrightnessValue\": \"1993/256\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"D55\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1456\", \"EXIF ExifImageLength\": \"2592\", \"EXIF ExposureIndex\": \"59\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF ImageUniqueID\": \"\"}",
+    "sha256": "e38aa7bbf9efc55b00112716b3e2b8dd0363130c7a177fd03306fa55a4675560"
+}

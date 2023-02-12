@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Travel/France/Vogesen-2014/i-4jnpPXC/1/S/2014.04.20_025-S.jpg",
+    "key": "000019234",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"SONY\", \"Image Model\": \"NEX-7\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2014:05:13 22:16:08\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"202\", \"EXIF ExposureTime\": \"1/640\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:04:20 11:08:07\", \"EXIF DateTimeDigitized\": \"2014:04:20 11:08:07\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"13301/2002\", \"EXIF ExposureBiasValue\": \"-1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Cloudy weather\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"18\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensModel\": \"E 18-200mm F3.5-6.3 OSS\"}",
+    "sha256": "4ac9ad877e0112b837d3c8213cc89b2af62d967a33a47b58bcf70c23f68f5728"
+}

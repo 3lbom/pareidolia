@@ -1,0 +1,12 @@
+{
+    "url": "https://i2.wp.com/stillwalks.com/wp-content/uploads/2021/02/Swansea-Parks-2.jpg?ssl=1",
+    "key": "000013509",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 845,
+    "original_height": 1000,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 8\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 10.1.1 (Macintosh)\", \"Image DateTime\": \"2021:02:16 20:20:30\", \"Image ExifOffset\": \"216\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:02:16 10:56:43\", \"EXIF DateTimeDigitized\": \"2021:02:16 10:56:43\", \"EXIF OffsetTime\": \"+00:00\", \"EXIF ShutterSpeedValue\": \"3906891/1000000\", \"EXIF ApertureValue\": \"847997/500000\", \"EXIF BrightnessValue\": \"12567/6583\", \"EXIF ExposureBiasValue\": \"-18280/63971\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2323, 1430, 753, 756]\", \"EXIF SubSecTimeOriginal\": \"526\", \"EXIF SubSecTimeDigitized\": \"526\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4183519/1048501, 4183519/1048501, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 8 back camera 3.99mm f/1.8\"}",
+    "sha256": "6ff0666fa0728b82a5766319385145bd590754f74c82b7cc3f1af34447f69e06"
+}

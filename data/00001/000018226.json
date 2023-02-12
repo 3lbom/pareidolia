@@ -1,0 +1,12 @@
+{
+    "url": "https://mexicocooks.typepad.com/.a/6a00d8341c571453ef01b8d15ba0a0970c-800wi",
+    "key": "000018226",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 558,
+    "original_height": 700,
+    "exif": "{\"Image ImageWidth\": \"720\", \"Image ImageLength\": \"960\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 12.0 Macintosh\", \"Image DateTime\": \"2015:09:20 21:15:32\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"390\", \"Thumbnail JPEGInterchangeFormatLength\": \"7191\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"558\", \"EXIF ExifImageLength\": \"700\"}",
+    "sha256": "c8c8d6c8d820eb1f1df50e507cfccc391302a3ff7db8bea8724741f0abd966e6"
+}

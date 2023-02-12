@@ -1,0 +1,12 @@
+{
+    "url": "https://whitepostcards.files.wordpress.com/2016/07/14.jpg?w=700",
+    "key": "000025432",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 683,
+    "original_height": 1024,
+    "exif": "{\"Image ImageDescription\": \"Cantiliver Rock, Mount Mansfield\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5200\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iPhoto 9.5.1\", \"Image DateTime\": \"2016:07:15 19:51:55\", \"Image ExifOffset\": \"248\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:07:15 19:51:55\", \"EXIF DateTimeDigitized\": \"2016:07:15 19:51:55\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"18/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"18\", \"EXIF SubSecTime\": \"30\", \"EXIF SubSecTimeOriginal\": \"30\", \"EXIF SubSecTimeDigitized\": \"30\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"683\", \"EXIF ExifImageLength\": \"1024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"18\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "cdf36067b334eecb091ae6fd44460126fd62e1290601677d29a364a98383d3c7"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://odessa-life.od.ua/wp-content/uploads/2019/10/IMG_0393-510x187.jpg",
+    "key": "000018640",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 510,
+    "original_height": 187,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon IXUS 170\", \"Image Software\": \"Picasa\", \"Image DateTime\": \"2019:10:10 16:03:50\", \"Image Artist\": \"Picasa\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Tag 0x1001\": \"5152\", \"Image Tag 0x1002\": \"3864\", \"Image Rating\": \"0\", \"Image Tag 0x4749\": \"0\", \"Image ExifOffset\": \"2380\", \"Image SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"Image XPTitle\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image XPAuthor\": \"\", \"Image XPSubject\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image CameraOwnerName\": \"\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"5\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:10:10 11:52:11\", \"EXIF DateTimeDigitized\": \"2019:10:10 11:52:11\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"157/32\", \"EXIF ApertureValue\": \"149/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"149/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"7851/500\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"5152\", \"EXIF ExifImageLength\": \"3864\", \"EXIF FocalPlaneXResolution\": \"5152000/243\", \"EXIF FocalPlaneYResolution\": \"1288000/61\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"8cd6e4f9d4a59defbcaefa7be9d2681f\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4240\"}",
+    "sha256": "02094d239371cdadd9a42e484c2860ea4a3206ff664aa85cb877723769e14dc3"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.tijo-kinderbuch.de/wp-content/uploads/2017/05/BaummitLogo.jpg",
+    "key": "000027763",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.1.7600.16385\", \"Image DateTime\": \"2014:08:19 21:01:13\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2316\", \"Image XPKeywords\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5834\", \"Thumbnail JPEGInterchangeFormatLength\": \"5924\", \"EXIF ExposureTime\": \"1/297\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:08:09 14:47:28\", \"EXIF DateTimeDigitized\": \"2014:08:09 14:47:28\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"18214/2217\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"8924/1221\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"067\", \"EXIF SubSecTimeDigitized\": \"067\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"800\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"30\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[103/25, 103/25, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5s back camera 4.12mm f/2.2\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4208\"}",
+    "sha256": "3e7686f24df960932e3ccfd7a213da2f2ce0177835faf5b78a000c0ffbcbdc13"
+}

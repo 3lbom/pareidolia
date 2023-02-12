@@ -1,0 +1,12 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Leinleitertal_Heroldstein-20200324-RM-161225.jpg/90px-Leinleitertal_Heroldstein-20200324-RM-161225.jpg",
+    "key": "000024774",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 90,
+    "original_height": 120,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"reinhold m\\u00f6ller\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"CC-BY-SA\"}",
+    "sha256": "76d9528cb2ed73c4ef5caef3a76888e44c61cdbfc02a105d81a52384d6dd66c0"
+}

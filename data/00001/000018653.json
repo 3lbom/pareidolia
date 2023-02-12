@@ -1,0 +1,12 @@
+{
+    "url": "https://oferta.bg/uploads/old%2F17618_orig.jpg",
+    "key": "000018653",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 281,
+    "exif": "{\"Image ImageWidth\": \"5312\", \"Image ImageLength\": \"2988\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-G928F\", \"Image Orientation\": \"Rotated 90 CW\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G928FXXS5CRH1\", \"Image DateTime\": \"2020:01:24 13:18:52\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"Thumbnail ImageWidth\": \"480\", \"Thumbnail ImageLength\": \"272\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Rotated 90 CW\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"928\", \"Thumbnail JPEGInterchangeFormatLength\": \"7108\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:01:24 13:18:52\", \"EXIF DateTimeDigitized\": \"2020:01:24 13:18:52\", \"EXIF ShutterSpeedValue\": \"141/25\", \"EXIF ApertureValue\": \"37/20\", \"EXIF BrightnessValue\": \"109/50\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"5312\", \"EXIF ExifImageLength\": \"2988\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"B16LLIH07VM B16LLKD01GM\"}",
+    "sha256": "53fde85e1ba89f9c05f011b1256c4cf51a4a35fde0c74d20c29d34766a754907"
+}

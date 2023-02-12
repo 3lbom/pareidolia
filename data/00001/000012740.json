@@ -1,0 +1,12 @@
+{
+    "url": "https://i0.wp.com/s3.amazonaws.com/images.bobpalin.com/2019/2019_01/20190119/20190119_150336.jpg?w=1024&",
+    "key": "000012740",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 576,
+    "original_height": 1024,
+    "exif": "{\"Image ImageWidth\": \"5312\", \"Image ImageLength\": \"2988\", \"Image Make\": \"samsung\", \"Image Model\": \"SAMSUNG-SM-G920A\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G920AUCS7ERC1\", \"Image DateTime\": \"2019:01:19 15:03:35\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"246\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[33, 13, 55]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[114, 12, 51]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"536\", \"GPS GPSTimeStamp\": \"[22, 1, 4]\", \"GPS GPSDate\": \"2019:01:19\", \"Image GPSInfo\": \"818\", \"Thumbnail ImageWidth\": \"480\", \"Thumbnail ImageLength\": \"272\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Rotated 90 CW\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1154\", \"Thumbnail JPEGInterchangeFormatLength\": \"18956\", \"EXIF ExposureTime\": \"1/710\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:01:19 15:03:35\", \"EXIF DateTimeDigitized\": \"2019:01:19 15:03:35\", \"EXIF ShutterSpeedValue\": \"947/100\", \"EXIF ApertureValue\": \"37/20\", \"EXIF BrightnessValue\": \"793/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"576\", \"EXIF ExifImageLength\": \"1024\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"A16LLIC08SM A16LLJL02GM\"}",
+    "sha256": "a15884ee96abc019034609a5dc61aa5991f465648ebde882a62963af9a4477a1"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.otherside.gr/wp-content/uploads/2013/09/asteia-proswpa-pantou-115.jpg",
+    "key": "000027069",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 605,
+    "original_height": 425,
+    "exif": "{\"Image ImageWidth\": \"500\", \"Image ImageLength\": \"351\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2013:08:09 12:49:35\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"8393\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"605\", \"EXIF ExifImageLength\": \"425\"}",
+    "sha256": "3b739f4b49374149a4194962105ec7385f0a579b5d3efcb10abbfa3e90ae9d8d"
+}

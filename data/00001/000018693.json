@@ -1,0 +1,12 @@
+{
+    "url": "https://ometsu.net/wp-content/uploads/2020/10/DSC0855.jpg",
+    "key": "000018693",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 684,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D600\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 9.4 (Macintosh)\", \"Image DateTime\": \"2020:10:21 15:59:52\", \"Image ExifOffset\": \"226\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"280\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:10:20 13:58:11\", \"EXIF DateTimeDigitized\": \"2020:10:20 13:58:11\", \"EXIF OffsetTime\": \"+09:00\", \"EXIF ShutterSpeedValue\": \"995723/125000\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"-5/2\", \"EXIF MaxApertureValue\": \"8/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Fine weather\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTimeOriginal\": \"50\", \"EXIF SubSecTimeDigitized\": \"50\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"54886891/32768\", \"EXIF FocalPlaneYResolution\": \"54886891/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"50\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2019056\", \"EXIF LensSpecification\": \"[50, 50, 9/5, 9/5]\", \"EXIF LensModel\": \"50.0 mm f/1.8\"}",
+    "sha256": "b57cc999b77f776d355397e345c1145ff1b03ac80b22cffe99b543dd5be6af2f"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://ohi.org.au/wp-content/uploads/legacy/_images/blog-images/yellow%20watermelon%201.jpg",
+    "key": "000018663",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 857,
+    "exif": "{\"Image ImageWidth\": \"1936\", \"Image ImageLength\": \"2592\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2013:02:20 11:51:44\", \"Image HostComputer\": \"Mac OS X 10.6.8\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"312\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"798\", \"Thumbnail JPEGInterchangeFormatLength\": \"6005\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:02:18 13:28:17\", \"EXIF DateTimeDigitized\": \"2013:02:18 13:28:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"4889/1250\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"4091/2142\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[1295, 967, 699, 696]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"857\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9942c191542dd8cfc57f08ac34c942310971c04fbc34f7464bea20e4f54f425d"
+}

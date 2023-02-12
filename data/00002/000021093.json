@@ -1,0 +1,12 @@
+{
+    "url": "https://snaiper-bg.net/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2017/01/m-a.jpg",
+    "key": "000021093",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 654,
+    "original_height": 349,
+    "exif": "{\"Image DateTime\": \"2017:01:18 13:14:59\", \"Image ExifOffset\": \"58\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"106\", \"Thumbnail JPEGInterchangeFormatLength\": \"5525\"}",
+    "sha256": "d8d401fa281e8a601d614e43a3c4944fb8daac71d0522bd57f0da7b33c72675f"
+}

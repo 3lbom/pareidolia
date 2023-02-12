@@ -1,0 +1,12 @@
+{
+    "url": "https://img.qraved.co/v2/image/instagram/1415759695482098860_45144148-t.jpg",
+    "key": "000015932",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 340,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"360\", \"EXIF ExifImageLength\": \"340\"}",
+    "sha256": "52e69489ff76cfd0048be3ff63f7196ebb609b7fd6e5f68f9bd49655a4125112"
+}

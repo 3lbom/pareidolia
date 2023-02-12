@@ -1,0 +1,12 @@
+{
+    "url": "https://image1.shopserve.jp/shizekura.net/pic-labo/makuwauri1.JPG",
+    "key": "000014423",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone X\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2020:08:21 17:45:20\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"210\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[35, 56, 218/25]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[140, 8, 4663/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"76205/3236\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"252613/1211\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"252613/1211\", \"GPS Tag 0x001F\": \"65\", \"Image GPSInfo\": \"1954\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:08:21 17:45:20\", \"EXIF DateTimeDigitized\": \"2020:08:21 17:45:20\", \"EXIF OffsetTime\": \"+09:00\", \"EXIF OffsetTimeOriginal\": \"+09:00\", \"EXIF OffsetTimeDigitized\": \"+09:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"52665/9329\", \"EXIF ApertureValue\": \"126503/50079\", \"EXIF BrightnessValue\": \"54460/14067\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"6\", \"EXIF SubjectArea\": \"[2011, 1509, 2217, 1327]\", \"EXIF SubSecTimeOriginal\": \"177\", \"EXIF SubSecTimeDigitized\": \"177\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"3024\", \"EXIF ExifImageLength\": \"4032\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"52\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone X back dual camera 6mm f/2.4\"}",
+    "sha256": "418c72e0a14b610dec4e3abc09cdb412a7722b9f38eb816f3539327c9d5c5294"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://i.servimg.com/u/f92/19/98/40/53/img_2015.jpg",
+    "key": "000012450",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 1365,
+    "exif": "{\"Image Make\": \"LENOVO\", \"Image Model\": \"Lenovo A6020l36\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2018:04:12 19:17:55\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"182\", \"GPS GPSAltitudeRef\": \"11/5\", \"GPS GPSTimeStamp\": \"[0, 17, 54]\", \"GPS GPSImgDirectionRef\": \"M\", \"GPS GPSImgDirection\": \"193\", \"GPS GPSDate\": \"2018:04:13\", \"Image GPSInfo\": \"692\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"904\", \"Thumbnail JPEGInterchangeFormatLength\": \"21605\", \"EXIF ExposureTime\": \"1/100\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"88\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:04:12 19:17:55\", \"EXIF DateTimeDigitized\": \"2018:04:12 19:17:55\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"1659/250\", \"EXIF ApertureValue\": \"11/5\", \"EXIF BrightnessValue\": \"2147483647/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"92/25\", \"EXIF SubSecTime\": \"274980\", \"EXIF SubSecTimeOriginal\": \"274980\", \"EXIF SubSecTimeDigitized\": \"274980\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3120\", \"EXIF ExifImageLength\": \"4160\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"662\", \"EXIF ExposureIndex\": \"250\", \"EXIF SensingMethod\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF FocalLengthIn35mmFilm\": \"0\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\"}",
+    "sha256": "d847a9f627da361e30fcb8b75b6ab7115d66030f338aa13e18d5aa39e3a3a139"
+}

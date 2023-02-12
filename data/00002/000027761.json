@@ -1,0 +1,12 @@
+{
+    "url": "https://www.tijo-kinderbuch.de/wp-content/uploads/2017/05/ApfelmnnchenmitLogo.jpg",
+    "key": "000027761",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 648,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.1.7600.16385\", \"Image DateTime\": \"2014:09:07 23:07:33\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2300\", \"Image XPKeywords\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image LensSpecification\": \"[103/25, 103/25, 11/5, 11/5]\", \"Image LensMake\": \"Apple\", \"Image LensModel\": \"iPhone 5s back camera 4.12mm f/2.2\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"640\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:09:02 18:49:05\", \"EXIF DateTimeDigitized\": \"2014:09:02 18:49:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5173/1324\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"-4075/2563\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"66\", \"EXIF SubSecTimeDigitized\": \"66\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"648\", \"EXIF ExifImageLength\": \"800\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"30\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4156\"}",
+    "sha256": "a004b6e0ba1379f1bc0f2aac7d78f505bf6b246f77d0e0e96de8c8d619611d5d"
+}

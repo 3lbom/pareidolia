@@ -1,0 +1,12 @@
+{
+    "url": "https://peakvisor.com/photo/e/ea/KittenMountain.jpg",
+    "key": "000018923",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 646,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2013:03:31 07:15:27\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"3792\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"393\", \"EXIF ExifImageLength\": \"248\"}",
+    "sha256": "bd5ee90de8015d937892d2627acf165051e20c68262b04162c1b1e54c71a65bd"
+}

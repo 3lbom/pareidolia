@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/The-Sierra-in-Fall/i-tXzQ4MF/0/7b472b5f/L/DSC06031-1-L.jpg",
+    "key": "000019225",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 750,
+    "original_height": 600,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "3a46cb0a0f10f1decc77202a2579bc7ab6b267261305acaf09ecf1fafd0047c1"
+}

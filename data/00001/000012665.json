@@ -1,0 +1,12 @@
+{
+    "url": "https://i0.wp.com/img0.liveinternet.ru/images/attach/c/1//58/802/58802834_1273357552_pear_heads_03.jpg?resize=320%2C480",
+    "key": "000012665",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XT\", \"Image Orientation\": \"0\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Picasa 3.0\", \"Image DateTime\": \"2010:04:30 13:42:37\", \"Image WhitePoint\": \"[0, 0]\", \"Image PrimaryChromaticities\": \"[0, 0, 0, 0, 0, 0]\", \"Image YCbCrCoefficients\": \"[0, 0, 0]\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ReferenceBlackWhite\": \"[0, 0, 0, 0, 0, 0]\", \"Image ExifOffset\": \"640\", \"EXIF ExposureTime\": \"33333/1000000\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Program Action\", \"EXIF ISOSpeedRatings\": \"[400, 400]\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:05:01 03:52:37\", \"EXIF DateTimeDigitized\": \"2010:05:01 03:52:37\", \"EXIF CompressedBitsPerPixel\": \"0\", \"EXIF ShutterSpeedValue\": \"4906891/1000000\", \"EXIF ApertureValue\": \"232193/50000\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"0\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"38\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1067\", \"EXIF ExifImageLength\": \"1600\", \"EXIF FocalPlaneXResolution\": \"395423341/100000\", \"EXIF FocalPlaneYResolution\": \"395876289/100000\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF ExposureIndex\": \"0\", \"EXIF SensingMethod\": \"0\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "a68df30a1e71de1dc5497fc5fb65deaf5051c7f0e767b4f5282b0ae1ff6e4b6d"
+}

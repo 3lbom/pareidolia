@@ -1,0 +1,12 @@
+{
+    "url": "https://www.qnget.com/wp-content/uploads/2018/03/2018032420575148.jpg",
+    "key": "000027324",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1080,
+    "original_height": 1080,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"78\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1080\", \"EXIF ExifImageLength\": \"1080\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "e6f686c5c4ce4b2548c327b39b472d9d226a5eb57c3782ea1b4bb42bdb736820"
+}

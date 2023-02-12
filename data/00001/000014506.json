@@ -1,0 +1,12 @@
+{
+    "url": "https://images.artsgtu.ru/uploads/2019/11/kamennye-zhivotnye3.jpg",
+    "key": "000014506",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 556,
+    "exif": "{\"Image ImageWidth\": \"687\", \"Image ImageLength\": \"597\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2014 (Windows)\", \"Image DateTime\": \"2019:11:28 13:28:17\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"7341\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"556\"}",
+    "sha256": "a447a32564af0b9a46aaf7e726c96a645214b8f1e45424231e3724709d160c67"
+}

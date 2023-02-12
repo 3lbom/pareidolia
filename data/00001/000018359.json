@@ -1,0 +1,12 @@
+{
+    "url": "https://mp.reshift.nl/zoom/E8B1325B52DB2F70EA77138D4BC853AE-wooden-sculpture.jpg?w=460",
+    "key": "000018359",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 460,
+    "original_height": 306,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D70\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Microsoft Windows Photo Gallery 6.0.6001.18000\", \"Image DateTime\": \"2010:03:19 22:29:11\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2318\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5148\", \"Thumbnail JPEGInterchangeFormatLength\": \"2979\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2006:12:24 13:18:13\", \"EXIF DateTimeDigitized\": \"2006:12:24 13:18:13\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"43/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"70\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"3008\", \"EXIF ExifImageLength\": \"2000\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"4984\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"105\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF ImageUniqueID\": \"FDB34C5A4862436985CA03EB48AAAE59\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "40edb0c2cf345908112401adc96d1825d075a3bae124b70e1a7aca4599a7c3fc"
+}

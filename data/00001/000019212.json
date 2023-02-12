@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Published-Stories/Stories/i-MD4KMBV/1/12123828/L/DSC_3023-L.jpg",
+    "key": "000019212",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 401,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D810\", \"Image XResolution\": \"150\", \"Image YResolution\": \"150\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Macintosh)\", \"Image DateTime\": \"2018:01:09 13:28:48\", \"Image Artist\": \"Michael Montano Photography\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Michael Montano   PHOTOGRAPHY\", \"Image ExifOffset\": \"306\", \"EXIF ExposureTime\": \"1/200\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"3200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:10:16 16:44:53\", \"EXIF DateTimeDigitized\": \"2016:10:16 16:44:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"16799/2428\", \"EXIF ExposureBiasValue\": \"1/3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"105\", \"EXIF SubSecTime\": \"27\", \"EXIF SubSecTimeOriginal\": \"27\", \"EXIF SubSecTimeDigitized\": \"27\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3017128\", \"EXIF LensModel\": \"105.0 mm f/2.8\"}",
+    "sha256": "f6513e37b33a816ce73aed601d8789d94d602f8ec1d77f9a763da63dde9bd4d0"
+}

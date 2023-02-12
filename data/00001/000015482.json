@@ -1,0 +1,12 @@
+{
+    "url": "https://img.designswan.com/2011/07/street/6.jpg",
+    "key": "000015482",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 560,
+    "original_height": 420,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"b'ACD Systems \\\\xca\\\\xfd\\\\xc2\\\\xeb\\\\xb3\\\\xc9\\\\xcf\\\\xf1'\", \"Image DateTime\": \"2011:07:21 20:37:01\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"167\", \"EXIF SubSecTime\": \"226\", \"EXIF ExifImageWidth\": \"560\", \"EXIF ExifImageLength\": \"420\"}",
+    "sha256": "edc8bebcadca772df684d8e04def0b69e6c6f9a5fb8b712eff12c7ad20265957"
+}

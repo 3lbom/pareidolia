@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/photos/i-bvMbK8B/0/L/i-bvMbK8B-L.jpg",
+    "key": "000019260",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 399,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D700\", \"Image XResolution\": \"100\", \"Image YResolution\": \"100\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.5.1 (Macintosh)\", \"Image DateTime\": \"2017:01:16 22:20:56\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"232\", \"EXIF ExposureTime\": \"1/60\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"1250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:03:18 18:42:41\", \"EXIF DateTimeDigitized\": \"2012:03:18 18:42:41\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"24361/8200\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTimeOriginal\": \"65\", \"EXIF SubSecTimeDigitized\": \"65\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2307700\", \"EXIF LensModel\": \"24.0-70.0 mm f/2.8\"}",
+    "sha256": "fd292393d2cadfdaf741234d27997370198f31ccb8a34bf97b72290e0604f63d"
+}

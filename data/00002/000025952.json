@@ -1,0 +1,12 @@
+{
+    "url": "https://www.cookingwithserrats.com/wp-content/uploads/2021/10/ensalada-arroz-bonito-345x460.jpg",
+    "key": "000025952",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 345,
+    "original_height": 460,
+    "exif": "{\"Image ImageDescription\": \"dav\", \"Image Make\": \"HUAWEI\", \"Image Model\": \"HUAWEI VNS-L31\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"VNS-L31C432B418\", \"Image DateTime\": \"2021:10:06 09:29:06\", \"Image ExifOffset\": \"198\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:07:03 14:24:04\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"56476/1889\", \"EXIF ApertureValue\": \"2\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Daylight\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"19/5\", \"EXIF SubSecTimeOriginal\": \"747616\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1920\", \"EXIF ExifImageLength\": \"2560\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "81b3dc0a257069dd25de352d04a2768c1a433801d9fc1419ec2e7cad69094b09"
+}

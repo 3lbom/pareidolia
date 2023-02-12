@@ -1,0 +1,12 @@
+{
+    "url": "https://planet-terre.ens-lyon.fr/planetterre/objets/Images/Img500/500-prismation-en-arc-Dakar-06-br.jpg",
+    "key": "000019782",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 300,
+    "exif": "{\"Image Orientation\": \"0\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"0\", \"Image Software\": \"GIMP 2.8.10\", \"Image DateTime\": \"2015:01:27 14:01:53\", \"Image ExifOffset\": \"146\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"0\", \"Thumbnail JPEGInterchangeFormat\": \"306\", \"Thumbnail JPEGInterchangeFormatLength\": \"7406\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"900\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "32a86258b1240243074200085237a880b180e82112d81aff36c75bd6aba7266f"
+}

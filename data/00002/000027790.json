@@ -1,0 +1,12 @@
+{
+    "url": "https://www.toxel.com/wp-content/uploads/2020/05/woodenfood02.jpg",
+    "key": "000027790",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 791,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Pixelmator 3.9\", \"Image DateTime\": \"2020:05:30 14:05:43\", \"Image ExifOffset\": \"150\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"450\", \"EXIF ExifImageLength\": \"791\"}",
+    "sha256": "9350c7bb422f9098877fa24fc87fff71e17d03f5f23bad29b1e488a077e4cb02"
+}

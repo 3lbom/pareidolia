@@ -1,0 +1,12 @@
+{
+    "url": "https://pds.exblog.jp/pds/1/201310/21/21/e0140921_23164181.jpg",
+    "key": "000018911",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"iPhone 4S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"OLYMPUS Master 1.41\", \"Image DateTime\": \"2013:10:21 22:46:04\", \"Image HostComputer\": \"Mac OS X 10.5.8\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"262\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"850\", \"Thumbnail JPEGInterchangeFormatLength\": \"10101\", \"Thumbnail YCbCrPositioning\": \"Centered\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:10:09 11:27:31\", \"EXIF DateTimeDigitized\": \"2013:10:09 11:27:31\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"4761/806\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"6288/1505\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"400\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"714\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "fdac59fb9647542b40b1bcd8085644ce08f290425333f0df2ad3162126510432"
+}

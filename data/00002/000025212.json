@@ -1,0 +1,12 @@
+{
+    "url": "https://vivreathenes.com/wp-content/uploads/2018/05/restaurant-cretois-athenes-oxo-nou-975x431.jpg",
+    "key": "000025212",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 975,
+    "original_height": 431,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"11.2.6\", \"Image DateTime\": \"2018:05:11 21:12:59\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"206\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[37, 59, 44/5]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[23, 44, 157/25]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"25751/301\", \"GPS GPSTimeStamp\": \"[18, 12, 57]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"2699/4402\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"52027/217\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"52027/217\", \"GPS GPSDate\": \"2018:05:11\", \"GPS Tag 0x001F\": \"24\", \"Image GPSInfo\": \"1716\", \"EXIF ExposureTime\": \"1/4\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:05:11 21:12:59\", \"EXIF DateTimeDigitized\": \"2018:05:11 21:12:59\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"4387/2193\", \"EXIF ApertureValue\": \"2159/1273\", \"EXIF BrightnessValue\": \"-2945/2549\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"512\", \"EXIF SubSecTimeDigitized\": \"512\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1997\", \"EXIF ExifImageLength\": \"1067\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[399/100, 399/100, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 back camera 3.99mm f/1.8\"}",
+    "sha256": "afbcf20034e0a13692f53e798931ca2b504c2a187db82be6b8217e29e5c4f85e"
+}

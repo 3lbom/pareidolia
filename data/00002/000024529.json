@@ -1,0 +1,12 @@
+{
+    "url": "https://tollipop.typepad.com/.a/6a00e551d85a998834016767db62ae970b-800wi",
+    "key": "000024529",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 470,
+    "original_height": 470,
+    "exif": "{\"Image ImageWidth\": \"1920\", \"Image ImageLength\": \"1920\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5.1 Macintosh\", \"Image DateTime\": \"2012:06:25 15:05:09\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"244\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"430\", \"Thumbnail JPEGInterchangeFormatLength\": \"9456\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"470\", \"EXIF ExifImageLength\": \"470\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "a2e3a65ed138723b6dc5735de567a3278ba5e752d520bef25142051f661ecfa4"
+}

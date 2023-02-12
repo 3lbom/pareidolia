@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Scenic/Black-and-White-1/i-kHT3H75/1/5bc4bf8c/S/bwedit8-10-1100570-S.jpg",
+    "key": "000019218",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 266,
+    "exif": "{\"Image ImageDescription\": \"Shoreline rocks in Hellnar, Iceland.\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D300S\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Macintosh\", \"Image DateTime\": \"2011:08:15 17:35:24\", \"Image Artist\": \"Ryan Askren\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Ryan Askren\", \"Image ExifOffset\": \"316\", \"EXIF ExposureTime\": \"1/25\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:08:07 03:16:34\", \"EXIF DateTimeDigitized\": \"2011:08:07 03:16:34\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"40761/8200\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF SubjectDistance\": \"63/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Shade\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"20\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "7616e4524db50e513f25e9b55890833a62457cc6ecd39a2df7aa392925cb7f4b"
+}

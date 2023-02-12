@@ -1,0 +1,12 @@
+{
+    "url": "https://www.photocircle.net/public/uploads/photos/thumbnail_1000x1000/33654-East-Coast-Iceland--by-lucas-jackson.jpg",
+    "key": "000027147",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1000,
+    "original_height": 585,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"70\", \"Image YResolution\": \"70\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 5.7 (Macintosh)\", \"Image DateTime\": \"2015:09:17 02:04:32\", \"Image ExifOffset\": \"216\", \"EXIF ExposureTime\": \"15\", \"EXIF FNumber\": \"14\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:09:14 16:42:15\", \"EXIF DateTimeDigitized\": \"2015:09:14 16:42:15\", \"EXIF ShutterSpeedValue\": \"-3906891/1000000\", \"EXIF ApertureValue\": \"761471/100000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTimeOriginal\": \"41\", \"EXIF SubSecTimeDigitized\": \"41\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1600\", \"EXIF FocalPlaneYResolution\": \"1600\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"193029007523\", \"EXIF LensSpecification\": \"[50, 50, 0/0, 0/0]\", \"EXIF LensModel\": \"EF50mm f/1.4 USM\", \"EXIF LensSerialNumber\": \"0000000000\"}",
+    "sha256": "2693e32e47e4f57c033b19abafc816c0820723f411141e3ed78efa9a5beb6b2e"
+}

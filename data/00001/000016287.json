@@ -1,0 +1,12 @@
+{
+    "url": "https://imlaendle.de/wp-content/uploads/2017/09/Baumgesicht-250x320.jpg",
+    "key": "000016287",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 250,
+    "original_height": 320,
+    "exif": "{\"Image Make\": \"HTC\", \"Image Model\": \"HTC One M8s\", \"Image Orientation\": \"0\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"0\", \"Image Software\": \"GIMP 2.8.6\", \"Image DateTime\": \"2017:09:30 16:47:16\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"194\", \"Thumbnail ImageWidth\": \"3922541525\", \"Thumbnail ImageLength\": \"1253610496\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"0\", \"Thumbnail JPEGInterchangeFormat\": \"2570\", \"Thumbnail JPEGInterchangeFormatLength\": \"6986\", \"EXIF ExposureTime\": \"1/107\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:04:10 15:42:45\", \"EXIF DateTimeDigitized\": \"2016:04:10 15:42:45\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ShutterSpeedValue\": \"1349/200\", \"EXIF ApertureValue\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"2\", \"EXIF MeteringMode\": \"45283\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"191/50\", \"EXIF SubSecTime\": \"551233\", \"EXIF SubSecTimeOriginal\": \"336\", \"EXIF SubSecTimeDigitized\": \"551233\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"593\", \"EXIF ExifImageLength\": \"800\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"2422\", \"EXIF ExposureIndex\": \"183\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1638081329/531076879\", \"EXIF FocalLengthIn35mmFilm\": \"0\", \"EXIF SceneCaptureType\": \"43691\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "5b3ebc044d127fb9d542f9c67ae84411916ff9b286bed41b1322a2a2ad80ee2f"
+}

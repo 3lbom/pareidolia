@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Faces-in-Nature/Wood-Faces/i-NssSgbB/1/690c90ea/L/DSC_2041-L.jpg",
+    "key": "000019179",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 530,
+    "exif": "{\"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"Larisa Crockett\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Larisa Crockett\", \"Image ExifOffset\": \"146\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "ec57b5462d18c291033a9dec510eb673da63eb060d0ec2dceb0118604c6432bc"
+}

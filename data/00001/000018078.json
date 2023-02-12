@@ -1,0 +1,12 @@
+{
+    "url": "https://media.onebite.app/d1/0e/22/98/d10e2298-255c-4aef-bfc2-8115bc6a1f95.jpg",
+    "key": "000018078",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 720,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"144\", \"Image YResolution\": \"144\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"720\", \"EXIF ExifImageLength\": \"720\"}",
+    "sha256": "65665543a5b07dce199805d3b71129f3244243cff3ebc995e11d88f44b406238"
+}

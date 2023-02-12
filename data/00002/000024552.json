@@ -1,0 +1,12 @@
+{
+    "url": "https://touchinjamaica.com/wp-content/uploads/2017/10/20180206_093816-kopie-2.jpg",
+    "key": "000024552",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 225,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image ImageWidth\": \"2560\", \"Image ImageLength\": \"1536\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"GT-I8200N\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2018:02:26 19:41:05\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2372\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5018\", \"Thumbnail JPEGInterchangeFormatLength\": \"6069\", \"EXIF ExposureTime\": \"141/16384\", \"EXIF FNumber\": \"13/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:02:06 09:38:16\", \"EXIF DateTimeDigitized\": \"2018:02:06 09:38:16\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"69/25\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"331/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2560\", \"EXIF ExifImageLength\": \"1536\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4230\"}",
+    "sha256": "75ef6a11b90b6fa89be22ec8c945b6a032f345972ab524cc87f4b440515876ae"
+}

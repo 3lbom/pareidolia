@@ -1,0 +1,12 @@
+{
+    "url": "https://www.charliedistracted.com/wp-content/uploads/2018/06/studio-ghibli-museum-tokyo-japan-34.jpg",
+    "key": "000025913",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 824,
+    "original_height": 1296,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"E-PL7\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.5 (Macintosh)\", \"Image DateTime\": \"2018:06:17 18:59:11\", \"Image ExifOffset\": \"252\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"912\", \"Thumbnail JPEGInterchangeFormatLength\": \"19178\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:06 14:03:35\", \"EXIF DateTimeDigitized\": \"2017:10:06 14:03:35\", \"EXIF ShutterSpeedValue\": \"790241/125000\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"217/128\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"88\", \"EXIF FocalLength\": \"25\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"50\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF BodySerialNumber\": \"BH8A30331\", \"EXIF LensSpecification\": \"[25, 25, 9/5, 9/5]\", \"EXIF LensModel\": \"OLYMPUS M.25mm F1.8\", \"EXIF LensSerialNumber\": \"345067586\"}",
+    "sha256": "e6f00e6f31455207ab78e6ceca221a04ef761fa75325ea5d69135e72f7d3457a"
+}

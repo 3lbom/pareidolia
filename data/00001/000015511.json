@@ -1,0 +1,12 @@
+{
+    "url": "https://img.food.boxspace.in/image/rbk_5b7e7360340e9/xhdpi.jpg",
+    "key": "000015511",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 3024,
+    "original_height": 3172,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3024\", \"EXIF ExifImageLength\": \"3172\"}",
+    "sha256": "05fd336ee0998a6004559464649ff56e18c4e1001495b156a6a28e28e9af84cb"
+}

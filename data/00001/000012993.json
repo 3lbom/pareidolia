@@ -1,0 +1,12 @@
+{
+    "url": "https://i1.wp.com/farm3.static.flickr.com/2193/1846682570_489f2b9182_o.jpg",
+    "key": "000012993",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 375,
+    "exif": "{\"Image Make\": \"PENTAX Corporation\", \"Image Model\": \"PENTAX Optio S40\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Optio S40 Ver 1.00\", \"Image DateTime\": \"2007:11:03 20:27:54\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"214\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"30807\", \"Thumbnail JPEGInterchangeFormatLength\": \"4669\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"7/2\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:10:31 05:30:07\", \"EXIF DateTimeDigitized\": \"2007:10:31 05:30:07\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"76535/32768\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"14/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"51/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"375\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"30666\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"62\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"1\"}",
+    "sha256": "70b9102db4b03076a1033b61ce58ee352b4a7cbf4b0b1b0ffffaf33a81d4f78e"
+}

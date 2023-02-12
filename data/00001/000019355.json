@@ -1,0 +1,12 @@
+{
+    "url": "https://pic.pimg.tw/sylvialu/1212290270.jpg",
+    "key": "000019355",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"Nokia\", \"Image Model\": \"N73\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"132\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3076\", \"Thumbnail JPEGInterchangeFormatLength\": \"13520\", \"EXIF ExposureTime\": \"9/1000\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:05:30 14:05:43\", \"EXIF DateTimeDigitized\": \"2008:05:30 14:05:43\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"1359/200\", \"EXIF ApertureValue\": \"297/100\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"28/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2048\", \"EXIF ExifImageLength\": \"1536\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\"}",
+    "sha256": "3306f96ff1fb7db1ec60100364fcc69a72063e9ee94ce760932f9d75e030b06f"
+}

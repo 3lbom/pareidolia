@@ -1,0 +1,12 @@
+{
+    "url": "https://vsezdorovo.com/wp-content/uploads/2017/10/salat-s-ananasami-74.jpg",
+    "key": "000025250",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 550,
+    "original_height": 306,
+    "exif": "{\"Image ImageWidth\": \"550\", \"Image ImageLength\": \"306\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015.5 (Windows)\", \"Image DateTime\": \"2017:10:27 16:32:58\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"4717\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"550\", \"EXIF ExifImageLength\": \"306\"}",
+    "sha256": "01f1ce662897de6de928716512d229a3e9daa8a332ad9dfdad363f3f20f0d4a3"
+}

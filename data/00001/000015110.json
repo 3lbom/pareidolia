@@ -1,0 +1,12 @@
+{
+    "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6137506.jpg",
+    "key": "000015110",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 977,
+    "original_height": 977,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"977\", \"EXIF ExifImageLength\": \"977\"}",
+    "sha256": "2d34190cf317295cdb7c17d74b8820dc7f504bdadf0e42cc867a287211a56ef8"
+}

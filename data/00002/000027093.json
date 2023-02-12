@@ -1,0 +1,12 @@
+{
+    "url": "https://www.palatesdesire.com/wp-content/uploads/2018/11/Potato_Smiley@palates_desire-360x480.jpg",
+    "key": "000027093",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 480,
+    "exif": "{\"GPS GPSImgDirection\": \"156\", \"GPS GPSImgDirectionRef\": \"M\", \"Image GPSInfo\": \"842\", \"Image Model\": \"Lenovo A7020a48\", \"Image Tag 0x0222\": \"0\", \"Image Tag 0x0220\": \"0\", \"Image Tag 0x0223\": \"0\", \"Image ImageDescription\": \"\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Tag 0x0221\": \"0\", \"Image Tag 0x0224\": \"1\", \"Image DateTime\": \"2018:11:21 21:37:27\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Tag 0x0225\": \"\", \"Image YResolution\": \"72\", \"Image Software\": \"Lenovo Camera\", \"Image ExifOffset\": \"426\", \"Image XResolution\": \"72\", \"Image Make\": \"Lenovo\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail YResolution\": \"72\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail JPEGInterchangeFormatLength\": \"14820\", \"Thumbnail JPEGInterchangeFormat\": \"998\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF DateTimeDigitized\": \"2018:11:21 21:37:27\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF FocalLength\": \"92/25\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF ExifImageWidth\": \"4096\", \"EXIF SubSecTime\": \"89\", \"EXIF LightSource\": \"other light source\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF DateTimeOriginal\": \"2018:11:21 21:37:27\", \"EXIF SubSecTimeDigitized\": \"89\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExifImageLength\": \"2304\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF ExifVersion\": \"\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"812\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ISOSpeedRatings\": \"1081\", \"EXIF FlashPixVersion\": \"\", \"EXIF SubSecTimeOriginal\": \"89\", \"EXIF DigitalZoomRatio\": \"57/50\", \"EXIF ExposureTime\": \"10001/200000\"}",
+    "sha256": "ef8685440a87d58483f858d394ec3f884c15078389959a08901389e4000b7796"
+}

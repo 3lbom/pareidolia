@@ -1,0 +1,12 @@
+{
+    "url": "https://i0.wp.com/www.diaforetiko.gr/wp-content/uploads/2016/03/desktop-1429557488.jpg?w=810",
+    "key": "000012824",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 650,
+    "original_height": 1155,
+    "exif": "{\"Image ImageWidth\": \"1836\", \"Image ImageLength\": \"3264\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2014 (Macintosh)\", \"Image DateTime\": \"2015:04:20 15:12:07\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"4728\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"1244\"}",
+    "sha256": "9bed784ed43ce4628a44962650e13561bc35daf380585906fb3c040210dc4e8b"
+}

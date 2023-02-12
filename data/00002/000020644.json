@@ -1,0 +1,12 @@
+{
+    "url": "https://s2.wklcdn.com/image_13/418525/24589734/15659231Master.jpg",
+    "key": "000020644",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 1600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "554024ad50fbfa716eb5c915785bd99b799f7521791e715119ea581b9708d77b"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://secureservercdn.net/184.168.47.225/68c.4ee.myftpupload.com/wp-content/uploads/2017/03/Seeds-and-pulp-in-a-sack-1024x610.jpg",
+    "key": "000020925",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 610,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Tag 0x0000\": \"0\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"9.3.2\", \"Image DateTime\": \"2017:03:11 18:48:24\", \"Image ExifOffset\": \"180\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:03:11 18:48:24\", \"EXIF DateTimeDigitized\": \"2017:03:11 18:48:24\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"21292/4339\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"3760/2267\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"221\", \"EXIF SubSecTimeDigitized\": \"221\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"1943\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5s back camera 4.15mm f/2.2\"}",
+    "sha256": "94469504674ebe6ff6fc05ad41f208ec07135f38677f475dbf826d3a5e975ed2"
+}

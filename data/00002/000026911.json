@@ -1,0 +1,12 @@
+{
+    "url": "https://www.motosha.com/files/preview/1280x853/4496-woodpecker-house.jpg",
+    "key": "000026911",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1280,
+    "original_height": 853,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 70D\", \"Image Orientation\": \"0\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Windows)\", \"Image DateTime\": \"2019:04:07 17:47:31\", \"Image Artist\": \"SALAH AIT MOKHTAR\", \"Image Copyright\": \"SALAH AIT MOKHTAR\", \"Image ExifOffset\": \"272\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"962\", \"Thumbnail JPEGInterchangeFormatLength\": \"5349\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"500\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:04:07 15:17:50\", \"EXIF DateTimeDigitized\": \"2019:04:07 15:17:50\", \"EXIF ShutterSpeedValue\": \"477741/62500\", \"EXIF ApertureValue\": \"2485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Partial\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"250\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"5472\", \"EXIF ExifImageLength\": \"3648\", \"EXIF FocalPlaneXResolution\": \"5021939/2048\", \"EXIF FocalPlaneYResolution\": \"5021939/2048\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"233057004309\", \"EXIF LensSpecification\": \"[55, 250, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S55-250mm f/4-5.6 IS\", \"EXIF LensSerialNumber\": \"0000f133a5\"}",
+    "sha256": "97f21ff3f15841cb9ab4c6f8ac3105536b5978bd5137a9405586a82dc486cc3e"
+}

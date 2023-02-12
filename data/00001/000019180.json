@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Nature/Faces-in-Nature/Wood-Faces/i-f2VxSjj/0/cc471312/L/DSC_3806-L.jpg",
+    "key": "000019180",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 401,
+    "original_height": 600,
+    "exif": "{\"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "795d772fe8c888add762d0ee5f46bec85885aebe69f7e3f23cd1a0b6c94df680"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://ic.pics.livejournal.com/loring_loring/45206717/598552/598552_original.jpg",
+    "key": "000013764",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1300,
+    "original_height": 975,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A495\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2018:06:25 13:42:17\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5108\", \"Thumbnail JPEGInterchangeFormatLength\": \"5103\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"3\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:06:25 13:42:17\", \"EXIF DateTimeDigitized\": \"2018:06:25 13:42:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"149/16\", \"EXIF ApertureValue\": \"101/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"101/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"33/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3648\", \"EXIF ExifImageLength\": \"2736\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3648\", \"Interoperability RelatedImageLength\": \"2736\", \"EXIF InteroperabilityOffset\": \"3320\", \"EXIF FocalPlaneXResolution\": \"3648000/241\", \"EXIF FocalPlaneYResolution\": \"2736000/181\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "e084aeef2736285a886783422a811244982e5933e149460bd8f2277afc91895a"
+}

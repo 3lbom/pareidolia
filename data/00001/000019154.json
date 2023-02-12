@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Galleries/Various-bodypainting-art/i-5tP72t8/0/d068ec34/M/Banana%201-M.jpg",
+    "key": "000019154",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 450,
+    "exif": "{\"Image ImageDescription\": \"SONY DSC\", \"Image Make\": \"SONY\", \"Image Model\": \"DSLR-A700\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2015:04:10 17:28:20\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"EXIF ExposureTime\": \"1/45\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:04:06 18:34:47\", \"EXIF DateTimeDigitized\": \"2015:04:06 18:34:47\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"21157/3257\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF LightSource\": \"Flash\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"60\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensModel\": \"DT 18-135mm F3.5-5.6 SAM\"}",
+    "sha256": "256810f412c6c00265abab631b567992e32558e982f7cec1861b9dc740ecbdd2"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Food/Fishcake/i-VQNbBxd/0/bb432608/S/Chicken-Fried-Rice...The-Orient...20-09-19-S.jpg",
+    "key": "000019146",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 399,
+    "original_height": 225,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G935F\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PaintShop Pro 21.00\", \"Image DateTime\": \"2019:10:23 16:04:28\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"208\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[51, 1, 24]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[3, 6, 12]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"106\", \"Image GPSInfo\": \"524\", \"EXIF ExposureTime\": \"1/100\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:09:20 17:16:17\", \"EXIF DateTimeDigitized\": \"2019:09:20 17:16:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"8747/5713\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/5\", \"EXIF SubSecTime\": \"0326\", \"EXIF SubSecTimeOriginal\": \"0326\", \"EXIF SubSecTimeDigitized\": \"0326\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "f5c8ad22cdd863defebf05b23f26984cd1b59de892dead6fe57847de89f5a329"
+}

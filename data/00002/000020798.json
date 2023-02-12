@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.bukalapak.com/img/3164464073/large/temp_97442022_1.png",
+    "key": "000020798",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 559,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"71983/1000\", \"Image YResolution\": \"71983/1000\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"559\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "663f74496dcb78b9062cea65249756f728fc11ff605e4b2eaec67212123ad71a"
+}

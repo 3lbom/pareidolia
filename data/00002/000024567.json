@@ -1,0 +1,12 @@
+{
+    "url": "https://travel-lounge.jp/wp-content/uploads/2019/06/2019_%E3%82%A6%E3%83%AB%E3%83%AB%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%885.jpg",
+    "key": "000024567",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 690,
+    "original_height": 518,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 8 Plus\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"12.2\", \"Image DateTime\": \"2019:06:13 16:56:14\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1832\", \"Thumbnail JPEGInterchangeFormatLength\": \"9260\", \"EXIF ExposureTime\": \"1/120\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:06:13 16:56:14\", \"EXIF DateTimeDigitized\": \"2019:06:13 16:56:14\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"248951/36030\", \"EXIF ApertureValue\": \"77364/26041\", \"EXIF BrightnessValue\": \"43624/7341\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"33/5\", \"EXIF SubjectArea\": \"[2568, 2172, 746, 754]\", \"EXIF SubSecTimeOriginal\": \"720\", \"EXIF SubSecTimeDigitized\": \"720\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"21/17\", \"EXIF FocalLengthIn35mmFilm\": \"70\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4183519/1048501, 33/5, 9/5, 14/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 8 Plus back dual camera 6.6mm f/2.8\"}",
+    "sha256": "e5645b08e62959966422c10606464252a6eae450d9b59c2f7859adec0a25cbe5"
+}

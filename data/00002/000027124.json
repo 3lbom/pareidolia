@@ -1,0 +1,12 @@
+{
+    "url": "https://www.penelopeoverton.com/wp-content/uploads/2019/10/IMG_20191008_112037__01-320x202.jpg",
+    "key": "000027124",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 202,
+    "exif": "{\"Image ImageWidth\": \"2112\", \"Image Model\": \"ONEPLUS A6003\", \"Image ImageLength\": \"2282\", \"Image Make\": \"OnePlus\", \"Image ExifOffset\": \"152\", \"Image Orientation\": \"0\", \"Image DateTime\": \"2019:10:08 11:20:38\", \"GPS GPSLatitude\": \"[50, 49, 51333/1250]\", \"GPS GPSAltitude\": \"95099/1000\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSTimeStamp\": \"[10, 20, 37]\", \"GPS GPSLongitude\": \"[0, 9, 54693/2500]\", \"GPS GPSDate\": \"2019:10:08\", \"Image GPSInfo\": \"414\", \"EXIF ApertureValue\": \"153/100\", \"EXIF ISOSpeedRatings\": \"2000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF FocalLengthIn35mmFilm\": \"25\", \"EXIF DateTimeOriginal\": \"2019:10:08 11:20:38\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DateTimeDigitized\": \"2019:10:08 11:20:38\", \"EXIF ShutterSpeedValue\": \"5643/1000\", \"EXIF FocalLength\": \"17/4\", \"EXIF ExposureTime\": \"1/50\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF LightSource\": \"Unknown\", \"EXIF FNumber\": \"17/10\"}",
+    "sha256": "ae78e84c6be17192c6a207e89b090e520be659cb919eacde793d4b9fdef8633f"
+}

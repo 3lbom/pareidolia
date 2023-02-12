@@ -1,0 +1,12 @@
+{
+    "url": "https://s1.wklcdn.com/image_59/1785866/16051563/16697512Master.jpg",
+    "key": "000020616",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 675,
+    "original_height": 1200,
+    "exif": "{\"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"1836\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-P600\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.1.7600.16385\", \"Image DateTime\": \"2018:06:28 11:03:00\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2328\", \"Image Padding\": \"[]\", \"Thumbnail ImageWidth\": \"640\", \"Thumbnail ImageLength\": \"360\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Rotated 90 CW\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5126\", \"Thumbnail JPEGInterchangeFormatLength\": \"34593\", \"EXIF ExposureTime\": \"1/1218\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:01:08 12:16:02\", \"EXIF DateTimeDigitized\": \"2017:01:08 12:16:02\", \"EXIF ShutterSpeedValue\": \"1029/100\", \"EXIF ApertureValue\": \"63/25\", \"EXIF BrightnessValue\": \"443/50\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"253/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"17/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"675\", \"EXIF ExifImageLength\": \"1200\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"4966\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"32\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"E08LSHD02OF\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "9ca131a560f817139e962518eb8f501356181bebf8e37bc9c20069fc35df7427"
+}

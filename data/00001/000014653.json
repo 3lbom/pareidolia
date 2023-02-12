@@ -1,0 +1,12 @@
+{
+    "url": "https://images.midilibre.fr/api/v1/images/view/5b29090b8fe56f7cf613ceda/hd/image.jpg",
+    "key": "000014653",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 500,
+    "exif": "{}",
+    "sha256": "e3748c5236ecb19a379a3364f40d2ce50f24f6ad8e38c49d82685eb59de6431f"
+}

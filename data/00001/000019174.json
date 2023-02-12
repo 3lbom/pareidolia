@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/National-Parks/Yellowstone-National-Park/i-wgVfNJX/3/67cd25a8/S/2K0A3892-S.jpg",
+    "key": "000019174",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image ImageDescription\": \"Osprey nest on a pinnacle above the Yellowstone River\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2016:07:01 07:31:26\", \"Image Artist\": \"Tim Hauf\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\\u00a9 2016 Tim Hauf\", \"Image ExifOffset\": \"332\", \"EXIF ExposureTime\": \"1/1600\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:06:10 14:57:29\", \"EXIF DateTimeDigitized\": \"2016:06:10 14:57:29\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF SubjectDistance\": \"496/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"220\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"022023000920\", \"EXIF LensModel\": \"EF100-400mm f/4.5-5.6L IS II USM\", \"EXIF LensSerialNumber\": \"2500005872\"}",
+    "sha256": "744a675d9abf480c4ce67242c680396d03ec6c8bb5d0c37659442f9ff5bad09e"
+}

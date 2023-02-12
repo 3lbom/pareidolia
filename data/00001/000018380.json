@@ -1,0 +1,12 @@
+{
+    "url": "https://mummytotwinsplusone.com/wp-content/uploads/2019/02/VietnameseSpringRolls5_web.jpg",
+    "key": "000018380",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 599,
+    "original_height": 799,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone XS Max\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"12.1\", \"Image DateTime\": \"2019:01:25 17:13:57\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"220\", \"GPS GPSLatitudeRef\": \"S\", \"GPS GPSLatitude\": \"[33, 42, 1317/100]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[150, 18, 5307/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"272845/271\", \"GPS GPSTimeStamp\": \"[6, 13, 56]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"6615/32908\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"873491/4901\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"873491/4901\", \"GPS GPSDate\": \"2019:01:25\", \"GPS Tag 0x001F\": \"109631/4864\", \"Image GPSInfo\": \"1812\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:01:25 17:13:57\", \"EXIF DateTimeDigitized\": \"2019:01:25 17:13:57\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"115437/20452\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"88719/39917\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"17/4\", \"EXIF SubjectArea\": \"[2013, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"227\", \"EXIF SubSecTimeDigitized\": \"227\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"599\", \"EXIF ExifImageLength\": \"799\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[17/4, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone XS Max back dual camera 4.25mm f/1.8\"}",
+    "sha256": "a2503295f19baae742638a37522380c21dff4a513910f48bcd63c0b89e809f70"
+}

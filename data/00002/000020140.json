@@ -1,0 +1,12 @@
+{
+    "url": "https://rantingchef.files.wordpress.com/2015/08/photo9-pear-face.jpg?w=630",
+    "key": "000020140",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 260,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"8.3\", \"Image DateTime\": \"2015:07:29 09:15:58\", \"Image ExifOffset\": \"162\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:07:29 09:15:58\", \"EXIF DateTimeDigitized\": \"2015:07:29 09:15:58\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"22\", \"EXIF SubSecTimeDigitized\": \"22\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"260\", \"EXIF ExifImageLength\": \"300\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "68b822a4ba581a2da23ce3581ea06850a261eee47e05dfc26cae2ef9b011de81"
+}

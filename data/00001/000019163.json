@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/LANDSCAPES/i-btsdHgS/1/b89152e7/M/BLUE%20CLOUD%20PHOTOGRAPHY%2001February%2018%2C%202020-M.jpg",
+    "key": "000019163",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D850\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 9.2 (Windows)\", \"Image DateTime\": \"2020:02:20 07:13:29\", \"Image Artist\": \"MATTHEW PARTSCH\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Blue cloud photography\", \"Image ExifOffset\": \"300\", \"EXIF ExposureTime\": \"1/800\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"640\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:02:18 13:04:50\", \"EXIF DateTimeDigitized\": \"2020:02:18 13:04:50\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"16799/2428\", \"EXIF ExposureBiasValue\": \"-1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"200\", \"EXIF SubSecTimeOriginal\": \"23\", \"EXIF SubSecTimeDigitized\": \"23\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3047894\", \"EXIF LensModel\": \"200.0-500.0 mm f/5.6\"}",
+    "sha256": "1b7fa391383163e3a14a4e539004164f4ab31029799563e899266687b135bda8"
+}

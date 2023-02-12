@@ -1,0 +1,12 @@
+{
+    "url": "https://www.snyggis.de/wp-content/uploads/2018/02/Gemu%CC%88se-Eule.jpg",
+    "key": "000027541",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015.5 (Macintosh)\", \"Image DateTime\": \"2019:02:04 10:33:22\", \"Image ExifOffset\": \"172\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"310\", \"Thumbnail JPEGInterchangeFormatLength\": \"5458\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "d864189e7154762dd87b8a24f1a921bbf6e9c8262e196cbe1549ee382a495690"
+}

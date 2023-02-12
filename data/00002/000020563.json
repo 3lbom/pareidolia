@@ -1,0 +1,12 @@
+{
+    "url": "https://s0.wklcdn.com/image_1/30456/3726579/1719966Master.jpg",
+    "key": "000020563",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1600,
+    "original_height": 1067,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 600D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2012:12:15 09:41:35\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"204\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"7970\", \"Thumbnail JPEGInterchangeFormatLength\": \"10160\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:12:15 09:41:35\", \"EXIF DateTimeDigitized\": \"2012:12:15 09:41:35\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"59/8\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTime\": \"43\", \"EXIF SubSecTimeOriginal\": \"43\", \"EXIF SubSecTimeDigitized\": \"43\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1067\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"7846\", \"EXIF FocalPlaneXResolution\": \"691200/181\", \"EXIF FocalPlaneYResolution\": \"460800/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "b87946aaf7eabde114d35ff9c55ff2432e6806d28fc5b73906fb7d6fbfd0f19a"
+}

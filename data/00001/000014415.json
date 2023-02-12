@@ -1,0 +1,12 @@
+{
+    "url": "https://image.winudf.com/v2/image1/dGsuc2lsdmlvbWFyYW5vLmltYWdlYW5hbHlzaXN0b29sc2V0X3NjcmVlbl83XzE1NTI4NjY0NDNfMDM5/screen-6.jpg?h=355&fakeurl=1&type=.jpg",
+    "key": "000014415",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 355,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72009/1000\", \"Image YResolution\": \"72009/1000\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"200\", \"EXIF ExifImageLength\": \"355\"}",
+    "sha256": "b7a43f0845f559f77cc9ff3c1b0c96267fdc4fa29fea1e15ce7be1e37d8ee9c4"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://s0.geograph.org.uk/photos/61/71/617193_648202cc.jpg",
+    "key": "000020561",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"FUJIFILM\", \"Image Model\": \"FinePix S7000\", \"Image Orientation\": \"0\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Picasa 3.0\", \"Image DateTime\": \"2007:06:06 14:15:32\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"226\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1248\", \"Thumbnail JPEGInterchangeFormatLength\": \"5400\", \"EXIF ExposureTime\": \"1/450\", \"EXIF FNumber\": \"63/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:06:06 14:15:32\", \"EXIF DateTimeDigitized\": \"2007:06:06 14:15:32\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ShutterSpeedValue\": \"44/5\", \"EXIF ApertureValue\": \"53/10\", \"EXIF BrightnessValue\": \"173/20\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"234/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1124\", \"EXIF FocalPlaneXResolution\": \"3827\", \"EXIF FocalPlaneYResolution\": \"3827\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF ImageUniqueID\": \"a47cbdb856b5eb4a2cddd46cae10b0d6\"}",
+    "sha256": "9b89ff063d4a8874dc5f4a49c958f7cafc6bf7941737d0c621ef2d89f9a829aa"
+}

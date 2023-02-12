@@ -1,0 +1,12 @@
+{
+    "url": "https://www.corsenetinfos.corsica/photo/art/grande/50662128-39052476.jpg?v=1602881434",
+    "key": "000025967",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 630,
+    "original_height": 1400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image Software\": \"Picasa\", \"Image ExifOffset\": \"98\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"630\", \"EXIF ExifImageLength\": \"1400\"}",
+    "sha256": "e7d42500f43d638b71fedee6ee90c39577bac0c7b2752cd549f5aae25a97430d"
+}

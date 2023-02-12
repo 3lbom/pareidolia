@@ -1,0 +1,12 @@
+{
+    "url": "https://plyk.ru/wp-content/uploads/2016/09/14627314.jpg",
+    "key": "000019805",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 340,
+    "exif": "{\"Image DateTime\": \"2017:03:03 23:13:52\", \"Image ExifOffset\": \"58\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"106\", \"Thumbnail JPEGInterchangeFormatLength\": \"4088\"}",
+    "sha256": "8014c62981911a3ad344972cd4bb32f24536fc1aa615765e9df72d20ef430251"
+}

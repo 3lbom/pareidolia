@@ -1,0 +1,12 @@
+{
+    "url": "https://img.alicdn.com/bao/uploaded/i3/2457664796/O1CN01bmBrg31lIc0V5xoXU_!!0-item_pic.jpg",
+    "key": "000015298",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 430,
+    "original_height": 430,
+    "exif": "{\"Image ImageWidth\": \"430\", \"Image ImageLength\": \"430\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2018:11:14 19:53:41\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"12008\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"430\", \"EXIF ExifImageLength\": \"430\"}",
+    "sha256": "ab3bd9ed7a5dba487cd6e0bf025a0c46c868873de1c5be015703d9a353947746"
+}

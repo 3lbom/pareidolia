@@ -1,0 +1,12 @@
+{
+    "url": "https://images.stv.tv/articles/w288xh162xmFitxrLow/176391-ben-nevis-tower-ridge.jpg",
+    "key": "000015010",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 288,
+    "original_height": 162,
+    "exif": "{\"Image Orientation\": \"0\", \"Image XResolution\": \"150\", \"Image YResolution\": \"150\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS Windows\", \"Image DateTime\": \"2013:01:27 13:31:54\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"150\", \"Thumbnail YResolution\": \"150\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"7275\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1180\", \"EXIF ExifImageLength\": \"666\"}",
+    "sha256": "5527d9ee1a2d7057e98125082c0e133e558a80352dd53a031bf4f67356b95935"
+}

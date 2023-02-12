@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Sports/UgoliniIntermediateCourse/GrignettaEnviromentContribs/i-b4Hp6cV/2/50719edf/S/DSCN0238-S.jpg",
+    "key": "000019220",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 225,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX L16\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Aperture 3.1.2\", \"Image DateTime\": \"2011:05:22 10:20:22\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"204\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[45, 55, 48/5]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[9, 23, 18]\", \"Image GPSInfo\": \"538\", \"EXIF ExposureTime\": \"1/521\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:05:22 10:20:22\", \"EXIF DateTimeDigitized\": \"2011:05:22 10:20:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"57/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "b9496c33a472767086cb5ab8c8e246c87237ad3c1db69d41ca18dfe63fb89798"
+}

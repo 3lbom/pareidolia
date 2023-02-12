@@ -1,0 +1,12 @@
+{
+    "url": "https://mfz-jahn.de/wp-content/uploads/2015/11/Fenster071-120x120.jpg",
+    "key": "000018231",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 120,
+    "exif": "{\"Image Make\": \"Nokia\", \"Image Model\": \"N97 mini\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"142\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2046\", \"Thumbnail JPEGInterchangeFormatLength\": \"4734\", \"EXIF ExposureTime\": \"1/500\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:08:28 16:11:03\", \"EXIF DateTimeDigitized\": \"2010:08:28 16:11:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"1793/200\", \"EXIF ApertureValue\": \"297/100\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"26/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"816\", \"EXIF ExifImageLength\": \"612\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"38/25\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\"}",
+    "sha256": "43748b624968f587b0f09310c84a92c871fd2e362a06cc188353af482a9eac86"
+}

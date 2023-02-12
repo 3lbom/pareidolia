@@ -1,0 +1,12 @@
+{
+    "url": "https://karving.my1.ru/foto/banan-3.jpg",
+    "key": "000016611",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 448,
+    "original_height": 292,
+    "exif": "{\"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2012:12:26 10:40:13\", \"Image ExifOffset\": \"98\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"691\", \"EXIF ExifImageLength\": \"451\"}",
+    "sha256": "2c7f71decb500881b20ef3533fdba6e61b86b56132db2fe9e15bb9e84450aebc"
+}

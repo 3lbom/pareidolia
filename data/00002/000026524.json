@@ -1,0 +1,12 @@
+{
+    "url": "https://www.hudolin.de/wp-content/uploads/2016/01/ferienwohnung.jpg",
+    "key": "000026524",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 279,
+    "original_height": 349,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPad Air 2\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"8.3\", \"Image DateTime\": \"2016:02:11 17:23:48\", \"Image Artist\": \"Picasa\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"194\", \"EXIF ExposureTime\": \"1/2203\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"25\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:08:15 11:11:37\", \"EXIF DateTimeDigitized\": \"2015:08:15 11:11:37\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"16813/1514\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"9168/817\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"33/10\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"505\", \"EXIF SubSecTimeDigitized\": \"505\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"279\", \"EXIF ExifImageLength\": \"349\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3264\", \"Interoperability RelatedImageLength\": \"2448\", \"EXIF InteroperabilityOffset\": \"818\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"3\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"bd1a66931318c5f538fbbd4b062d65ea\", \"EXIF LensSpecification\": \"[33/10, 33/10, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPad Air 2 back camera 3.3mm f/2.4\"}",
+    "sha256": "eaf1c808a76cd78cc0b8dd66ffeb7e64d76cd0ea62e3ce68ea5641fa6176dffe"
+}

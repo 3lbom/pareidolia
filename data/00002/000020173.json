@@ -1,0 +1,12 @@
+{
+    "url": "https://region.center:443/source/VLADIMIR/Oboznachenia/gaz.jpg",
+    "key": "000020173",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 540,
+    "exif": "{\"Image ImageWidth\": \"516\", \"Image ImageLength\": \"387\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2014:05:13 18:18:40\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"446\", \"Thumbnail JPEGInterchangeFormatLength\": \"4546\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"720\", \"EXIF ExifImageLength\": \"540\"}",
+    "sha256": "ce63d24de9db748b1edcdbc9a67d0cf901b9fb2f4b1cd092c3ca8cfbb2d4705b"
+}

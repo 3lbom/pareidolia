@@ -1,0 +1,12 @@
+{
+    "url": "https://onsefaitunebouffe.fr/wp-content/uploads/2016/07/IMG_20160627_185722.jpg",
+    "key": "000018709",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1500,
+    "original_height": 1122,
+    "exif": "{\"Image Make\": \"Huawei\", \"Image Model\": \"Nexus 6P\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"GIMP 2.8.16\", \"Image DateTime\": \"2016:07:27 09:50:15\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"212\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSImgDirectionRef\": \"M\", \"GPS GPSImgDirection\": \"113\", \"Image GPSInfo\": \"716\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"872\", \"Thumbnail JPEGInterchangeFormatLength\": \"4786\", \"EXIF ExposureTime\": \"13769/1000000\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"394\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:06:27 18:57:25\", \"EXIF DateTimeDigitized\": \"2016:06:27 18:57:25\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"309/50\", \"EXIF ApertureValue\": \"2\", \"EXIF MaxApertureValue\": \"2\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"467/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1500\", \"EXIF ExifImageLength\": \"1122\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF ImageUniqueID\": \"8498b842024ea7350000000000000000\"}",
+    "sha256": "92c6b2f0a096c77be1b68a2d663bb25599cd3f852e4dcb7c75d7b8cdd81ed732"
+}

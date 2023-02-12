@@ -1,0 +1,12 @@
+{
+    "url": "https://inuyamania.jp/wp-content/uploads/2021/03/IMG_6989.jpg",
+    "key": "000016334",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "3c212d4a296937147b0f463186d0cd7f737e93c0a78be300fa7529289459cf0c"
+}

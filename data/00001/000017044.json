@@ -1,0 +1,12 @@
+{
+    "url": "https://livelaugh.blog/static/images/800/626024045136297984_1.jpg",
+    "key": "000017044",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image ImageWidth\": \"1200\", \"Image ImageLength\": \"1200\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone XS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 22.3 (Macintosh)\", \"Image DateTime\": \"2021:04:26 21:28:15\", \"Image ExifOffset\": \"276\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"698\", \"Thumbnail JPEGInterchangeFormatLength\": \"8370\", \"EXIF ExposureTime\": \"1/43\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"95211/17587\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"38883/56048\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"17/4\", \"EXIF SubjectArea\": \"0\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"800\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "0cffb4705a52e3d4699bd5abacd03f5fcc7ef64fb4f8d1e586daff7392b7b454"
+}

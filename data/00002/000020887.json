@@ -1,0 +1,12 @@
+{
+    "url": "https://sasha0404.me:443/wp-content/uploads/2018/10/20180919_103543.jpg",
+    "key": "000020887",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G955F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"G955FXXU3CRGH\", \"Image DateTime\": \"2018:09:19 10:35:43\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2222\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"17/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:09:19 10:35:43\", \"EXIF DateTimeDigitized\": \"2018:09:19 10:35:43\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"174/25\", \"EXIF ApertureValue\": \"153/100\", \"EXIF BrightnessValue\": \"231/50\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"153/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/5\", \"EXIF SubSecTime\": \"0296\", \"EXIF SubSecTimeOriginal\": \"02\", \"EXIF SubSecTimeDigitized\": \"02\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"4906\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"F12LLJA00SM F12LLKL01GM\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4156\"}",
+    "sha256": "aa70b3ce72f8db8bdabaaac0b97c3aec8d38aca8c191e69d5b55d99831548aac"
+}

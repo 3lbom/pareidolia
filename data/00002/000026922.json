@@ -1,0 +1,12 @@
+{
+    "url": "https://www.mozgasvilag.hu/media_mv/10065/2029/20180921_225703.jpg",
+    "key": "000026922",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 675,
+    "exif": "{\"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"1836\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-G920F\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2018:09:21 17:22:30\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"224\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[47, 44, 20]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[18, 53, 39]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"300\", \"GPS GPSTimeStamp\": \"[15, 22, 19]\", \"GPS GPSDate\": \"2018:09:21\", \"Image GPSInfo\": \"808\", \"EXIF ExposureTime\": \"1/13\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:09:21 17:22:30\", \"EXIF DateTimeDigitized\": \"2018:09:21 17:22:30\", \"EXIF ShutterSpeedValue\": \"91/25\", \"EXIF ApertureValue\": \"37/20\", \"EXIF BrightnessValue\": \"-141/100\", \"EXIF ExposureBiasValue\": \"-1\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"1836\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"A16LLIC08VM A16LLJL02GM\"}",
+    "sha256": "1a6e00cde1fb2c519274912e5c529922cfab98e6ba1c5e97441d40462919e5f8"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.coswiecej.pl/wp-content/uploads/2014/06/1-2014-04-29-12.44.59-167x171.jpg",
+    "key": "000025973",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 167,
+    "original_height": 171,
+    "exif": "{\"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"1836\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"GT-I9195\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"I9195XXUAMF5\", \"Image DateTime\": \"2014:06:18 06:07:36\", \"Image Artist\": \"Picasa\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"640\", \"Thumbnail JPEGInterchangeFormatLength\": \"6647\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:04:29 12:44:59\", \"EXIF DateTimeDigitized\": \"2014:04:29 12:44:59\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"630\", \"EXIF ExifImageLength\": \"355\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3264\", \"Interoperability RelatedImageLength\": \"1836\", \"EXIF InteroperabilityOffset\": \"492\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"4\", \"EXIF ImageUniqueID\": \"7ec3bdc118390808e7d89e28353a4173\"}",
+    "sha256": "b5c83ce8a75883e2589f9a559fe401b1c438a47c4a4ea9de9f498179cc0a2aab"
+}

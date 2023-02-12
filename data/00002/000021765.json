@@ -1,0 +1,12 @@
+{
+    "url": "https://static2.yan.vn/YanNews/2167221/201808/20180826-111935-9.jpg",
+    "key": "000021765",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 699,
+    "original_height": 532,
+    "exif": "{\"Image ImageWidth\": \"960\", \"Image ImageLength\": \"701\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2018:08:26 11:15:27\", \"Image ExifOffset\": \"230\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"368\", \"Thumbnail JPEGInterchangeFormatLength\": \"4233\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"775\", \"EXIF ExifImageLength\": \"590\"}",
+    "sha256": "c3f4f0bc9ae833f817cabba5b8eb5ae2d8ff33ad3b1b51dc132403c53297f35d"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Fun_with_breakfast_food.jpeg",
+    "key": "000024767",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 2048,
+    "original_height": 1536,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 3GS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"4.0.2\", \"Image DateTime\": \"2010:11:11 07:44:43\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"206\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[52, 1533/50, 0]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[13, 2739/100, 0]\", \"GPS GPSTimeStamp\": \"[7, 44, 207/5]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"38947/112\", \"Image GPSInfo\": \"576\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"852\", \"Thumbnail JPEGInterchangeFormatLength\": \"5456\", \"EXIF ExposureTime\": \"1/17\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"640\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:11:11 07:44:43\", \"EXIF DateTimeDigitized\": \"2010:11:11 07:44:43\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5221/1286\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[1190, 804, 382, 384]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"0\", \"EXIF ExifImageLength\": \"0\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "500d2d113cdff89c952d861e43cbbea460c293682f3c2820c0930332ff976ac2"
+}

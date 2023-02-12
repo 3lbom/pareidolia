@@ -1,0 +1,12 @@
+{
+    "url": "https://www.ilgiornale.nl/wp-content/uploads/grote-citroenen.jpg",
+    "key": "000026540",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 582,
+    "original_height": 324,
+    "exif": "{\"Image Artist\": \"Edgar\", \"Image ExifOffset\": \"2128\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2014:07:21 11:50:58\", \"EXIF DateTimeDigitized\": \"2014:07:21 11:50:58\", \"EXIF SubSecTimeOriginal\": \"26\", \"EXIF SubSecTimeDigitized\": \"26\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "528a0415a9dfc9bcec85dc55b805dffd56b476c4a4ecdc8cff5bc2a776def460"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/9/92/Stone_Farm_Rocks_crag_-_geograph.org.uk_-_1672314.jpg?w=640&",
+    "key": "000012792",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 428,
+    "exif": "{\"Image Make\": \"PENTAX\", \"Image Model\": \"PENTAX K-m\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 6.0 Windows\", \"Image DateTime\": \"2010:01:21 18:50:03\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image ExifOffset\": \"612\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1166\", \"Thumbnail JPEGInterchangeFormatLength\": \"5586\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"67/10\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:01:21 15:24:49\", \"EXIF DateTimeDigitized\": \"2010:01:21 15:24:49\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"1\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"20\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"428\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1040\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"30\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF Contrast\": \"Hard\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Hard\", \"EXIF SubjectDistanceRange\": \"3\"}",
+    "sha256": "51673f4ea3b68ac8776b50c78a62b6268789e01f93fe393fc325f2d36e2ba413"
+}

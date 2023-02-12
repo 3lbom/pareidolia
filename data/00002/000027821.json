@@ -1,0 +1,12 @@
+{
+    "url": "https://www.tui.com/blog/wp-content/uploads/2020/07/typisches-haus-darss-born.jpg?x27264",
+    "key": "000027821",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 760,
+    "original_height": 420,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image ImageWidth\": \"640\", \"Image ImageLength\": \"480\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"92\", \"Image YResolution\": \"92\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 21.2 (Macintosh)\", \"Image DateTime\": \"2020:07:16 14:25:14\", \"Image Padding\": \"[]\", \"Image ExifOffset\": \"2356\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4666\", \"Thumbnail JPEGInterchangeFormatLength\": \"6479\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:06:30 14:33:12\", \"EXIF DateTimeDigitized\": \"2020:06:30 14:33:12\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"760\", \"EXIF ExifImageLength\": \"420\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "a57db7f6a147d01b0580ddde3d2a2d017a9f0fbe388f884e0fc08970cc99528a"
+}

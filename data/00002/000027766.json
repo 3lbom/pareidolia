@@ -1,0 +1,12 @@
+{
+    "url": "https://www.tijo-kinderbuch.de/wp-content/uploads/2017/05/Pfingsten2014004.jpg",
+    "key": "000027766",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 688,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.1.7600.16385\", \"Image DateTime\": \"2014:06:07 19:39:03\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2312\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[52, 12, 187799/10000]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[7, 54, 519199/10000]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"19913/279\", \"GPS GPSTimeStamp\": \"[16, 52, 1509/50]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"31252/627\", \"Image GPSInfo\": \"5612\", \"Image XPKeywords\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image LensSpecification\": \"[103/25, 103/25, 11/5, 11/5]\", \"Image LensMake\": \"Apple\", \"Image LensModel\": \"iPhone 5s back camera 4.12mm f/2.2\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:06:06 18:52:38\", \"EXIF DateTimeDigitized\": \"2014:06:06 18:52:38\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"21292/4339\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"446/215\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"79\", \"EXIF SubSecTimeDigitized\": \"79\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"688\", \"EXIF ExifImageLength\": \"800\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"30\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4156\"}",
+    "sha256": "de064cf06031c1b39fdbaafbc1db195b007ea57fd564c1df70b8342c72690bc4"
+}

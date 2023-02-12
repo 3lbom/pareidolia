@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Vancouver-Island-BC/The-Gulf-Islands/Saturna-Island/i-5zzrs3k/6/2b233997/X2/Sandstone%20Fish%20at%20East%20Pt%20HDR-X2.jpg",
+    "key": "000019244",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1280,
+    "original_height": 851,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 70D\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2017:05:25 12:32:42\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"166\", \"EXIF ExposureTime\": \"1/320\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:05:25 12:32:42\", \"EXIF DateTimeDigitized\": \"2017:05:25 12:32:42\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"80053/12102\", \"EXIF ExposureBiasValue\": \"-1/3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"35\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Bracket\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"272158000110\", \"EXIF LensModel\": \"EF-S18-135mm f/3.5-5.6 IS STM\", \"EXIF LensSerialNumber\": \"0000424df6\"}",
+    "sha256": "6297fa6429151c71ef9a894ae5505825f17e79a98acfb67f06debfb0e097e5be"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fruit_Abate_Fetel_1mcp.jpg/300px-Fruit_Abate_Fetel_1mcp.jpg",
+    "key": "000024793",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 200,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Copyright 2014\"}",
+    "sha256": "56ac9887095a33df22f5383096c7dab30f75505de17ab4476f5cc6dedebe61f1"
+}

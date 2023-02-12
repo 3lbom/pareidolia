@@ -1,0 +1,12 @@
+{
+    "url": "https://vtv1.mediacdn.vn/2018/9/22/photo-4-1537625149822944095631.jpg",
+    "key": "000025350",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 361,
+    "exif": "{\"Image Make\": \"OPPO\", \"Image Model\": \"A37fw\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"138\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[15, 22, 187493/10000]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[109, 7, 16549/2000]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"0\", \"GPS GPSTimeStamp\": \"[10, 27, 44]\", \"GPS GPSProcessingMethod\": \"ASCII\", \"GPS GPSDate\": \"2018:02:17\", \"Image GPSInfo\": \"504\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"820\", \"Thumbnail JPEGInterchangeFormatLength\": \"38006\", \"EXIF ExposureTime\": \"1/101\", \"EXIF FNumber\": \"11/5\", \"EXIF ISOSpeedRatings\": \"162\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:02:17 17:27:44\", \"EXIF DateTimeDigitized\": \"2002:12:08 12:00:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6651/1000\", \"EXIF ApertureValue\": \"227/100\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"293/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"1840\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"474\", \"EXIF ExposureIndex\": \"241\", \"EXIF GainControl\": \"Low gain up\"}",
+    "sha256": "8c48265f1cc05f41284a95ea6f61f75d28097316fcbca8cf747e5f1e79599a66"
+}

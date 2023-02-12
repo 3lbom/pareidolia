@@ -1,0 +1,12 @@
+{
+    "url": "https://www.fritzundfraenzi.ch/uploads/2021/08/e69ea2071263a453569856bcd63e2c71.jpg",
+    "key": "000026308",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 750,
+    "original_height": 500,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone X\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"14.0.1\", \"Image DateTime\": \"2020:10:19 12:25:33\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"194\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2144\", \"Thumbnail JPEGInterchangeFormatLength\": \"9988\", \"EXIF ExposureTime\": \"1/159\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"16\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:10:19 12:25:33\", \"EXIF DateTimeDigitized\": \"2020:10:19 12:25:33\", \"EXIF OffsetTime\": \"+02:00\", \"EXIF OffsetTimeOriginal\": \"+02:00\", \"EXIF OffsetTimeDigitized\": \"+02:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"110633/15135\", \"EXIF ApertureValue\": \"131348/51997\", \"EXIF BrightnessValue\": \"151189/19088\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"6\", \"EXIF SubjectArea\": \"[2008, 1508, 2212, 1335]\", \"EXIF SubSecTimeOriginal\": \"238\", \"EXIF SubSecTimeDigitized\": \"238\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"168/89\", \"EXIF FocalLengthIn35mmFilm\": \"97\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone X back dual camera 6mm f/2.4\"}",
+    "sha256": "e937a5784b2a1f0b91c74ae17c85b09d7437aa9d1beb665b59bf932ec44c67dd"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://www.znaikak.ru/design/pic/visred/KNT9.jpg",
+    "key": "000028053",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 605,
+    "original_height": 1076,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SX30 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2012:05:26 00:58:15\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2304\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"8098\", \"Thumbnail JPEGInterchangeFormatLength\": \"3762\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF FNumber\": \"9/2\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:05:25 14:01:16\", \"EXIF DateTimeDigitized\": \"2012:05:25 14:01:16\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"329/32\", \"EXIF ApertureValue\": \"139/32\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MaxApertureValue\": \"23/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2104\", \"EXIF ExifImageLength\": \"3744\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3744\", \"Interoperability RelatedImageLength\": \"2104\", \"EXIF InteroperabilityOffset\": \"7922\", \"EXIF FocalPlaneXResolution\": \"160000/9\", \"EXIF FocalPlaneYResolution\": \"1620000/91\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4148\"}",
+    "sha256": "a26d0f349f7c35053162f9c399a8f70eb80be2934c04b2647cae0b2ed3f0bddc"
+}

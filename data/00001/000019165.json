@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Landscapes/Coastal-California-1/i-m7v7c9j/1/e9772f16/L/Aug2011_0007-L.jpg",
+    "key": "000019165",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 530,
+    "exif": "{\"Image ImageDescription\": \"Coastal granite\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D7000\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 3.4.1\", \"Image DateTime\": \"2011:08:05 10:06:14\", \"Image Artist\": \"Randy Herz\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Randy Herz 2011\", \"Image ExifOffset\": \"300\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:08:01 11:17:46\", \"EXIF DateTimeDigitized\": \"2011:08:01 11:17:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"40761/8200\", \"EXIF SubjectDistance\": \"94/25\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"82\", \"EXIF SubSecTimeOriginal\": \"50\", \"EXIF SubSecTimeDigitized\": \"50\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3079858\", \"EXIF LensModel\": \"18.0-200.0 mm f/3.5-5.6\"}",
+    "sha256": "5857e99d586c1aaec7206dc92331d97f8bc66cdd60b2eb73274a66d6d4b2506d"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://i1.wp.com/photos.lookatisrael.com/2019/02/20190209_makhtesh_maale_eli/makhtesh_eli_061_20190209_5D3_3193.jpg?resize=1200%2C800&ssl=1",
+    "key": "000013105",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.5 (Macintosh)\", \"Image DateTime\": \"2019:02:11 11:59:00\", \"Image Artist\": \"Evgeny Ko\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Evgeny Ko\", \"Image ExifOffset\": \"302\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"980\", \"Thumbnail JPEGInterchangeFormatLength\": \"20383\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"9\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:02:09 13:24:03\", \"EXIF DateTimeDigitized\": \"2019:02:09 13:24:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"13301/2002\", \"EXIF ApertureValue\": \"23673/3734\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"24361/8200\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"16\", \"EXIF SubSecTimeOriginal\": \"49\", \"EXIF SubSecTimeDigitized\": \"49\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1600\", \"EXIF FocalPlaneYResolution\": \"1600\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"042123000921\", \"EXIF LensSpecification\": \"[16, 35, 0/0, 0/0]\", \"EXIF LensModel\": \"EF16-35mm f/2.8L II USM\", \"EXIF LensSerialNumber\": \"0000807df6\"}",
+    "sha256": "9b30a86a18dda104118673c0c55048c07c851826001298d0e0d8095269a2b16a"
+}

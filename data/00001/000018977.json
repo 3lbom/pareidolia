@@ -1,0 +1,12 @@
+{
+    "url": "https://photo-forum.net/static/site_thumbs/2017-08/1502801781_33_82.jpg",
+    "key": "000018977",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 146,
+    "original_height": 120,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XTi\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2017:03:31 22:38:28\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1058\", \"Thumbnail JPEGInterchangeFormatLength\": \"8349\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:03:31 16:39:35\", \"EXIF DateTimeDigitized\": \"2017:03:31 16:39:35\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"141621/16384\", \"EXIF ApertureValue\": \"108853/16384\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1100\", \"EXIF ExifImageLength\": \"902\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"932\", \"EXIF FocalPlaneXResolution\": \"3888000/877\", \"EXIF FocalPlaneYResolution\": \"432000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "fda7f5fb2849c23402804fa150b34c315a5f5dc67c2bbf0b5bf4fb6fdb30d7c4"
+}

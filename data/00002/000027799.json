@@ -1,0 +1,12 @@
+{
+    "url": "https://www.travel-finnmark.no/wp-content/uploads/2016/11/Kvalsund-Ahkku-3-200x300.jpg",
+    "key": "000027799",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 6D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iPhoto 9.4.3\", \"Image DateTime\": \"2016:08:14 16:29:19\", \"Image ExifOffset\": \"192\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"63/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:14 16:29:19\", \"EXIF DateTimeDigitized\": \"2016:08:14 16:29:19\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"53/8\", \"EXIF ApertureValue\": \"43/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"906/247\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"853\", \"EXIF ExifImageLength\": \"1280\", \"EXIF FocalPlaneXResolution\": \"201961/53\", \"EXIF FocalPlaneYResolution\": \"873841/229\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "c90c536b270c005ec9e7046abb777c30381719e51ac6ae7c1c97df1d934bd45e"
+}

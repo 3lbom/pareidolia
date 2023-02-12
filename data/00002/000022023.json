@@ -1,0 +1,12 @@
+{
+    "url": "https://t1.daumcdn.net/cfile/tistory/9948E93B5B35CD582B",
+    "key": "000022023",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 253,
+    "original_height": 421,
+    "exif": "{\"Image Make\": \"Gretech Corporation\", \"Image Model\": \"GomPlayer 2, 2, 80, 5243 (KOR)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"GomPlayer 2, 2, 80, 5243 (KOR)\", \"Image ExifOffset\": \"198\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:06:29 14:33:06\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"253\", \"EXIF ExifImageLength\": \"421\"}",
+    "sha256": "8f332083fc7cfdd4e3264976a0d569844f5ed368d8bddb51cfa05d10286f9911"
+}

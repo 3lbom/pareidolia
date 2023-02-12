@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/ChannelIslandsNationalPark/Santa-Cruz-Island-Crown-Jewel/Yellowbanks/i-pQD5D46/1/0b3a8463/S/0M9B4629-S.jpg",
+    "key": "000019128",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image ImageDescription\": \"Rugged Scorpion Canyon\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2014:01:05 18:11:01\", \"Image Artist\": \"Tim Hauf; Tim Hauf\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Tim Hauf Photography\", \"Image ExifOffset\": \"316\", \"EXIF ExposureTime\": \"1/320\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:12:29 10:16:49\", \"EXIF DateTimeDigitized\": \"2013:12:29 10:16:49\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"8\", \"EXIF SubjectDistance\": \"4294967295\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"70\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"172028013189\", \"EXIF LensModel\": \"EF24-105mm f/4L IS USM\", \"EXIF LensSerialNumber\": \"0000457c45\"}",
+    "sha256": "ec76c2f7b97c1e12a91ce37af41bc1c484ea71972de533b6a73cd3cef74337bb"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://static.blog4ever.com/2006/01/6122/artfichier_6122_8028557_201812145851213.jpg",
+    "key": "000021331",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 360,
+    "exif": "{\"Image Software\": \"Picasa\", \"Image DateTime\": \"2018:12:11 20:16:37\", \"Image Artist\": \"Picasa\", \"Image ExifOffset\": \"96\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"364\", \"Thumbnail JPEGInterchangeFormatLength\": \"4582\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:12:11 20:12:28\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"360\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1600\", \"Interoperability RelatedImageLength\": \"1200\", \"EXIF InteroperabilityOffset\": \"228\", \"EXIF ImageUniqueID\": \"411181eaba2022c2cee978ee8f698158\"}",
+    "sha256": "ef7ca95daef1a70e37513589a03aeb3e7e56aaeeeb0eec4b19e70f3406712e93"
+}

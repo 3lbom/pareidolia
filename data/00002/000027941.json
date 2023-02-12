@@ -1,0 +1,12 @@
+{
+    "url": "https://www.walkopedia.net/assets/walkimages/2922/Huelgoatforest3.JPG",
+    "key": "000027941",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 760,
+    "original_height": 570,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SX730 HS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Digital Photo Professional\", \"Image DateTime\": \"2019:08:14 00:01:02\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"252\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"2520\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"350\", \"Thumbnail YResolution\": \"350\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2632\", \"Thumbnail JPEGInterchangeFormatLength\": \"10598\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"33/10\", \"EXIF ISOSpeedRatings\": \"640\", \"EXIF SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:08:14 00:01:02\", \"EXIF DateTimeDigitized\": \"2019:08:14 00:01:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"189/32\", \"EXIF ApertureValue\": \"55/16\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"760\", \"EXIF ExifImageLength\": \"570\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"760\", \"Interoperability RelatedImageLength\": \"570\", \"EXIF InteroperabilityOffset\": \"2442\", \"EXIF FocalPlaneXResolution\": \"409600/49\", \"EXIF FocalPlaneYResolution\": \"192000/23\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"\"}",
+    "sha256": "5f2b6515e420cce4640a7c1da37e9a54e1d4da70191a646ff7e11932f65740c2"
+}

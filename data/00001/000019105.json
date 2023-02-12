@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/2010/2010-12-23-SB-Channel/i-tQL5qFs/3/b81f31fe/L/Waterfall%20rain%20run%20off%202010%2012-23%20Sta%20Cruz%20Island%20-%20003-L.jpg",
+    "key": "000019105",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D3X\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2010:12:24 07:00:23\", \"Image Artist\": \"MarineBioPhotography.com\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Robert Perry\", \"Image ExifOffset\": \"290\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[34, 4, 2083/50]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[119, 54, 3509/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"6\", \"Image GPSInfo\": \"768\", \"EXIF ExposureTime\": \"1/1000\", \"EXIF ExposureProgram\": \"Shutter Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:12:23 12:53:00\", \"EXIF DateTimeDigitized\": \"2010:12:23 12:53:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"24361/8200\", \"EXIF ExposureBiasValue\": \"-1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"300\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "581f3a977c3ceee3fa9606bcf5e3c276d57866270ee233c5d65af447b3393866"
+}

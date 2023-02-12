@@ -1,0 +1,12 @@
+{
+    "url": "https://wnkhs.net/wp-content/uploads/2019/07/20190630_110821026_iOS.jpg",
+    "key": "000025457",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPod touch\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"12.3.1\", \"Image DateTime\": \"2019:06:30 20:08:21\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"220\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[35, 41, 3857/100]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[139, 42, 469/50]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"102122/1995\", \"GPS GPSTimeStamp\": \"[11, 8, 19]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSDate\": \"2019:06:30\", \"GPS Tag 0x001F\": \"65\", \"Image GPSInfo\": \"1724\", \"EXIF ExposureTime\": \"1/33\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:06:30 20:08:21\", \"EXIF DateTimeDigitized\": \"2019:06:30 20:08:21\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"64406/12731\", \"EXIF ApertureValue\": \"126503/50079\", \"EXIF BrightnessValue\": \"48940/16773\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"33/10\", \"EXIF SubjectArea\": \"[1297, 1422, 610, 612]\", \"EXIF SubSecTimeOriginal\": \"388\", \"EXIF SubSecTimeDigitized\": \"388\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[33/10, 33/10, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPod touch back camera 3.3mm f/2.4\", \"EXIF OffsetSchema\": \"12\"}",
+    "sha256": "36e640687d60b49f11e1e34016831aed47267f2d1a8abf6f84de200da53ea077"
+}

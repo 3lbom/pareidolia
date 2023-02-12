@@ -1,0 +1,12 @@
+{
+    "url": "https://www.awesomeinventions.com/wp-content/uploads/2020/02/glass-cube-furniture-filled-with-squishy-toys.jpg",
+    "key": "000025694",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 700,
+    "original_height": 391,
+    "exif": "{\"Image ImageWidth\": \"600\", \"Image ImageLength\": \"335\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2020:02:04 14:31:22\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"3320\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"391\"}",
+    "sha256": "82f7c1b164cac510c898982efe1a3fb8d5e6cc4fe1a0a88b93da13c09e719557"
+}

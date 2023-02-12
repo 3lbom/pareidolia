@@ -1,0 +1,12 @@
+{
+    "url": "https://s1.wklcdn.com/image_55/1671928/47389214/31477996Master.jpg",
+    "key": "000020615",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1600,
+    "original_height": 1200,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"9144/5\", \"Image YResolution\": \"9144/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "51fb1a8579a700502108eb8d6648ef9f474a90bd7f8ef6edf5247ddf4ae191fa"
+}

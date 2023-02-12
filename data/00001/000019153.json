@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Galleries/Southwest/i-83gdHRq/1/02b05046/S/joshua-skull-rock-S.jpg",
+    "key": "000019153",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 266,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D300\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Macintosh)\", \"Image DateTime\": \"2017:04:18 18:25:13\", \"Image Artist\": \"Claus Cheng\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"www.web-house.net\", \"Image ExifOffset\": \"278\", \"EXIF ExposureTime\": \"1/100\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:03:12 02:23:05\", \"EXIF DateTimeDigitized\": \"2010:03:12 02:23:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"23673/3734\", \"EXIF ExposureBiasValue\": \"2/3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/2\", \"EXIF SubSecTime\": \"08\", \"EXIF SubSecTimeOriginal\": \"08\", \"EXIF SubSecTimeDigitized\": \"08\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"4015570\", \"EXIF LensModel\": \"10.5 mm f/2.8\"}",
+    "sha256": "c0070a7ac401cd8d33254c6b5d1a6f57b81634421358b394a18e43423d0b320f"
+}

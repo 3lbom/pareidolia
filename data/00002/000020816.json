@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.eu-west-2.amazonaws.com/things-with-faces/_thumbnail/20210424_204628.jpg",
+    "key": "000020816",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image Model\": \"SM-A115M\", \"Image Orientation\": \"0\", \"Image DateTime\": \"2021:04:24 20:46:28\", \"Image ExifOffset\": \"111\", \"Image Make\": \"samsung\", \"EXIF FocalLength\": \"83/25\", \"EXIF ExposureTime\": \"99/1000\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF ISOSpeedRatings\": \"1905\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF ApertureValue\": \"37/20\"}",
+    "sha256": "ed19b4d9cff395b2458d3b9bf14099a68d1019e095106af0beff2a123f16540e"
+}

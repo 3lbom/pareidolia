@@ -1,0 +1,12 @@
+{
+    "url": "https://staffanphotography.com/wp-content/gallery/natur/cache/Kluntgubben-Kluntarna-Lulea-skargard.jpg-nggid0242-ngg0dyn-330x250x100-00f0w010c011r110f110r010t010.jpg",
+    "key": "000021279",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 330,
+    "original_height": 250,
+    "exif": "{\"Image ImageWidth\": \"2112\", \"Image ImageLength\": \"2816\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon DIGITAL IXUS 65\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Centimeter\", \"Image Software\": \"Adobe Photoshop Elements 16.0 (Windows)\", \"Image DateTime\": \"2020:08:21 19:42:14\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"304\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormatLength\": \"8654\", \"Thumbnail JPEGInterchangeFormat\": \"1144\", \"EXIF ExposureTime\": \"1/500\", \"EXIF FNumber\": \"49/10\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:08:01 12:38:02\", \"EXIF DateTimeDigitized\": \"2007:08:01 12:38:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"287/32\", \"EXIF ApertureValue\": \"147/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"147/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"88\", \"EXIF FocalLength\": \"87/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1910\", \"EXIF ExifImageLength\": \"2542\", \"EXIF FocalPlaneXResolution\": \"2904000/169\", \"EXIF FocalPlaneYResolution\": \"154880/9\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"11/8\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "e0cf48931643fbd2373c020adf43d46c8ee965ed7af9fa36fbd127da4bd46085"
+}

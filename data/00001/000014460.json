@@ -1,0 +1,12 @@
+{
+    "url": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F330843%2Ffc5119c04be353f4.jpg&width=800",
+    "key": "000014460",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{}",
+    "sha256": "3ab980f6abdf4cd7653db87dbe58a5cd87982d9d91c67dc3895dbc67ee6e43e1"
+}

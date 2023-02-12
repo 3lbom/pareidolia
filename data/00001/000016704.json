@@ -1,0 +1,12 @@
+{
+    "url": "https://korteinfo.hu/wp-content/uploads/2020/04/kortefa_betegsegei.jpg",
+    "key": "000016704",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 425,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D90\", \"Image ExposureTime\": \"1/640\", \"Image ExifOffset\": \"98\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"9/2\", \"EXIF ISOSpeedRatings\": \"[200, 0]\", \"EXIF DateTimeOriginal\": \"2019:08:26 10:16:51\", \"EXIF FocalLength\": \"170\"}",
+    "sha256": "cecfcaa30912bc820254cb4d2a09bd699c91ebf48ad6f32d41c401af6393fc5e"
+}

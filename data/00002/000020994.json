@@ -1,0 +1,12 @@
+{
+    "url": "https://shop.nicapur.com/media/image/f8/bc/dd/Brotgesicht.jpg",
+    "key": "000020994",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 546,
+    "original_height": 364,
+    "exif": "{\"Image Artist\": \"Eva Schwan\", \"Image ExifOffset\": \"2134\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2019:11:06 13:44:21\", \"EXIF DateTimeDigitized\": \"2019:11:06 13:44:21\", \"EXIF SubSecTimeOriginal\": \"72\", \"EXIF SubSecTimeDigitized\": \"72\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "8ed398096ccdb06e0ccc8ce4b5f08f7c402c67910206380a6ceecd91c8066640"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.amazonaws.com/tasmeemme.project.mi.thumbnails/crop_80x80/376/573376.png",
+    "key": "000020791",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 80,
+    "original_height": 80,
+    "exif": "{}",
+    "sha256": "a534cfe0d694b6d6078c911a3b841c39905e6abb24d3145e2fab6895c2d48e6a"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://t1.daumcdn.net/cfile/tistory/22177B3C5602117D13",
+    "key": "000022021",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 610,
+    "original_height": 345,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"ILCA-77M2\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2015:08:31 11:24:53\", \"Image WhitePoint\": \"[313/1000, 329/1000]\", \"Image PrimaryChromaticities\": \"[16/25, 33/100, 21/100, 71/100, 3/20, 3/50]\", \"Image YCbCrCoefficients\": \"[299/1000, 587/1000, 57/500]\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"472\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:08:31 11:24:53\", \"EXIF DateTimeDigitized\": \"2015:08:31 11:24:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF BrightnessValue\": \"5491/640\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"297/64\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"60\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"4240\", \"EXIF ExifImageLength\": \"2400\", \"Interoperability InteroperabilityIndex\": \"R03\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"38324\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"90\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Hard\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF LensSpecification\": \"[0, 0, 0, 0]\", \"EXIF LensModel\": \"----\", \"EXIF Gamma\": \"11/5\"}",
+    "sha256": "78516b18b055683e787eace624148f84c297a25e3dc73e71911743879cc9b6ef"
+}

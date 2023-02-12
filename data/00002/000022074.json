@@ -1,0 +1,12 @@
+{
+    "url": "https://t2.ftcdn.net/jpg/00/52/34/31/240_F_52343121_jaomwI2k8Yempg69XKnD9uqoOpLDYh27.jpg",
+    "key": "000022074",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 240,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "80a3f1990edf23074d274c0411928aa26d30a0627a2e233ca05f9ffb028180e7"
+}

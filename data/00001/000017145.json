@@ -1,0 +1,12 @@
+{
+    "url": "https://m.smedata.sk/api-media/media/image/sme/0/42/4266010/4266010_300x200.jpeg?rev=2",
+    "key": "000017145",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 200,
+    "exif": "{}",
+    "sha256": "a555adcd13d52a5a0e6a2cda4a95de2cc8626ee1bb164a56dab3ac2759cb9edb"
+}

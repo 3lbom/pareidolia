@@ -1,0 +1,12 @@
+{
+    "url": "https://images.squarespace-cdn.com/content/5194f40de4b0b0879dc30210/1381614890304-KHYXOENZQ5K5YD124UCX/IMG_0978.jpg?format=1000w&content-type=image%2Fjpeg",
+    "key": "000014889",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1000,
+    "original_height": 1333,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"QuickTime 7.7.1\", \"Image DateTime\": \"2013:09:23 11:45:49\", \"Image HostComputer\": \"Mac OS X 10.8.4\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"242\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"738\", \"Thumbnail JPEGInterchangeFormatLength\": \"4054\", \"Thumbnail YCbCrPositioning\": \"Centered\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:09:18 19:22:27\", \"EXIF DateTimeDigitized\": \"2013:09:18 19:22:27\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6337/1622\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"-571/1398\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"413/100\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "d097794613e8c758d958cf36d8ac1e9537a3c083369ea530cc05626c8e947bc9"
+}

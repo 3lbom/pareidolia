@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.geograph.org.uk/geophotos/05/00/95/5009591_7c5676cc_120x120.jpg",
+    "key": "000020818",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 90,
+    "exif": "{}",
+    "sha256": "6c3f06ee8aa52f7708c3eb83e8acddea000472d6e58c3daafc50685d0cce2e27"
+}

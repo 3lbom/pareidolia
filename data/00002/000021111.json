@@ -1,0 +1,12 @@
+{
+    "url": "https://sohanews.sohacdn.com/zoom/260_162/2016/marcahuasi-face-1482244916814-0-0-372-600-crop-1482244948156.jpg",
+    "key": "000021111",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 260,
+    "original_height": 162,
+    "exif": "{\"Image ImageWidth\": \"540\", \"Image ImageLength\": \"450\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Windows)\", \"Image DateTime\": \"2016:08:03 22:16:55\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"9264\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"500\"}",
+    "sha256": "ffa4389e75817a4eca898c1a1b016c49fb4b671d69ec5f5505de57552a0e127c"
+}

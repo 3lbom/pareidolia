@@ -1,0 +1,12 @@
+{
+    "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=960&h=480&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6869394.jpg",
+    "key": "000015096",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 960,
+    "original_height": 480,
+    "exif": "{}",
+    "sha256": "8d820fa9f5e286c51b89114d192eb10871e2e8ca6f14e1c440cc1af0877ee8ea"
+}

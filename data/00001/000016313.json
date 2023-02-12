@@ -1,0 +1,12 @@
+{
+    "url": "https://ingatlanadatbazis.hu/wp-content/uploads/2021/07/FA8D1FE2-E169-4A6A-8115-73E4B4669FD2-1200x600.jpeg",
+    "key": "000016313",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"286\", \"Thumbnail JPEGInterchangeFormatLength\": \"10107\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"576\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "3703afdba0e8a7839835e539ab5900454c496e27383b7620234987bef7f026af"
+}

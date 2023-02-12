@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Portfolio/Joshua-Tree/i-p3GFD4z/0/2d61638e/S/20130216JoshuaTree-521-S.jpg",
+    "key": "000019207",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS REBEL T3i\", \"Image DateTime\": \"2013:02:17 20:45:45\", \"Image ExifOffset\": \"108\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"71/10\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF DateTimeOriginal\": \"2013:02:16 16:16:42\", \"EXIF DateTimeDigitized\": \"2013:02:16 16:16:42\", \"EXIF ShutterSpeedValue\": \"1165241/125000\", \"EXIF ApertureValue\": \"2827819/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "e7bfb6f58fb8edbb7b2994e8b936acd4f2fb3114ae82047d8613429fcb4f3b80"
+}

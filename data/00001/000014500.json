@@ -1,0 +1,12 @@
+{
+    "url": "https://images.aqar.fm/547183735_1553764861786.jpg",
+    "key": "000014500",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 800,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"216\", \"Image YResolution\": \"216\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"450\", \"EXIF ExifImageLength\": \"800\"}",
+    "sha256": "5b7edc0c31754107ffc61f65a60072770add9b79ab44b471eac851132877cfd0"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://i.servimg.com/u/f38/18/20/66/69/z1015.jpg",
+    "key": "000012427",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1023,
+    "original_height": 568,
+    "exif": "{\"Image Artist\": \"roteboeuf\", \"Image ExifOffset\": \"2152\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2021:01:19 18:35:31\", \"EXIF DateTimeDigitized\": \"2021:01:19 18:35:31\", \"EXIF SubSecTimeOriginal\": \"06\", \"EXIF SubSecTimeDigitized\": \"06\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "5023ca3a52cde67c76206cadf079d52e79e155620607bc939193565e86aa1ceb"
+}

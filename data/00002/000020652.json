@@ -1,0 +1,12 @@
+{
+    "url": "https://s2.wklcdn.com/image_73/2199049/15480893/9635015Master.jpg",
+    "key": "000020652",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 675,
+    "original_height": 1200,
+    "exif": "{\"Image XResolution\": \"4294966289/169093161\", \"Image YResolution\": \"4294966289/169093161\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"675\", \"EXIF ExifImageLength\": \"1200\"}",
+    "sha256": "a927cb10f67147b71587bc2c8fbdfe7b1c1fad58aa581a51d49c27f0582f9c65"
+}

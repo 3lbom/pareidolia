@@ -1,0 +1,12 @@
+{
+    "url": "https://photos.smugmug.com/Travel/Ecuador-2012/i-dFBF3kP/10/ddfa4afc/Ti/PP5A6260-Ti.jpg",
+    "key": "000019230",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 100,
+    "original_height": 67,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2013:01:26 23:47:48\", \"Image Artist\": \"Jonas Tonboe Christiansen\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"Jonas Tonboe Christiansen\", \"Image ExifOffset\": \"290\", \"EXIF ExposureTime\": \"1/1600\", \"EXIF ExposureProgram\": \"Shutter Priority\", \"EXIF ISOSpeedRatings\": \"8000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:01:03 07:47:00\", \"EXIF DateTimeDigitized\": \"2013:01:03 07:47:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"16205/3734\", \"EXIF SubjectDistance\": \"517/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"420\", \"EXIF SubSecTime\": \"84\", \"EXIF SubSecTimeOriginal\": \"84\", \"EXIF SubSecTimeDigitized\": \"84\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"033023009255\", \"EXIF LensModel\": \"EF300mm f/2.8L IS II USM +1.4x III\", \"EXIF LensSerialNumber\": \"8310000174\"}",
+    "sha256": "28d181b65c708c34dae4d9edded7d359df677fffbcedc4fe0ccff1a8fa2612f2"
+}
