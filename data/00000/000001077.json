@@ -1,0 +1,12 @@
+{
+    "url": "http://i0.wp.com/creativevisualart.com/wp-content/uploads/2013/05/vegetable-carving-34.jpg?resize=496%2C789",
+    "key": "000001077",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 496,
+    "original_height": 789,
+    "exif": "{\"Image ImageWidth\": \"496\", \"Image ImageLength\": \"789\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2011:09:08 18:48:28\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"366\", \"Thumbnail JPEGInterchangeFormatLength\": \"4770\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"496\", \"EXIF ExifImageLength\": \"789\"}",
+    "sha256": "381d18f7c16352d5bd327de6ec8ec0186f42dd6dfc810dabecea00965c8b3065"
+}

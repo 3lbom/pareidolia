@@ -1,0 +1,12 @@
+{
+    "url": "https://dhammikapalace.com/wp-content/uploads/2020/05/20150220_130756-scaled-e1593856886826.jpg",
+    "key": "000008378",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1047,
+    "original_height": 597,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G900F\", \"Image Software\": \"Adobe Imagecore (Linux)\", \"Image DateTime\": \"2020:02:10 11:02:00\", \"Image ExifOffset\": \"136\", \"EXIF ExposureTime\": \"1/470\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:02:20 13:07:56\", \"EXIF DateTimeDigitized\": \"2015:02:20 13:07:56\", \"EXIF OffsetTime\": \"-08:00\", \"EXIF ShutterSpeedValue\": \"8876517/1000000\", \"EXIF ApertureValue\": \"2275007/1000000\", \"EXIF BrightnessValue\": \"153/20\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"57/25\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"24/5\", \"EXIF SubSecTimeOriginal\": \"760\", \"EXIF SubSecTimeDigitized\": \"760\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "ef56e33818eacb9460fcd5e4c07507bcdfda4057eaf5f2c32d4bac3343525ee1"
+}

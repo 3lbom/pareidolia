@@ -1,0 +1,12 @@
+{
+    "url": "http://miler-ismart.com/wp-content/uploads/2018/11/0b316fd8e9f0869dd5a5f45c2fd83f02-1024x958.jpg",
+    "key": "000002181",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 958,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"asus\", \"Image Model\": \"ASUS_X008DB\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"MediaTek Camera Application\", \"Image DateTime\": \"2018:11:03 12:33:53\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Tag 0x0220\": \"0\", \"Image Tag 0x0221\": \"0\", \"Image Tag 0x0222\": \"0\", \"Image Tag 0x0223\": \"0\", \"Image Tag 0x0224\": \"0\", \"Image Tag 0x0225\": \"\", \"Image ExifOffset\": \"414\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1036\", \"Thumbnail JPEGInterchangeFormatLength\": \"2992\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"8081/1000000\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"112\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:11:03 12:33:53\", \"EXIF DateTimeDigitized\": \"2018:11:03 12:33:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"other light source\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"7/2\", \"EXIF SubSecTime\": \"69\", \"EXIF SubSecTimeOriginal\": \"69\", \"EXIF SubSecTimeDigitized\": \"69\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2304\", \"EXIF ExifImageLength\": \"4096\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"878\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF OffsetSchema\": \"12\"}",
+    "sha256": "7083cf10f9b731b2564c6145d35809a354012099a2d1207d7cc34148d9deadda"
+}

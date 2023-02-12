@@ -1,0 +1,12 @@
+{
+    "url": "http://pleinairjourney.com/wp-content/uploads/2015/11/image2.jpg",
+    "key": "000002478",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 415,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"415\"}",
+    "sha256": "c85b9c55fe5680f949a8004b15b98a7149d6c509c3d35e07ebbc86e9e10450a5"
+}

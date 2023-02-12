@@ -1,0 +1,12 @@
+{
+    "url": "http://www.foreignercn.com/images/stories/20100831xy1.jpg",
+    "key": "000003541",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 495,
+    "original_height": 371,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2010:09:01 20:35:32\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"794\", \"EXIF ExifImageWidth\": \"495\", \"EXIF ExifImageLength\": \"371\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "fdf961b0165be9ee8c90563a68eb45ee932c55c8b16ab9d75fdf6d06c32f8436"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.catsmob.com/post/2015/05/5182/cm_20150518_5182_008.jpg",
+    "key": "000003442",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 1422,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Google\", \"Image ExifOffset\": \"58\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"1422\"}",
+    "sha256": "3fd8a7bd3ef55356673b4f74152c13416d12ef957fe61d0a143874c2c3ec5728"
+}

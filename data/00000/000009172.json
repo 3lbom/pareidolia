@@ -1,0 +1,12 @@
+{
+    "url": "https://fermilon.ru/wp-content/uploads/userfiles/3409_2.jpg",
+    "key": "000009172",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 490,
+    "original_height": 480,
+    "exif": "{\"Image DateTime\": \"2019:01:05 08:15:21\", \"Image ExifOffset\": \"58\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"106\", \"Thumbnail JPEGInterchangeFormatLength\": \"5710\"}",
+    "sha256": "5e567e3edc250c955255a5a8a6aa8896ef7a6a790804d2dcbd3e1fce33406eef"
+}

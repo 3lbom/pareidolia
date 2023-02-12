@@ -1,0 +1,12 @@
+{
+    "url": "https://g3.img-dpreview.com/55855BC423E646D784D7759A252A65F1.jpg",
+    "key": "000009408",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 80,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XSi\", \"Image ExifOffset\": \"84\", \"EXIF ExposureTime\": \"1/500\", \"EXIF FNumber\": \"4\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF DateTimeOriginal\": \"2013:03:19 15:27:27\", \"EXIF DateTimeDigitized\": \"2013:03:19 15:27:27\", \"EXIF ShutterSpeedValue\": \"1120723/125000\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"200\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\"}",
+    "sha256": "64a0813b8cfd5e1de96294959b4779a12acfe8b9c02bce301a52d09b31c52832"
+}

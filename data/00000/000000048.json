@@ -1,0 +1,12 @@
+{
+    "url": "http://119.254.81.92/upload/caiku/9/7/6/yuan_97a9d35e59172ac9cfd5b927f9db65a6.jpg",
+    "key": "000000048",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 640,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"640\"}",
+    "sha256": "0cee11ba480c077cf65a69803e086fc824ddbf526bae93d7ad39d1d450755e28"
+}

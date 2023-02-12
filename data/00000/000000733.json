@@ -1,0 +1,12 @@
+{
+    "url": "http://download.viamichelin.com/red2/images/gv/FRA7700632_3/France/Fontainebleau/Fontainebleau_Forest-FRA7700632_3.jpg",
+    "key": "000000733",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 187,
+    "original_height": 280,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"BAGHEERA / PROPIXO; JpegMetadataToolkit 1.11\", \"Image DateTime\": \"2010:11:09 11:15:43\", \"Image ExifOffset\": \"258\", \"Image ImageDescription\": \"b'France, Seine-et-Mar, ... ]\", \"Image Artist\": \"\", \"Image Copyright\": \"ESCUDERO Patrick / hemis.fr\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"901\", \"Thumbnail JPEGInterchangeFormatLength\": \"9981\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:01:12 16:00:40\", \"EXIF DateTimeDigitized\": \"2008:01:12 16:00:40\", \"EXIF ShutterSpeedValue\": \"4906891/1000000\", \"EXIF ApertureValue\": \"6918863/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"2517\", \"EXIF ExifImageLength\": \"3775\", \"EXIF FocalPlaneXResolution\": \"873600/283\", \"EXIF FocalPlaneYResolution\": \"1456000/471\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "3ea5fbc7662b057a36646f7fed4d9603ef1bc00e4e20c7ec6932ab2970515f7a"
+}

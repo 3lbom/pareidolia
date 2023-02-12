@@ -1,0 +1,12 @@
+{
+    "url": "http://bunakenchacha.cocolog-nifty.com/photos/uncategorized/2017/08/18/fruite_060.jpg",
+    "key": "000000423",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 576,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Aperture 3.6\", \"Image DateTime\": \"2017:08:17 11:49:07\", \"Image ExifOffset\": \"188\", \"EXIF ExposureTime\": \"1/1748\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:08:17 11:49:07\", \"EXIF DateTimeDigitized\": \"2017:08:17 11:49:07\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5709/530\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"15724/1581\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"616\", \"EXIF SubSecTimeDigitized\": \"616\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"576\", \"EXIF ExifImageLength\": \"768\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[103/25, 103/25, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5 back camera 4.12mm f/2.4\"}",
+    "sha256": "418b9f1d42708fb09631b7ab641b1485687ef50a5c6b6c6a0351be7d8116a50e"
+}

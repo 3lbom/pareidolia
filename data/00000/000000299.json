@@ -1,0 +1,12 @@
+{
+    "url": "http://balkanherald.transindex.ro/wp-content/uploads/2011/10/facefood.jpg",
+    "key": "000000299",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 267,
+    "exif": "{\"Image Make\": \"HTC\", \"Image Model\": \"HTC Wildfire S A510e\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"136\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"446\", \"Thumbnail JPEGInterchangeFormatLength\": \"11428\", \"EXIF ISOSpeedRatings\": \"419\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:10:01 22:55:34\", \"EXIF DateTimeDigitized\": \"2011:10:01 22:55:34\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FocalLength\": \"353/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"267\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"322\"}",
+    "sha256": "c30c59d8a383c85b704f524c20f5fdfff3a12eb163b74f56be9e2cfc7bc29ce2"
+}

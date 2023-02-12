@@ -1,0 +1,12 @@
+{
+    "url": "http://www.kickvick.com/wp-content/uploads/2014/12/strange-houses-with-human-faces-42.jpg",
+    "key": "000003654",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 730,
+    "original_height": 490,
+    "exif": "{\"Image ImageWidth\": \"640\", \"Image ImageLength\": \"430\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2014:12:16 14:17:39\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"5059\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"730\", \"EXIF ExifImageLength\": \"490\"}",
+    "sha256": "08fc9ea02870e0c1c627bc2b95156ff666f87be23cd2476c11adee8dded44c24"
+}

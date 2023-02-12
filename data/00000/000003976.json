@@ -1,0 +1,12 @@
+{
+    "url": "http://www.tastingtravels.com/wp-content/uploads/2013/10/Rambutan_37-163.jpg",
+    "key": "000003976",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 980,
+    "original_height": 735,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX P7100\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"COOLPIX P7100V1.0\", \"Image DateTime\": \"2013:07:24 15:48:50\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2298\", \"Image SensitivityType\": \"Standard Output Sensitivity\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:07:24 15:48:50\", \"EXIF DateTimeDigitized\": \"2013:07:24 15:48:50\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"6\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3648\", \"EXIF ExifImageLength\": \"2736\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4168\"}",
+    "sha256": "5d3b9518f0f601969729c14b9afc1281f0ba498413ec4480b37ab193475d4dd5"
+}

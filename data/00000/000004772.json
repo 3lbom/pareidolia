@@ -1,0 +1,12 @@
+{
+    "url": "https://ant-ufa.com/wp-content/uploads/2013/04/IMG_4398.jpg",
+    "key": "000004772",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 427,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 400D DIGITAL\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 3.4\", \"Image DateTime\": \"2013:04:20 10:40:48\", \"Image Artist\": \"unknown\", \"Image ExifOffset\": \"226\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"832\", \"Thumbnail JPEGInterchangeFormatLength\": \"20684\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:04:14 18:59:29\", \"EXIF DateTimeDigitized\": \"2013:04:14 18:59:29\", \"EXIF ShutterSpeedValue\": \"665241/125000\", \"EXIF ApertureValue\": \"2485427/500000\", \"EXIF ExposureBiasValue\": \"2/3\", \"EXIF MaxApertureValue\": \"159/32\", \"EXIF SubjectDistance\": \"4294967295\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF FocalPlaneXResolution\": \"3888000/877\", \"EXIF FocalPlaneYResolution\": \"432000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"unknown\", \"EXIF BodySerialNumber\": \"1531049759\", \"EXIF LensSpecification\": \"[18, 55, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S18-55mm f/3.5-5.6\"}",
+    "sha256": "a48e5ee0dffd393cc914ff706f14e7c7f63ba916ad85e76fca392bc6a58949e2"
+}

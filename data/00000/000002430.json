@@ -1,0 +1,12 @@
+{
+    "url": "http://photoshow.108sq.cn/user/2019/0509/17150099662573626875135079.jpg",
+    "key": "000002430",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 960,
+    "original_height": 1280,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"960\", \"EXIF ExifImageLength\": \"1280\"}",
+    "sha256": "f44d1c4d52a2ddc2ec133d031322e4f73811c01d6f0c193e4b35515236de08fc"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://xn--nck2b8g200k36npfir30b12e.jp/wp-content/uploads/2016/10/a86bebbe9449b48e959eb51c189febfe.jpg",
+    "key": "000004102",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1280,
+    "original_height": 960,
+    "exif": "{\"Image Make\": \"PENTAX\", \"Image Model\": \"PENTAX Optio WG-2\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2016:07:17 12:44:58\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"156\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"EXIF ExposureTime\": \"1/1000\", \"EXIF FNumber\": \"21/5\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:07:17 12:44:58\", \"EXIF DateTimeDigitized\": \"2016:07:17 12:44:58\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"5\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"960\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"51286\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"3\", \"EXIF OffsetSchema\": \"0\"}",
+    "sha256": "348b61566ea74fd32517d6b26acbeb5f690b374760dfde0278f08b198a563569"
+}

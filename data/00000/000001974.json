@@ -1,0 +1,12 @@
+{
+    "url": "http://lpluslife.com/wp-content/uploads/2017/09/002-5-e1506602843927-320x427.jpg",
+    "key": "000001974",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 427,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.3.9600.17415\", \"Image DateTime\": \"2017:09:28 21:44:34\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2304\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5874\", \"Thumbnail JPEGInterchangeFormatLength\": \"5437\", \"EXIF ExposureTime\": \"1/33\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:09:28 18:44:29\", \"EXIF DateTimeDigitized\": \"2017:09:28 18:44:29\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"253/50\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"3625/2408\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"300\", \"EXIF SubSecTimeDigitized\": \"300\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"3264\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4196\"}",
+    "sha256": "d3f6cc9f62169ed3181e2d4954f9c438e8c2b56ad115aa62aa60aa061c342155"
+}

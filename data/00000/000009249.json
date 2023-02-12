@@ -1,0 +1,12 @@
+{
+    "url": "https://foodloader.net/nico_2017-10-02_butterbrezel.jpg",
+    "key": "000009249",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 4608,
+    "original_height": 3456,
+    "exif": "{\"Image Make\": \"OnePlus\", \"Image Model\": \"ONEPLUS A5000\", \"Image Orientation\": \"0\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"OnePlus5-user 7.1.1 NMF26X 273 release-keys\", \"Image DateTime\": \"2017:10:02 09:59:03\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"248\", \"Image GPSInfo\": \"770\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"0\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"882\", \"Thumbnail JPEGInterchangeFormatLength\": \"11638\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"17/10\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:02 09:59:03\", \"EXIF DateTimeDigitized\": \"2017:10:02 09:59:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5643/1000\", \"EXIF ApertureValue\": \"153/100\", \"EXIF BrightnessValue\": \"137/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4103/1000\", \"EXIF SubSecTime\": \"826769\", \"EXIF SubSecTimeOriginal\": \"826769\", \"EXIF SubSecTimeDigitized\": \"826769\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4608\", \"EXIF ExifImageLength\": \"3456\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"739\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "4c71c8a1561fa0db8b6af49261c45fe8c65176ea7f069c0dff9d6a2bf145c4a4"
+}

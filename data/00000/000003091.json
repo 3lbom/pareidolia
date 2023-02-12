@@ -1,0 +1,12 @@
+{
+    "url": "http://tolyatti-tur.ru/wp-content/uploads/2020/07/1IMG_7662.jpg",
+    "key": "000003091",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 1100D\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"paint.net 4.2.12\", \"Image DateTime\": \"2020:07:10 11:39:01\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"222\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:07:10 11:39:01\", \"EXIF DateTimeDigitized\": \"2020:07:10 11:39:01\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"53/8\", \"EXIF ApertureValue\": \"5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTime\": \"69\", \"EXIF SubSecTimeOriginal\": \"69\", \"EXIF SubSecTimeDigitized\": \"69\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4272\", \"EXIF ExifImageLength\": \"2848\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"8606\", \"EXIF FocalPlaneXResolution\": \"854400/181\", \"EXIF FocalPlaneYResolution\": \"569600/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"\", \"EXIF BodySerialNumber\": \"073062048712\", \"EXIF LensSpecification\": \"[18, 55, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S18-55mm f/3.5-5.6 IS II\", \"EXIF LensSerialNumber\": \"0000047c0a\", \"EXIF OffsetSchema\": \"0\"}",
+    "sha256": "8a8e3b7c1738b451dad8b8eb9a54a85fa9021c256aab87a692ef56c6f0d63b32"
+}

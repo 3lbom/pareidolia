@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn2.apstatic.com/photos/climb/116180087_medium_1544672059.jpg",
+    "key": "000007458",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Motorola\", \"Image Model\": \"XT1609\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2018:12:12 13:13:31\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"176\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSMapDatum\": \"WGS-84\", \"Image GPSInfo\": \"3496\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"384\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3652\", \"Thumbnail JPEGInterchangeFormatLength\": \"26327\", \"EXIF ExposureTime\": \"3/4000\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:12:12 13:13:31\", \"EXIF DateTimeDigitized\": \"2018:12:12 13:13:31\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"1037/100\", \"EXIF ApertureValue\": \"2\", \"EXIF BrightnessValue\": \"-1\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"2\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"359/100\", \"EXIF SubSecTime\": \"150499\", \"EXIF SubSecTimeOriginal\": \"150499\", \"EXIF SubSecTimeDigitized\": \"150499\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"3264\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"3466\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"93/50\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Soft\"}",
+    "sha256": "baa7cb761afce0c02e1a7a80442025dc9c967ea4582a4410a6ccda9f829c9107"
+}

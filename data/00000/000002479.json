@@ -1,0 +1,12 @@
+{
+    "url": "http://pleinairjourney.com/wp-content/uploads/2018/01/rockswoods05.jpg",
+    "key": "000002479",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 437,
+    "exif": "{\"Image ImageDescription\": \"Tres Piedras\", \"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-FZ35\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 2.0\", \"Image DateTime\": \"2017:08:11 09:55:36\", \"Image ExifOffset\": \"216\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"16/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:08:11 09:55:36\", \"EXIF DateTimeDigitized\": \"2017:08:11 09:55:36\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"54/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"437\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"61\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "c13578258f564a7f01423d5da843bc25b446cd3d371494a1c6be6da1f0796ba0"
+}

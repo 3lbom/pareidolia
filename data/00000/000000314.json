@@ -1,0 +1,12 @@
+{
+    "url": "http://bibarnabloc.cat/wp-content/uploads/2017/09/frigo.jpg",
+    "key": "000000314",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 484,
+    "original_height": 336,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"484\", \"EXIF ExifImageLength\": \"336\"}",
+    "sha256": "42e79b8930c63ce0b078c672bcc448c6441da930991a2d8c4df2a2769a33dd36"
+}

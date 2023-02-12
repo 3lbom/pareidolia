@@ -1,0 +1,12 @@
+{
+    "url": "http://tozapping.com/wp-content/uploads/2014/10/Tozapping-naranjas-con-forma-de-cangrejo-625x510-9.jpg",
+    "key": "000003102",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 625,
+    "original_height": 510,
+    "exif": "{\"Image Software\": \"PhotoScape\", \"Image Artist\": \"mun\", \"Image ExifOffset\": \"62\", \"EXIF ExifVersion\": \"\", \"EXIF Tag 0x9009\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF ExifImageWidth\": \"604\", \"EXIF ExifImageLength\": \"450\"}",
+    "sha256": "f37ed9223df5ec918170b77190c31dea5b2be760e9c2955629cc6a5d5f0daeff"
+}

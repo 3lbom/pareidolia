@@ -1,0 +1,12 @@
+{
+    "url": "https://apple101.com.my/wp-content/uploads/2014/04/218c.jpg",
+    "key": "000004845",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 463,
+    "original_height": 311,
+    "exif": "{\"Image Artist\": \"MooN\", \"Image ExifOffset\": \"2128\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2014:04:27 16:23:28\", \"EXIF DateTimeDigitized\": \"2014:04:27 16:23:28\", \"EXIF SubSecTimeOriginal\": \"51\", \"EXIF SubSecTimeDigitized\": \"51\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "ff028d5f388294e8a49ee6581522134afb187b3651c8c56c56f58e231ee380e4"
+}

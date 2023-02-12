@@ -1,0 +1,12 @@
+{
+    "url": "https://dpic.imgix.net/stories/OldManNH.jpg?auto=format&crop=focalpoint&domain=dpic.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=793&ixlib=php-2.3.0&q=82&w=1024&s=8b90fbfdc9fc4d4b62a4be9e461dace5",
+    "key": "000008558",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 793,
+    "exif": "{}",
+    "sha256": "4a555110915c18b27901ed16585918bd478d13b7039da0bbbd62fba777f655e9"
+}

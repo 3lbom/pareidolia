@@ -1,0 +1,12 @@
+{
+    "url": "https://as2.ftcdn.net/jpg/02/96/34/83/500_F_296348326_CLvAb5wYUIjxxG2aYNTcsZ9PHQ3lIJiL.jpg",
+    "key": "000004928",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 333,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "cd377f21241f0762e70496e9524a7ba36ac8f8938a9bccb2776674cf72903781"
+}

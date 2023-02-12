@@ -1,0 +1,12 @@
+{
+    "url": "http://ryebreadbox.com/wp-content/uploads/2015/03/20150226_201246-1024x576.jpg",
+    "key": "000002634",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 576,
+    "exif": "{\"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"1836\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"SAMSUNG-SM-N900A\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"N900AUCUDNL1\", \"Image DateTime\": \"2015:02:26 20:12:45\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"246\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"2984\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3132\", \"Thumbnail JPEGInterchangeFormatLength\": \"10283\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:02:26 20:12:45\", \"EXIF DateTimeDigitized\": \"2015:02:26 20:12:45\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"39/10\", \"EXIF ApertureValue\": \"227/100\", \"EXIF BrightnessValue\": \"-14/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"57/25\", \"EXIF MeteringMode\": \"Average\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"413/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"1836\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"2954\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"C13QSGJ02SB\"}",
+    "sha256": "b598bf76c8336b37504ec868e99d290c533da460da6a068c021a4dac83fd2b3e"
+}

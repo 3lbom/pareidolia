@@ -1,0 +1,12 @@
+{
+    "url": "http://rimsm.ru/wp-content/uploads/2016/01/mila6-150x150.jpg",
+    "key": "000002619",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 150,
+    "original_height": 150,
+    "exif": "{\"Image ImageDescription\": \"<Samsung NV4, Samsung VLUU NV4>\", \"Image Make\": \"Samsung Techwin\", \"Image Model\": \"<Samsung NV4, Samsung VLUU NV4>\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"808221\", \"Image DateTime\": \"2009:12:24 19:35:19\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"COPYRIGHT, 2008\", \"Image ExifOffset\": \"2342\", \"Image XPTitle\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image XPSubject\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/45\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:12:24 19:35:19\", \"EXIF DateTimeDigitized\": \"2009:12:24 19:35:19\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3987149/998784\", \"EXIF ShutterSpeedValue\": \"11/2\", \"EXIF ApertureValue\": \"361/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"361/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired\", \"EXIF FocalLength\": \"33/5\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF RelatedSoundFile\": \"RelatedSound\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"31050\", \"EXIF ExposureIndex\": \"1\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"39\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Normal\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4204\"}",
+    "sha256": "046a2f24fde26c960a6730e35d18c847351ee89c06788aa26b1d933adc9e857b"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://tabi2deru.com/wp-content/uploads/2019/09/14-4.jpg",
+    "key": "000003015",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 6.3.9600.17418\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Windows Photo Editor 6.3.9600.17418\", \"Image DateTime\": \"2019:09:17 02:01:54\", \"Image ExifOffset\": \"2238\", \"Image Padding\": \"[]\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "0e77fba3cfe0d8006b9846b50b1b4ce00680d7513fae8a9d72e6dd3d999bc231"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://gregfolio.com/wp-content/uploads/2013/12/DSC03632-crop-400.jpg",
+    "key": "000000952",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 400,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-HX10V\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2013:12:25 13:39:00\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image Padding\": \"[]\", \"Image ExifOffset\": \"2364\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5158\", \"Thumbnail JPEGInterchangeFormatLength\": \"4939\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:12:24 15:35:34\", \"EXIF DateTimeDigitized\": \"2013:12:24 15:35:34\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF BrightnessValue\": \"1463/320\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"159/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4697/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"400\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[107/25, 1712/25, 33/10, 59/10]\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4158\"}",
+    "sha256": "058525470e0e53772a03ad7c988bdf6b48674adfe9f1cf12be34bcdc1a3540bc"
+}

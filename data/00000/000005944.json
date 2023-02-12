@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.brutsellog.nl/2018/02_FEB/sofie01.jpg",
+    "key": "000005944",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 560,
+    "original_height": 420,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 8\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"11.2.6\", \"Image DateTime\": \"2018:02:24 18:59:35\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"15866\", \"Thumbnail ImageWidth\": \"200\", \"Thumbnail ImageLength\": \"150\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail JPEGInterchangeFormat\": \"244\", \"Thumbnail JPEGInterchangeFormatLength\": \"15483\", \"EXIF ExposureTime\": \"1/4\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:02:24 18:59:35\", \"EXIF DateTimeDigitized\": \"2018:02:24 18:59:35\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"3851/1925\", \"EXIF ApertureValue\": \"2159/1273\", \"EXIF BrightnessValue\": \"-17535/8306\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"019\", \"EXIF SubSecTimeDigitized\": \"019\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"560\", \"EXIF ExifImageLength\": \"420\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[399/100, 399/100, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 8 back camera 3.99mm f/1.8\"}",
+    "sha256": "501098e523cd0e3125e632ea486c1ac932d1bda9e246829a083f45cc3f4275d8"
+}

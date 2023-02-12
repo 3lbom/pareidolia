@@ -1,0 +1,12 @@
+{
+    "url": "http://kidrecipes.com.au/images/bakedeasypizza.JPG",
+    "key": "000001868",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 326,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2015:05:25 17:23:32\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2294\", \"GPS GPSLatitudeRef\": \"S\", \"GPS GPSLatitude\": \"[31, 53, 103/2]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[115, 53, 49/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"16198/461\", \"GPS GPSTimeStamp\": \"[5, 14, 476/25]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"11588/319\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"69008/319\", \"GPS GPSDate\": \"2015:05:25\", \"Image GPSInfo\": \"5758\", \"Image XPKeywords\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:05:25 13:14:19\", \"EXIF DateTimeDigitized\": \"2015:05:25 13:14:19\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"7361/1304\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"7638/1589\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 2393, 1077]\", \"EXIF SubSecTimeOriginal\": \"305\", \"EXIF SubSecTimeDigitized\": \"305\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"39\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4214\"}",
+    "sha256": "6c076e25ce575b877f369baadfdffe9f84ba135ca54dfa0075e139b1df36ce4e"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://amazon.clikpic.com/KevDee/images/Stoneface.jpg",
+    "key": "000004717",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 379,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 6.0 Windows\", \"Image DateTime\": \"2009:07:29 21:06:08\", \"Image ExifOffset\": \"172\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"310\", \"Thumbnail JPEGInterchangeFormatLength\": \"8619\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"379\"}",
+    "sha256": "1794de365d53e8aeffa6c12f519f52e800f673c5ef196152badae160c6b2299c"
+}

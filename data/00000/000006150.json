@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.olioex.com/uploads/photo/file/v1m8hSUIpIIS547slGwTXQ/image.jpg",
+    "key": "000006150",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 960,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"720\", \"EXIF ExifImageLength\": \"960\"}",
+    "sha256": "327dd95e7d8e2a90d58be63e3571ce27ff71c3586e566036719bb6dfd4abac68"
+}

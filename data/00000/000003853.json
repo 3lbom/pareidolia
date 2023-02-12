@@ -1,0 +1,12 @@
+{
+    "url": "http://www.pujiangmihoutao.com/pic/pzhs80.jpg",
+    "key": "000003853",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image ImageWidth\": \"1872\", \"Image ImageLength\": \"4000\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Make\": \"HUAWEI\", \"Image Model\": \"PCT-AL10\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PCT-AL10 9.0.1.143(C00E141R1P16)\", \"Image DateTime\": \"2019:03:17 08:13:44\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"276\", \"Image DeviceSettingDescription\": \"[0, 0, 0, 0]\", \"EXIF DocumentName\": \"[]\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:03:17 08:13:44\", \"EXIF DateTimeDigitized\": \"2019:03:17 08:13:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"19/20\", \"EXIF ShutterSpeedValue\": \"298973/10000\", \"EXIF ApertureValue\": \"169/100\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"169/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Daylight\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"19/4\", \"EXIF SubSecTime\": \"815650\", \"EXIF SubSecTimeOriginal\": \"815650\", \"EXIF SubSecTimeDigitized\": \"815650\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1872\", \"EXIF ExifImageLength\": \"4000\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1030\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "39cdd1564f82157a150d2ec91c72bfd0b2227e12114c952183e7ae31645c95ad"
+}

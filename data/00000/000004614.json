@@ -1,0 +1,12 @@
+{
+    "url": "https://aimfc.rncan.gc.ca/images_web/imfc/maladies/moyen/003393.jpg",
+    "key": "000004614",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 399,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS2 Windows\", \"Image DateTime\": \"2010:03:24 10:33:36\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"7271\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"399\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "c3907f7bf541b7d3e250775b65f26fa0d8e911d57d8354c5728ca9aaf10350e8"
+}

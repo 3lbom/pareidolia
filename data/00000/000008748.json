@@ -1,0 +1,12 @@
+{
+    "url": "https://esoreiter.ru:443/news/0916/pic-05-09-2016-1641252.jpg",
+    "key": "000008748",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 690,
+    "original_height": 690,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2016:09:05 15:54:03\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"487\", \"EXIF ExifImageWidth\": \"690\", \"EXIF ExifImageLength\": \"690\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "ad6fbd90e61d6498ec932731d7647398f585710f85b3f50ae2cd3688c5442822"
+}

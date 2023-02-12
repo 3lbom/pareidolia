@@ -1,0 +1,12 @@
+{
+    "url": "https://etosibir.ru/wp-content/uploads/2014/11/81-1078x516.jpg",
+    "key": "000008759",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1078,
+    "original_height": 516,
+    "exif": "{\"Image ImageDescription\": \"<KENOX S860  / Samsung S860>\", \"Image Make\": \"Samsung Techwin\", \"Image Model\": \"<KENOX S860  / Samsung S860>\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"805234\", \"Image DateTime\": \"2008:04:13 20:33:58\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"COPYRIGHT, 2007\", \"Image ExifOffset\": \"396\", \"Image ExposureMode\": \"'0'\", \"Image WhiteBalance\": \"'0'\", \"Image DigitalZoomRatio\": \"0/10\", \"Image FocalLengthIn35mmFilm\": \"38\", \"Image SceneCaptureType\": \"'0'\", \"Image Contrast\": \"'0'\", \"Image Saturation\": \"'0'\", \"Image Sharpness\": \"'0'\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"27002\", \"Thumbnail JPEGInterchangeFormatLength\": \"3725\", \"EXIF ExposureTime\": \"1/350\", \"EXIF FNumber\": \"42/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:04:13 20:33:58\", \"EXIF DateTimeDigitized\": \"2008:04:13 20:33:58\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"101045/41616\", \"EXIF ShutterSpeedValue\": \"419/50\", \"EXIF ApertureValue\": \"307/50\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"297/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"88\", \"EXIF FocalLength\": \"63/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF RelatedSoundFile\": \"RelatedSound\", \"EXIF ExposureIndex\": \"1\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "8234a02e9b6c345e4b15a3b9a17fea964fa0efdeac8ad1e96c47e2bafb8fa3ff"
+}

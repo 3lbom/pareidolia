@@ -1,0 +1,12 @@
+{
+    "url": "http://mtdata.ru/u23/photo4AA0/20543598731-0/original.jpg",
+    "key": "000002207",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 612,
+    "original_height": 612,
+    "exif": "{\"Image Software\": \"Google\", \"Image ExifOffset\": \"46\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"612\", \"EXIF ExifImageLength\": \"612\"}",
+    "sha256": "e587171986e0a9e7bcc383d3ee1a471adac7025103058ec12b400199dc1f199c"
+}

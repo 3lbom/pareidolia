@@ -1,0 +1,12 @@
+{
+    "url": "http://img.fotocommunity.com/le-monstre-des-bois-efb64100-0c18-491e-a6d4-3d6e94ea4662.jpg?height=1080",
+    "key": "000001412",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 981,
+    "original_height": 1080,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 400D DIGITAL\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS Windows\", \"Image DateTime\": \"2011:03:20 11:40:48\", \"Image Artist\": \"unknown\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1018\", \"Thumbnail JPEGInterchangeFormatLength\": \"11120\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"71/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:03:07 14:54:02\", \"EXIF DateTimeDigitized\": \"2011:03:07 14:54:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"108853/16384\", \"EXIF ApertureValue\": \"46331/8192\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Average\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"63\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2600\", \"EXIF ExifImageLength\": \"2863\", \"EXIF FocalPlaneXResolution\": \"3888000/877\", \"EXIF FocalPlaneYResolution\": \"432000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "7a81c162d0b63c6877be632a3d1259539bf046155c8a358f1b7d7cf589d86d41"
+}

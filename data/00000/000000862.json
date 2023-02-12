@@ -1,0 +1,12 @@
+{
+    "url": "http://fira-lokal.de/wp-content/uploads/2015/06/Bergmann_99310_Arnstadt__3__web.jpg",
+    "key": "000000862",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D7000\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Ver.1.03\", \"Image DateTime\": \"2014:10:04 15:05:54\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"2396\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"41568\", \"Image SensitivityType\": \"Recommended Exposure Index\", \"Image XPComment\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"10\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:10:04 15:05:54\", \"EXIF DateTimeDigitized\": \"2014:10:04 15:05:54\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"85\", \"EXIF SubSecTime\": \"80\", \"EXIF SubSecTimeOriginal\": \"80\", \"EXIF SubSecTimeDigitized\": \"80\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"41532\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"127\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4156\"}",
+    "sha256": "cbc5e7b1e79ad4fd7e6076360c90bb7b23129ec5b5519ad16c6d65aca0611414"
+}

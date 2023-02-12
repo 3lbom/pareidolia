@@ -1,0 +1,12 @@
+{
+    "url": "http://www.tray.jp/schedule/assets_c/2016/10/cle201610-thumb-450x449-16.jpg",
+    "key": "000004011",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 449,
+    "exif": "{\"Image ImageWidth\": \"640\", \"Image ImageLength\": \"638\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015.5 (Macintosh)\", \"Image DateTime\": \"2016:10:06 13:12:46\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"418\", \"Thumbnail JPEGInterchangeFormatLength\": \"6375\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"450\", \"EXIF ExifImageLength\": \"449\"}",
+    "sha256": "d6fde1652ea728912f092365246673d341d9cb6ed55a5bd544feeb714aec7c96"
+}

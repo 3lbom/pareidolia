@@ -1,0 +1,12 @@
+{
+    "url": "http://i.epochtimes.com/assets/uploads/2012/06/1206161009171858-600x338.jpg",
+    "key": "000000996",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 338,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-FX01\", \"Image Orientation\": \"Horizontal (normal)\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2012:06:13 14:57:14\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"398\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"7060\", \"Thumbnail JPEGInterchangeFormatLength\": \"4583\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"43/10\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:06:13 14:57:14\", \"EXIF DateTimeDigitized\": \"2012:06:13 14:57:14\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"1\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"56/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1920\", \"EXIF ExifImageLength\": \"1080\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"6908\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"102\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "93ea9b2bd16b836651f70109213eb54058e452306336d038c10565ec93987244"
+}

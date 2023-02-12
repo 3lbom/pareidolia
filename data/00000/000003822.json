@@ -1,0 +1,12 @@
+{
+    "url": "http://www.parks.it/tmpFoto/9519_141_PNAPM.jpeg",
+    "key": "000003822",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A80\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2011:01:19 13:05:17\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"184\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1972\", \"Thumbnail JPEGInterchangeFormatLength\": \"3005\", \"EXIF ExposureTime\": \"1/1000\", \"EXIF FNumber\": \"8\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:08:16 19:25:08\", \"EXIF DateTimeDigitized\": \"2007:08:16 19:25:08\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"319/32\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"147/32\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"749/32\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"2272\", \"Interoperability RelatedImageLength\": \"1704\", \"EXIF InteroperabilityOffset\": \"1824\", \"EXIF FocalPlaneXResolution\": \"56800/7\", \"EXIF FocalPlaneYResolution\": \"56800/7\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "dcfca17ed77b95daab84811b606c593c8379158751b79bc772f818cf02ddc2cf"
+}

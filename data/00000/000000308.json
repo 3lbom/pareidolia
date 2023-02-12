@@ -1,0 +1,12 @@
+{
+    "url": "http://beni-chidori.way-nifty.com/photos/uncategorized/2012/03/08/ca3i0354.jpg",
+    "key": "000000308",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"CA3I0354\", \"Image Make\": \"KDDI-CA\", \"Image Model\": \"G'zOne TYPE-X\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"314\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2048\", \"Thumbnail JPEGInterchangeFormatLength\": \"6483\", \"EXIF ExposureTime\": \"1/25\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:03:08 07:40:10\", \"EXIF DateTimeDigitized\": \"2012:03:08 07:40:10\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"3\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"23/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1900\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"129/116\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Saturation\": \"Normal\", \"EXIF SubjectDistanceRange\": \"1\"}",
+    "sha256": "c8186d49b61e3cae443faa0c87c871d9611491bc31e3a8949ea59ebd3864e533"
+}

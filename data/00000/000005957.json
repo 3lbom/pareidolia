@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.crello.com/common/2732a987-5bfa-40bb-b608-777d24bb5133_1024.jpg",
+    "key": "000005957",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 273,
+    "original_height": 1024,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"273\", \"EXIF ExifImageLength\": \"1024\"}",
+    "sha256": "5903cef6dd05e91018d918751478f6af0dd71d2ec927d87f0800c0db5d42beaa"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://dreambigliveboldly.com/wp-content/uploads/2013/03/p1090493.jpg",
+    "key": "000000735",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 448,
+    "original_height": 336,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-FZ150\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Ver.1.0\", \"Image DateTime\": \"2013:03:04 01:46:53\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2268\", \"Image SensitivityType\": \"Standard Output Sensitivity\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D2\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D3\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:03:04 01:46:53\", \"EXIF DateTimeDigitized\": \"2013:03:04 01:46:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"473/128\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"47/2\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2560\", \"EXIF ExifImageLength\": \"1920\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"14562\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"130\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4180\"}",
+    "sha256": "0aa19f9bbde99b05bc1a3cd9bdcbefe33c3b2c6adc190f02c53878065dcbbb84"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://img.mp.itc.cn/upload/20160730/7bea6f393726450489302da83bba3463_th.jpeg",
+    "key": "000001448",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 640,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"286\", \"Thumbnail JPEGInterchangeFormatLength\": \"15813\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"640\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "77f688c5de9f03fe2fa2025def4da54d4879ec1bc1d5d72d958f44cc887f9adf"
+}

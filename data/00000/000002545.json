@@ -1,0 +1,12 @@
+{
+    "url": "http://rastishka.by/wp-content/uploads/2015/03/salat-25.jpg",
+    "key": "000002545",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 750,
+    "original_height": 464,
+    "exif": "{\"Image DateTime\": \"2015:03:04 11:16:24\", \"Image ExifOffset\": \"58\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"106\", \"Thumbnail JPEGInterchangeFormatLength\": \"6271\"}",
+    "sha256": "0ecaf79821b0b77f438c7e2cefe19f24e367c32c4f43907e733347c8e105a516"
+}

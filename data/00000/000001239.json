@@ -1,0 +1,12 @@
+{
+    "url": "http://image1.slideserve.com/1916563/customs-n.jpg",
+    "key": "000001239",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 540,
+    "exif": "{\"Image Tag 0x5110\": \"0\", \"Image Tag 0x5111\": \"0\", \"Image Tag 0x5112\": \"0\"}",
+    "sha256": "80141ae83174849567b8629994e0a27ea7d491215cfd23f7815d4cd4de950a79"
+}

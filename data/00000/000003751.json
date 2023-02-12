@@ -1,0 +1,12 @@
+{
+    "url": "http://www.moillusions.com/wp-content/uploads/2011/06/Shadow-Face-Optical-Illusion.jpg?2fad8a",
+    "key": "000003751",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 293,
+    "exif": "{\"Image ImageWidth\": \"568\", \"Image ImageLength\": \"625\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2011:06:16 18:01:42\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"378\", \"Thumbnail JPEGInterchangeFormatLength\": \"8164\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"293\"}",
+    "sha256": "51db07076ae543281341fa3fc40d612d9948ea5cc4d3a95edb159d22cce943c6"
+}

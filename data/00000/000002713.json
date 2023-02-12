@@ -1,0 +1,12 @@
+{
+    "url": "http://s3.amazonaws.com/medias.photodeck.com/0f5e7da8-8f9b-4497-a7ad-1ee82ebc8fa3/Red-Rocks-300dpi-fullsize-28_bigthumb.jpg",
+    "key": "000002713",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 275,
+    "original_height": 183,
+    "exif": "{}",
+    "sha256": "a319a3c584af19c8433a2674f91b7a62711cadb5e5953b5a449bf68d2773d336"
+}

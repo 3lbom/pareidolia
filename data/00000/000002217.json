@@ -1,0 +1,12 @@
+{
+    "url": "http://muzeumtg.pl/wp-content/uploads/2019/08/www-top2.jpg",
+    "key": "000002217",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1100,
+    "original_height": 399,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"1100\", \"EXIF ExifImageLength\": \"399\"}",
+    "sha256": "ee1a0d217430396acf6345ebdb96dd458b4ca000af27bde2078d31fe491d7d89"
+}

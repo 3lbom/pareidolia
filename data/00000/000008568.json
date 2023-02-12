@@ -1,0 +1,12 @@
+{
+    "url": "https://drscdn.500px.org/photo/15181761/m%3D1170_k%3D1_a%3D1/v2?sig=5609b04a9f021a9fc2dda093649e849f27f8feb52cb80bfb0a2e21cb07804c55",
+    "key": "000008568",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 900,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"900\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "3f5bc1b884103e28860798a2c58d5b5565a6b288c18144dd8f460e70f852e1a8"
+}

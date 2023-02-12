@@ -1,0 +1,12 @@
+{
+    "url": "http://staging.teepr.com/wp-content/uploads/2017/05/%E5%9F%8E%E5%B8%82%E7%9C%BC%E7%9D%9B%E8%97%9D%E8%A1%93-430x225.jpg",
+    "key": "000002884",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 430,
+    "original_height": 225,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"26\", \"Image YResolution\": \"26\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2017:05:31 14:42:11\", \"Image ExifOffset\": \"168\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"26\", \"Thumbnail YResolution\": \"26\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"306\", \"Thumbnail JPEGInterchangeFormatLength\": \"4634\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"417\"}",
+    "sha256": "3fa79f3505512a6ed8ba1c5b0b2e275fd152eb76f8cdf5b95aae7d2b25b195a7"
+}

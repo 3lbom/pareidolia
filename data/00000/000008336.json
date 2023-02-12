@@ -1,0 +1,12 @@
+{
+    "url": "https://decofotofood.com/wp-content/uploads/2017/03/IMG_4780-300x200.jpg",
+    "key": "000008336",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 200,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 700D\", \"Image Software\": \"Obrazy cyfrowe ACD Systems\", \"Image DateTime\": \"2016:09:23 12:16:35\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"192\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"8782\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:15 14:52:55\", \"EXIF DateTimeDigitized\": \"2016:08:15 14:52:55\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"51/8\", \"EXIF ApertureValue\": \"5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTime\": \"513\", \"EXIF SubSecTimeOriginal\": \"57\", \"EXIF SubSecTimeDigitized\": \"57\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"5184\", \"EXIF ExifImageLength\": \"3456\", \"EXIF FocalPlaneXResolution\": \"864000/149\", \"EXIF FocalPlaneYResolution\": \"1152000/199\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "40d3d98edce754418ed1c2a56cb53a776d3860eb60f3fde2294f9f954e549449"
+}

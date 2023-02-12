@@ -1,0 +1,12 @@
+{
+    "url": "http://img.technews.tw/wp-content/uploads/2014/07/walkman-logo-history-technews.jpg",
+    "key": "000001590",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 400,
+    "original_height": 672,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Pixelmator 3.2\", \"Image DateTime\": \"2014:07:02 14:07:83\", \"Image ExifOffset\": \"150\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"400\", \"EXIF ExifImageLength\": \"672\"}",
+    "sha256": "261fbe178e25246f00f32acccbc5201dca5384e88e039b1df674b44488ef861d"
+}

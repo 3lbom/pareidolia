@@ -1,0 +1,12 @@
+{
+    "url": "http://www.hongxinmihoutao.com/pic/jdf129.jpg",
+    "key": "000003605",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 700,
+    "original_height": 467,
+    "exif": "{\"Image ImageWidth\": \"4000\", \"Image ImageLength\": \"3000\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image ImageDescription\": \"rpt\", \"Image Make\": \"HUAWEI\", \"Image Model\": \"YAL-AL10\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"YAL-AL10 10.1.0.161(C00E160R8P12)\", \"Image DateTime\": \"2020:08:26 18:04:13\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"288\", \"Image DeviceSettingDescription\": \"[0, 0, 0, 0]\", \"EXIF DocumentName\": \"[]\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"7/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:08:26 18:04:13\", \"EXIF DateTimeDigitized\": \"2020:08:26 18:04:13\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"19/20\", \"EXIF ShutterSpeedValue\": \"298973/10000\", \"EXIF ApertureValue\": \"97/100\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"97/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Daylight\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"233/50\", \"EXIF SubSecTime\": \"329536\", \"EXIF SubSecTimeOriginal\": \"329536\", \"EXIF SubSecTimeDigitized\": \"329536\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4000\", \"EXIF ExifImageLength\": \"3000\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"948\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "3a488c43672936371da590ae9fc1ce677e3dec046492f9ba41e3321712536afc"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.megapixel.cz/gallery/thumbnail/w280h280/6/117316.jpg?v=1427449652",
+    "key": "000006113",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 279,
+    "original_height": 280,
+    "exif": "{\"Image ImageWidth\": \"3122\", \"Image ImageLength\": \"4675\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2015:03:26 17:44:06\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"7898\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3122\", \"EXIF ExifImageLength\": \"4675\"}",
+    "sha256": "7be0ba40ec9efa651ee5a326462edc2ce7243e5719cb0b5552269c42c6134339"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://catminator.ru/post/2018/04/002227/images_002227_037.jpg",
+    "key": "000005736",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 850,
+    "original_height": 850,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACDSee Professional 2018\", \"Image DateTime\": \"2018:04:20 15:07:03\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"171\", \"EXIF SubSecTime\": \"510\", \"EXIF ExifImageWidth\": \"850\", \"EXIF ExifImageLength\": \"850\"}",
+    "sha256": "68866fa696300b469b962113927a87a67a4fc9df589687fa0a08446389f8b66f"
+}

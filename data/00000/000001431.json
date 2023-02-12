@@ -1,0 +1,12 @@
+{
+    "url": "http://img.funtema.ru/31052018/japan/9.jpg",
+    "key": "000001431",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 700,
+    "original_height": 700,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2018:05:31 10:29:30\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF SubSecTime\": \"314\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"700\"}",
+    "sha256": "3378ecf8cf283b01507e7b0dd808191819cf0f3c5f4fcd8e7fb9c3a7ed8722f5"
+}

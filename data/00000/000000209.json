@@ -1,0 +1,12 @@
+{
+    "url": "http://adrenalin.bike/wp-content/uploads/2015/12/004.jpg",
+    "key": "000000209",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 525,
+    "original_height": 700,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot S1 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS2 Windows\", \"Image DateTime\": \"2009:04:04 20:16:59\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1138\", \"Thumbnail JPEGInterchangeFormatLength\": \"5965\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"9/2\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:04:04 12:56:51\", \"EXIF DateTimeDigitized\": \"2009:04:04 12:56:51\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"117/16\", \"EXIF ApertureValue\": \"139/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"13/4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"58\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1536\", \"EXIF ExifImageLength\": \"2048\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1536\", \"Interoperability RelatedImageLength\": \"2048\", \"EXIF InteroperabilityOffset\": \"988\", \"EXIF FocalPlaneXResolution\": \"128000/13\", \"EXIF FocalPlaneYResolution\": \"128000/13\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "d60b546c493d8401a6ce1513093d169b6c10c2b814727cef012d2fbd5577e79a"
+}

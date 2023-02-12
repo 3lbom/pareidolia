@@ -1,0 +1,12 @@
+{
+    "url": "http://vwp.su/pic/08img_set/vyrezanie-na-bananah_11.jpg",
+    "key": "000003302",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image DateTime\": \"2016:12:19 23:54:33\", \"Image ExifOffset\": \"58\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"106\", \"Thumbnail JPEGInterchangeFormatLength\": \"2660\"}",
+    "sha256": "2d63c4e10e8e282479a759bf82fab8ff38d82179bac013acb30b92e1e8157165"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://api.naturemapr.org/api/sightings/3403215/images/2?width=300&height=300&r=4978",
+    "key": "000004788",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 300,
+    "exif": "{}",
+    "sha256": "8fc8324a08e9a5c73cbcafa1c608f868442e3f8e10b5bd5857adf2585a13a57d"
+}

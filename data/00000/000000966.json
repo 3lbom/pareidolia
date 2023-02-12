@@ -1,0 +1,12 @@
+{
+    "url": "http://healthy-intent.com/wp-content/uploads/2015/09/banana_man-300x300.jpg",
+    "key": "000000966",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 300,
+    "exif": "{\"Image ImageWidth\": \"1920\", \"Image ImageLength\": \"1080\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"EK-GC200\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Macintosh)\", \"Image DateTime\": \"2015:08:30 16:44:34\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"292\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"870\", \"Thumbnail JPEGInterchangeFormatLength\": \"4521\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:08:28 14:03:16\", \"EXIF DateTimeDigitized\": \"2015:08:28 14:03:16\", \"EXIF ShutterSpeedValue\": \"233/25\", \"EXIF ApertureValue\": \"363/100\", \"EXIF BrightnessValue\": \"813/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"297/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"41/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"713\", \"EXIF ExifImageLength\": \"713\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"23\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"D16FLH\"}",
+    "sha256": "0a63a347454db3d4739fa7312509c799b47ffaceed6990e3aabc106eedef8166"
+}

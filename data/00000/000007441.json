@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn2.apstatic.com/photos/climb/113773900_medium_1509475604.jpg",
+    "key": "000007441",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"11.0.3\", \"Image DateTime\": \"2017:10:21 15:20:21\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"206\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[42, 38, 609/100]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[70, 39, 2081/50]\", \"GPS GPSAltitude\": \"72487/1633\", \"GPS GPSDOP\": \"10\", \"Image GPSInfo\": \"1636\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1872\", \"Thumbnail JPEGInterchangeFormatLength\": \"12129\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:21 15:20:21\", \"EXIF DateTimeDigitized\": \"2017:10:21 15:20:21\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"23674/4007\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"5815/1293\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"124\", \"EXIF SubSecTimeDigitized\": \"124\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5s back camera 4.15mm f/2.2\"}",
+    "sha256": "f7c143a3755c87cd6508c670dc0f24c32278d9dbce69afb30018826b3b52f07c"
+}

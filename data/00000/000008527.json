@@ -1,0 +1,12 @@
+{
+    "url": "https://domikon.pl/wp-content/uploads/2018/09/IMG_6481-1200x675.jpg",
+    "key": "000008527",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 675,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[51, 22, 1899/100]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[16, 8, 37]\", \"Image GPSInfo\": \"192\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"388\", \"Thumbnail JPEGInterchangeFormatLength\": \"5486\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1920\", \"EXIF ExifImageLength\": \"1080\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "10f0476234dc679a0a5acb9e177c607b06c8e87a8e93ad6d585f3d031f30e469"
+}

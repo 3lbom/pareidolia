@@ -1,0 +1,12 @@
+{
+    "url": "https://assets.londonist.com/uploads/2018/10/i875/27067782_1717320128312848_4184078028511989390_n.jpg",
+    "key": "000005026",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 730,
+    "original_height": 627,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"730\", \"EXIF ExifImageLength\": \"627\"}",
+    "sha256": "bda37bbe2f7d318e5895aa74c5b5ca31b141a39ac1acd17413ada044cd4aaf46"
+}

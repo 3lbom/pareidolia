@@ -1,0 +1,12 @@
+{
+    "url": "http://www.garazskapu-budapest.hu/kepek/referenciak/garazskapu_dunaharaszti_kossuth_1.jpg",
+    "key": "000003557",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 930,
+    "original_height": 698,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2012:02:20 06:06:12\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"718\", \"EXIF ExifImageWidth\": \"930\", \"EXIF ExifImageLength\": \"698\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "8f38dbb4cf8810f1a7fad463316ac24c181e3712d8824753b9e56954fc17cfc2"
+}

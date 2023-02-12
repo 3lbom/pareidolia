@@ -1,0 +1,12 @@
+{
+    "url": "https://content.tinytap.it/UID_6A1C82E0-6AB1-4291-A98D-23660631F4E3/unzipped%2Fphoto1%2Fphoto1phone.jpg",
+    "key": "000007847",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\"}",
+    "sha256": "ea4067ddb7a153a51753a356308a6b6e75b0585bcd4c674cafbde0aec1f14d83"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.paris.fr/paris/2021/05/19/resized-80cd3be5f3c29b445e1721fa7c3a7d41.jpg",
+    "key": "000006159",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.14 (Macintosh)\", \"Image DateTime\": \"2021:05:19 14:34:46\", \"Image ExifOffset\": \"206\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"806\", \"Thumbnail JPEGInterchangeFormatLength\": \"26350\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"20\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:04:15 14:37:09\", \"EXIF DateTimeDigitized\": \"2021:04:15 14:37:09\", \"EXIF ShutterSpeedValue\": \"477741/62500\", \"EXIF ApertureValue\": \"847997/500000\", \"EXIF BrightnessValue\": \"136439/19090\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"185\", \"EXIF SubSecTimeDigitized\": \"185\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4183519/1048501, 4183519/1048501, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 back camera 3.99mm f/1.8\"}",
+    "sha256": "9e43d554910d1e94c12563612c2e434b3426263f399e450c704e881168f5185f"
+}

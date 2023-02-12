@@ -1,0 +1,12 @@
+{
+    "url": "http://img.redocn.com/sheying/20150921/huangshanshangdeguaishi_4993196_small.jpg",
+    "key": "000001581",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 204,
+    "original_height": 204,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SX160 IS\", \"Image Orientation\": \"Rotated 90 CCW\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2014:04:14 12:12:41\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"246\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"4938\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5620\", \"Thumbnail JPEGInterchangeFormatLength\": \"4579\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"9/2\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:04:14 12:12:41\", \"EXIF DateTimeDigitized\": \"2014:04:14 12:12:41\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"133/16\", \"EXIF ApertureValue\": \"139/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"139/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"15403/1000\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3456\", \"EXIF ExifImageLength\": \"3456\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3456\", \"Interoperability RelatedImageLength\": \"3456\", \"EXIF InteroperabilityOffset\": \"4860\", \"EXIF FocalPlaneXResolution\": \"2304000/121\", \"EXIF FocalPlaneYResolution\": \"1728000/91\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"\"}",
+    "sha256": "10a05d53979387702730048cf31b395e69c2d6c2bd448dbe2d76c0861955fa6d"
+}

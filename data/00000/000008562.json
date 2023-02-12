@@ -1,0 +1,12 @@
+{
+    "url": "https://drawingforall.ru/wp-content/uploads/2015/01/1-%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5-%D0%BB%D0%B8%D1%86%D0%BE.jpg",
+    "key": "000008562",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1127,
+    "original_height": 1148,
+    "exif": "{\"Image ImageWidth\": \"2338\", \"Image ImageLength\": \"1700\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"200\", \"Image YResolution\": \"200\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2015:01:16 17:01:29\", \"Image ExifOffset\": \"2302\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4524\", \"Thumbnail JPEGInterchangeFormatLength\": \"1569\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1127\", \"EXIF ExifImageLength\": \"1148\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "fc60ec209bed87c841da44ef6f5e8adaf4745467e9b29f79b5b51a215b2cf943"
+}

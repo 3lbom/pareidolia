@@ -1,0 +1,12 @@
+{
+    "url": "http://storage.ning.com/topology/rest/1.0/file/get/3675429026?profile=RESIZE_180x180&height=139",
+    "key": "000002937",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 148,
+    "original_height": 180,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 4.0\", \"Image DateTime\": \"2019:10:07 21:56:26\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"146\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"394\", \"Thumbnail JPEGInterchangeFormatLength\": \"9332\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:10:07 21:56:26\", \"EXIF DateTimeDigitized\": \"2019:10:07 21:56:26\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"582\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9f0f43746a62e20b7ecabff253cbeb0c0a2c84eeb757c605d898b3699a97cd72"
+}

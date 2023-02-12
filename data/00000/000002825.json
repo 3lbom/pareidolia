@@ -1,0 +1,12 @@
+{
+    "url": "http://sofreakingvegan.dk/wp-content/uploads/2019/01/20190123_150401-1024x768.jpg",
+    "key": "000002825",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-J330F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"J330FXXU3BRL1\", \"Image DateTime\": \"2019:01:23 15:04:01\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"202\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"384\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1000\", \"Thumbnail JPEGInterchangeFormatLength\": \"13469\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:01:23 15:04:01\", \"EXIF DateTimeDigitized\": \"2019:01:23 15:04:01\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"141/25\", \"EXIF ApertureValue\": \"37/20\", \"EXIF BrightnessValue\": \"107/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"18/5\", \"EXIF SubSecTime\": \"0792\", \"EXIF SubSecTimeOriginal\": \"0792\", \"EXIF SubSecTimeDigitized\": \"0792\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4128\", \"EXIF ExifImageLength\": \"3096\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"840\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"Y13LLKA00AM Y13LLKF01AA\"}",
+    "sha256": "935fa044e55c643fddef7868a3b2c693c371efec48a863a4cc9adf9867dddc8d"
+}

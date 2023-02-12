@@ -1,0 +1,12 @@
+{
+    "url": "http://edaetoprosto.ru/kulinar/zagotsalatogur/image003.jpg",
+    "key": "000000749",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"SP570UZ\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2013:07:23 08:07:57\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"290\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"4070\", \"Thumbnail JPEGInterchangeFormatLength\": \"10524\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"41/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:07:21 10:24:33\", \"EXIF DateTimeDigitized\": \"2013:07:21 10:24:33\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"-7/10\", \"EXIF MaxApertureValue\": \"297/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"1899/100\", \"EXIF SubSecTime\": \"558\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"Interoperability InteroperabilityIndex\": \"\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"3990\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "59fd253f07d029e2e63f7035c69e83dfc91b94e936fa0d6e58c3ef648d226290"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.99sy.co/uploadfile/2017/0109/20170109035209657.jpg",
+    "key": "000003357",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 857,
+    "exif": "{\"Image ImageWidth\": \"3869\", \"Image ImageLength\": \"3905\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"LZW\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"4-8-3\", \"Image Make\": \"HEIDELBERG PREPRESS\", \"Image Model\": \"Scanner DC3000\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"1780\", \"Image YResolution\": \"1780\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2016:12:03 15:05:21\", \"Image Artist\": \"Krause, Johansen\", \"Image ExifOffset\": \"364\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"502\", \"Thumbnail JPEGInterchangeFormatLength\": \"10889\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1200\", \"EXIF ExifImageLength\": \"857\"}",
+    "sha256": "1dbf7c6ff682189386f49fc6cea14e96ea97c2d0aaa0e1e5618b5479f6d3fd42"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://d1qmdf3vop2l07.cloudfront.net/resilient-porpoise.cloudvent.net/compressed/_min_/915a0158f52c7a902f0aa07b3529e434.jpg",
+    "key": "000008028",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 669,
+    "original_height": 386,
+    "exif": "{\"Image ImageWidth\": \"669\", \"Image ImageLength\": \"386\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Macintosh)\", \"Image DateTime\": \"2018:08:24 14:09:16\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"5227\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"669\", \"EXIF ExifImageLength\": \"386\"}",
+    "sha256": "232b317a2a827cd7805e4147bf667cdb55eb7f9f393a7230f489fbe8047c94f2"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://marche-nature.wifeo.com/images/Rando-La-Penne-St-Cyr-3.JPG",
+    "key": "000002008",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 396,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"picnik.com\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "53bb7fa348b719bd03f264cfcf19a55377bbc39312ab500938c03f3063602dfb"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://equitrekking.com/images/uploads/arkansas-pedestal-rock.jpg",
+    "key": "000008734",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 451,
+    "exif": "{\"Image ImageWidth\": \"699\", \"Image ImageLength\": \"525\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"120\", \"Image YResolution\": \"120\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Elements 11.0 Macintosh\", \"Image DateTime\": \"2014:01:15 21:28:17\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"390\", \"Thumbnail JPEGInterchangeFormatLength\": \"14006\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"451\"}",
+    "sha256": "ba9ab3b507403ffc87d919c84f7a9e4b4084e477472b6302d2599fdd1c33f376"
+}

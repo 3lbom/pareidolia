@@ -1,0 +1,12 @@
+{
+    "url": "http://delusciousbites.com/wp-content/uploads/2017/09/South-Dakota-trip-2-8-768x1024.jpg",
+    "key": "000000698",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 1024,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.8 (Macintosh)\", \"Image DateTime\": \"2017:10:12 12:13:44\", \"Image Artist\": \"Esha Sachdeva\", \"Image Copyright\": \"\\u00a9 Deluscious Bites\", \"Image ExifOffset\": \"262\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"862\", \"Thumbnail JPEGInterchangeFormatLength\": \"11533\", \"EXIF ExposureTime\": \"1/3200\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"20\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:09:07 13:45:41\", \"EXIF DateTimeDigitized\": \"2017:09:07 13:45:41\", \"EXIF ShutterSpeedValue\": \"727741/62500\", \"EXIF ApertureValue\": \"847997/500000\", \"EXIF BrightnessValue\": \"5234/485\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[1545, 2050, 753, 756]\", \"EXIF SubSecTimeOriginal\": \"866\", \"EXIF SubSecTimeDigitized\": \"866\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[399/100, 399/100, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 back camera 3.99mm f/1.8\"}",
+    "sha256": "5d905ae6185fcebd948d593802f6218380b25edd0bb38af91571d1db562ae5ff"
+}

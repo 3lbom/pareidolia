@@ -1,0 +1,12 @@
+{
+    "url": "http://schmidtblick.de/wp-content/uploads/2019/09/Felsgesicht2.jpg",
+    "key": "000002759",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 800,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Copyright\": \"Marion Schmidt\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"188\", \"Thumbnail JPEGInterchangeFormatLength\": \"28165\"}",
+    "sha256": "3e575ec28d8bec37fbfa6237d4a22555709d0b5079e0b439d6ac7e2e01869e07"
+}

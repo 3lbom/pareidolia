@@ -1,0 +1,12 @@
+{
+    "url": "https://cp1.douguo.com/upload/caiku/5/3/1/220_53956f7714c453d0bda819831ed81f01.jpg",
+    "key": "000007877",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 220,
+    "original_height": 220,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"220\", \"EXIF ExifImageLength\": \"220\"}",
+    "sha256": "f3232fe28e0dcaeb1e3a8d8e3613039739d8493c9e71f8dc10f5a938fea224ce"
+}

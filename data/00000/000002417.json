@@ -1,0 +1,12 @@
+{
+    "url": "http://photos.smugmug.com/Europe/Italy-Apennines/i-mPL9qVQ/0/Ti/capracotta-apenines%20%281%20of%201%29-Ti.jpg",
+    "key": "000002417",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 100,
+    "original_height": 100,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "af33fd763b0232132529f95de6377b917d82df920fc5c71050f6ee77be837a6b"
+}

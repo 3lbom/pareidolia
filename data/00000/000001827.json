@@ -1,0 +1,12 @@
+{
+    "url": "http://jackijablunkov.cz/wp-content/uploads/2017/03/Girova_certi-mlyn_2-312x240.jpg",
+    "key": "000001827",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 312,
+    "original_height": 240,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"u700,S700\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Version 1.1\", \"Image DateTime\": \"2007:08:23 14:49:23\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"932\", \"Image CustomRendered\": \"Normal\", \"Image ExposureMode\": \"Auto Exposure\", \"Image WhiteBalance\": \"Auto\", \"Image DigitalZoomRatio\": \"1\", \"Image SceneCaptureType\": \"Landscape\", \"Image GainControl\": \"Low gain up\", \"Image Contrast\": \"Normal\", \"Image Saturation\": \"Normal\", \"Image Sharpness\": \"Normal\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3100\", \"Thumbnail JPEGInterchangeFormatLength\": \"5636\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"43/10\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:08:23 14:49:23\", \"EXIF DateTimeDigitized\": \"2007:08:23 14:49:23\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"353/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"1163/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2304\", \"EXIF ExifImageLength\": \"3072\", \"EXIF FileSource\": \"0\"}",
+    "sha256": "d2da8280b4cb450302372702ff080f30d60441d6bab769653bb6648254f17204"
+}

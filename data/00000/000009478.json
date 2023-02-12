@@ -1,0 +1,12 @@
+{
+    "url": "https://glavcom.ua/media/o-00281282-g-00008224.jpg",
+    "key": "000009478",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 622,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACDSee Pro 5\", \"Image DateTime\": \"2015:05:12 12:57:29\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"159\", \"EXIF SubSecTime\": \"470\", \"EXIF ExifImageWidth\": \"622\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "d565863fc72fa18a2f68fe386084ad06dbb5dbf7bff74e62aa25abe74d1e0795"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://blog-imgs-88.fc2.com/h/a/i/haitoukin/IMG_7870_20160306.jpg",
+    "key": "000000382",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 297,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"QuickTime 7.7.1\", \"Image DateTime\": \"2016:03:06 10:08:33\", \"Image ExifOffset\": \"190\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:03:05 11:38:01\", \"EXIF DateTimeDigitized\": \"2016:03:05 11:38:01\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"7439/1516\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"2518/603\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"201\", \"EXIF SubSecTimeDigitized\": \"201\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"297\", \"EXIF ExifImageLength\": \"400\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "d33f0f2924dbc2dc29bb8197e8d2dd4547acc3ad95e4483fcbca536878ef593a"
+}

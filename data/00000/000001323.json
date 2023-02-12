@@ -1,0 +1,12 @@
+{
+    "url": "http://img-cdn.jg.jugem.jp/f78/146290/20131201_911003.jpg",
+    "key": "000001323",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 369,
+    "original_height": 277,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX S200\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"COOLPIX S200V1.0\", \"Image DateTime\": \"2013:11:29 11:57:52\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"424\", \"Image CustomRendered\": \"Normal\", \"Image ExposureMode\": \"Auto Exposure\", \"Image WhiteBalance\": \"Auto\", \"Image DigitalZoomRatio\": \"0\", \"Image FocalLengthIn35mmFilm\": \"44\", \"Image SceneCaptureType\": \"Standard\", \"Image GainControl\": \"None\", \"Image Contrast\": \"Normal\", \"Image Saturation\": \"Normal\", \"Image Sharpness\": \"Normal\", \"Image SubjectDistanceRange\": \"0\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"8414\", \"Thumbnail JPEGInterchangeFormatLength\": \"5835\", \"EXIF ExposureTime\": \"10/2059\", \"EXIF FNumber\": \"49/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:11:29 11:57:52\", \"EXIF DateTimeDigitized\": \"2013:11:29 11:57:52\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"33/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"37/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3072\", \"EXIF ExifImageLength\": \"2304\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "cc5a509c0a7066380de1e776612c5c8b7786961003a34641b0f62dcad5e9cc7c"
+}

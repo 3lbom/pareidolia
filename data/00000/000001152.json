@@ -1,0 +1,12 @@
+{
+    "url": "http://i3.meishichina.com/attachment/recipe/201102/p320_201102221424090.jpg",
+    "key": "000001152",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 225,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"u1050SW,S1050SW\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"160\", \"Image YResolution\": \"160\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Version 1.1\", \"Image DateTime\": \"2010:02:21 21:00:39\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"158\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"9748\", \"Thumbnail JPEGInterchangeFormatLength\": \"3589\", \"EXIF ExposureTime\": \"1/4\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:02:21 21:00:39\", \"EXIF DateTimeDigitized\": \"2010:02:21 21:00:39\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"3/10\", \"EXIF MaxApertureValue\": \"361/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"67/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"960\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"626\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"38\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "855c4ee59d67f7aa85908383c7cc3570e22181b0ebd693517007b6d890119ff0"
+}

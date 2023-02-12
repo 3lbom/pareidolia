@@ -1,0 +1,12 @@
+{
+    "url": "http://img2.dianzandang.com/ossjpg/50452fa833ec46b587c1b5c62e006302-1.jpg",
+    "key": "000001666",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 540,
+    "original_height": 2722,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"540\", \"EXIF ExifImageLength\": \"2722\"}",
+    "sha256": "fbec128db6c3617d72c5ad2eb00fc96935fe8046edbce9bb440821d51d52f2c4"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://kitchola.com/wp-content/uploads/2016/09/FullSizeRender-1-1.jpg",
+    "key": "000001873",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 3264,
+    "original_height": 2448,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"9.3.5\", \"Image DateTime\": \"2016:09:19 16:43:44\", \"Image ExifOffset\": \"180\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[36, 7, 2757/50]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[115, 17, 1453/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"70850/87\", \"GPS GPSTimeStamp\": \"[23, 43, 43]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"11/10\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"41519/450\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"41519/450\", \"GPS GPSDate\": \"2016:09:19\", \"GPS Tag 0x001F\": \"30\", \"Image GPSInfo\": \"1584\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:09:19 16:43:44\", \"EXIF DateTimeDigitized\": \"2016:09:19 16:43:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5845/1191\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"66862/15159\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"149\", \"EXIF SubSecTimeDigitized\": \"149\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\"}",
+    "sha256": "528b333003d22b1218f098c548ef47814d8024003f85b9a6f7458af7e51a23ac"
+}

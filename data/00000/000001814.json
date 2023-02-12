@@ -1,0 +1,12 @@
+{
+    "url": "http://invepo.ru/wp-content/uploads/2017/01/ggg.jpg",
+    "key": "000001814",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 500,
+    "exif": "{\"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Paint.NET v3.36\"}",
+    "sha256": "b127d3cb27e2360bddcb2cfe7f2ce72f3a176205557e34c63225ce2f4129ce77"
+}

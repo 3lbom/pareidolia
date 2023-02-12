@@ -1,0 +1,12 @@
+{
+    "url": "http://wybone.co.uk/wp-content/uploads/2014/10/Face-Recycling-Unit-1-300x300.jpg",
+    "key": "000004091",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 300,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2015:01:15 12:28:59\", \"Image ExifOffset\": \"168\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"306\", \"Thumbnail JPEGInterchangeFormatLength\": \"7153\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "9de955bc59b50c9e11d6a7b263acdb06a02636f013ef2aa14a11fef3405cd6d5"
+}

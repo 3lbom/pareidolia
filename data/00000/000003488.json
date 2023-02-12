@@ -1,0 +1,12 @@
+{
+    "url": "http://www.drawingforall.net/wp-content/uploads/2018/01/How-to-Draw-a-Chibi-Boy.jpg",
+    "key": "000003488",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1000,
+    "original_height": 942,
+    "exif": "{\"Image ImageWidth\": \"2338\", \"Image ImageLength\": \"1700\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"200\", \"Image YResolution\": \"200\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Windows)\", \"Image DateTime\": \"2018:01:10 12:10:42\", \"Image Padding\": \"[]\", \"Image ExifOffset\": \"2304\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4526\", \"Thumbnail JPEGInterchangeFormatLength\": \"1761\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"942\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "d02f22467c00d4decf528a560a8e4907480acd1676fa0dda0093fb710b6ddec9"
+}

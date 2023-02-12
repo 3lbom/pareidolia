@@ -1,0 +1,12 @@
+{
+    "url": "http://www.trakt.org.pl/wp-content/gallery/14-16maj/1.jpg",
+    "key": "000004001",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 4160,
+    "original_height": 3120,
+    "exif": "{\"Image DateTime\": \"2019:05:16 13:23:03\", \"GPS GPSTimeStamp\": \"[11, 23, 3]\", \"GPS GPSAltitudeRef\": \"2\", \"GPS GPSDate\": \"2019:05:16\", \"Image GPSInfo\": \"773\", \"Image Model\": \"Redmi Note 4\", \"Image YCbCrPositioning\": \"Centered\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YResolution\": \"72\", \"Image Software\": \"mido-user 7.0 NRD90M V10.2.3.0.NCFMIXM release-keys\", \"Image ExifOffset\": \"242\", \"Image XResolution\": \"72\", \"Image Make\": \"Xiaomi\", \"Thumbnail YResolution\": \"72\", \"Thumbnail JPEGInterchangeFormatLength\": \"14458\", \"Thumbnail JPEGInterchangeFormat\": \"952\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail XResolution\": \"72\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FNumber\": \"2\", \"EXIF DateTimeDigitized\": \"2019:05:16 13:23:03\", \"EXIF FocalLength\": \"357/100\", \"EXIF ApertureValue\": \"2\", \"EXIF Tag 0x9999\": \"{\\\"sensor_type\\\":\\\"rear\\\",\\\"mirror\\\":false}\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF SubSecTimeDigitized\": \"762667\", \"EXIF ExifImageLength\": \"3120\", \"EXIF FocalLengthIn35mmFilm\": \"0\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF SceneType\": \"0\", \"EXIF SubSecTimeOriginal\": \"762667\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF ExifImageWidth\": \"4160\", \"EXIF SubSecTime\": \"762667\", \"EXIF ShutterSpeedValue\": \"2529/500\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF DateTimeOriginal\": \"2019:05:16 13:23:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExifVersion\": \"\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"743\", \"EXIF BrightnessValue\": \"0\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExposureTime\": \"1/33\"}",
+    "sha256": "9ba602aebab5ce4b0b2a07ad17116b22dcd2988db83e942f6325b76881e6445b"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/pooh-zo/20100903/20100903191417_m.jpg",
+    "key": "000005782",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 60,
+    "original_height": 45,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot G11\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2010:09:03 14:38:54\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3462\", \"Thumbnail JPEGInterchangeFormatLength\": \"8916\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"4\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:09:03 14:38:54\", \"EXIF DateTimeDigitized\": \"2010:09:03 14:38:54\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"223/32\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"1357/200\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3648\", \"EXIF ExifImageLength\": \"2736\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3648\", \"Interoperability RelatedImageLength\": \"2736\", \"EXIF InteroperabilityOffset\": \"3288\", \"EXIF FocalPlaneXResolution\": \"912000/73\", \"EXIF FocalPlaneYResolution\": \"912000/73\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF OffsetSchema\": \"0\"}",
+    "sha256": "e9b658620e5839b6c70d09c3fc67ff03b7bf22b6feb2fd502c73c5872cc92df0"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://the.rainbowholic.me/wp-content/uploads/2015/07/pompompurin-cafe.jpg",
+    "key": "000003031",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1000,
+    "original_height": 1000,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"1000\"}",
+    "sha256": "6efebdb73fd348fadd312395e3fe51bfddd95e04a1a6d1f85faf598b0388c0f4"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://as1.ftcdn.net/jpg/04/26/16/68/1000_F_426166815_R4KWAaBaLWpArVBgJN0eMXAgPGx7nNW5.jpg",
+    "key": "000004920",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1000,
+    "original_height": 667,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "476afba9346211e0093213d2bc5933b816be426b5d31c594551bcebb02a48815"
+}

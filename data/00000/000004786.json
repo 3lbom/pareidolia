@@ -1,0 +1,12 @@
+{
+    "url": "https://api.cloudly.space/resize/cropratioresize/640/360/60/aHR0cHM6Ly9icmV0YWduZS5tZWRpYS50b3VyaW5zb2Z0LmV1L3VwbG9hZC8tYy0tc2l0ZS1BcmJyZXMtcmVtYXJxdWFibGVzLWVuLUJyZXRhZ25lLmpwZw==/image.jpg",
+    "key": "000004786",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 360,
+    "exif": "{}",
+    "sha256": "7d847544ea31bcfe0cd690c679328710538c316e8fc1acec61be28ec5357b0df"
+}

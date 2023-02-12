@@ -1,0 +1,12 @@
+{
+    "url": "http://10piedsautourdumonde.com/wp-content/uploads/2019/06/2019.06.11-Mont-Egon-Cyrille-2.jpg",
+    "key": "000000039",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 896,
+    "original_height": 504,
+    "exif": "{\"Image ImageWidth\": \"1280\", \"Image ImageLength\": \"720\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-G800F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G800FXXU1CRG3\", \"Image DateTime\": \"2019:06:11 07:52:22\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"12466\", \"Thumbnail JPEGInterchangeFormatLength\": \"12590\", \"EXIF ExposureTime\": \"1/25\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:06:11 07:52:22\", \"EXIF DateTimeDigitized\": \"2019:06:11 07:52:22\", \"EXIF ShutterSpeedValue\": \"116/25\", \"EXIF ApertureValue\": \"63/25\", \"EXIF BrightnessValue\": \"17/20\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"63/25\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"33/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"896\", \"EXIF ExifImageLength\": \"504\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"\"}",
+    "sha256": "4855ac4b0babd30f80667b82dc995fff8e1754075425db50dcbe3e13097e1ac2"
+}

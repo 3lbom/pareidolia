@@ -1,0 +1,12 @@
+{
+    "url": "http://mississauga.momstown.ca/wp-content/uploads/sites/15/2014/07/p7210030.jpg_cover.jpg",
+    "key": "000002188",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 820,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"StylusTough-6020\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"314\", \"Image YResolution\": \"314\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Version 1.1\", \"Image DateTime\": \"2014:07:21 16:13:10\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"300\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"9570\", \"Thumbnail JPEGInterchangeFormatLength\": \"3352\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"23/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:07:21 16:13:10\", \"EXIF DateTimeDigitized\": \"2014:07:21 16:13:10\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"393/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"683/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2048\", \"EXIF ExifImageLength\": \"1536\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"8908\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"38\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF OffsetSchema\": \"-516\"}",
+    "sha256": "b079479d241b5c84177c9098d090329890fa113dd987fdce11e20b5344138a52"
+}

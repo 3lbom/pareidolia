@@ -1,0 +1,12 @@
+{
+    "url": "http://dolci.pw/wp-content/uploads/2018/07/1200-630-kopirovat-460-720x405.jpg",
+    "key": "000000717",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 405,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2018:07:29 13:03:50\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"3747\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1200\", \"EXIF ExifImageLength\": \"630\"}",
+    "sha256": "7bfbc1115da21669060a5db93caecd39003a9bee6cb5e95808197cc07ac2f12b"
+}

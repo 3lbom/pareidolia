@@ -1,0 +1,12 @@
+{
+    "url": "http://blackswangallery.be/wp-content/uploads/You-Rock-Rock.jpg",
+    "key": "000000322",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 191,
+    "original_height": 281,
+    "exif": "{\"Image Artist\": \"Tillieu Kristoff\", \"Image ExifOffset\": \"2140\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2017:11:01 12:58:28\", \"EXIF DateTimeDigitized\": \"2017:11:01 12:58:28\", \"EXIF SubSecTimeOriginal\": \"70\", \"EXIF SubSecTimeDigitized\": \"70\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "ef33c4bf9f59bc45b8bbd1025188d720d6b4652966979f9ce1d49367f329dad2"
+}

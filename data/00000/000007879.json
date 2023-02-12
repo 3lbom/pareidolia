@@ -1,0 +1,12 @@
+{
+    "url": "https://cp1.douguo.com/upload/caiku/6/4/0/600x400_640f424664d58c8ef05c79e898ca70d0.jpg",
+    "key": "000007879",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"400\"}",
+    "sha256": "315a50d25a6c85d90c9ee9ef5e978017d66d362c8629c936d7f84007c676ea3e"
+}

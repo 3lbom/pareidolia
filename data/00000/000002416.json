@@ -1,0 +1,12 @@
+{
+    "url": "http://photos.smugmug.com/Colorado-Central-and-Southern/i-C2n8hw3/0/Ti/07094%20Penitente%20Canyon%2C%20San%20Luis%20Valley%2C%20Colorado%20DSC08850-Ti.jpg",
+    "key": "000002416",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 100,
+    "original_height": 100,
+    "exif": "{\"Image ImageDescription\": \"\\\"                               \\\"\", \"Image Make\": \"\\\"SONY\\\"\", \"Image Model\": \"\\\"DSC-H3\\\"\", \"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image DateTime\": \"2011:11:27 23:51:16\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"210\", \"EXIF ExposureTime\": \"1/200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:11:27 23:51:16\", \"EXIF DateTimeDigitized\": \"2011:11:27 23:51:16\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "937cfd5fe2cf9b86abe30d1010dbcd937215430f3d2d1be658dc912372949c51"
+}

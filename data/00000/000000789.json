@@ -1,0 +1,12 @@
+{
+    "url": "http://ekladata.com/quTau_rHX6SR7-748vWVSl-gy9c.jpg",
+    "key": "000000789",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 139,
+    "original_height": 180,
+    "exif": "{\"Image ImageWidth\": \"2048\", \"Image ImageLength\": \"1536\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"GT-I9100P\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"I9100PXXLSQ\", \"Image DateTime\": \"2014:09:05 15:42:38\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"224\", \"Thumbnail ImageWidth\": \"320\", \"Thumbnail ImageLength\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"892\", \"Thumbnail JPEGInterchangeFormatLength\": \"61287\", \"EXIF ExposureTime\": \"1/1031\", \"EXIF FNumber\": \"53/20\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:09:05 15:42:38\", \"EXIF DateTimeDigitized\": \"2014:09:05 15:42:38\", \"EXIF ShutterSpeedValue\": \"1001/100\", \"EXIF ApertureValue\": \"281/100\", \"EXIF BrightnessValue\": \"471/50\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"281/100\", \"EXIF MeteringMode\": \"Average\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"403/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"139\", \"EXIF ExifImageLength\": \"180\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"SCEF02\"}",
+    "sha256": "939d5b0aa9be80a561afc013bf4959cb352a3587a70b6fd8ebfdb0766c629fee"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://as2.ftcdn.net/jpg/02/77/03/19/500_F_277031905_e4pJoKjKlR9yizksqZBgRLAeIEo7o1gJ.jpg",
+    "key": "000004927",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 332,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "a6b117b11078875c0f71823989e4390d47d38a511cbe11cceb3ae343ba51fa99"
+}

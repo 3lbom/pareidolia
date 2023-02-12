@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn2.apstatic.com/photos/climb/113598651_medium_1505717824.jpg",
+    "key": "000007438",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX S7000\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"COOLPIX S7000V1.0\", \"Image DateTime\": \"2017:09:17 14:04:12\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"58386\", \"Thumbnail JPEGInterchangeFormatLength\": \"2934\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/1000\", \"EXIF FNumber\": \"53/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:09:17 14:04:12\", \"EXIF DateTimeDigitized\": \"2017:09:17 14:04:12\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"7/2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"321/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"58356\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"180\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "bbbeeaf8d85174d7852e855294d39239e416eeae5b9d0566023307da02006d2a"
+}

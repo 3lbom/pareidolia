@@ -1,0 +1,12 @@
+{
+    "url": "http://k.sinaimg.cn/n/gd/transform/250/w710h340/20180920/zTzt-hikxxna3486416.jpg/w710h340z1l1t10bb.jpg",
+    "key": "000001844",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 710,
+    "original_height": 340,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"710\", \"EXIF ExifImageLength\": \"340\"}",
+    "sha256": "83e07afe0736a397ff7ff874c0bfea1b09caef043f02af80a8783cad69fd11f7"
+}

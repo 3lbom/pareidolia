@@ -1,0 +1,12 @@
+{
+    "url": "http://kattanj-ra.hu/wp-content/uploads/2015/03/tangerine_little_man_03.jpg",
+    "key": "000001854",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 375,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2007:01:30 23:35:33\", \"Image ExifOffset\": \"110\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"359\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"375\"}",
+    "sha256": "8d4b1ef9a4529e7371dab6efe12c9616eb7f12ab19919ae003c995a46028e54d"
+}

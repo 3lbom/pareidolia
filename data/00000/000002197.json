@@ -1,0 +1,12 @@
+{
+    "url": "http://momenti.info/images/IMG_2100.JPG",
+    "key": "000002197",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A3000 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2013:04:25 12:29:45\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"234\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3460\", \"Thumbnail JPEGInterchangeFormatLength\": \"8599\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"8\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:04:21 15:37:03\", \"EXIF DateTimeDigitized\": \"2013:04:21 15:37:03\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"245/32\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"23/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"31/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3648\", \"Interoperability RelatedImageLength\": \"2736\", \"EXIF InteroperabilityOffset\": \"3312\", \"EXIF FocalPlaneXResolution\": \"3648000/241\", \"EXIF FocalPlaneYResolution\": \"2736000/181\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "226885ea60cc5f73cde2c15e099cd799b2a3c663b9ea1b283470017d74a6022c"
+}

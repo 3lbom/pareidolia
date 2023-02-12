@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.foodiestrip.com/restaurant_photo/5a0b72031013a60abfb53480/1024X768/1550946166995.jpeg",
+    "key": "000006019",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 1024,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"9144/5\", \"Image YResolution\": \"9144/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"1024\"}",
+    "sha256": "f816c1ad0c88cf1eda112c9c9ee59f814992c19626088635be8562cd0c3eeed3"
+}

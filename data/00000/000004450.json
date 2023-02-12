@@ -1,0 +1,12 @@
+{
+    "url": "https://CookLab.rpschool.gr/wp-content/uploads/2019/11/11125945-0DBA-49E9-859E-00CFFBEFB718_1_105_c-250x250.jpeg",
+    "key": "000004450",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 250,
+    "original_height": 250,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone X\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"13.1.3\", \"Image DateTime\": \"2019:11:04 11:36:44\", \"Image ExifOffset\": \"170\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:04 11:36:44\", \"EXIF DateTimeDigitized\": \"2019:11:04 11:36:44\", \"EXIF OffsetTime\": \"+02:00\", \"EXIF OffsetTimeOriginal\": \"+02:00\", \"EXIF OffsetTimeDigitized\": \"+02:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6287/946\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"33176/5719\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"4\", \"EXIF SubjectArea\": \"[1994, 1516, 2217, 1329]\", \"EXIF SubSecTimeOriginal\": \"288\", \"EXIF SubSecTimeDigitized\": \"288\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"768\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1512/701\", \"EXIF FocalLengthIn35mmFilm\": \"61\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone X back dual camera 4mm f/1.8\"}",
+    "sha256": "b0fda7189d6013a5e9ea4e9f058366c1e11bfc2a2f8d8c8cde304e4ffa6886e1"
+}

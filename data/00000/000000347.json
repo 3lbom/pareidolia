@@ -1,0 +1,12 @@
+{
+    "url": "http://blog-imgs-44.fc2.com/g/i/g/gigajam/20100829204421a73.jpg",
+    "key": "000000347",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 800,
+    "exif": "{\"Image ImageDescription\": \"100823_1600\", \"Image Make\": \"KDDI-CA\", \"Image Model\": \"CA001\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"164\", \"EXIF ExposureTime\": \"3/2000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:08:23 16:00:32\", \"EXIF DateTimeDigitized\": \"2010:08:23 16:00:32\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF Flash\": \"No flash function\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"800\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Saturation\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "a7e744226e14874f143c8b41a81c716bc90060bfa40cbdb826bcab418a62ae55"
+}

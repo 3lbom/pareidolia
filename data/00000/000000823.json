@@ -1,0 +1,12 @@
+{
+    "url": "http://enjoywork.blue/wordpress/wp-content/uploads/2015/02/e32f69e254acea4d10d5849e3c8095361.jpg",
+    "key": "000000823",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 640,
+    "exif": "{\"Image ImageWidth\": \"1080\", \"Image ImageLength\": \"1439\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Windows)\", \"Image DateTime\": \"2015:02:25 18:44:50\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"244\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"430\", \"Thumbnail JPEGInterchangeFormatLength\": \"5125\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"640\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "cda22a672e328d25366d05a56c6ce09d5c64b92b2e32c0e975a1335a8c9eac04"
+}

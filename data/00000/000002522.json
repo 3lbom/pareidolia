@@ -1,0 +1,12 @@
+{
+    "url": "http://qn.img.ibabyzone.cn/attach/54/24/03/IMG_2176JPG.jpg",
+    "key": "000002522",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 472,
+    "original_height": 500,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS2 Windows\", \"Image DateTime\": \"2017:10:08 14:53:40\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"176\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"362\", \"Thumbnail JPEGInterchangeFormatLength\": \"6855\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"472\", \"EXIF ExifImageLength\": \"500\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "1b45a89e8821c350dde07e18ecd6c2a1999baf4931a01ad16814f77461dc9735"
+}

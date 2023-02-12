@@ -1,0 +1,12 @@
+{
+    "url": "http://www.ganjuwang.com/pic/IMG_0150.jpg",
+    "key": "000003553",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS Kiss X3\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2015:02:13 18:25:34\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"218\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"7750\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:02:13 18:25:34\", \"EXIF DateTimeDigitized\": \"2015:02:13 18:25:34\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"67/8\", \"EXIF ApertureValue\": \"5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTime\": \"11\", \"EXIF SubSecTimeOriginal\": \"11\", \"EXIF SubSecTimeDigitized\": \"11\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2352\", \"EXIF ExifImageLength\": \"1568\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"7720\", \"EXIF FocalPlaneXResolution\": \"392000/149\", \"EXIF FocalPlaneYResolution\": \"1568000/593\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "e8bf433883937443a4b6930f0993ddafa207249a23eb8caac038e7d29916c240"
+}

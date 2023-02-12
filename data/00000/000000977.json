@@ -1,0 +1,12 @@
+{
+    "url": "http://himg2.huanqiu.com/attachment2010/2017/1109/13/47/20171109014757409.jpg",
+    "key": "000000977",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 634,
+    "original_height": 811,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"39\", \"Image YResolution\": \"39\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2017:11:09 13:46:52\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"8870\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"634\", \"EXIF ExifImageLength\": \"811\"}",
+    "sha256": "be1c8822aaf4d49b72e59c5ec1b7beebbf42189870a2f18ff8a763340b95850b"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://milkywaymike.com/wp-content/uploads/2016/08/JoshuaTreeBlog-29-of-72-300x178.jpg",
+    "key": "000002182",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 178,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D800\", \"Image XResolution\": \"100\", \"Image YResolution\": \"100\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.6.1 (Macintosh)\", \"Image DateTime\": \"2016:08:21 20:10:15\", \"Image ExifOffset\": \"220\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"100\", \"Thumbnail YResolution\": \"100\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"956\", \"Thumbnail JPEGInterchangeFormatLength\": \"13103\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"9\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:06:09 03:02:48\", \"EXIF DateTimeDigitized\": \"2016:06:09 03:02:48\", \"EXIF ShutterSpeedValue\": \"995723/125000\", \"EXIF ApertureValue\": \"126797/20000\", \"EXIF ExposureBiasValue\": \"1/3\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"14\", \"EXIF SubSecTimeOriginal\": \"20\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"16780511/8192\", \"EXIF FocalPlaneYResolution\": \"16780511/8192\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"14\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3022268\", \"EXIF LensSpecification\": \"[14, 24, 14/5, 14/5]\", \"EXIF LensModel\": \"14.0-24.0 mm f/2.8\"}",
+    "sha256": "d5289d4378453e78da325bfa589b55ac72da05492e8b95f5ae39601eed9a62c4"
+}

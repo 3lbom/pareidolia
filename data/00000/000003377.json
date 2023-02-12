@@ -1,0 +1,12 @@
+{
+    "url": "http://www.anikodrozdy.ch/wp-content/uploads/2016/06/tree-1425842__180.jpg",
+    "key": "000003377",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 270,
+    "original_height": 180,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS Kiss X5\", \"Image ExposureTime\": \"1/100\", \"Image ExifOffset\": \"94\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"28/5\", \"EXIF ISOSpeedRatings\": \"[320, 0]\", \"EXIF DateTimeOriginal\": \"2015:04:04 10:59:31\", \"EXIF FocalLength\": \"55\", \"EXIF LensModel\": \"EF-S18-55mm f/3.5-5.6 IS STM\"}",
+    "sha256": "c659c18d49fb4a6f872f0055ecef8d8533d2a43941eab185badee0a613005d21"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdny.de/p/x/7/500/7151571.jpg",
+    "key": "000007647",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1800,
+    "original_height": 1201,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Artist\": \"Peter Aleksandrov\", \"Image Copyright\": \"Coptercraft Creations\", \"Image ExifOffset\": \"154\", \"EXIF ExifImageWidth\": \"1800\", \"EXIF ExifImageLength\": \"1201\"}",
+    "sha256": "21820e5da9a4a480448d6eb8e6e42b64b6f0571871804e79fe9ffb70b6c3c722"
+}

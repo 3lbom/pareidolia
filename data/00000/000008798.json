@@ -1,0 +1,12 @@
+{
+    "url": "https://extravita.ro/wp-content/uploads/2019/07/croaziera-catamaran-santorini31.jpg",
+    "key": "000008798",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 525,
+    "original_height": 700,
+    "exif": "{\"Image Make\": \"asus\", \"Image Model\": \"ASUS_Z01KD\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 4.0\", \"Image DateTime\": \"2019:07:05 16:43:00\", \"Image ExifOffset\": \"188\", \"EXIF ExposureTime\": \"14/15625\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"25\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:07:05 16:43:00\", \"EXIF DateTimeDigitized\": \"2019:07:05 16:43:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ApertureValue\": \"83989/49522\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"197/50\", \"EXIF SubSecTime\": \"893112\", \"EXIF SubSecTimeOriginal\": \"893112\", \"EXIF SubSecTimeDigitized\": \"893112\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"525\", \"EXIF ExifImageLength\": \"700\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "2e1fe925df00ddd3bf63e02da79d68b12bce952f42bc83a0767efe2f3371ed60"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://dr92wy3r2elps.cloudfront.net/kt/dimitrisk-1095226755.jpg",
+    "key": "000008559",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 160,
+    "original_height": 120,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A75\", \"Image Orientation\": \"Horizontal (normal)\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2004:09:12 14:43:43\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"184\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2000\", \"Thumbnail JPEGInterchangeFormatLength\": \"5355\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"8\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2004:09:12 14:43:43\", \"EXIF DateTimeDigitized\": \"2004:09:12 14:43:43\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"117/16\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"145/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"519/32\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1200\", \"EXIF FocalPlaneXResolution\": \"100000/13\", \"EXIF FocalPlaneYResolution\": \"100000/13\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1600\", \"Interoperability RelatedImageLength\": \"1200\", \"EXIF InteroperabilityOffset\": \"1852\"}",
+    "sha256": "bd45d1f18cc5a1a1dee1b5b5a6553930761f6a563b71ea9f2c803ef5a0386aa6"
+}

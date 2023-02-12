@@ -1,0 +1,12 @@
+{
+    "url": "https://guts-rentacar.com/cms/wp-content/uploads/2016/10/e6cabc1b6614437ef196658ff7b3a23a.jpg",
+    "key": "000009572",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1478,
+    "original_height": 1108,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"286\", \"Thumbnail JPEGInterchangeFormatLength\": \"11856\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1478\", \"EXIF ExifImageLength\": \"1108\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "14706c583701eb5b8bcc1ce31407053022e5e7bd51e7a3ec2d7b6292e2137e23"
+}

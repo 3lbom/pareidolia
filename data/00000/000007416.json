@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn2.apstatic.com/photos/climb/113188899_small_1498035743.jpg",
+    "key": "000007416",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 135,
+    "original_height": 180,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6 Plus\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"10.3.1\", \"Image DateTime\": \"2017:06:21 09:23:44\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"198\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1754\", \"Thumbnail JPEGInterchangeFormatLength\": \"8530\", \"EXIF ExposureTime\": \"1/807\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"32\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:06:21 09:23:44\", \"EXIF DateTimeDigitized\": \"2017:06:21 09:23:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"9280/961\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"4197/430\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"256\", \"EXIF SubSecTimeDigitized\": \"256\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 Plus back camera 4.15mm f/2.2\"}",
+    "sha256": "e5489ea77a351ffa9cf5a86807d1e754301f48735f416896a6188c884984f25e"
+}

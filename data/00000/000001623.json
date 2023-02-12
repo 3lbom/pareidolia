@@ -1,0 +1,12 @@
+{
+    "url": "http://img01.fuhai360.com/ynsjssm/201703/201703291705523769.jpg",
+    "key": "000001623",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 960,
+    "original_height": 1280,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"274\", \"Thumbnail JPEGInterchangeFormatLength\": \"13059\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"960\", \"EXIF ExifImageLength\": \"1280\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "7afd546223a366f2c462f9c17e60771a3e14e22576b1e6b69d6269dfad67fbee"
+}

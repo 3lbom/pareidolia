@@ -1,0 +1,12 @@
+{
+    "url": "https://en.bloguru.com/userdata/2882/2879/201812280405130.jpg",
+    "key": "000008684",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 850,
+    "original_height": 638,
+    "exif": "{\"Image ImageDescription\": \"2017 Events and Trips\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7 Plus\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 4.0\", \"Image DateTime\": \"2017:11:09 20:22:16\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"248\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"1250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:11:09 20:22:16\", \"EXIF DateTimeDigitized\": \"2017:11:09 20:22:16\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"7529/1334\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"3095/4383\", \"EXIF ExposureBiasValue\": \"365/256\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"33/5\", \"EXIF SubjectArea\": \"[2011, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"551\", \"EXIF SubSecTimeDigitized\": \"551\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"960\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"8\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"57\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4183519/1048501, 33/5, 9/5, 14/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 Plus back dual camera 6.6mm f/2.8\"}",
+    "sha256": "010cf698df354f0aaaf33ee500157e50f0cc4c72405c45afa7d451302ff4d1ec"
+}

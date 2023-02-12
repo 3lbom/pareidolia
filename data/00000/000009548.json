@@ -1,0 +1,12 @@
+{
+    "url": "https://gregalder.com/yardposts/wp-content/uploads/2017/12/IMG_20171221_102542-e1513922223791-1080x675.jpg",
+    "key": "000009548",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1080,
+    "original_height": 675,
+    "exif": "{\"Image ImageWidth\": \"3024\", \"Image ImageLength\": \"4032\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Make\": \"LGE\", \"Image Model\": \"Nexus 5X\", \"Image Software\": \"bullhead-user 8.0.0 OPR6.170623.023 4409485 release-keys\", \"Image DateTime\": \"2017:12:21 10:25:42\", \"Image Orientation\": \"Horizontal (normal)\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"272\", \"GPS GPSAltitudeRef\": \"0\", \"Image GPSInfo\": \"805\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"EXIF ISOSpeedRatings\": \"60\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF FNumber\": \"2\", \"EXIF ExposureTime\": \"10943/25000000\", \"EXIF SensingMethod\": \"0\", \"EXIF SubSecTimeDigitized\": \"888011\", \"EXIF SubSecTimeOriginal\": \"888011\", \"EXIF SubSecTime\": \"888011\", \"EXIF SubjectDistanceRange\": \"1\", \"EXIF FocalLength\": \"467/100\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF MeteringMode\": \"Unidentified\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF SubjectDistance\": \"231/1000\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"775\", \"EXIF FocalLengthIn35mmFilm\": \"0\", \"EXIF DateTimeDigitized\": \"2017:12:21 10:25:42\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF ExifImageLength\": \"4032\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DateTimeOriginal\": \"2017:12:21 10:25:42\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExifImageWidth\": \"3024\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF ApertureValue\": \"2\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF SceneType\": \"0\", \"EXIF ShutterSpeedValue\": \"-223/20\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\"}",
+    "sha256": "031a98474a9a6ec4be88b00369c11465f7469077a801b7ea27326952b9049e72"
+}

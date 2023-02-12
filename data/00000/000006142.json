@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.olioex.com/uploads/photo/file/R-h7skbwSbzhRR6WvwUokQ/image.jpg",
+    "key": "000006142",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 540,
+    "original_height": 720,
+    "exif": "{\"Image ImageWidth\": \"540\", \"Image Model\": \"SM-A520F\", \"Image ImageLength\": \"720\", \"Image Make\": \"samsung\", \"Image ExifOffset\": \"147\", \"Image Orientation\": \"Horizontal (normal)\", \"Image DateTime\": \"2018:11:09 16:51:58\", \"GPS GPSLatitude\": \"[55, 56, 35]\", \"GPS GPSAltitude\": \"151\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSTimeStamp\": \"[16, 51, 52]\", \"GPS GPSDate\": \"2018:11:09\", \"GPS GPSLongitude\": \"[3, 10, 57]\", \"Image GPSInfo\": \"261\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF FocalLength\": \"18/5\", \"EXIF ExposureTime\": \"147/2500\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF LightSource\": \"Unknown\", \"EXIF FNumber\": \"19/10\"}",
+    "sha256": "878dc742c69ce4e6e3e2bcc86c67200bac66a5e91ecd1a1da7dd978d05637154"
+}

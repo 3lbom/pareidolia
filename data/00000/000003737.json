@@ -1,0 +1,12 @@
+{
+    "url": "http://www.mihoutao.biz/pic/pzyg48.jpg",
+    "key": "000003737",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 490,
+    "exif": "{\"Image ImageWidth\": \"4032\", \"Image ImageLength\": \"2268\", \"Image Make\": \"Xiaomi\", \"Image Model\": \"MIX 2S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2018:09:02 12:43:17\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"210\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[31, 0, 4631/400]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[103, 42, 57231/2500]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"621381/1000\", \"GPS GPSTimeStamp\": \"[4, 43, 16]\", \"GPS GPSProcessingMethod\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"GPS GPSDate\": \"2018:09:02\", \"Image GPSInfo\": \"746\", \"EXIF ExposureTime\": \"1/3481\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:09:02 12:43:17\", \"EXIF DateTimeDigitized\": \"2018:09:02 12:43:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2353/200\", \"EXIF ApertureValue\": \"169/100\", \"EXIF BrightnessValue\": \"26/5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"169/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"527/125\", \"EXIF SubSecTime\": \"441346\", \"EXIF SubSecTimeOriginal\": \"441346\", \"EXIF SubSecTimeDigitized\": \"441346\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"2268\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"715\", \"EXIF SensingMethod\": \"Not defined\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"21\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "e4fa5773ff10f9bc129282476face11e1d1c3055ffea54299ecb230716bfc58e"
+}

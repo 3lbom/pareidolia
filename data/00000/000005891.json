@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.acidcow.com/pics/20110516/iran_19.jpg",
+    "key": "000005891",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 415,
+    "original_height": 700,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"100\", \"Image YResolution\": \"100\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 (11.0x20071101 [20071101.m.190 2007/11/01:02:00:00 cutoff; m branch])  Windows\", \"Image DateTime\": \"2011:05:12 19:00:39\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"374\", \"Thumbnail JPEGInterchangeFormatLength\": \"5934\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"415\", \"EXIF ExifImageLength\": \"700\"}",
+    "sha256": "30216b89ff47df657247ad2170cd81107bdc98638d261aef7814d9fe25c3b3b6"
+}

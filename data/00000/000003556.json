@@ -1,0 +1,12 @@
+{
+    "url": "http://www.ganjuwang.com/pic/buzhihuo06.jpg",
+    "key": "000003556",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 402,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"45\", \"Image YResolution\": \"45\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2015:02:15 01:10:01\", \"Image ExifOffset\": \"162\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"402\"}",
+    "sha256": "bf18fd7e8f7739acb1a43aaaaa9e5c269cf17b340480260d9b7222b4d762e7c8"
+}

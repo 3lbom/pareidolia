@@ -1,0 +1,12 @@
+{
+    "url": "https://foodloader.net/Holz_2011-28-09_Frischkaesesticks_mit_Smiles.jpg",
+    "key": "000009248",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 2048,
+    "original_height": 1232,
+    "exif": "{\"Image DateTime\": \"2011:09:28 19:18:14\", \"Image ISOSpeedRatings\": \"[]\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Model\": \"GT-I9100\", \"Image MeteringMode\": \"CenterWeightedAverage\", \"Image WhiteBalance\": \"Auto\", \"Image ImageLength\": \"1232\", \"Image FocalLength\": \"397/100\", \"Image ExposureProgram\": \"Aperture Priority\", \"Image Flash\": \"Flash did not fire, compulsory flash mode\", \"Image LightSource\": \"Unknown\", \"Image ExposureTime\": \"0\", \"Image FNumber\": \"1397571923/4673109\", \"Image ImageWidth\": \"2048\", \"Image Make\": \"SAMSUNG\", \"GPS GPSLatitudeRef\": \"\", \"GPS GPSLongitude\": \"[3361997/6554, 221/257, 16385/791396352]\", \"GPS GPSLongitudeRef\": \"\", \"GPS GPSProcessingMethod\": \"\", \"GPS GPSLatitude\": \"[3361997/6554, 221/257, 16385/791396352]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"3361997/6554\", \"Image GPSInfo\": \"322\", \"Image ExifOffset\": \"412\", \"Thumbnail JPEGInterchangeFormat\": \"442\", \"Thumbnail JPEGInterchangeFormatLength\": \"48303\", \"EXIF JPEGInterchangeFormat\": \"442\", \"EXIF JPEGInterchangeFormatLength\": \"48303\"}",
+    "sha256": "b838b00394d939fa99388fa20f82b5c9788a298f62e57e115dcd16529e6c844e"
+}

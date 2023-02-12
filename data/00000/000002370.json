@@ -1,0 +1,12 @@
+{
+    "url": "http://p9.pccoo.cn/bbs/20170716/2017071616402447127731_540_960.jpg",
+    "key": "000002370",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 540,
+    "original_height": 960,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"540\", \"EXIF ExifImageLength\": \"960\"}",
+    "sha256": "4cb13e861df5be2002aaa964e7d68efb3917e374009f36286c0d7c1259c4f2b5"
+}

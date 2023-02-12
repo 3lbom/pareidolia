@@ -1,0 +1,12 @@
+{
+    "url": "http://www.casadepedeal.com/IMG/jpg/PICT0039.jpg",
+    "key": "000003436",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 426,
+    "exif": "{\"Image ImageDescription\": \"KONICA MINOLTA DIGITAL CAMERA\", \"Image Make\": \"KONICA MINOLTA\", \"Image Model\": \"DYNAX 7D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"DYNAX 7D v1.00\", \"Image DateTime\": \"2009:05:03 13:37:24\", \"Image ExifOffset\": \"247\", \"EXIF ExposureTime\": \"1/8\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:05:03 13:37:24\", \"EXIF DateTimeDigitized\": \"2009:05:03 13:37:24\", \"EXIF BrightnessValue\": \"28/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"497/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"80\", \"EXIF SubjectArea\": \"0\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"426\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"120\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "079415ad324e0dcae5b36e909841913804a970d6857ada513605eb66d9539e9a"
+}

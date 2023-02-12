@@ -1,0 +1,12 @@
+{
+    "url": "http://tabizine.jp/wp-content/uploads/2016/10/99833-02.jpg",
+    "key": "000003016",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 479,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"479\"}",
+    "sha256": "6739c9effd0042cfbea1a617c08ac81d32518c6dea230e5cccc921e6652736bc"
+}

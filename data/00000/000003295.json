@@ -1,0 +1,12 @@
+{
+    "url": "http://voyagebelindarodrigo.free.fr/wp-content/uploads/Quebrada-de-las-Conchas-El-Sapo.jpg",
+    "key": "000003295",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1333,
+    "original_height": 1000,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX P500\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"COOLPIX P500V1.0\", \"Image DateTime\": \"2012:11:04 19:41:20\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"268\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"11764\", \"Thumbnail JPEGInterchangeFormatLength\": \"4937\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"24/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:11:04 19:41:20\", \"EXIF DateTimeDigitized\": \"2012:11:04 19:41:20\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"7/2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"41/2\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1333\", \"EXIF ExifImageLength\": \"1000\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1024\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"115\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "48c1170fa058aef6137b2d3c5858af1521bb336c74f3c2839f580d8e4915de1f"
+}

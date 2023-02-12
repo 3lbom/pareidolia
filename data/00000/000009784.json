@@ -1,0 +1,12 @@
+{
+    "url": "https://i.c97.org/ai/322852/aux-head-1549610126-20190207_gruszy_t.jpg",
+    "key": "000009784",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 360,
+    "original_height": 230,
+    "exif": "{\"Image ImageWidth\": \"700\", \"Image ImageLength\": \"451\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2019:02:08 08:15:18\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"6699\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"360\", \"EXIF ExifImageLength\": \"230\"}",
+    "sha256": "6f588fdb3617ac902bd1b391948707387c5c057cc2c58e1f0bfd659af05867a1"
+}

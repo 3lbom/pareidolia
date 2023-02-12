@@ -1,0 +1,12 @@
+{
+    "url": "https://content.api.news/v3/images/bin/3da71d77963f893958b5984cb7e3bcd6",
+    "key": "000007820",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 650,
+    "original_height": 1000,
+    "exif": "{}",
+    "sha256": "e8427991ddd31dc49919f45a1d490f1ff37ec02631170ab416fae0b1a8e09a87"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://cellar.org/attachment.php?s=5ca1dda47b11d2d3a012ba9cdef89226&attachmentid=65189&d=1539223034",
+    "key": "000000569",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 1067,
+    "exif": "{\"Image ImageWidth\": \"4032\", \"Image ImageLength\": \"3024\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-G930V\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G930VVRU4CRE5\", \"Image DateTime\": \"2018:10:07 18:15:44\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"238\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSTimeStamp\": \"[22, 15, 44]\", \"GPS GPSDate\": \"2018:10:07\", \"Image GPSInfo\": \"730\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"944\", \"Thumbnail JPEGInterchangeFormatLength\": \"6910\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"17/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:10:07 18:15:44\", \"EXIF DateTimeDigitized\": \"2018:10:07 18:15:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2953/500\", \"EXIF ApertureValue\": \"153/100\", \"EXIF BrightnessValue\": \"9/5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"153/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"21/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"1067\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"820\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"5d22eaed0206ab520000000000000000\"}",
+    "sha256": "cc55511e46053d963dee033532f53fd68c90f8243eca743743d5eb44759a7883"
+}

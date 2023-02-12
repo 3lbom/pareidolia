@@ -1,0 +1,12 @@
+{
+    "url": "http://fabmir.ru/wp-content/uploads/2019/01/derevo-s-oslinoj-golovoj_81.jpg",
+    "key": "000000838",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1027,
+    "original_height": 601,
+    "exif": "{\"Image ImageWidth\": \"1027\", \"Image ImageLength\": \"601\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2014 (Windows)\", \"Image DateTime\": \"2019:01:05 19:36:14\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"6872\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1027\", \"EXIF ExifImageLength\": \"601\"}",
+    "sha256": "5e13c4ff5a7554d2d6e51c3e1cc6d88acb02461d4f15347cbc77e34cb61643af"
+}

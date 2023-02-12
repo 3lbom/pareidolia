@@ -1,0 +1,12 @@
+{
+    "url": "https://estaticos-cdn.prensaiberica.es/clip/fbdfc219-97ca-4fbb-b295-554607351973_16-9-aspect-ratio_default_0.jpg",
+    "key": "000008753",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 880,
+    "original_height": 495,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"880\", \"EXIF ExifImageLength\": \"495\"}",
+    "sha256": "41e7f5e56f747689f4401fd3a0b7f4c09c1b5d84a9cc75a360f5513e97e8e122"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.shopify.com/s/files/1/1634/1363/products/wash1_1024x1024.jpg?v=1588642914",
+    "key": "000006302",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 1024,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"1024\"}",
+    "sha256": "5cdfd493c9d92070499fba09e4252ba03645a3d0735944412caacc7de1eec9c2"
+}

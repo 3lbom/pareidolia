@@ -1,0 +1,12 @@
+{
+    "url": "http://neobychno.com/img/2010/11/07-old-man.jpg",
+    "key": "000002258",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 402,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2011:02:19 14:39:01\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF SubSecTime\": \"93\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"402\"}",
+    "sha256": "16855c0f638a7011acb3f2d30f7a0bd48a98eb030e478dbf107cee3b1fc2440d"
+}

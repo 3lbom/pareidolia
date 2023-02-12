@@ -1,0 +1,12 @@
+{
+    "url": "http://cdn.homedit.com/wp-content/uploads/2012/02/living-wall-nomerz1-245x245.jpg",
+    "key": "000000510",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 245,
+    "original_height": 245,
+    "exif": "{\"Image Software\": \"Picasa\", \"Image ExifOffset\": \"46\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"182\", \"Thumbnail JPEGInterchangeFormatLength\": \"4233\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"303\"}",
+    "sha256": "62236094f1967b6995a261011b0790c44305008a9c711d213d58669c16f0391e"
+}

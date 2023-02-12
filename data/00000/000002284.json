@@ -1,0 +1,12 @@
+{
+    "url": "http://okolicekrakowa.com.pl/wp-content/uploads/2017/08/P5070355.jpg",
+    "key": "000002284",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 4608,
+    "original_height": 3456,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"E-PL5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Version 1.2\", \"Image DateTime\": \"2016:05:07 15:45:12\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"218\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"14676\", \"Thumbnail JPEGInterchangeFormatLength\": \"6535\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:05:07 15:45:12\", \"EXIF DateTimeDigitized\": \"2016:05:07 15:45:12\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"925/256\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Cloudy weather\", \"EXIF Flash\": \"8\", \"EXIF FocalLength\": \"14\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4608\", \"EXIF ExifImageLength\": \"3456\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"722\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[14, 42, 7/2, 28/5]\", \"EXIF LensModel\": \"OLYMPUS M.14-42mm F3.5-5.6 II R\"}",
+    "sha256": "a17ccd6049fc268d3ae468bb3ac7d2722f0c1b584206d2d306907b700270987d"
+}

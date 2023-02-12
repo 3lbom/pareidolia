@@ -1,0 +1,12 @@
+{
+    "url": "http://blog-imgs-72.fc2.com/i/s/h/ishidumi/PA220516.jpg",
+    "key": "000000371",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 338,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"XZ-1\", \"Image XResolution\": \"314\", \"Image YResolution\": \"314\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2014:10:22 15:36:23\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"948\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"EXIF ExposureTime\": \"1/2\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:10:22 15:36:23\", \"EXIF DateTimeDigitized\": \"2014:10:22 15:36:23\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"1\", \"EXIF MaxApertureValue\": \"17/10\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Tungsten (incandescent light)\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"24\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3648\", \"EXIF ExifImageLength\": \"2736\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"11262\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"112\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "8e64586bb09285a8ef82c302d1541d4a33ee8d7018a44d1dcebaf737ed17e3d8"
+}

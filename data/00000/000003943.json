@@ -1,0 +1,12 @@
+{
+    "url": "http://www.soymodaclub.com/wp-content/uploads/2016/08/banana.jpg",
+    "key": "000003943",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 338,
+    "exif": "{\"Image Software\": \"Google\", \"Image ExifOffset\": \"46\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"338\"}",
+    "sha256": "ee81eb56999d13cbaaa43a304a4f8e24c6ae6f4c6ef80d385a7bf557252c5d55"
+}

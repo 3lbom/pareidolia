@@ -1,0 +1,12 @@
+{
+    "url": "https://alau.kz/wp-content/uploads/2020/01/buter-600x398.jpg",
+    "key": "000004677",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 398,
+    "exif": "{\"Image Artist\": \"Artem\", \"Image ExifOffset\": \"2128\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2019:04:03 17:58:59\", \"EXIF DateTimeDigitized\": \"2019:04:03 17:58:59\", \"EXIF SubSecTimeOriginal\": \"54\", \"EXIF SubSecTimeDigitized\": \"54\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "1b22c8a0c89b4f5b4a63d77342be0b8c012e92605c8ada160657d571e34002d4"
+}

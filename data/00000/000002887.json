@@ -1,0 +1,12 @@
+{
+    "url": "http://starweatherwhale.com/wp-content/uploads/2018/03/tree-2501584_640.jpg",
+    "key": "000002887",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 640,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G955U\", \"Image ExposureTime\": \"1/60\", \"Image ExifOffset\": \"87\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"17/10\", \"EXIF ISOSpeedRatings\": \"[160, 0]\", \"EXIF DateTimeOriginal\": \"2017:05:22 12:24:08\", \"EXIF FocalLength\": \"17/4\"}",
+    "sha256": "69b9bb5440afcbb9f00b06956e386c83f589403c76b5d9e253676ffeb2cf3cbc"
+}

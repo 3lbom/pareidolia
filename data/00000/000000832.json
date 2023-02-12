@@ -1,0 +1,12 @@
+{
+    "url": "http://evrostroylux.in.ua/wp-content/uploads/2016/05/Foto_10.jpg",
+    "key": "000000832",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"EASTMAN KODAK COMPANY\", \"Image Model\": \"KODAK EASYSHARE M530 Digital Camera\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"480\", \"Image YResolution\": \"480\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"b'\\\\xcf\\\\xf0\\\\xee\\\\xe3\\\\xf0\\\\xe0\\\\xec\\\\xec\\\\xe0 \\\\xf6\\\\xe8\\\\xf4\\\\xf0\\\\xee\\\\xe2\\\\xee\\\\xe9 \\\\xee, ... ]\", \"Image DateTime\": \"2013:03:25 12:30:08\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"290\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"21548\", \"Thumbnail JPEGInterchangeFormatLength\": \"8417\", \"EXIF ExposureTime\": \"16667/1000000\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:02:08 18:01:09\", \"EXIF DateTimeDigitized\": \"2013:02:08 18:01:09\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6\", \"EXIF ApertureValue\": \"497/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"497/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"39/2\", \"EXIF SubSecTime\": \"78\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"21460\", \"EXIF ExposureIndex\": \"80\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"108\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "2453588e750da20b74e47c2741157962d41ca04b20ead77df9e2859ca97c4941"
+}

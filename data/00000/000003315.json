@@ -1,0 +1,12 @@
+{
+    "url": "http://whatflower.ru/wp-content/uploads/2020/11/7-4.jpg",
+    "key": "000003315",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 564,
+    "original_height": 318,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"564\", \"EXIF ExifImageLength\": \"318\"}",
+    "sha256": "3a127a44a335e45e03e7a7a7c55516762fe5c92c90bf6032d475c16661f1221a"
+}

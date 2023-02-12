@@ -1,0 +1,12 @@
+{
+    "url": "http://www.drawingforall.net/wp-content/uploads/2016/01/1-how-to-draw-deadpool-head.jpg",
+    "key": "000003487",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 911,
+    "original_height": 708,
+    "exif": "{\"Image ImageWidth\": \"2338\", \"Image ImageLength\": \"1700\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"200\", \"Image YResolution\": \"200\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2016:01:31 23:16:44\", \"Image Padding\": \"[]\", \"Image ExifOffset\": \"2304\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4526\", \"Thumbnail JPEGInterchangeFormatLength\": \"1901\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"911\", \"EXIF ExifImageLength\": \"708\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "528911b056873173e8e7523f2a8730d4c0bd6ad4e762c513a49dcd5e51027dfd"
+}

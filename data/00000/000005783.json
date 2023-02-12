@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/r/rodem09/20140209/20140209122120.jpg",
+    "key": "000005783",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 225,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"7.0.4\", \"Image DateTime\": \"2014:02:09 12:21:20\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"204\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[36, 37, 1353/100]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[136, 41, 482/25]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"10\", \"GPS GPSTimeStamp\": \"[3, 21, 1381/100]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"20428/57\", \"Image GPSInfo\": \"946\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1242\", \"Thumbnail JPEGInterchangeFormatLength\": \"12763\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:02:09 12:21:20\", \"EXIF DateTimeDigitized\": \"2014:02:09 12:21:20\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"3799/879\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"6093/1714\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"326\", \"EXIF SubSecTimeDigitized\": \"326\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[103/25, 103/25, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5 back camera 4.12mm f/2.4\"}",
+    "sha256": "713519d1438325b55d3a0d50768203ae86f78d90588cd078ff38d4a98068224e"
+}

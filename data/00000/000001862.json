@@ -1,0 +1,12 @@
+{
+    "url": "http://kenh14cdn.com/zoom/280_175/2017/desktop83-1507090051540-0-21-487-800-crop-1507090058541.jpg",
+    "key": "000001862",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 280,
+    "original_height": 175,
+    "exif": "{\"Image Software\": \"Picasa\", \"Image DateTime\": \"2017:10:04 11:07:10\", \"Image Artist\": \"Picasa\", \"Image ExifOffset\": \"96\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"364\", \"Thumbnail JPEGInterchangeFormatLength\": \"6218\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:04 11:06:51\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"487\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"5120\", \"Interoperability RelatedImageLength\": \"3200\", \"EXIF InteroperabilityOffset\": \"228\", \"EXIF ImageUniqueID\": \"e3bd9e0606601c7e6af38adc6ced0cbc\"}",
+    "sha256": "35e4bd048e4509e54b3f53aceb0a62659f365ba2de10ca0348794c204c851b79"
+}

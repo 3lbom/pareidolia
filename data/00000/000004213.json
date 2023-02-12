@@ -1,0 +1,12 @@
+{
+    "url": "https://1001freedownloads.s3.amazonaws.com/photo/thumb/256664/rock-96024_640.jpg",
+    "key": "000004213",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 640,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-FZ150\", \"Image ExifOffset\": \"70\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"18/5\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF DateTimeOriginal\": \"2013:03:22 15:10:57\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"219/10\"}",
+    "sha256": "f8ff6c5aa8e983cb787e5d92d667c4891318a560dfaf87d19e6c1ff911f287ca"
+}

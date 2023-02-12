@@ -1,0 +1,12 @@
+{
+    "url": "http://ekladata.com/QqktPSARvzrjDbNLAJPTKsAtxL0.jpg",
+    "key": "000000777",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 750,
+    "original_height": 422,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 100D\", \"Image XResolution\": \"5184\", \"Image YResolution\": \"5184\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.12 (Windows)\", \"Image DateTime\": \"2018:10:09 17:23:24\", \"Image Artist\": \"KEMPF Aurelien\", \"Image Copyright\": \"KEMPF Aurelien\", \"Image ExifOffset\": \"266\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"504\", \"Thumbnail JPEGInterchangeFormatLength\": \"4799\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"750\", \"EXIF ExifImageLength\": \"422\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"5177\", \"Interoperability RelatedImageLength\": \"2912\", \"EXIF InteroperabilityOffset\": \"332\", \"EXIF ImageUniqueID\": \"51f083e10681ffed0363f6b2d321e4ad\"}",
+    "sha256": "a9d72cefa16a25068788c19fe535c39d50bee45afdabcc64c1bdea983cee5a80"
+}

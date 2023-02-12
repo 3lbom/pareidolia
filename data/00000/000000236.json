@@ -1,0 +1,12 @@
+{
+    "url": "http://alpagama.org/wp-content/uploads/2017/09/shary041.jpg",
+    "key": "000000236",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 700,
+    "original_height": 469,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2017:09:30 13:41:21\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"6131\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"469\"}",
+    "sha256": "4a53bc443e2f8a97678008a214ef976f9b8f9f453d192c3ac2a3cdbadf70a01e"
+}

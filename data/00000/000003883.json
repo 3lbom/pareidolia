@@ -1,0 +1,12 @@
+{
+    "url": "http://www.ratoo.net/uploads/allimg/140614/7-1406141619430-L.jpg",
+    "key": "000003883",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 109,
+    "original_height": 140,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"2259/500\", \"Image YResolution\": \"2259/500\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2014:06:14 16:11:27\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"4375\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"109\", \"EXIF ExifImageLength\": \"140\"}",
+    "sha256": "318a7625880bdbcd490eca5c9107d8a0cbde9359dfc5f285b46a3947901780a4"
+}

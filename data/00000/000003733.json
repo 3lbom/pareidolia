@@ -1,0 +1,12 @@
+{
+    "url": "http://www.mihoutao.biz/pic/b145.jpg",
+    "key": "000003733",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 338,
+    "exif": "{\"Image Make\": \"Xiaomi\", \"Image Model\": \"MI 6\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"sagit-user 8.0.0 OPR1.170623.027 V9.6.2.0.OCACNFD release-keys\", \"Image DateTime\": \"2018:07:27 07:29:39\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"260\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[27, 30, 250919/10000]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[106, 58, 50937/1250]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"0\", \"GPS GPSTimeStamp\": \"[23, 29, 39]\", \"GPS GPSProcessingMethod\": \"ASCII\", \"GPS GPSDate\": \"2018:07:26\", \"Image GPSInfo\": \"794\", \"EXIF ExposureTime\": \"1/801\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"151\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:07:27 07:29:39\", \"EXIF DateTimeDigitized\": \"2018:07:27 07:29:39\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"4823/500\", \"EXIF ApertureValue\": \"169/100\", \"EXIF BrightnessValue\": \"499/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"191/50\", \"EXIF SubSecTime\": \"828727\", \"EXIF SubSecTimeOriginal\": \"828727\", \"EXIF SubSecTimeDigitized\": \"828727\", \"EXIF Tag 0x9999\": \"{\\\"sensor_type\\\":\\\"rear\\\",\\\"mirror\\\":false}\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4000\", \"EXIF ExifImageLength\": \"2250\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"764\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "0e6c962de6fbc6d62cbbc4fb7034717e12b8b475d9d653d97c5173b6d85f38b9"
+}

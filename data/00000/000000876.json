@@ -1,0 +1,12 @@
+{
+    "url": "http://fotowizje.net/wp-content/uploads/2015/09/1-2-200x300.jpg",
+    "key": "000000876",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.1 (Windows)\", \"Image DateTime\": \"2015:06:24 10:43:36\", \"Image Artist\": \"Tomasz Matysik\", \"Image ExifOffset\": \"242\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"850\", \"Thumbnail JPEGInterchangeFormatLength\": \"18480\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:08:08 15:19:12\", \"EXIF DateTimeDigitized\": \"2014:08:08 15:19:12\", \"EXIF ShutterSpeedValue\": \"4906891/1000000\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTimeOriginal\": \"99\", \"EXIF FocalPlaneXResolution\": \"5616000/1459\", \"EXIF FocalPlaneYResolution\": \"1872000/479\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"Tomasz Matysik\", \"EXIF BodySerialNumber\": \"3131501928\", \"EXIF LensSpecification\": \"[24, 105, 0/0, 0/0]\", \"EXIF LensModel\": \"EF24-105mm f/4L IS USM\"}",
+    "sha256": "a5138c08dcbfca8c5e03f09dbeda4901b6d0802b555f44e04d1b6deb5ef31873"
+}

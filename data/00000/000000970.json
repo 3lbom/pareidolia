@@ -1,0 +1,12 @@
+{
+    "url": "http://hhufs.de/blog/wp-content/uploads/2015/09/IMG_20150925_133117.jpg",
+    "key": "000000970",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 533,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"LGE\", \"Image Model\": \"Nexus 5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2015:09:26 11:55:54\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"178\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[49, 50, 202/5]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[11, 21, 5011/100]\", \"GPS GPSAltitude\": \"411\", \"GPS GPSTimeStamp\": \"[11, 31, 14]\", \"GPS GPSDate\": \"2015:09:25\", \"Image GPSInfo\": \"534\", \"EXIF ExposureTime\": \"158769/250000000\", \"EXIF FNumber\": \"12/5\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:09:25 13:31:18\", \"EXIF DateTimeDigitized\": \"2015:09:25 13:31:18\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"531/50\", \"EXIF ApertureValue\": \"63/25\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"397/100\", \"EXIF SubSecTime\": \"605\", \"EXIF SubSecTimeOriginal\": \"605\", \"EXIF SubSecTimeDigitized\": \"605\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"533\", \"EXIF ExifImageLength\": \"400\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"504\", \"EXIF WhiteBalance\": \"Auto\"}",
+    "sha256": "bb9d1bc8da606335554890708c710bea8612fc8d56a75738209d2572bfa17cd8"
+}

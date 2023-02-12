@@ -1,0 +1,12 @@
+{
+    "url": "http://ojsfile.ohmynews.com/STD_IMG_FILE/2017/0216/IE002111761_STD.JPG",
+    "key": "000002283",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 700D\", \"Image XResolution\": \"150\", \"Image YResolution\": \"150\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2017:02:14 14:38:55\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ReferenceBlackWhite\": \"[0, 255, 128, 255, 128, 255]\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"288\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"1010\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"150\", \"Thumbnail YResolution\": \"150\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1122\", \"Thumbnail JPEGInterchangeFormatLength\": \"15693\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"18\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:02:14 14:38:55\", \"EXIF DateTimeDigitized\": \"2017:02:14 14:38:55\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6\", \"EXIF ApertureValue\": \"67/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"33\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"400\", \"EXIF FocalPlaneXResolution\": \"864000/149\", \"EXIF FocalPlaneYResolution\": \"1152000/199\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "081d7426ce8d5ebcd162cc9bb2bb6dc09ee6db3fdf6e173374544ed32d9094f3"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://blog-imgs-50.fc2.com/p/o/w/powasowa/201307131633097a4.jpg",
+    "key": "000000357",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"SZ-10\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Version 1.0\", \"Image DateTime\": \"2013:07:06 11:49:44\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"306\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"6470\", \"Thumbnail JPEGInterchangeFormatLength\": \"3153\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"31/10\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:07:06 11:49:44\", \"EXIF DateTimeDigitized\": \"2013:07:06 11:49:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"163/50\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2560\", \"EXIF ExifImageLength\": \"1920\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"5644\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF OffsetSchema\": \"-812\"}",
+    "sha256": "62cb467928ce9f3ecc3ef055ecceb4bdbceb50271f637427bc975069f2656b54"
+}

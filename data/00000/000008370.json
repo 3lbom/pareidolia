@@ -1,0 +1,12 @@
+{
+    "url": "https://detoxinista.com/wp-content/uploads/2012/12/photo-3.jpg",
+    "key": "000008370",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 540,
+    "original_height": 501,
+    "exif": "{\"Image ImageWidth\": \"1296\", \"Image ImageLength\": \"968\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Windows)\", \"Image DateTime\": \"2014:05:14 09:51:53\", \"Image HostComputer\": \"iPhone (iPhone OS 6.0.1)\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"328\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[38, 5893/100, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[94, 3831/100, 0]\", \"GPS GPSTimeStamp\": \"[19, 2, 37]\", \"Image GPSInfo\": \"720\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"954\", \"Thumbnail JPEGInterchangeFormatLength\": \"8296\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:12:11 19:02:40\", \"EXIF DateTimeDigitized\": \"2012:12:11 19:02:40\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"13721/3512\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"4618/2681\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[1724, 1097, 484, 484]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"540\", \"EXIF ExifImageLength\": \"501\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "d000d099f69606a08c2037662f812d6f44d867e93d0e08ff05852ad744bb81f5"
+}

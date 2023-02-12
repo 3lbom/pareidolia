@@ -1,0 +1,12 @@
+{
+    "url": "http://oss.huangye88.net/live/user/2745392/1566310073024228300-0.jpg@1e_1c_220w_220h_90Q.jpg",
+    "key": "000002312",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 165,
+    "original_height": 220,
+    "exif": "{\"Image Make\": \"vivo\", \"Image Model\": \"vivo Y66\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"msm8937_32-user 6.0.1 MMB29M eng.compiler.20190514.224116 release-keys\", \"Image DateTime\": \"2019:06:03 17:59:12\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"258\", \"GPS GPSAltitudeRef\": \"11/5\", \"GPS GPSTimeStamp\": \"[9, 59, 12]\", \"GPS GPSDate\": \"2019:06:03\", \"Image GPSInfo\": \"746\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"928\", \"Thumbnail JPEGInterchangeFormatLength\": \"11783\", \"EXIF ExposureTime\": \"10/333\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:06:03 17:59:12\", \"EXIF DateTimeDigitized\": \"2019:06:03 17:59:12\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2529/500\", \"EXIF ApertureValue\": \"227/100\", \"EXIF BrightnessValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"369/100\", \"EXIF SubSecTime\": \"575624\", \"EXIF SubSecTimeOriginal\": \"575624\", \"EXIF SubSecTimeDigitized\": \"575624\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3120\", \"EXIF ExifImageLength\": \"4160\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"712\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"4\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "3fe80b88624cfd3bc7cbeeb324e08e0da1516ad5b11beb06c91f571bf7a50bf6"
+}

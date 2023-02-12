@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.blogg.no/content/uploads/sites/1186/2019/10/26215023/338AC837-DE03-40C0-B8E3-4465F2745611-1200x1708.jpeg",
+    "key": "000005939",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 1708,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s\", \"Image Software\": \"12.4.1\", \"Image ExifOffset\": \"366\", \"EXIF ExposureTime\": \"1/17\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF DateTimeOriginal\": \"2019:10:26 21:17:00\", \"EXIF ShutterSpeedValue\": \"42808/10473\", \"EXIF ApertureValue\": \"56882/25003\", \"EXIF BrightnessValue\": \"9738/118447\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubSecTimeOriginal\": \"533\", \"EXIF ExifImageWidth\": \"1439\", \"EXIF ExifImageLength\": \"2048\", \"EXIF LensModel\": \"iPhone 6s back camera 4.15mm f/2.2\"}",
+    "sha256": "c142f3380ed8ebf0a1189a741031f484bc945db59ae307252c9d6708c6276136"
+}

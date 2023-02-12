@@ -1,0 +1,12 @@
+{
+    "url": "http://m-c8e97c3b07a7c800-m.cocolog-nifty.com/photos/uncategorized/2011/07/01/ca3d04930001.jpg",
+    "key": "000001978",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 640,
+    "exif": "{\"Image ImageDescription\": \"CA3D0493\", \"Image Make\": \"KDDI-CA\", \"Image Model\": \"CA001\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2011:06:30 23:53:21\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"194\", \"EXIF ExposureTime\": \"3/50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:06:30 23:52:40\", \"EXIF DateTimeDigitized\": \"2011:06:30 23:52:40\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"7/10\", \"EXIF Flash\": \"No flash function\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"640\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF GainControl\": \"None\", \"EXIF Saturation\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "1e4020af98497ebe2d5dbc0a91bdd400a5440f1ba0169f3f681b1b0817efad22"
+}

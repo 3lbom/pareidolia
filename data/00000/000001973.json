@@ -1,0 +1,12 @@
+{
+    "url": "http://loveasiantaste.sakura.ne.jp/mt/yakushima_stoneface.JPG",
+    "key": "000001973",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 168,
+    "original_height": 224,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon IXY DIGITAL 910 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image DateTime\": \"2008:05:30 12:42:28\", \"Image YCbCrPositioning\": \"Centered\", \"Image Tag 0x1001\": \"3264\", \"Image Tag 0x1002\": \"2448\", \"Image ExifOffset\": \"2246\", \"Image Padding\": \"[]\", \"Image OffsetSchema\": \"4136\", \"EXIF ExposureTime\": \"1/8\", \"EXIF FNumber\": \"5\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:05:30 12:42:28\", \"EXIF DateTimeDigitized\": \"2008:05:30 12:42:28\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ShutterSpeedValue\": \"3\", \"EXIF ApertureValue\": \"149/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"149/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"1584/125\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"3264\", \"EXIF FocalPlaneXResolution\": \"2448000/169\", \"EXIF FocalPlaneYResolution\": \"43520/3\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"2128\"}",
+    "sha256": "bb64aa21666eac2b06ef2815c636192bc45112b102ceb3fba07600258b9e6275"
+}

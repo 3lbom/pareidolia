@@ -1,0 +1,12 @@
+{
+    "url": "https://cp1.douguo.com/upload/stepimage/8/a/1/200_813581.jpg",
+    "key": "000007893",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 200,
+    "original_height": 161,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"200\", \"EXIF ExifImageLength\": \"161\"}",
+    "sha256": "3bfa85c96a86e2130a10cb7df302244e784574cbab830d3c00499976b59b2d93"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/8/27/1409148674983/98adb807-d140-440f-9683-24225daa6c53-315x420.jpeg",
+    "key": "000002906",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 315,
+    "original_height": 420,
+    "exif": "{\"Image Software\": \"Google\", \"Image ExifOffset\": \"48\", \"EXIF ExifVersion\": \"\", \"EXIF Tag 0x9009\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\"}",
+    "sha256": "06ec8a0d07d8e7969be4b2a9d08c94b00438cdf74257a4187f16b91b4dc835a3"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://farm4.staticflickr.com/3868/15240961996_ab4cca3c71_o.jpg",
+    "key": "000008936",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 704,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"TG-2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"314\", \"Image YResolution\": \"314\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2013:11:05 00:47:03\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image ExifOffset\": \"836\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"1472\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1586\", \"Thumbnail JPEGInterchangeFormatLength\": \"4416\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"49/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:09:01 23:45:25\", \"EXIF DateTimeDigitized\": \"2013:09:01 23:45:25\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"18\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"704\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1440\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"100\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "ca393281943eb6214520bd05957fda6b7bd6c9c76955ba657db13a1ca9c81add"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.hikingwithchuck.com/images/GiantToad_4_20070825_T.JPG",
+    "key": "000003587",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 504,
+    "original_height": 378,
+    "exif": "{\"Image Make\": \"HITACHI\", \"Image Model\": \"DZ-GX3300A\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"134\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"370\", \"Thumbnail JPEGInterchangeFormatLength\": \"12407\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:08:25 12:22:34\", \"EXIF DateTimeDigitized\": \"2007:08:25 12:22:34\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2016\", \"EXIF ExifImageLength\": \"1512\"}",
+    "sha256": "c734efa58c670706ea5250b8d1bc318ee6e5f52f9cf4c82f56ae41b0070996de"
+}

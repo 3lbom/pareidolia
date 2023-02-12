@@ -1,0 +1,12 @@
+{
+    "url": "https://carla247.typepad.com/.a/6a00d8341c034253ef0120a810d4c6970b-800wi",
+    "key": "000005728",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 481,
+    "original_height": 637,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 3GS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"QuickTime 7.6.3\", \"Image DateTime\": \"2010:01:26 12:24:56\", \"Image HostComputer\": \"Mac OS X 10.6.2\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"256\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[50, 999/20, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[0, 923/20, 0]\", \"GPS GPSTimeStamp\": \"[19, 26, 3109/100]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"29908/139\", \"Image GPSInfo\": \"582\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"858\", \"Thumbnail JPEGInterchangeFormatLength\": \"4320\", \"Thumbnail YCbCrPositioning\": \"Centered\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"163\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:01:20 19:26:37\", \"EXIF DateTimeDigitized\": \"2010:01:20 19:26:37\", \"EXIF ShutterSpeedValue\": \"3711/949\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF MeteringMode\": \"Average\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"77/20\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"800\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF Sharpness\": \"Soft\"}",
+    "sha256": "8f7d4cd98091583bead57c44686d321251bc752d9a2a6254f3603b4e5376d67d"
+}

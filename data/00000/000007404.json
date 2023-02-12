@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn2.apstatic.com/photos/climb/113093424_small_1496761090.jpg",
+    "key": "000007404",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 120,
+    "original_height": 180,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"GCMC\", \"Image Model\": \"Scanner\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"UF14 13/05/07 v0.64\", \"Image DateTime\": \":  :     :  :\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"266\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"22584\", \"Thumbnail JPEGInterchangeFormatLength\": \"4024\", \"EXIF ExposureTime\": \"1/18\", \"EXIF FNumber\": \"23/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \":  :     :  :\", \"EXIF DateTimeDigitized\": \":  :     :  :\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"21/5\", \"EXIF ApertureValue\": \"22/5\", \"EXIF ExposureBiasValue\": \"1/2\", \"EXIF MaxApertureValue\": \"22/5\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"13\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4416\", \"EXIF ExifImageLength\": \"2944\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"22460\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "33b73a3fbcb4c27c55b1b9024fc154f0e64da5639144ddd382372476f43d2b7c"
+}

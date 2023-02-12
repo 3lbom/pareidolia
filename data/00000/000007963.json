@@ -1,0 +1,12 @@
+{
+    "url": "https://d.share.photo.xuite.net/vicky66.chang/1d0df65/1189488/41473269_c.jpg",
+    "key": "000007963",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 169,
+    "original_height": 126,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS OPTICAL CO.,LTD\", \"Image Model\": \"C750UZ\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"CAMEDIA Master 4.10\", \"Image DateTime\": \"2006:10:18 16:19:24\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"374\", \"Image CustomRendered\": \"Normal\", \"Image ExposureMode\": \"Manual Exposure\", \"Image WhiteBalance\": \"Manual\", \"Image DigitalZoomRatio\": \"0\", \"Image SceneCaptureType\": \"Standard\", \"Image GainControl\": \"None\", \"Image Contrast\": \"Hard\", \"Image Saturation\": \"Hard\", \"Image Sharpness\": \"Hard\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1860\", \"Thumbnail JPEGInterchangeFormatLength\": \"8061\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2006:09:30 17:35:00\", \"EXIF DateTimeDigitized\": \"2006:09:30 17:35:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"-7/10\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Fine weather\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"63/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"479\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1728\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\"}",
+    "sha256": "b3fbb9daab6ec07999962db3fc7dd8e8a72eb4d547bcdcf0e03b2ca445cfe668"
+}

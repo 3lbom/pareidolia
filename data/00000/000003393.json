@@ -1,0 +1,12 @@
+{
+    "url": "http://www.assap.ac.uk/newsite/Pics/Rock%20face2.jpg",
+    "key": "000003393",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 357,
+    "exif": "{\"Image ImageWidth\": \"300\", \"Image ImageLength\": \"357\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Orientation\": \"Horizontal (normal)\", \"Image YCbCrSubSampling\": \"2\", \"Image DateTime\": \"2015:06:17 14:02:44\", \"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"E-M1\", \"Image Software\": \"PaintShop Pro 17.00\", \"Image Artist\": \"\", \"Image Copyright\": \"\", \"Image InterColorProfile\": \"[]\", \"Image ExifOffset\": \"218\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"608\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4418\", \"Thumbnail JPEGInterchangeFormatLength\": \"5860\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"357\", \"EXIF DateTimeOriginal\": \"2015:06:17 14:02:44\", \"EXIF DateTimeDigitized\": \"2015:06:17 14:02:44\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"63/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExposureBiasValue\": \"-3/10\", \"EXIF MaxApertureValue\": \"1159/256\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"164\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF LensSpecification\": \"[75, 300, 24/5, 67/10]\", \"EXIF LensModel\": \"OLYMPUS M.75-300mm F4.8-6.7\"}",
+    "sha256": "a158ea1b6f46cbedc85c19a28307553e5f7e6c493bdcdd87b31b65b88d5185d0"
+}

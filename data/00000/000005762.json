@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/T/THAILAND/20170317/20170317211056.jpg",
+    "key": "000005762",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 451,
+    "exif": "{\"Image Make\": \"Sony\", \"Image Model\": \"E5333\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"autoA\", \"Image DateTime\": \"2017:03:16 21:57:56\", \"Image ExifOffset\": \"176\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:03:16 21:57:56\", \"EXIF DateTimeDigitized\": \"2017:03:16 21:57:56\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"other light source\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"7/2\", \"EXIF SubSecTime\": \"39\", \"EXIF SubSecTimeOriginal\": \"39\", \"EXIF SubSecTimeDigitized\": \"39\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"451\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"755138fdcf909bbb0000000000000000\"}",
+    "sha256": "ef9ec8e0b5b6f85547a6e45fa5f8c51ccccd767e79519a7ea9cab71dd92c1874"
+}

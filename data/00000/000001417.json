@@ -1,0 +1,12 @@
+{
+    "url": "http://img.fotocommunity.com/sphinx-24f1bedf-4661-4ea5-8130-7039b8f00a38.jpg?height=1080",
+    "key": "000001417",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 704,
+    "original_height": 513,
+    "exif": "{\"Image Make\": \"FUJI PHOTO FILM CO., LTD.\", \"Image Model\": \"SP-2000\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2007:03:15 08:34:16\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"494\", \"Thumbnail JPEGInterchangeFormatLength\": \"9978\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \":  :     :  :\", \"EXIF DateTimeDigitized\": \"2007:03:05 11:16:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF SubSecTime\": \"294\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"704\", \"EXIF ExifImageLength\": \"513\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"422\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "e9e857ba7c3122e1c5f5d65eaa033fc9beda910c5728f666ff2509d4cf8ff79d"
+}

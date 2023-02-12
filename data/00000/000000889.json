@@ -1,0 +1,12 @@
+{
+    "url": "http://fruitarian.ru/wp-content/uploads/2011/09/green_kiwi_05_2008_04_1024x768.jpg",
+    "key": "000000889",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 650,
+    "original_height": 488,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A610\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iWatermark Pro\", \"Image DateTime\": \"2008:12:15 08:58:48\", \"Image ExifOffset\": \"202\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:12:15 08:58:48\", \"EXIF DateTimeDigitized\": \"2008:12:15 08:58:48\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"69/16\", \"EXIF ApertureValue\": \"95/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"80\", \"EXIF FocalLength\": \"73/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"650\", \"EXIF ExifImageLength\": \"488\", \"EXIF FocalPlaneXResolution\": \"214841/38\", \"EXIF FocalPlaneYResolution\": \"300000/53\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "b1d7ed90058c5978114dc789b6a5bbe19c9e84f01774cbb69eb19b4f7ed4684a"
+}

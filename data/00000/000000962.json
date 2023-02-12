@@ -1,0 +1,12 @@
+{
+    "url": "http://harimaya.sakura.ne.jp/sblo_files/usakuma21c/sasayama/IMG_9265-thumbnail2.jpg",
+    "key": "000000962",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 213,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS Kiss X4\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2013:08:01 12:14:10\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1058\", \"Thumbnail JPEGInterchangeFormatLength\": \"5564\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"10\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:06:02 10:20:22\", \"EXIF DateTimeDigitized\": \"2013:06:02 10:20:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"53/8\", \"EXIF ApertureValue\": \"53/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"18\", \"EXIF SubSecTime\": \"54\", \"EXIF SubSecTimeOriginal\": \"54\", \"EXIF SubSecTimeDigitized\": \"54\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"900\", \"EXIF ExifImageLength\": \"600\", \"EXIF FocalPlaneXResolution\": \"1036800/181\", \"EXIF FocalPlaneYResolution\": \"691200/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "edd0ae84be5add2cd42e260a6e4b47914cd9a2f746418d01400722f7cfa9a6b3"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://dianapitture.com/wp-content/uploads/2021/10/2403c62e-8504-42e3-b933-45ce53a5752d-768x1024.jpg",
+    "key": "000008405",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 1024,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1078\", \"EXIF ExifImageLength\": \"1438\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9f66d36a7741acac675925e4e5db9a9351f3e36ebe2abb481b994a6fb78f1672"
+}

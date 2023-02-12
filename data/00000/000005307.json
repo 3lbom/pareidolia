@@ -1,0 +1,12 @@
+{
+    "url": "https://blogadmin.idnes.cz/blog/14220/342309/Corsica.jpg",
+    "key": "000005307",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 650,
+    "original_height": 488,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX S520\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0 CE\", \"Image DateTime\": \"2013:07:09 20:40:47\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"846\", \"Thumbnail JPEGInterchangeFormatLength\": \"4176\", \"EXIF ExposureTime\": \"1/384\", \"EXIF FNumber\": \"33/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:07:21 18:22:56\", \"EXIF DateTimeDigitized\": \"2008:07:21 18:22:56\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4423/500\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"650\", \"EXIF ExifImageLength\": \"488\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"54\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "d40fbddca98c0bf4f38d28c28c1489f313fe51e8b4b9a774a57413e1d3b04c90"
+}

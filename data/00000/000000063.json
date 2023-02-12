@@ -1,0 +1,12 @@
+{
+    "url": "http://1ggy.com/upload/20180116/cbfe3cc88dbf646b92169e8f626048c4.jpg",
+    "key": "000000063",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 500,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2016:03:11 12:56:11\", \"Image ExifOffset\": \"164\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"580\", \"EXIF ExifImageLength\": \"580\"}",
+    "sha256": "c701a6b1cd2ec1d8c39d95e9cd9a5eab1120f6b0ebc5e7b12d277562640a2448"
+}

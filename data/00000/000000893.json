@@ -1,0 +1,12 @@
+{
+    "url": "http://fruitarian.ru/wp-content/uploads/2012/03/DSC_4533_1024x683-512x341.jpg",
+    "key": "000000893",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 512,
+    "original_height": 341,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"iWatermark Pro\", \"Image ExifOffset\": \"66\", \"EXIF ExifImageWidth\": \"512\", \"EXIF ExifImageLength\": \"341\"}",
+    "sha256": "56b772e8f30754e13ac12f78d41c575957da12f34a5e34c9a5952835e09410f1"
+}

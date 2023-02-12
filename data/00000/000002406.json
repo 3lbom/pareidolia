@@ -1,0 +1,12 @@
+{
+    "url": "http://photo.thebestofrussia.ru/211253/209.jpg",
+    "key": "000002406",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 209,
+    "original_height": 139,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D300S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.0 (Windows)\", \"Image DateTime\": \"2016:10:31 21:45:15\", \"Image Artist\": \"VLADISLAV RINK\", \"Image Copyright\": \"VLADISLAV RINK\", \"Image ExifOffset\": \"284\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"978\", \"Thumbnail JPEGInterchangeFormatLength\": \"5835\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:09:12 13:42:26\", \"EXIF DateTimeDigitized\": \"2015:09:12 13:42:26\", \"EXIF ShutterSpeedValue\": \"321491/31250\", \"EXIF ApertureValue\": \"290241/62500\", \"EXIF ExposureBiasValue\": \"1/3\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTimeOriginal\": \"48\", \"EXIF SubSecTimeDigitized\": \"48\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"75\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"6107794\", \"EXIF LensSpecification\": \"[17, 50, 14/5, 14/5]\", \"EXIF LensModel\": \"17.0-50.0 mm f/2.8\"}",
+    "sha256": "ac8225d91f3071185c7f25907c50e970ef18366cbcd3d6e684f535866a630de2"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://datenightcincinnati.com/datenightcincinnati/wp-content/uploads/sites/52/2016/09/IMG_4321-Copy.jpg",
+    "key": "000008323",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 715,
+    "original_height": 681,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2016:09:19 18:33:55\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2306\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4652\", \"Thumbnail JPEGInterchangeFormatLength\": \"11056\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:09:12 21:44:26\", \"EXIF DateTimeDigitized\": \"2016:09:12 21:44:26\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF SubSecTimeOriginal\": \"02\", \"EXIF SubSecTimeDigitized\": \"02\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1334\", \"EXIF ExifImageLength\": \"750\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "bc44d1738e724de7b8f326c5d14ef2a086fb513914662d0e476a4e542de6e054"
+}

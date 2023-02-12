@@ -1,0 +1,12 @@
+{
+    "url": "https://chita-potal.com/wp-content/uploads/2019/11/IMG_0568-1024x768.jpg",
+    "key": "000007723",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 2.0\", \"Image DateTime\": \"2019:11:16 11:17:01\", \"Image Copyright\": \"toshiyuki tanaka\", \"Image ExifOffset\": \"216\", \"EXIF ExposureTime\": \"1/634\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"20\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:16 11:17:01\", \"EXIF DateTimeDigitized\": \"2019:11:16 11:17:01\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"8657/930\", \"EXIF ApertureValue\": \"2159/1273\", \"EXIF BrightnessValue\": \"25939/2591\", \"EXIF ExposureBiasValue\": \"1663/1846\", \"EXIF SubjectDistance\": \"11/15\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"608\", \"EXIF SubSecTimeDigitized\": \"608\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[399/100, 399/100, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 back camera 3.99mm f/1.8\"}",
+    "sha256": "3643896d8af850db7aa270bb3728e150a7f88ebbaf4bb169528aecc2e77ffb47"
+}

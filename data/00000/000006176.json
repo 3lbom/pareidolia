@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.resize.sparkplatform.com/ven/640x480/true/20170914001607691661000000-o.jpg",
+    "key": "000006176",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"SAMSUNG\", \"Image Model\": \"DV300 / DV300F / DV305F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"1209074\", \"Image DateTime\": \"2011:04:26 01:03:10\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"COPYRIGHT, 2010 (COPYRIGHT, 2010 (Photographer) - [None]\", \"Image ExifOffset\": \"280\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"22976\", \"Thumbnail JPEGInterchangeFormatLength\": \"3601\", \"EXIF ExposureTime\": \"1/750\", \"EXIF FNumber\": \"5/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:04:26 01:03:10\", \"EXIF DateTimeDigitized\": \"2011:04:26 01:03:10\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"870116/410763\", \"EXIF ShutterSpeedValue\": \"37/4\", \"EXIF ApertureValue\": \"66/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"66/25\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"9/2\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"EXIF RelatedSoundFile\": \"RelatedSound\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"22852\", \"EXIF ExposureIndex\": \"1\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"25\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "14a044173b264792293ad26efaef3dc99558ddae52f3cb15ff77948ffb8887b0"
+}

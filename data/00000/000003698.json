@@ -1,0 +1,12 @@
+{
+    "url": "http://www.lvyougl.com/UploadFiles/2018/1/201801161703139894.JPG",
+    "key": "000003698",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 450,
+    "original_height": 300,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"b'ACD Systems \\\\xca\\\\xfd\\\\xc2\\\\xeb\\\\xb3\\\\xc9\\\\xcf\\\\xf1'\", \"Image DateTime\": \"2018:01:16 17:02:34\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"167\", \"EXIF SubSecTime\": \"398\", \"EXIF ExifImageWidth\": \"450\", \"EXIF ExifImageLength\": \"300\"}",
+    "sha256": "af60a5f77415fad62cbafdbab94dd6cee5774f44bc996a458e05ed1a00a9449e"
+}

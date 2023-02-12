@@ -1,0 +1,12 @@
+{
+    "url": "http://blog.masaa.me/archives/images2015/bread2_150617.jpg",
+    "key": "000000397",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 420,
+    "original_height": 315,
+    "exif": "{\"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"2448\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Apple\", \"Image Model\": \"iPad Air 2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5.1 Windows\", \"Image DateTime\": \"2015:06:17 13:00:06\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"284\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"934\", \"Thumbnail JPEGInterchangeFormatLength\": \"4551\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:06:16 22:20:25\", \"EXIF DateTimeDigitized\": \"2015:06:16 22:20:25\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"6325/1289\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"3733/895\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"33/10\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"918\", \"EXIF SubSecTimeDigitized\": \"918\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"420\", \"EXIF ExifImageLength\": \"315\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[33/10, 33/10, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPad Air 2 back camera 3.3mm f/2.4\"}",
+    "sha256": "cb4f30eab4a5263c76825b7224dd940c26d0316e046817ad0bc973db58124e9f"
+}

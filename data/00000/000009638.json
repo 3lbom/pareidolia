@@ -1,0 +1,12 @@
+{
+    "url": "https://himawari-prod-image.s3-ap-northeast-1.amazonaws.com/article_images/thumbnails/000/016/850/733fbb8b4242f6c289dbc982bbe88d7a91256a2b-medium.jpg?1629424379",
+    "key": "000009638",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 250,
+    "original_height": 167,
+    "exif": "{}",
+    "sha256": "1a7d17a3a77269ba1ef398351eb5297c4987f0c475424f570275c11a0a8b244e"
+}

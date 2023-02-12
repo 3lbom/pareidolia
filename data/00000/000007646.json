@@ -1,0 +1,12 @@
+{
+    "url": "https://cdny.de/p/t/7/f3e/6710191.jpg",
+    "key": "000007646",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"400\"}",
+    "sha256": "1920ea61b0b20d09b7c5677b7b1fb412a20c20d12031b75b9eebeeed6ad26063"
+}

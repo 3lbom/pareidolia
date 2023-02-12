@@ -1,0 +1,12 @@
+{
+    "url": "https://about.sprouts.com/wp-content/uploads/2018/07/CW-Muffin-Girl.jpg",
+    "key": "000004534",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 671,
+    "original_height": 380,
+    "exif": "{\"Image Artist\": \"Kalia Pang\", \"Image ExifOffset\": \"2134\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2018:07:16 12:00:20\", \"EXIF DateTimeDigitized\": \"2018:07:16 12:00:20\", \"EXIF SubSecTimeOriginal\": \"04\", \"EXIF SubSecTimeDigitized\": \"04\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "19da4928e57ddee17fc5d29c3a72a2ebbdf384fb731a505ba72004b5c40446b9"
+}

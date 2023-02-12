@@ -1,0 +1,12 @@
+{
+    "url": "https://downloadimg.dns4.cn/pic/203563/p4/20171030112811_4250_zs.jpg?220*220",
+    "key": "000008550",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 605,
+    "original_height": 375,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2017:06:16 10:14:09\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"6526\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"605\", \"EXIF ExifImageLength\": \"375\"}",
+    "sha256": "d7f7eaa1aed1e4a123e35c62006310be66c76adc9da60b7365e9763720e64844"
+}

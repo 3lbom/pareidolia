@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.clipkit.co/tenants/867/item_images/images/000/010/750/large/6f9985f9-6d08-4261-8d66-bc888dad4d71.jpg?1618372236",
+    "key": "000005955",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1125,
+    "original_height": 1103,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:03:18 15:14:47\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1125\", \"EXIF ExifImageLength\": \"2436\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "523840fc02ea23e74ee29ec8871820d954f688d4dc1ef6e650bc7d3f187ac392"
+}

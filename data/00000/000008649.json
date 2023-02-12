@@ -1,0 +1,12 @@
+{
+    "url": "https://ehc-west-0-bucket.s3.us-west-2.amazonaws.com/web/documents/imperialsyracuse/menu_item_images/item_image_5f1b76eea724f.jpg?5f740df32b964",
+    "key": "000008649",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 599,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"599\"}",
+    "sha256": "f110f7e17d1d89ea349a77430f7d8e82dc507be841090ea8e7fa8d72551ca168"
+}

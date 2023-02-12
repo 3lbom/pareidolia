@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.resize.sparkplatform.com/ven/640x480/true/20201014144008769817000000-o.jpg",
+    "key": "000006177",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 854,
+    "original_height": 480,
+    "exif": "{\"Image ImageWidth\": \"4128\", \"Image ImageLength\": \"2322\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-J701M\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"J701MUBS7CSG2\", \"Image DateTime\": \"2019:11:04 10:49:53\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1074\", \"Thumbnail JPEGInterchangeFormatLength\": \"11969\", \"EXIF ExposureTime\": \"1/120\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:04 10:49:53\", \"EXIF DateTimeDigitized\": \"2019:11:04 10:49:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"691/100\", \"EXIF ApertureValue\": \"37/20\", \"EXIF BrightnessValue\": \"263/50\", \"EXIF ExposureBiasValue\": \"11/10\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"37/10\", \"EXIF SubSecTime\": \"0298\", \"EXIF SubSecTimeOriginal\": \"0298\", \"EXIF SubSecTimeDigitized\": \"0298\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"854\", \"EXIF ExifImageLength\": \"480\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"926\", \"EXIF SceneType\": \"0000\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0/0\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF ImageUniqueID\": \"T13LLIA00SM T13LLKG01SD\"}",
+    "sha256": "3c756f2b890ddfc7314d696c1ebb932133abd7f687b0d74eeed31908e86523c0"
+}

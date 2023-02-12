@@ -1,0 +1,12 @@
+{
+    "url": "https://cs4.pikabu.ru/post_img/2014/09/17/5/1410935734_467232022.jpg",
+    "key": "000007925",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 800,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\"}",
+    "sha256": "47de2aecea12143a5e4378f718527ec555d4bb20855867af49d3e4a57e9f52f6"
+}

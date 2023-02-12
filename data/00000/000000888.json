@@ -1,0 +1,12 @@
+{
+    "url": "http://fruitarian.ru/wp-content/uploads/2011/06/IMG_4016_1024x768.jpg",
+    "key": "000000888",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 650,
+    "original_height": 488,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A1000 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iWatermark Pro\", \"Image DateTime\": \"2011:10:04 11:46:15\", \"Image ExifOffset\": \"250\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"27/10\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:10:04 11:46:15\", \"EXIF DateTimeDigitized\": \"2011:10:04 11:46:15\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"255/32\", \"EXIF ApertureValue\": \"23/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"23/8\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"31/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"650\", \"EXIF ExifImageLength\": \"488\", \"EXIF FocalPlaneXResolution\": \"1593361/240\", \"EXIF FocalPlaneYResolution\": \"1160221/175\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "03dc7fdc53590a92283889bc943beded57fdf108eff16ca16d99b98987f4d3e6"
+}

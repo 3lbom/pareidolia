@@ -1,0 +1,12 @@
+{
+    "url": "https://5.imimg.com/data5/YM/HD/MY-32234033/banana-250x250.jpeg",
+    "key": "000004398",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 188,
+    "original_height": 250,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"188\", \"EXIF ExifImageLength\": \"250\"}",
+    "sha256": "5743dafba526812410ad7842630d5a77b98c4d1b96484c85f4f1f5011203f060"
+}

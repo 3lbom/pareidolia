@@ -1,0 +1,12 @@
+{
+    "url": "http://www.wlqz.cn/system/eWebEditor/201304upload/20141010141632851.jpg",
+    "key": "000004056",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 281,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon DIGITAL IXUS 95 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2014:09:19 16:10:31\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"240\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5108\", \"Thumbnail JPEGInterchangeFormatLength\": \"3251\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:09:19 16:10:31\", \"EXIF DateTimeDigitized\": \"2014:09:19 16:10:31\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"157/32\", \"EXIF ApertureValue\": \"95/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"31/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3648\", \"EXIF ExifImageLength\": \"2736\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3648\", \"Interoperability RelatedImageLength\": \"2736\", \"EXIF InteroperabilityOffset\": \"3228\", \"EXIF FocalPlaneXResolution\": \"3648000/241\", \"EXIF FocalPlaneYResolution\": \"2736000/181\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "668534191cbf46720d43305fe62817e38702848a3f692ddee35ba666a3c62b65"
+}

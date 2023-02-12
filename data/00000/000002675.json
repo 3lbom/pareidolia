@@ -1,0 +1,12 @@
+{
+    "url": "http://s0.geograph.org.uk/photos/02/13/021303_aa98813e.jpg",
+    "key": "000002675",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A300\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2004:05:02 13:56:00\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2036\", \"Thumbnail JPEGInterchangeFormatLength\": \"3935\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"18/5\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2004:05:02 13:56:00\", \"EXIF DateTimeDigitized\": \"2004:05:02 13:56:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"149/16\", \"EXIF ApertureValue\": \"59/16\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"59/16\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"768\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1024\", \"Interoperability RelatedImageLength\": \"768\", \"EXIF InteroperabilityOffset\": \"1540\", \"EXIF FocalPlaneXResolution\": \"64000/13\", \"EXIF FocalPlaneYResolution\": \"64000/13\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "72a63e9a862b48bc3559a9d3ebb94be845d6729e64f85bd4dc3fbde703399ca0"
+}

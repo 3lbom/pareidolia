@@ -1,0 +1,12 @@
+{
+    "url": "https://d.inmofactory.com/1/84165/10538309/133873434.jpg",
+    "key": "000007958",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1336,
+    "original_height": 802,
+    "exif": "{\"Image ImageWidth\": \"2560\", \"Image ImageLength\": \"1536\", \"Image Make\": \"SAMSUNG\", \"Image Model\": \"SM-G360F\", \"Image Orientation\": \"Rotated 90 CW\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G360FXXU1BOJ2\", \"Image DateTime\": \"2016:08:19 10:57:35\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"237\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"2967\", \"Thumbnail ImageWidth\": \"480\", \"Thumbnail ImageLength\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Rotated 90 CW\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3125\", \"Thumbnail JPEGInterchangeFormatLength\": \"14281\", \"EXIF ExposureTime\": \"1/522\", \"EXIF FNumber\": \"13/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:19 10:57:35\", \"EXIF DateTimeDigitized\": \"2016:08:19 10:57:35\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"451/50\", \"EXIF ApertureValue\": \"63/25\", \"EXIF BrightnessValue\": \"15/2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"69/25\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"331/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2560\", \"EXIF ExifImageLength\": \"1536\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"A05QFHI01NA\", \"Interoperability InteroperabilityIndex\": \"R98\", \"EXIF InteroperabilityOffset\": \"2981\"}",
+    "sha256": "4f6e6132cfd39358e745b12cbdb5f4f1106f0fbafa94580d4daaf61f54b5d32e"
+}

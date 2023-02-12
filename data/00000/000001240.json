@@ -1,0 +1,12 @@
+{
+    "url": "http://image1.slideserve.com/2881977/slide2-n.jpg",
+    "key": "000001240",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 540,
+    "exif": "{\"Image Tag 0x5110\": \"0\", \"Image Tag 0x5111\": \"0\", \"Image Tag 0x5112\": \"0\"}",
+    "sha256": "9e550110eec8e223676f777307dc764f9daece8d3ab1853742efc3f6d15bfaa5"
+}

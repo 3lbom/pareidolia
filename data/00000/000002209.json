@@ -1,0 +1,12 @@
+{
+    "url": "http://mtdata.ru/u3/photo4D17/20977794258-0/original.jpg",
+    "key": "000002209",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 605,
+    "original_height": 617,
+    "exif": "{\"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2017-04-24T11:58:34+03:00\", \"Image ExifOffset\": \"106\", \"EXIF ExifVersion\": \"\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF ExifImageWidth\": \"605\", \"EXIF ExifImageLength\": \"617\"}",
+    "sha256": "3fadccb4763305caecdf7f5be1a7942da2931d6e1c6d59ee96b838910f8c3e0f"
+}

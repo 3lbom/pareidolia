@@ -1,0 +1,12 @@
+{
+    "url": "http://www.elchipabbq.it/wp-content/uploads/2017/12/IMG-1496-768x1024.jpg",
+    "key": "000003498",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 1024,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"11.2.1\", \"Image DateTime\": \"2017:12:24 19:33:04\", \"Image ExifOffset\": \"182\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[43, 41, 281/10]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[10, 28, 3371/100]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"4650/3493\", \"GPS GPSTimeStamp\": \"[18, 33, 0]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"16101/104\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"16101/104\", \"GPS GPSDate\": \"2017:12:24\", \"GPS Tag 0x001F\": \"65\", \"Image GPSInfo\": \"1624\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:12:24 19:33:04\", \"EXIF DateTimeDigitized\": \"2017:12:24 19:33:04\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"7637/1767\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"5513/4889\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"542\", \"EXIF SubSecTimeDigitized\": \"542\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3024\", \"EXIF ExifImageLength\": \"4032\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6s back camera 4.15mm f/2.2\"}",
+    "sha256": "58c5c67c7b36baa2fe0a898c60bb1de21a5c07f46ab3404930256fe6d40d0a75"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://fruitarian.ru/wp-content/uploads/2011/05/avocado_FUERTE52-512x383.jpg",
+    "key": "000000887",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 512,
+    "original_height": 383,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"iWatermark Pro\", \"Image ExifOffset\": \"118\", \"EXIF ExifImageWidth\": \"512\", \"EXIF ExifImageLength\": \"383\"}",
+    "sha256": "ca0dec6091220f4ee21998bb997b8fc3a64404f1636abbd8ea514ebc22a2f6a1"
+}

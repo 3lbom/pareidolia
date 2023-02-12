@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.foodbeast.com/wp-content/uploads/2021/10/rsz_img_3967.jpg",
+    "key": "000006018",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 538,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"216\", \"Image YResolution\": \"216\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"717\", \"EXIF ExifImageLength\": \"800\"}",
+    "sha256": "30a5120e2b869b592b442780d671a3f0add38288f278eb4fe5f5ae75326b136b"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://youimg1.c-ctrip.com/target/100d0m000000dd0uw5B90.jpg",
+    "key": "000004117",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 960,
+    "exif": "{\"Image ExifOffset\": \"62\", \"Image Orientation\": \"0\", \"Image ImageWidth\": \"640\", \"Image ImageLength\": \"960\", \"EXIF LightSource\": \"Unknown\"}",
+    "sha256": "21a27273f77de13574dcc93aba40448ca82860c17e9068bf7cdff96eabaf060c"
+}

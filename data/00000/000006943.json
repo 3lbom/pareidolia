@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn141.picsart.com/245412111006202.jpg?r240x240",
+    "key": "000006943",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 240,
+    "original_height": 299,
+    "exif": "{\"Image ImageWidth\": \"1969\", \"Image ImageLength\": \"2461\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PicsArt Photo Studio\", \"Image DateTime\": \"2017:10:11 12:00:19\", \"Image Artist\": \"187747189000102\", \"Image ExifOffset\": \"208\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:11 12:00:19\", \"EXIF LightSource\": \"Unknown\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"240\", \"EXIF ExifImageLength\": \"299\"}",
+    "sha256": "def7d240d79518c54a020bdf592026bfe9738350d57c643c16f0f9aa91513ca4"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://5.imimg.com/data5/AA/DP/AJ/ANDROID-6163927/prod-20200617-0943067872753030195220203-jpg-250x250.jpg",
+    "key": "000004392",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 250,
+    "original_height": 188,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"250\", \"EXIF ExifImageLength\": \"188\"}",
+    "sha256": "4683e9608dfb845f0108cb1ab8b6f1736a8ed36bb0cfdbd93ea09af6a252435b"
+}

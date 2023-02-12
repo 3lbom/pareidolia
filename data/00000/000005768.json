@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/d/darakekaasan/20200829/20200829091749.jpg",
+    "key": "000005768",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 670,
+    "original_height": 564,
+    "exif": "{\"Image Make\": \"Snowcorp\", \"Image Model\": \"foodie\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Foodie iOS 3.3.0\", \"Image DateTime\": \"2020:03:10 12:42:15\", \"Image ExifOffset\": \"182\", \"EXIF ExposureTime\": \"1/24\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:03:10 12:42:15\", \"EXIF DateTimeDigitized\": \"2020:03:10 12:42:15\", \"EXIF OffsetTime\": \"+09:00\", \"EXIF OffsetTimeOriginal\": \"+09:00\", \"EXIF OffsetTimeDigitized\": \"+09:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"23063/5030\", \"EXIF ApertureValue\": \"126503/50079\", \"EXIF BrightnessValue\": \"33372/21619\", \"EXIF ExposureBiasValue\": \"11049/112708\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"33/10\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"554\", \"EXIF SubSecTimeDigitized\": \"554\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"670\", \"EXIF ExifImageLength\": \"564\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[33/10, 33/10, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPad (6th generation) back camera 3.3mm f/2.4\"}",
+    "sha256": "9295e5b806bd2364034c46bf87e43c9381e39e637d9e8c5349dc310f62812807"
+}

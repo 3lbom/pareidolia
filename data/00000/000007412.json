@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn2.apstatic.com/photos/climb/113120982_small_1497135095.jpg",
+    "key": "000007412",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 135,
+    "original_height": 180,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"10.3.2\", \"Image DateTime\": \"2017:06:10 13:18:46\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"194\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1098\", \"Thumbnail JPEGInterchangeFormatLength\": \"10719\", \"EXIF ExposureTime\": \"1/382\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:06:10 13:18:46\", \"EXIF DateTimeDigitized\": \"2017:06:10 13:18:46\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"10746/1253\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"8420/1151\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"656\", \"EXIF SubSecTimeDigitized\": \"656\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[103/25, 103/25, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5 back camera 4.12mm f/2.4\"}",
+    "sha256": "52cf75ea22b5e34db01618976477af0671da98cc9f1cffd35ceb92418f6de05d"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://i1.douguo.net/upload/diet/6/6/1/6617c718bbe5b79b6df267e0960ea8e1.jpg",
+    "key": "000001100",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 590,
+    "original_height": 786,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"853\"}",
+    "sha256": "b6171960d1a36849f04019c3e6ef38a1608100afad0686d77aab62996fa55538"
+}

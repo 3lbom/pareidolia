@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn45.picsart.com/169441108001202.jpeg?r240x240",
+    "key": "000007583",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 240,
+    "original_height": 356,
+    "exif": "{\"Image ImageWidth\": \"1377\", \"Image ImageLength\": \"2046\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5200\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PicsArt Photo Studio\", \"Image DateTime\": \"2015:05:16 00:05:59\", \"Image Artist\": \"villager55\", \"Image ExifOffset\": \"258\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"240\", \"EXIF ExifImageLength\": \"356\"}",
+    "sha256": "ebb58b33ee81c9567aad33433f9d134b69fad1e0717107c0dacb1b4daaad70da"
+}

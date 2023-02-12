@@ -1,0 +1,12 @@
+{
+    "url": "http://img.ubu.ru/gal_otkosy_15104576.jpg",
+    "key": "000001594",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 533,
+    "original_height": 400,
+    "exif": "{\"Image XResolution\": \"1\", \"Image YResolution\": \"1\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\\u00a9 2013-2016 UBU.ru\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:10 15:37:45\", \"EXIF DateTimeDigitized\": \"2016:08:10 15:37:45\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\"}",
+    "sha256": "93ebfde338116b9d9a03c8ed8db8d2e8d0a0ba7faea0d75aa14a6922c6db18bc"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.bewellonearth.com/wp-content/uploads/2013/01/Elephant-Rock.jpg",
+    "key": "000003408",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 960,
+    "original_height": 360,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"u850SW,S850SW\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"314\", \"Image YResolution\": \"314\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Version 1.0\", \"Image DateTime\": \"2008:06:23 15:45:55\", \"Image ExifOffset\": \"276\", \"EXIF ExposureTime\": \"1/400\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:06:23 15:45:55\", \"EXIF DateTimeDigitized\": \"2008:06:23 15:45:55\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"361/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"201/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"960\", \"EXIF ExifImageLength\": \"360\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "fd65e04bf6723cb0ab4816d16a48c7fbcb17f62e10753c7b4d5bfd0bcbd32054"
+}

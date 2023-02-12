@@ -1,0 +1,12 @@
+{
+    "url": "https://f.share.photo.xuite.net/fuli520520new/1ff8bcc/20542127/1237215773_c.jpg",
+    "key": "000008809",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 169,
+    "original_height": 127,
+    "exif": "{\"Image Make\": \"Snowcorp\", \"Image Model\": \"foodie\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.1.7600.16385\", \"Image DateTime\": \"2020:12:22 12:08:32\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"2306\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4652\", \"Thumbnail JPEGInterchangeFormatLength\": \"6386\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:12:18 21:50:11\", \"EXIF DateTimeDigitized\": \"2020:12:18 21:50:11\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"750\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "ca95db7dea2cc8cad2b6f892287e92e220e49457ef97042c077e1cb3ea08b773"
+}

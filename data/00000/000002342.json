@@ -1,0 +1,12 @@
+{
+    "url": "http://ottercreekredneck.com/wp-content/uploads/2018/05/surprised-oak-tree.jpg",
+    "key": "000002342",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 540,
+    "original_height": 960,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SAMSUNG-SM-G890A\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G890AUCS7DRC1\", \"Image DateTime\": \"2018:05:05 11:48:19\", \"Image ExifOffset\": \"198\", \"EXIF ExposureTime\": \"1/272\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:05:05 11:48:19\", \"EXIF DateTimeDigitized\": \"2018:05:05 11:48:19\", \"EXIF ShutterSpeedValue\": \"809/100\", \"EXIF ApertureValue\": \"37/20\", \"EXIF BrightnessValue\": \"32/5\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"540\", \"EXIF ExifImageLength\": \"960\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "8b22e976a1402a6ee03f2f8c054a8e251f17ef3824297f32c6384bfa5df4115c"
+}

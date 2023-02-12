@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yumeusagiyukiusagi/20200403/20200403114946.jpg",
+    "key": "000005789",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 787,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPad (7th generation)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"13.3.1\", \"Image DateTime\": \"2020:04:02 15:01:44\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"206\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:04:02 15:01:44\", \"EXIF DateTimeDigitized\": \"2020:04:02 15:01:44\", \"EXIF OffsetTime\": \"+09:00\", \"EXIF OffsetTimeOriginal\": \"+09:00\", \"EXIF OffsetTimeDigitized\": \"+09:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"66817/17102\", \"EXIF ApertureValue\": \"126503/50079\", \"EXIF BrightnessValue\": \"-7346/36765\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"33/10\", \"EXIF SubjectArea\": \"[1003, 959, 1015, 1015]\", \"EXIF SubSecTimeOriginal\": \"457\", \"EXIF SubSecTimeDigitized\": \"457\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"2737\", \"EXIF ExifImageLength\": \"1794\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[33/10, 33/10, 12/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPad (7th generation) back camera 3.3mm f/2.4\"}",
+    "sha256": "dd3cfa39a1ec12dfa4ff978151e9fa84ee56d732edde973df2ac85032b9a5fba"
+}

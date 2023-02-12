@@ -1,0 +1,12 @@
+{
+    "url": "https://file.immo.vlan.be/ImageHandler/Image/Wordpress/ugly-belgian-house-2019-MAIN.jpg",
+    "key": "000009183",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 427,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\"}",
+    "sha256": "1ca67dd2080d122af76d359fa4789afc61f21123990f22967b192fbd73aa111a"
+}

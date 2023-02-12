@@ -1,0 +1,12 @@
+{
+    "url": "https://aloverlylife.com/wp-content/uploads/2021/08/12-1-e1629302825781-998x1024.jpg",
+    "key": "000004708",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 998,
+    "original_height": 1024,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1080\", \"EXIF ExifImageLength\": \"1920\"}",
+    "sha256": "14a0cf94c15c96772fb1d51263893188241a77ec082add2a96b7d9c32ffb640d"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://abitofsweetandcolor.com/wp-content/uploads/2014/02/photo-4-21.jpg",
+    "key": "000000201",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 2066,
+    "original_height": 2066,
+    "exif": "{\"Image ImageDescription\": \"Processed with VSCOcam with 4 preset\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"VSCOcam\", \"Image DateTime\": \"2013:10:30 20:05:52\", \"Image Copyright\": \"Copyright 2014. All rights reserved.\", \"Image ExifOffset\": \"282\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:10:30 20:05:52\", \"EXIF DateTimeDigitized\": \"2013:10:30 20:05:52\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2779/643\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"2481/1169\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2066\", \"EXIF ExifImageLength\": \"2066\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "fa15ad56db398241f65ffbedfb0b11d4bff777e078a2d4ff1a364246cc8ac59a"
+}

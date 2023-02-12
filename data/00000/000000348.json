@@ -1,0 +1,12 @@
+{
+    "url": "http://blog-imgs-44.fc2.com/t/o/k/tokohaitonoenanoe/20120715183103bd1.jpg",
+    "key": "000000348",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 240,
+    "original_height": 400,
+    "exif": "{\"Image ImageDescription\": \"120715_1212~01\", \"Image Make\": \"KDDI-KC\", \"Image Model\": \"K004\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"256\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"EXIF ExposureTime\": \"1/432\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:07:15 12:12:04\", \"EXIF DateTimeDigitized\": \"2012:07:15 12:12:04\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"240\", \"EXIF ExifImageLength\": \"400\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "ea29190069bb03ee2e20f6ca47673542351db1c06bc793a4a1ab998584853a25"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.mistoproprirodu.cz/wp-content/uploads/2021/05/stare-stromy-Hranicky_nahled.jpg",
+    "key": "000003746",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 100,
+    "original_height": 100,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-FZ200\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Ver.1.0\", \"Image DateTime\": \"2019:05:13 09:50:29\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2268\", \"Image SensitivityType\": \"Standard Output Sensitivity\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D2\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Tag 0xC6D3\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:05:13 09:50:29\", \"EXIF DateTimeDigitized\": \"2019:05:13 09:50:29\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"-33/100\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"9/2\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2560\", \"EXIF ExifImageLength\": \"1920\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"14690\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"25\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Soft\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4180\"}",
+    "sha256": "a74045811c533f0658c11bf6de90a97645874edd863e88e998b85ba743e08fc4"
+}

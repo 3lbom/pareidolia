@@ -1,0 +1,12 @@
+{
+    "url": "http://1ggy.com/upload/20180118/6554523eb6de543a8e394f1fa08e70eb.jpg",
+    "key": "000000064",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 625,
+    "original_height": 625,
+    "exif": "{\"Image ImageWidth\": \"2976\", \"Image ImageLength\": \"3968\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image ImageDescription\": \"edf\", \"Image Make\": \"HUAWEI\", \"Image Model\": \"FRD-AL00\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"FRD-AL00C00B160\", \"Image DateTime\": \"2016:11:05 15:04:53\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"282\", \"GPS GPSTimeStamp\": \"[7, 4, 52]\", \"GPS GPSDate\": \"2016:11:05\", \"Image GPSInfo\": \"926\", \"Image DeviceSettingDescription\": \"[0, 0, 0, 0]\", \"EXIF DocumentName\": \"[]\", \"EXIF ExposureTime\": \"121/31250\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:11:05 15:04:53\", \"EXIF DateTimeDigitized\": \"2016:11:05 15:04:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"298973/10000\", \"EXIF ApertureValue\": \"4\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Daylight\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"9/2\", \"EXIF SubSecTime\": \"677001\", \"EXIF SubSecTimeOriginal\": \"677001\", \"EXIF SubSecTimeDigitized\": \"677001\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2976\", \"EXIF ExifImageLength\": \"3968\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"896\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "8a91486c839fd3489510917dced619e1c0c224be3e9aa5dab075b381848a7548"
+}

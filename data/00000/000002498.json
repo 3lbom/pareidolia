@@ -1,0 +1,12 @@
+{
+    "url": "http://portalvhds26k4f5tktj3ck.blob.core.windows.net/spotpics/sp37423.jpg",
+    "key": "000002498",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 640,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"640\"}",
+    "sha256": "abfe41e21ede15ec033a0d17f023ff0a13c67e91e142840cc37674a785a68008"
+}

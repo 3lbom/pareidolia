@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn141.picsart.com/353514632005201.jpg?to=crop&r=256",
+    "key": "000006944",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 256,
+    "original_height": 255,
+    "exif": "{\"Image ImageWidth\": \"3383\", \"Image ImageLength\": \"2911\", \"Image Make\": \"OLYMPUS CORPORATION\", \"Image Model\": \"E-M1MarkII\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PicsArt\", \"Image DateTime\": \"2021:03:15 15:29:04\", \"Image Artist\": \"\", \"Image ExifOffset\": \"244\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"71/10\", \"EXIF ISOSpeedRatings\": \"640\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:03:15 15:29:04\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"8\", \"EXIF FocalLength\": \"140\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"256\", \"EXIF ExifImageLength\": \"255\", \"EXIF WhiteBalance\": \"Auto\"}",
+    "sha256": "58bad3d9bae30b18bbdab884f1e0589b2757e052a585e0945a38489165865ffa"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.michaelmichail.com/wp-content/uploads/2013/09/Stone.jpg",
+    "key": "000003729",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon DIGITAL IXUS v\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2006:11:06 19:58:58\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"220\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1014\", \"Thumbnail JPEGInterchangeFormatLength\": \"4560\", \"EXIF ExposureTime\": \"1/250\", \"EXIF FNumber\": \"14/5\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2006:10:10 13:08:35\", \"EXIF DateTimeDigitized\": \"2006:10:10 13:08:35\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"255/32\", \"EXIF ApertureValue\": \"95/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"97349/32768\", \"EXIF SubjectDistance\": \"23/40\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"173/32\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"300\", \"EXIF ExifImageLength\": \"400\", \"EXIF FocalPlaneXResolution\": \"800000/103\", \"EXIF FocalPlaneYResolution\": \"240000/31\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\"}",
+    "sha256": "b7088666d13ae91b8dd27b9435f3597e9842914ec462f9e456b67c6500d93305"
+}

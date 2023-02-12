@@ -1,0 +1,12 @@
+{
+    "url": "http://www.dolcevitatravelmagazine.com/wp-content/uploads/2019/02/IMG_9375-e1549478018825-720x960.jpg",
+    "key": "000003481",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 720,
+    "original_height": 960,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s Plus\", \"Image Orientation\": \"Rotated 90 CW\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"11.4.1\", \"Image DateTime\": \"2019:01:28 12:12:28\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"212\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[15, 38, 53/20]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[61, 28, 991/20]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"2888/277\", \"GPS GPSTimeStamp\": \"[16, 12, 18]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"51166/213\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"51166/213\", \"GPS GPSDate\": \"2019:01:28\", \"GPS Tag 0x001F\": \"5005\", \"Image GPSInfo\": \"1734\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:01:28 12:12:28\", \"EXIF DateTimeDigitized\": \"2019:01:28 12:12:28\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"13061/3343\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"1555/946\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"648\", \"EXIF SubSecTimeDigitized\": \"648\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6s Plus back camera 4.15mm f/2.2\"}",
+    "sha256": "6e16f893439e8018e703ae401178fb9073ef7c759789a21a42e108eee4f86636"
+}

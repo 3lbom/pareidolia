@@ -1,0 +1,12 @@
+{
+    "url": "http://www.garazskapu-budapest.hu/kepek/referenciak/garazskapu_dunaharaszti_szent_laszlo_4.jpg",
+    "key": "000003558",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 930,
+    "original_height": 698,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2012:02:20 06:06:13\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"109\", \"EXIF ExifImageWidth\": \"930\", \"EXIF ExifImageLength\": \"698\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "e71f2d896552e050d97e15eb34ba6aee22ceaa5390ae336ec0bdffb2cae70ae9"
+}

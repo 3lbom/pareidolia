@@ -1,0 +1,12 @@
+{
+    "url": "https://api.tmb.pixelpoint.biz/api/asset/113638/thumbnail/593/365.jpg",
+    "key": "000004789",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 593,
+    "original_height": 364,
+    "exif": "{}",
+    "sha256": "3dfb5c16ca9717e13dd12c1d45fb1436e96fd2e4691914a9df02155c336e6aaa"
+}

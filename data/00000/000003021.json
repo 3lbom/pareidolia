@@ -1,0 +1,12 @@
+{
+    "url": "http://telezbyszek44.pl/images/JURA/Bobolice/DSC09000.jpg",
+    "key": "000003021",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 415,
+    "exif": "{\"Image ImageDescription\": \"SONY DSC\", \"Image Make\": \"SONY\", \"Image Model\": \"DSLR-A200\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2014:02:28 14:37:14\", \"Image Artist\": \"Picasa\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"378\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1122\", \"Thumbnail JPEGInterchangeFormatLength\": \"4819\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:02:18 12:49:52\", \"EXIF DateTimeDigitized\": \"2014:02:18 12:49:52\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"8\", \"EXIF BrightnessValue\": \"837/100\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"116/25\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode\", \"EXIF FocalLength\": \"30\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"415\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3872\", \"Interoperability RelatedImageLength\": \"2592\", \"EXIF InteroperabilityOffset\": \"974\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"45\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF ImageUniqueID\": \"f7cb4ea2c9e6a891d28a9f2fefb09cf7\"}",
+    "sha256": "15586a5473b52fe79d9dc3d4407881fc8d8dfd493eed254e178be13007eb9869"
+}

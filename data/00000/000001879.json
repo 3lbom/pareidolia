@@ -1,0 +1,12 @@
+{
+    "url": "http://kochloeffel.sinnreichleben.de/wp-content/uploads/2017/04/Palme-640x350.jpg",
+    "key": "000001879",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 350,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"7.1.2\", \"Image DateTime\": \"2015:01:26 13:41:52\", \"Image ExifOffset\": \"168\", \"EXIF ExposureTime\": \"1/120\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:01:26 13:41:52\", \"EXIF DateTimeDigitized\": \"2015:01:26 13:41:52\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"12989/1880\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"1921/329\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[1295, 967, 699, 696]\", \"EXIF SubSecTimeOriginal\": \"514\", \"EXIF SubSecTimeDigitized\": \"514\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"478\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[77/20, 77/20, 14/5, 14/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 4 back camera 3.85mm f/2.8\"}",
+    "sha256": "037f778f555eb359308072a33a80141dad0e174186712d9ce7cb7ec2b76aba02"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://metallodetektor.com.ua/newimg/DCFC00161.jpg",
+    "key": "000002180",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageDescription\": \"DCFC0016.JPG\", \"Image Make\": \"Polaroid\", \"Image Model\": \"izone550\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"IZONE550 34N2\", \"Image DateTime\": \"2008:02:28 12:36:54\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"146\", \"EXIF ExposureTime\": \"5/332\", \"EXIF FNumber\": \"37/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:02:28 12:36:38\", \"EXIF DateTimeDigitized\": \"2008:02:28 12:36:38\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"727/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"428\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "35747e1ac79087b2e4de88acf89a9d56bc498fd9d2edcd32c9135ff8a62a3320"
+}

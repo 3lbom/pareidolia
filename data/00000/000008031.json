@@ -1,0 +1,12 @@
+{
+    "url": "https://d1t35hkz8sx2bl.cloudfront.net/api/file/NXe83KqQSIG17KYwY9Go?cache=true",
+    "key": "000008031",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 2801,
+    "original_height": 2101,
+    "exif": "{\"Image Make\": \"Apple + Pro HDR\", \"Image Model\": \"iPhone\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Snapseed 1.5.2\", \"Image DateTime\": \"2013:06:15 10:54:29\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"210\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[53, 393/25, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[1, 1201/100, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"68925/817\", \"GPS GPSTimeStamp\": \"[9, 54, 29]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"0\", \"Image GPSInfo\": \"600\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"896\", \"Thumbnail JPEGInterchangeFormatLength\": \"12351\", \"EXIF ExposureTime\": \"1/206\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:06:15 10:54:29\", \"EXIF DateTimeDigitized\": \"2013:06:15 10:54:29\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2698/351\", \"EXIF ApertureValue\": \"4312/1707\", \"EXIF BrightnessValue\": \"6698/1027\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"413/100\", \"EXIF SubjectArea\": \"[1594, 265, 610, 531]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2801\", \"EXIF ExifImageLength\": \"2101\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "8c7e06691dcb638cbd2ceecb0f4644cdfc94755dc54edf8aebbec003640b069c"
+}

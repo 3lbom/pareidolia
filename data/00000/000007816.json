@@ -1,0 +1,12 @@
+{
+    "url": "https://connectingmindsnetwork.com/wp-content/uploads/2013/04/Smiles.jpg",
+    "key": "000007816",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1600,
+    "original_height": 2400,
+    "exif": "{\"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Macintosh\", \"Image DateTime\": \"2013:04:11 08:49:49\", \"Image ExifOffset\": \"152\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeDigitized\": \"2013:04:10 09:37:01\"}",
+    "sha256": "947922bbdd58055d2eb7703bf628ec03048024047cd015d92f5dc4a9a69c26d1"
+}

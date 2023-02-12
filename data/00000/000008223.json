@@ -1,0 +1,12 @@
+{
+    "url": "https://daqui.de/dateien/2019/03/Sasa-Safari-Camp4.jpg",
+    "key": "000008223",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 800,
+    "exif": "{\"Image XResolution\": \"200\", \"Image YResolution\": \"200\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Copyright\": \"Sigrid Iding\", \"Image ExifOffset\": \"104\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\"}",
+    "sha256": "64c1cd09720022d61a5abd8c718e9bb578e101370212127cbdd503a7c8b49cba"
+}

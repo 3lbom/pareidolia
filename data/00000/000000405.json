@@ -1,0 +1,12 @@
+{
+    "url": "http://blogdozack.com.br/wp-content/uploads/2017/05/IMG_0149-Canon-EOS-M5-EF-S18-135mm-f-3.5-5.6-IS-USM-1-800-sec-at-f-7.1-ISO-100-135-mmdetail.jpg",
+    "key": "000000405",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 870,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS M5\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.8 (Macintosh)\", \"Image DateTime\": \"2017-05-09T20:02:16-03:00\", \"Image ExifOffset\": \"216\", \"EXIF ExposureTime\": \"1/800\", \"EXIF FNumber\": \"71/10\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:03:09 11:56:52\", \"EXIF DateTimeDigitized\": \"2017:03:09 11:56:52\", \"EXIF ShutterSpeedValue\": \"602741/62500\", \"EXIF ApertureValue\": \"2827819/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"159/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"135\", \"EXIF SubSecTimeOriginal\": \"89\", \"EXIF SubSecTimeDigitized\": \"89\", \"EXIF ExifImageWidth\": \"870\", \"EXIF ExifImageLength\": \"600\", \"EXIF FocalPlaneXResolution\": \"88104193/32768\", \"EXIF FocalPlaneYResolution\": \"88104193/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "a451ca0aae4c2238359d2605a85b0fc9f6960d61d77949e8c2939020297bc4cb"
+}

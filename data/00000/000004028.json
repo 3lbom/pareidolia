@@ -1,0 +1,12 @@
+{
+    "url": "http://www.uuliaoning.com/uploads/allimg/140711/1-140G1054607.jpg",
+    "key": "000004028",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 870,
+    "original_height": 500,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2015:03:27 15:12:30\", \"Image ExifOffset\": \"164\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"302\", \"Thumbnail JPEGInterchangeFormatLength\": \"3896\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"870\", \"EXIF ExifImageLength\": \"500\"}",
+    "sha256": "7e3e4fd32cee17d94aa090b882d1ed6d5bac154c5f3803284302a38c41baf2ad"
+}

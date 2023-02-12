@@ -1,0 +1,12 @@
+{
+    "url": "http://www.the-gluten-free-diet.com/images/organic-fruit.jpg",
+    "key": "000003982",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 436,
+    "original_height": 325,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4\", \"Image Software\": \"5.1\", \"Image DateTime\": \"2012:04:23 08:07:54\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"134\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[27, 1099/20, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[80, 718/25, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"6881/1186\", \"GPS GPSTimeStamp\": \"[12, 7, 1344/25]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"72479/219\", \"Image GPSInfo\": \"524\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:04:23 08:07:54\", \"EXIF DateTimeDigitized\": \"2012:04:23 08:07:54\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"4889/1250\", \"EXIF ApertureValue\": \"4281/1441\", \"EXIF BrightnessValue\": \"781/320\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"77/20\", \"EXIF SubjectArea\": \"[1295, 967, 699, 696]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2592\", \"EXIF ExifImageLength\": \"1936\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Hard\"}",
+    "sha256": "391d880a5b2eb6083a8eb565496ab3c0d15e4390cf7da0def7ef9eaf6ef3fec4"
+}

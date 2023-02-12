@@ -1,0 +1,12 @@
+{
+    "url": "http://www.richieunterberger.com/wordpress/wp-content/uploads/2014/08/RockFormation2-300x225.jpg",
+    "key": "000003891",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 300,
+    "original_height": 225,
+    "exif": "{\"Image Make\": \"FUJIFILM\", \"Image Model\": \"FinePix J10\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Digital Camera FinePix J10 Ver1.00\", \"Image DateTime\": \"2011:11:04 01:43:02\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"234\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"26/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:11:04 01:43:02\", \"EXIF DateTimeDigitized\": \"2011:11:04 01:43:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ShutterSpeedValue\": \"174/25\", \"EXIF ApertureValue\": \"4757/1000\", \"EXIF BrightnessValue\": \"64/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"297/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"93/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2952\", \"EXIF ExifImageLength\": \"2214\", \"EXIF FocalPlaneXResolution\": \"5712\", \"EXIF FocalPlaneYResolution\": \"5712\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "3721ce17d90db852340842fac71f45ba2c90c1fa9e3e719d25705b9cfa23e8cc"
+}

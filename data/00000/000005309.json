@@ -1,0 +1,12 @@
+{
+    "url": "https://blogdaglacy.com/wp-content/uploads/2011/09/DSC_1531.JPG",
+    "key": "000005309",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 448,
+    "original_height": 298,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D5000\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Ver.1.00\", \"Image DateTime\": \"2011:09:24 14:19:21\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"2254\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"38354\", \"Image XPComment\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image Padding\": \"[]\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:09:24 14:19:21\", \"EXIF DateTimeDigitized\": \"2011:09:24 14:19:21\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, auto mode, return light detected\", \"EXIF FocalLength\": \"70\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4288\", \"EXIF ExifImageLength\": \"2848\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"38316\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"105\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF Padding\": \"[]\", \"EXIF OffsetSchema\": \"4156\"}",
+    "sha256": "3991ef554d2c78cfa90cf08a832c9457a1855ec95f2d7c04208207334c84e584"
+}

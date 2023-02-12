@@ -1,0 +1,12 @@
+{
+    "url": "https://arabianmama.ru/wp-content/uploads/2021/08/20190916_093315-800x445.jpg",
+    "key": "000004852",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 445,
+    "exif": "{\"Image ImageWidth\": \"5312\", \"Image ImageLength\": \"2988\", \"Image Make\": \"samsung\", \"Image Model\": \"SM-N910C\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"N910CXXS2DRL1\", \"Image DateTime\": \"2019:09:16 09:33:15\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"226\", \"Thumbnail ImageWidth\": \"512\", \"Thumbnail ImageLength\": \"288\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"928\", \"Thumbnail JPEGInterchangeFormatLength\": \"8494\", \"EXIF ExposureTime\": \"1/33\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:09:16 09:33:15\", \"EXIF DateTimeDigitized\": \"2019:09:16 09:33:15\", \"EXIF ShutterSpeedValue\": \"253/50\", \"EXIF ApertureValue\": \"227/100\", \"EXIF BrightnessValue\": \"53/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"227/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"24/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"5312\", \"EXIF ExifImageLength\": \"2988\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"H16LSHA00SM H16LSIG01SA\"}",
+    "sha256": "7f3245a139d604881f030e7794db08d89f6995f3bc3f8231c46fa864b630a09d"
+}

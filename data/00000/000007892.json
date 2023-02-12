@@ -1,0 +1,12 @@
+{
+    "url": "https://cp1.douguo.com/upload/note/9/c/4/320_9c6ff98b1b0eb4adcb9a1d5430f8eb54.jpeg",
+    "key": "000007892",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 320,
+    "original_height": 332,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"320\", \"EXIF ExifImageLength\": \"332\"}",
+    "sha256": "e10c9f2b22a4e0d2c41c2daf29f03704198082f4c31823d7a5971a033b957381"
+}

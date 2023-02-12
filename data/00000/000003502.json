@@ -1,0 +1,12 @@
+{
+    "url": "http://www.erdekesvilag.hu/kepek/elefantszikla/5.jpg",
+    "key": "000003502",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 645,
+    "original_height": 860,
+    "exif": "{\"Image ImageWidth\": \"1944\", \"Image ImageLength\": \"2592\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Windows)\", \"Image DateTime\": \"2014:10:01 12:35:13\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"7313\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"645\", \"EXIF ExifImageLength\": \"860\"}",
+    "sha256": "58450e5b6dd48102ffa677f2138aaed6af81ae417c7442e6b50897b022eb1eef"
+}

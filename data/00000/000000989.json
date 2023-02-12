@@ -1,0 +1,12 @@
+{
+    "url": "http://howtoparenttoday.com/wp-content/uploads/2014/08/Mid-Sussex-20140802-01828-e1407266780871.jpg",
+    "key": "000000989",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 1024,
+    "exif": "{\"Image Make\": \"\", \"Image Model\": \"\", \"Image Orientation\": \"Rotated 90 CW\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Rim Exif Version1.00a\", \"Image DateTime\": \"\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"184\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[50, 57677/1000, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[0, 1501/200, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"0\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0/0\", \"GPS GPSTrackRef\": \"T\", \"GPS GPSTrack\": \"0/0\", \"Image GPSInfo\": \"350\", \"EXIF ExposureTime\": \"0\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF SubjectDistance\": \"0\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"No flash function\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1024\", \"EXIF ExifImageLength\": \"768\", \"EXIF DeviceSettingDescription\": \"[]\"}",
+    "sha256": "ba20c42ba98e04ff72476d14dfd7f874c2be94311427ae1d3e40e7dc7b1060b9"
+}

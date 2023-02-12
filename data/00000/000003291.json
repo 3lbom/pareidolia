@@ -1,0 +1,12 @@
+{
+    "url": "http://voiceoflisabrandt.com/wp-content/uploads/2017/10/a-photo-with-a-peel.jpg",
+    "key": "000003291",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 552,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"11.0.2\", \"Image DateTime\": \"2017:10:28 08:59:53\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"194\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[42, 57, 39/5]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[81, 19, 1043/20]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"66461/258\", \"GPS GPSTimeStamp\": \"[12, 59, 46]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"M\", \"GPS GPSImgDirection\": \"18269/1365\", \"GPS GPSDestBearingRef\": \"M\", \"GPS GPSDestBearing\": \"18269/1365\", \"GPS GPSDate\": \"2017:10:28\", \"GPS Tag 0x001F\": \"65\", \"Image GPSInfo\": \"1634\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:28 08:59:53\", \"EXIF DateTimeDigitized\": \"2017:10:28 08:59:53\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2270/581\", \"EXIF ApertureValue\": \"7801/3429\", \"EXIF BrightnessValue\": \"-3543/2900\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"121\", \"EXIF SubSecTimeDigitized\": \"121\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2148\", \"EXIF ExifImageLength\": \"1848\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\"}",
+    "sha256": "a64a618ae575d9b832c1ba3b18f6a8deeccb245f9118320d46a5c5e66dfc755c"
+}

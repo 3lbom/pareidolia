@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.imgbb.ru/bazar/201/2015317/201907/de36f95f74d0a6b624accb4962b15716.jpg",
+    "key": "000006053",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 800,
+    "exif": "{\"Image ImageWidth\": \"600\", \"Image Model\": \"SM-A520F\", \"Image ImageLength\": \"800\", \"Image Make\": \"samsung\", \"Image ExifOffset\": \"103\", \"Image Orientation\": \"0\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLength\": \"18/5\", \"EXIF ExposureTime\": \"303/10000\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF LightSource\": \"Unknown\", \"EXIF FNumber\": \"19/10\"}",
+    "sha256": "087a1907b773fde34dec43cd4c9eccff3432b0468d666559a6c8e8b0c0882124"
+}

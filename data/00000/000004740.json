@@ -1,0 +1,12 @@
+{
+    "url": "https://aminus3.s3.amazonaws.com/image/g0025/u00024242/i01184131/470df13e758b2fea0ab3ac700aed76e8_large.jpg",
+    "key": "000004740",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 642,
+    "original_height": 840,
+    "exif": "{\"Image Make\": \"CASIO COMPUTER CO.,LTD.\", \"Image Model\": \"EX-Z60\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"1.00\", \"Image DateTime\": \"2011:05:11 13:20:36\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"270\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"33688\", \"Thumbnail JPEGInterchangeFormatLength\": \"8063\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:05:11 13:20:36\", \"EXIF DateTimeDigitized\": \"2011:05:11 13:20:36\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"1000/363\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"33/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"1449/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"602\", \"EXIF ExifImageLength\": \"800\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"2816\", \"Interoperability RelatedImageLength\": \"2112\", \"EXIF InteroperabilityOffset\": \"33540\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0/0\", \"EXIF FocalLengthIn35mmFilm\": \"87\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF ImageUniqueID\": \"90099375b5c0ccf0f69812808e305e64\"}",
+    "sha256": "cf990b0e9cbe170ba2d56d2e24d9ba2998b5f75b67aa78eb042fc963fd49d306"
+}

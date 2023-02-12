@@ -1,0 +1,12 @@
+{
+    "url": "https://autaprozeny.cz/wp-content/uploads/2018/11/Ford-EcoSport-osv%C4%9Btlen%C3%AD-500x500.jpg",
+    "key": "000005083",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 500,
+    "exif": "{\"Image Model\": \"Nokia 6.1\", \"Image Orientation\": \"Horizontal (normal)\", \"Image DateTime\": \"2018:09:24 09:37:41\", \"Image ExifOffset\": \"104\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[50, 6, 2933/50]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[14, 29, 391/10]\", \"GPS GPSAltitude\": \"314\", \"GPS GPSTimeStamp\": \"[7, 37, 42]\", \"GPS GPSDate\": \"2018:09:24\", \"Image GPSInfo\": \"432\", \"Thumbnail JPEGInterchangeFormat\": \"644\", \"Thumbnail JPEGInterchangeFormatLength\": \"24185\", \"EXIF ExposureTime\": \"29/1000\", \"EXIF FNumber\": \"2\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018-11-12 14:07:37\", \"EXIF DateTimeDigitized\": \"2018:09:24 09:37:41\", \"EXIF ApertureValue\": \"2\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"357/100\", \"EXIF SubSecTime\": \"850\", \"EXIF SubSecTimeOriginal\": \"850\", \"EXIF SubSecTimeDigitized\": \"850\", \"EXIF WhiteBalance\": \"Auto\"}",
+    "sha256": "812a090cb18c6b6dfda7b71b0b0f2558c58c58a30140dd344d899aad6848fbfc"
+}

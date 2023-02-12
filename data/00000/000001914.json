@@ -1,0 +1,12 @@
+{
+    "url": "http://leftovers.recipes/wp-content/uploads/2017/05/sweetpotatotwicebaked4.jpg",
+    "key": "000001914",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1280,
+    "original_height": 960,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 7\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photos 1.5\", \"Image DateTime\": \"2017:05:23 19:38:45\", \"Image ExifOffset\": \"186\", \"EXIF ExposureTime\": \"1/182\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"20\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:05:23 19:38:45\", \"EXIF DateTimeDigitized\": \"2017:05:23 19:38:45\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5578/743\", \"EXIF ApertureValue\": \"2159/1273\", \"EXIF BrightnessValue\": \"13275/1984\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2424, 1403, 753, 756]\", \"EXIF SubSecTimeOriginal\": \"324\", \"EXIF SubSecTimeDigitized\": \"324\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"960\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"4\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[399/100, 399/100, 9/5, 9/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 7 back camera 3.99mm f/1.8\"}",
+    "sha256": "248e35f161d297dad2f173e172578614156bc0e0425c7f7db9e7e11a064694d2"
+}

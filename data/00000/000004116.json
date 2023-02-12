@@ -1,0 +1,12 @@
+{
+    "url": "http://yoshio-niikura.cocolog-nifty.com/photos/uncategorized/2015/10/28/otokoiwa_03.jpg",
+    "key": "000004116",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 420,
+    "original_height": 318,
+    "exif": "{\"Image ImageWidth\": \"420\", \"Image ImageLength\": \"318\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Orientation\": \"Horizontal (normal)\", \"Image YCbCrSubSampling\": \"2\", \"Image DateTime\": \"2016:10:14 12:37:59\", \"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-GH2\", \"Image Software\": \"PaintShop Pro 15.00\", \"Image InterColorProfile\": \"[]\", \"Image ExifOffset\": \"170\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4000\", \"Thumbnail JPEGInterchangeFormatLength\": \"11056\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExifImageWidth\": \"420\", \"EXIF ExifImageLength\": \"318\", \"EXIF DateTimeOriginal\": \"2016:10:14 12:37:59\", \"EXIF DateTimeDigitized\": \"2016:10:14 12:37:59\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"1273/256\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"41\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"82\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\"}",
+    "sha256": "e469553292898b2ce705ea0c13335551d30057b7216d9dd483e6d9ac597593d5"
+}

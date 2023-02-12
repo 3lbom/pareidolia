@@ -1,0 +1,12 @@
+{
+    "url": "http://news.bbcimg.co.uk/media/images/55389000/jpg/_55389615_pear_slice-spl-1.jpg",
+    "key": "000002261",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 224,
+    "original_height": 299,
+    "exif": "{\"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\"}",
+    "sha256": "4b45fc065b71887130738c6dd536e26c7cd8e971f175467719f086b366985eb1"
+}

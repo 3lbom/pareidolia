@@ -1,0 +1,12 @@
+{
+    "url": "https://bau-zander.de/wp-content/uploads/2017/03/EFH-Neubau-896x445.jpg",
+    "key": "000005166",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 896,
+    "original_height": 445,
+    "exif": "{\"Image Make\": \"HP\", \"Image Model\": \"HP pst_p02e\", \"Image Software\": \"Microsoft Windows Photo Viewer 6.1.7600.16385\", \"Image DateTime\": \"2017:03:10 12:56:37\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ReferenceBlackWhite\": \"[0, 255, 128, 255, 128, 255]\", \"Image ExifOffset\": \"2308\", \"GPS GPSDOP\": \"Windows Photo Editor 10.0.10011.16384\", \"Image GPSInfo\": \"2990\", \"Image Padding\": \"[]\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:05:31 15:38:27\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1194\", \"EXIF ExifImageLength\": \"733\", \"EXIF Saturation\": \"Soft\", \"EXIF Sharpness\": \"Soft\", \"EXIF DeviceSettingDescription\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\"}",
+    "sha256": "f0fe67ff904659f014e4576aaf58a8ea139850eb08db38f3a6db958291773b73"
+}

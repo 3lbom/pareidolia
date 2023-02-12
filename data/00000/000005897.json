@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.acidcow.com/pics/20130207/the_internet_has_brought_us_these_great_things_05.jpg",
+    "key": "000005897",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 599,
+    "original_height": 600,
+    "exif": "{\"Image ImageWidth\": \"620\", \"Image ImageLength\": \"621\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2013:02:06 17:17:17\", \"Image ExifOffset\": \"228\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"378\", \"Thumbnail JPEGInterchangeFormatLength\": \"4919\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"641\"}",
+    "sha256": "5a073296cc641989e979444de001a84b1b9634be7b14096d222b82200bc6e066"
+}

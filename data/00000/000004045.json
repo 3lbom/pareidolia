@@ -1,0 +1,12 @@
+{
+    "url": "http://www.weirdomatic.com/wp-content/pictures/2007/01/tangerine_little_man_07.jpg",
+    "key": "000004045",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 375,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"ACD Systems Digital Imaging\", \"Image DateTime\": \"2007:01:30 23:35:34\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"122\", \"EXIF ExifVersion\": \"\", \"EXIF SubSecTime\": \"203\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"375\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"188\"}",
+    "sha256": "a0aaec71f6285c1eb2e748c55eb27a6875842f9d6e012a3c285643448d1a23f0"
+}

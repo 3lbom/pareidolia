@@ -1,0 +1,12 @@
+{
+    "url": "http://www.sinpasartedelaraya.com/wp-content/uploads/2013/04/sinpasarte-streetart-madrid-lavapies-4.jpg",
+    "key": "000003929",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 610,
+    "original_height": 458,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"QuickTime 7.7.1\", \"Image DateTime\": \"2013:04:21 11:08:18\", \"Image ExifOffset\": \"190\", \"EXIF ExposureTime\": \"1/120\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:04:20 18:00:05\", \"EXIF DateTimeDigitized\": \"2013:04:20 18:00:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5567/806\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"4130/743\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"610\", \"EXIF ExifImageLength\": \"458\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "8392e70480d64e23cd61a34ebdc9774b45d07a1140473f2f9ae98770a159c05c"
+}

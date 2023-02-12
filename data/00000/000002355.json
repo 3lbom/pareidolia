@@ -1,0 +1,12 @@
+{
+    "url": "http://p2.cri.cn/M00/05/24/CqgNOlTUYWOAaBZJAAAAAAAAAAA943.800x425.640x340.jpg",
+    "key": "000002355",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 340,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2015:02:06 14:29:26\", \"Image ExifOffset\": \"156\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"294\", \"Thumbnail JPEGInterchangeFormatLength\": \"3024\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"425\"}",
+    "sha256": "8fb6582e21c223a4f113d6d9bf2a0b09282e4ad318e16019ffde90db3c53e7af"
+}

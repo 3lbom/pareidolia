@@ -1,0 +1,12 @@
+{
+    "url": "http://www.qiyiguo.org/pic/dh510.jpg",
+    "key": "000003871",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"Xiaomi\", \"Image Model\": \"MI 5\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"gemini-user 6.0.1 MXB48T V8.0.10.0.MAACNDH release-keys\", \"Image DateTime\": \"2016:09:22 13:04:34\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"240\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[30, 15, 21933/400]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[103, 22, 225123/5000]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"532\", \"GPS GPSTimeStamp\": \"[4, 54, 47]\", \"GPS GPSProcessingMethod\": \"ASCII\", \"GPS GPSDate\": \"2016:09:22\", \"Image GPSInfo\": \"724\", \"EXIF ExposureTime\": \"1/151\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:09:22 13:04:34\", \"EXIF DateTimeDigitized\": \"2016:09:22 13:04:34\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"3621/500\", \"EXIF ApertureValue\": \"2\", \"EXIF BrightnessValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4263/1000\", \"EXIF SubSecTime\": \"611848\", \"EXIF SubSecTimeOriginal\": \"611848\", \"EXIF SubSecTimeDigitized\": \"611848\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4608\", \"EXIF ExifImageLength\": \"3456\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"694\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "0adef8a77f7bd6aa71d3ede845eff48a0e891b82a29d421c555b488bdac43b5a"
+}

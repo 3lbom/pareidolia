@@ -1,0 +1,12 @@
+{
+    "url": "http://solarey.net/wp-content/uploads/2015/04/Lady-of-Mali-31.jpg",
+    "key": "000002829",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 534,
+    "original_height": 773,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 6.3.9600.17418\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Windows Photo Editor 6.3.9600.17418\", \"Image DateTime\": \"2015:07:19 01:08:38\", \"Image ExifOffset\": \"2238\", \"Image Padding\": \"[]\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "4a8b72c20a86390e7029c995624a3b28adc5f17360cec46fe8762cbfa69cd569"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://down3.laifudao.com/images/tupian/201342705152.jpg",
+    "key": "000000727",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 230,
+    "original_height": 151,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"b'ACD Systems \\\\xca\\\\xfd\\\\xc2\\\\xeb\\\\xb3\\\\xc9\\\\xcf\\\\xf1'\", \"Image DateTime\": \"2013:04:27 09:44:00\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"167\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"263\", \"Thumbnail JPEGInterchangeFormatLength\": \"9713\", \"EXIF SubSecTime\": \"461\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"230\", \"EXIF ExifImageLength\": \"151\"}",
+    "sha256": "2af26599ddd9feb441299a6b52e8e1aa25ee4e18e955c25b2045277a9876dccd"
+}

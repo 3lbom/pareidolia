@@ -1,0 +1,12 @@
+{
+    "url": "https://files.machinavi.jp/img/575d44d0623dff265b0bfa6b30c42818.jpg",
+    "key": "000009201",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1280,
+    "original_height": 1570,
+    "exif": "{\"Image ImageWidth\": \"3024\", \"Image ImageLength\": \"4032\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Macintosh)\", \"Image DateTime\": \"2019:12:26 12:25:00\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"9023\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"1570\"}",
+    "sha256": "7fc8039b3992b374e789d7497c70081424fd5f99d17ba0df0a56d579a823aa49"
+}

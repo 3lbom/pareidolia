@@ -1,0 +1,12 @@
+{
+    "url": "https://blog.giallozafferano.it/ritaamordicucina/wp-content/uploads/2021/09/FB_IMG_1629794260288.jpg",
+    "key": "000005289",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 583,
+    "original_height": 542,
+    "exif": "{\"Image Tag 0x000B\": \"Windows Photo Editor 10.0.10011.16384\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Windows Photo Editor 10.0.10011.16384\", \"Image DateTime\": \"2021:08:25 10:37:33\", \"Image YCbCrSubSampling\": \"[2, 2]\", \"Image ExifOffset\": \"2254\", \"Image Padding\": \"[]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4640\", \"Thumbnail JPEGInterchangeFormatLength\": \"12699\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2021:08:24 08:37:40\", \"EXIF DateTimeDigitized\": \"2021:08:24 08:37:40\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"659\", \"EXIF ExifImageLength\": \"707\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"4492\", \"EXIF ImageUniqueID\": \"dc62e2755f0d0c490000000000000000\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "7549bf3065b6e9f301153b21bd190107729bf549347e2e66f8a410887b45e045"
+}

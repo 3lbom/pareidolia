@@ -1,0 +1,12 @@
+{
+    "url": "https://as2.ftcdn.net/jpg/00/34/37/21/500_F_34372136_vfAV9P0u5JsBHd5rUYXafCqGs0VQAYYw.jpg",
+    "key": "000004922",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 500,
+    "original_height": 333,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "7a7f222b0e420be6133847c2baf326905ad0265fe02a6eaefab3e14ad2635177"
+}

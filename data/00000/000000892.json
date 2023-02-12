@@ -1,0 +1,12 @@
+{
+    "url": "http://fruitarian.ru/wp-content/uploads/2012/02/Damilag_Cardava2_1024x683-512x341.jpg",
+    "key": "000000892",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 512,
+    "original_height": 341,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"iWatermark Pro\", \"Image ExifOffset\": \"66\", \"EXIF ExifImageWidth\": \"512\", \"EXIF ExifImageLength\": \"341\"}",
+    "sha256": "3ba3ced5da7c7bf58fee7a137b1b8a94a15de3a8ff05688c4878258334b41fb9"
+}

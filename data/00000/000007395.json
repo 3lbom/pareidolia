@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn2.apstatic.com/photos/climb/112892349_medium_1494553919.jpg",
+    "key": "000007395",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 420,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XSi\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2017:04:29 01:11:56\", \"Image WhitePoint\": \"[313/1000, 329/1000]\", \"Image PrimaryChromaticities\": \"[16/25, 33/100, 21/100, 71/100, 3/20, 3/50]\", \"Image YCbCrCoefficients\": \"[299/1000, 587/1000, 57/500]\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"320\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"9792\", \"Thumbnail JPEGInterchangeFormatLength\": \"7206\", \"EXIF ExposureTime\": \"1/25\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:04:29 01:11:56\", \"EXIF DateTimeDigitized\": \"2017:04:29 01:11:56\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"37/8\", \"EXIF ApertureValue\": \"35/8\", \"EXIF ExposureBiasValue\": \"1/3\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTime\": \"98\", \"EXIF SubSecTimeOriginal\": \"98\", \"EXIF SubSecTimeDigitized\": \"98\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1145\", \"EXIF ExifImageLength\": \"1635\", \"Interoperability InteroperabilityIndex\": \"R03\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"9642\", \"EXIF FocalPlaneXResolution\": \"1128000/439\", \"EXIF FocalPlaneYResolution\": \"188000/73\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Gamma\": \"11/5\"}",
+    "sha256": "177caf9ea3469850859b0e567c961f29e8300596092de053eaba9b2799edb2ab"
+}

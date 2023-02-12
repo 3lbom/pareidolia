@@ -1,0 +1,12 @@
+{
+    "url": "http://naturepicoftheday.com/npods/2015/may/balanced_rock_thumb.jpg",
+    "key": "000002255",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 150,
+    "original_height": 182,
+    "exif": "{\"Image Make\": \"Hewlett-Packard\", \"Image Model\": \"HP PhotoSmart C935 (V03.53)\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2015:04:28 21:40:45\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"202\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"788\", \"Thumbnail JPEGInterchangeFormatLength\": \"4143\", \"EXIF ExposureTime\": \"367/50000\", \"EXIF FNumber\": \"9\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:03:15 07:12:23\", \"EXIF DateTimeDigitized\": \"2007:03:15 07:12:23\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"227/32\", \"EXIF ApertureValue\": \"829/128\", \"EXIF BrightnessValue\": \"1211/128\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"D50\", \"EXIF Flash\": \"28\", \"EXIF FocalLength\": \"114/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"150\", \"EXIF ExifImageLength\": \"182\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"664\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "18e3ae521f4149bfb084ed4b0d254a9fd53009f933516939d258a0a156d5cf6a"
+}

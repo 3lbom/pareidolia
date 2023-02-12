@@ -1,0 +1,12 @@
+{
+    "url": "http://tabearuki-concierge.com/wp/wp-content/uploads/2019/05/IMG_7851.jpg",
+    "key": "000003014",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone X\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"12.2\", \"Image DateTime\": \"2019:04:08 19:38:37\", \"Image ExifOffset\": \"192\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[35, 46, 983/25]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[139, 43, 139/20]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"153878/8995\", \"GPS GPSTimeStamp\": \"[10, 38, 34]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"344444/1099\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"344444/1099\", \"GPS GPSDate\": \"2019:04:08\", \"GPS Tag 0x001F\": \"65\", \"Image GPSInfo\": \"1880\", \"EXIF ExposureTime\": \"1/5\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:04:08 19:38:37\", \"EXIF DateTimeDigitized\": \"2019:04:08 19:38:37\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"61250/28039\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"-18171/32750\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"4\", \"EXIF SubjectArea\": \"[2186, 1738, 753, 756]\", \"EXIF SubSecTimeOriginal\": \"172\", \"EXIF SubSecTimeDigitized\": \"172\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[4, 6, 9/5, 12/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone X back dual camera 4mm f/1.8\"}",
+    "sha256": "a1bc73212ce90f2a29571b41bfcc98ad55078f6d1ec42a76493f0ae58e8699d0"
+}

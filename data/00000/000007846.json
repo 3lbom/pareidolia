@@ -1,0 +1,12 @@
+{
+    "url": "https://content.tinytap.it/Game-89_B260D189-7E1F-4A14-8C9A-D203E23B3C54/unzipped%2Fphoto1%2Fphoto1phone.jpg",
+    "key": "000007846",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\"}",
+    "sha256": "d43143492d7da32502ef57f484c4c28594ec4ff35267e569008a5a0524edd8d3"
+}

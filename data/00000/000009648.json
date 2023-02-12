@@ -1,0 +1,12 @@
+{
+    "url": "https://hiphotos.baidu.com/zhidao/pic/item/aec379310a55b319f7086d7446a98226cffc1739.jpg",
+    "key": "000009648",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 584,
+    "original_height": 796,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"584\", \"EXIF ExifImageLength\": \"796\"}",
+    "sha256": "dc50009fa9ecaab5bbc7ccf59ef768b6d7e004dc83b13a25af9ae45ae04d6db4"
+}

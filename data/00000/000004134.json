@@ -1,0 +1,12 @@
+{
+    "url": "http://zp2.douguo.net/upload/dish/1/d/c/600_1d1aaef5e83498f0650da4beca519a8c.jpg",
+    "key": "000004134",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 450,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"450\"}",
+    "sha256": "34962fd94206f67a405d913272461c064c52aa00c4d1acdaff80db696b17f084"
+}

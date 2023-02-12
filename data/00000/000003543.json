@@ -1,0 +1,12 @@
+{
+    "url": "http://www.fotothing.com/photos/364/3643c153452422b67de98e02ee6b314f.jpg",
+    "key": "000003543",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 413,
+    "original_height": 550,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"DSC-P92\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2005:03:05 13:57:54\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"304\", \"Image CustomRendered\": \"Normal\", \"Image ExposureMode\": \"Auto Exposure\", \"Image WhiteBalance\": \"Auto\", \"Image SceneCaptureType\": \"Standard\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail Make\": \"SONY\", \"Thumbnail Model\": \"DSC-P92\", \"Thumbnail Orientation\": \"Horizontal (normal)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail DateTime\": \"2005:03:05 13:57:54\", \"Thumbnail JPEGInterchangeFormat\": \"2342\", \"Thumbnail JPEGInterchangeFormatLength\": \"3218\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2005:03:05 13:57:54\", \"EXIF DateTimeDigitized\": \"2005:03:05 13:57:54\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash fired, compulsory flash mode, red-eye reduction mode, return light detected\", \"EXIF FocalLength\": \"24\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1536\", \"EXIF ExifImageLength\": \"2048\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\"}",
+    "sha256": "0c60a6f43e29d1c9c4a91029c2c9f47b44b41f0539a317001f35769db3b551c2"
+}

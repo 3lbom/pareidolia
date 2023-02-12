@@ -1,0 +1,12 @@
+{
+    "url": "http://cp1.douguo.net/upload/caiku/4/6/a/yuan_46eb66dc4dcd4dbc619f5349e60cb14a.jpeg",
+    "key": "000000615",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 750,
+    "original_height": 1000,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ExifImageWidth\": \"750\", \"EXIF ExifImageLength\": \"1000\"}",
+    "sha256": "576bb3b3ef758ede49f092ca6e47e81a01097b7cbe679b1ed0508cd2acde9da8"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cp1.douguo.com/upload/caiku/3/4/d/220_34e1299b859d563f9cd1a3b1ee1c2edd.jpg",
+    "key": "000007872",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 220,
+    "original_height": 220,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"XIAOMI\", \"Image Model\": \"MI3\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 7.0\", \"Image DateTime\": \"2016:02:10 22:43:54\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"([None] (Photographer) - [None]\", \"Image ExifOffset\": \"280\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSTimeStamp\": \"[6, 44, 59]\", \"GPS GPSDate\": \"2016:02:01\", \"Image GPSInfo\": \"872\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1044\", \"Thumbnail JPEGInterchangeFormatLength\": \"11607\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:02:01 14:44:59\", \"EXIF DateTimeDigitized\": \"2016:02:01 14:44:59\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ShutterSpeedValue\": \"0/0\", \"EXIF ApertureValue\": \"91/40\", \"EXIF BrightnessValue\": \"49731/10000\", \"EXIF ExposureBiasValue\": \"-1\", \"EXIF MaxApertureValue\": \"11/5\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"other\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"351/100\", \"EXIF SubjectArea\": \"[0, 7172, 0, 6150]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"220\", \"EXIF ExifImageLength\": \"220\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Bracket\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Sharpness\": \"Soft\", \"EXIF ImageUniqueID\": \"\"}",
+    "sha256": "a1da0bd147f74570def19aa2a1ecf23b895787f92aec9c8e3d42ae852d2d3207"
+}

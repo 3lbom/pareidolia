@@ -1,0 +1,12 @@
+{
+    "url": "https://ens-newswire.com/wp-content/uploads/2017/01/TrinidadHead.jpg",
+    "key": "000008724",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 350,
+    "original_height": 250,
+    "exif": "{\"Image Artist\": \"User\", \"Image ExifOffset\": \"2128\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2017:01:15 22:58:03\", \"EXIF DateTimeDigitized\": \"2017:01:15 22:58:03\", \"EXIF SubSecTimeOriginal\": \"96\", \"EXIF SubSecTimeDigitized\": \"96\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "0914719f6787f2f66b4527d84ee0d47853ad734e280343bb817a7391a73ac75e"
+}

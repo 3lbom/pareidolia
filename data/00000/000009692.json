@@ -1,0 +1,12 @@
+{
+    "url": "https://houcyoumanabu.com/wp-content/uploads/2017/12/20171126_090322.jpg",
+    "key": "000009692",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 680,
+    "original_height": 382,
+    "exif": "{\"Image ImageWidth\": \"3264\", \"Image ImageLength\": \"1836\", \"Image Make\": \"samsung\", \"Image Model\": \"SC-04F\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"SC04FOMU1XQH1\", \"Image DateTime\": \"2017:11:26 09:03:21\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"224\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:11:26 09:03:21\", \"EXIF DateTimeDigitized\": \"2017:11:26 09:03:21\", \"EXIF MaxApertureValue\": \"57/25\", \"EXIF MeteringMode\": \"Average\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"24/5\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"1836\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Night\", \"EXIF ImageUniqueID\": \"F16QLHF01SB\", \"EXIF OffsetSchema\": \"84\"}",
+    "sha256": "13287fb6ad8fa207458105431b6586f6618effab4075da36c77a0f607f241e94"
+}

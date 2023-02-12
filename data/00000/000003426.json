@@ -1,0 +1,12 @@
+{
+    "url": "http://www.bulgariainside.com/images/galleries/th_190x143/d9bc023e2f103070360734f814fc9a01.jpeg",
+    "key": "000003426",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 190,
+    "original_height": 126,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Windows\", \"Image DateTime\": \"2016:02:16 14:33:25\", \"Image ExifOffset\": \"208\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"96\", \"Thumbnail YResolution\": \"96\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"710\", \"Thumbnail JPEGInterchangeFormatLength\": \"9011\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"10\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:07:14 09:49:56\", \"EXIF DateTimeDigitized\": \"2011:07:14 09:49:56\", \"EXIF ShutterSpeedValue\": \"415241/62500\", \"EXIF ApertureValue\": \"415241/62500\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"40\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"641\", \"EXIF ExifImageLength\": \"426\", \"EXIF FocalPlaneXResolution\": \"873600/283\", \"EXIF FocalPlaneYResolution\": \"1456000/471\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "61537d9457836f1c9ff789ec8764c145a0590a8d58f86fec21b2c9a54f38976c"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.newsday.com/polopoly_fs/1.12721532.1481212332!/httpImage/image.jpeg_gen/derivatives/landscape_768/image.jpeg",
+    "key": "000006129",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 768,
+    "original_height": 430,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"430\"}",
+    "sha256": "7420a245c5c52cb996fbbda96bf7447d8f6e6661f79f3af5601cfdc0bc926ed6"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.hikingiberia.com/images/routes/sierra-norte-madrid-pico-espartal/cerro-aguila.jpg",
+    "key": "000006036",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1503,
+    "original_height": 692,
+    "exif": "{\"Image ImageDescription\": \"Wandeling Pico el Espartal - Sierra Norte de Madrid, 14 april 2013\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4S\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"PhotoScape\", \"Image DateTime\": \"2016:01:10 12:28:39\", \"Image Artist\": \"Picasa\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"298\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[40, 5397/100, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[3, 4789/100, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"1666\", \"GPS GPSTimeStamp\": \"[11, 57, 989/25]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"12997/40\", \"Image GPSInfo\": \"788\", \"EXIF ExposureTime\": \"1/1453\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:04:14 13:57:40\", \"EXIF DateTimeDigitized\": \"2013:04:14 13:57:40\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"10894/1037\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"10385/1057\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1503\", \"EXIF ExifImageLength\": \"692\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3264\", \"Interoperability RelatedImageLength\": \"2448\", \"EXIF InteroperabilityOffset\": \"746\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"a764b727d7852352ba2dd0211ef9cdff\"}",
+    "sha256": "fe459fd8006f40a8df4047795651b9a7643c6eb77d1c3d93acc3dcb46ad1476c"
+}

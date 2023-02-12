@@ -1,0 +1,12 @@
+{
+    "url": "http://s3.amazonaws.com/media.steepster.com/product_images/7681/medium.jpg",
+    "key": "000002711",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 140,
+    "original_height": 140,
+    "exif": "{}",
+    "sha256": "4d2ff3793aaddfd72566e85f5bb793c3a20055aaf9753d8d821f9ace3b7a1173"
+}

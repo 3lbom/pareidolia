@@ -1,0 +1,12 @@
+{
+    "url": "http://www.catsmob.com/post/2015/05/5182/cm_20150518_5182_009.jpg",
+    "key": "000003443",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 1067,
+    "exif": "{\"Image ImageDescription\": \"110524_210701\", \"Image Make\": \"DoCoMo\", \"Image Model\": \"SH06A\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2011:05:24 21:07:05\", \"Image YCbCrPositioning\": \"Centered\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"262\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF ExposureTime\": \"231807/1000000\", \"EXIF FNumber\": \"14/5\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:05:24 21:07:02\", \"EXIF DateTimeDigitized\": \"2011:05:24 21:07:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"211/100\", \"EXIF ApertureValue\": \"3\", \"EXIF BrightnessValue\": \"109/1000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"507/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"1067\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "3a3b9a91ccdad837393f335c6cb1e180e62b2f27c518a01df7749c24c7ec2449"
+}

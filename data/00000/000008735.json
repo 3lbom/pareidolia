@@ -1,0 +1,12 @@
+{
+    "url": "https://erakini.com/wp-content/uploads/2019/09/kripik-apel.jpg",
+    "key": "000008735",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 269,
+    "original_height": 311,
+    "exif": "{\"Image Artist\": \"Admin\", \"Image ExifOffset\": \"2128\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"EXIF DateTimeOriginal\": \"2019:09:08 20:55:37\", \"EXIF DateTimeDigitized\": \"2019:09:08 20:55:37\", \"EXIF SubSecTimeOriginal\": \"99\", \"EXIF SubSecTimeDigitized\": \"99\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "41807e97876cc8b729c2b4f053a0e785ca8d86b73af809b26d65e09de8924ba0"
+}

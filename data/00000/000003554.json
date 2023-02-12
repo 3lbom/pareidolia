@@ -1,0 +1,12 @@
+{
+    "url": "http://www.ganjuwang.com/pic/IMG_0166.jpg",
+    "key": "000003554",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS Kiss X3\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2015:02:13 18:29:54\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"218\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"7750\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:02:13 18:29:54\", \"EXIF DateTimeDigitized\": \"2015:02:13 18:29:54\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"59/8\", \"EXIF ApertureValue\": \"53/8\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTime\": \"81\", \"EXIF SubSecTimeOriginal\": \"81\", \"EXIF SubSecTimeDigitized\": \"81\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2352\", \"EXIF ExifImageLength\": \"1568\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"7720\", \"EXIF FocalPlaneXResolution\": \"392000/149\", \"EXIF FocalPlaneYResolution\": \"1568000/593\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9a37da5fc47c985a59f1859e305c520cd9c4a0fc72f8230bd411abb2423d2029"
+}

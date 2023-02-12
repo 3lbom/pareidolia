@@ -1,0 +1,12 @@
+{
+    "url": "http://www.pujiangmihoutao.com/pic/pzmlj28.jpg",
+    "key": "000003856",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 338,
+    "exif": "{\"Image Make\": \"Xiaomi\", \"Image Model\": \"MI 6\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"sagit-user 8.0.0 OPR1.170623.027 V10.0.2.0.OCACNFH release-keys\", \"Image DateTime\": \"2018:12:18 15:17:02\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"260\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[30, 17, 86181/2500]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[103, 22, 4391/400]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"0\", \"GPS GPSTimeStamp\": \"[7, 17, 1]\", \"GPS GPSProcessingMethod\": \"ASCII\", \"GPS GPSDate\": \"2018:12:18\", \"Image GPSInfo\": \"794\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:12:18 15:17:02\", \"EXIF DateTimeDigitized\": \"2018:12:18 15:17:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"1411/250\", \"EXIF ApertureValue\": \"169/100\", \"EXIF BrightnessValue\": \"109/50\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"191/50\", \"EXIF SubSecTime\": \"919342\", \"EXIF SubSecTimeOriginal\": \"919342\", \"EXIF SubSecTimeDigitized\": \"919342\", \"EXIF Tag 0x9999\": \"{\\\"sensor_type\\\":\\\"rear\\\",\\\"mirror\\\":false}\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"4000\", \"EXIF ExifImageLength\": \"2250\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"764\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9d9b2bc087c1d0afc01235d5cb404bf735d90cd83897139a55a314b60ac6109a"
+}

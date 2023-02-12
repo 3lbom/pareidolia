@@ -1,0 +1,12 @@
+{
+    "url": "http://fruitarian.ru/wp-content/uploads/2012/03/mango_Boracay5_4_1024x683-512x341.jpg",
+    "key": "000000894",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 512,
+    "original_height": 341,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"iWatermark Pro\", \"Image ExifOffset\": \"66\", \"EXIF ExifImageWidth\": \"512\", \"EXIF ExifImageLength\": \"341\"}",
+    "sha256": "fe52ab2b630f3d63cea5b0fe530f7391da88a74ae8f03818a4a3a62477371299"
+}

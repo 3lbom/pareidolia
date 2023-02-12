@@ -1,0 +1,12 @@
+{
+    "url": "http://cdn-ak.d.st-hatena.com/diary/poreporekyonta/2007-10-08.jpg",
+    "key": "000000439",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 225,
+    "original_height": 300,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"PENTAX Corporation\", \"Image Model\": \"PENTAX Optio X\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"\", \"Image DateTime\": \"2007:10:08 22:15:47\", \"Image Artist\": \"\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"230\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"646\", \"Thumbnail JPEGInterchangeFormatLength\": \"3783\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"13/5\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:10:08 22:03:20\", \"EXIF DateTimeDigitized\": \"2007:10:08 22:03:20\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"14/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"29/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1920\", \"EXIF ExifImageLength\": \"2560\"}",
+    "sha256": "b165031b4c6d63e9382df0cdc103615b72ea93f2fc5ac7fc8f2113bfec0e3ce2"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://vague-terrain.com/wordpress/wp-content/uploads/2015/11/heater.jpg",
+    "key": "000003267",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 732,
+    "original_height": 576,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5.1 Macintosh\", \"Image DateTime\": \"2015:11:06 11:53:45\", \"Image ExifOffset\": \"168\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"306\", \"Thumbnail JPEGInterchangeFormatLength\": \"9021\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"732\", \"EXIF ExifImageLength\": \"576\"}",
+    "sha256": "e7e1a37d43c0b36bbde3daf5950bba198fdbf3a02ebf4a5cbd17bbb44d3c375e"
+}

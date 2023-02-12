@@ -1,0 +1,12 @@
+{
+    "url": "http://data-cache.abuledu.org/256/prune-de-forme-bizarre-53aaf8c5.jpg",
+    "key": "000000677",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 256,
+    "original_height": 192,
+    "exif": "{\"Image ImageDescription\": \"http://data.abuledu.org/URI/53aaf8c5\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"u720SW,S720SW\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"314\", \"Image YResolution\": \"314\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"abuledu-data/1.5.4\", \"Image DateTime\": \"2007:07:09 01:12:14\", \"Image Artist\": \"Brocken Inaglory\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"\", \"Image ExifOffset\": \"864\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"314\", \"Thumbnail YResolution\": \"314\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"3236\", \"Thumbnail JPEGInterchangeFormatLength\": \"5481\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Creative\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:07:09 01:12:14\", \"EXIF DateTimeDigitized\": \"2007:07:09 01:12:14\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"-3/10\", \"EXIF MaxApertureValue\": \"361/100\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"913/100\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3072\", \"EXIF ExifImageLength\": \"2304\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"3112\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF ImageUniqueID\": \"http://data.abuledu.org/URI/53aaf8c5\"}",
+    "sha256": "6143d43f022034420047b7f9a97b6624cfc5f06bfb495095a003b2d09abee8ae"
+}

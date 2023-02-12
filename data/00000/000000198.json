@@ -1,0 +1,12 @@
+{
+    "url": "http://a4.pbase.com/u48/carrhighlander/upload/30818859.Closeup1.jpg",
+    "key": "000000198",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 258,
+    "original_height": 341,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot A80\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2004:06:30 06:48:06\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"2036\", \"Thumbnail JPEGInterchangeFormatLength\": \"6258\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"9/2\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2004:06:30 06:48:06\", \"EXIF DateTimeDigitized\": \"2004:06:30 06:48:06\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"85/16\", \"EXIF ApertureValue\": \"139/32\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MaxApertureValue\": \"139/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"77/4\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2272\", \"EXIF ExifImageLength\": \"1704\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"2272\", \"Interoperability RelatedImageLength\": \"1704\", \"EXIF InteroperabilityOffset\": \"1844\", \"EXIF FocalPlaneXResolution\": \"56800/7\", \"EXIF FocalPlaneYResolution\": \"56800/7\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "662b7720f15027b43608aa7c68aa73b3780e9ddf77d00261ea50de9e4e580f02"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/d/danmanjp/20180403/20180403110006.jpg",
+    "key": "000005767",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 450,
+    "exif": "{\"Image Make\": \"asus\", \"Image Model\": \"ASUS_Z017DA\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Android\", \"Image DateTime\": \"2018:04:01 15:11:44\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"GPS GPSAltitudeRef\": \"0\", \"Image GPSInfo\": \"29112\", \"EXIF ExposureTime\": \"1/60\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"1592\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:04:01 15:11:44\", \"EXIF DateTimeDigitized\": \"2018:04:01 15:11:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5907/1000\", \"EXIF ApertureValue\": \"2\", \"EXIF BrightnessValue\": \"0\", \"EXIF MeteringMode\": \"Unidentified\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"101/25\", \"EXIF SubSecTime\": \"490364\", \"EXIF SubSecTimeOriginal\": \"490364\", \"EXIF SubSecTimeDigitized\": \"490364\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1280\", \"EXIF ExifImageLength\": \"720\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"29081\", \"EXIF SensingMethod\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "8879a6cb74d076157900b719e6172fee6f217a0f4b24fe39b12463812f2c0632"
+}

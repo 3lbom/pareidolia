@@ -1,0 +1,12 @@
+{
+    "url": "https://hotnews8.net/contents/look-like-face/16_c.jpg",
+    "key": "000009691",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 480,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"600\", \"EXIF ExifImageLength\": \"480\"}",
+    "sha256": "d46f798877241e242449f8f502aaef571f0addfd20d7ce0947371dfb1e7935c4"
+}

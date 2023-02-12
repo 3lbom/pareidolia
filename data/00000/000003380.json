@@ -1,0 +1,12 @@
+{
+    "url": "http://www.appenniniweb.it/wp-content/uploads/2021/05/20210501_124708-800x445.jpg",
+    "key": "000003380",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 800,
+    "original_height": 445,
+    "exif": "{\"Image Compression\": \"JPEG (old-style)\", \"Image ImageLength\": \"1188\", \"Image Make\": \"samsung\", \"Image Orientation\": \"Horizontal (normal)\", \"Image DateTime\": \"2021:05:01 12:47:08\", \"Image YResolution\": \"72\", \"Image XResolution\": \"72\", \"Image ImageWidth\": \"2576\", \"Image Model\": \"SM-A405FN\", \"Image Software\": \"A405FNXXU3CUC2\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"239\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"EXIF ApertureValue\": \"227/100\", \"EXIF ExifVersion\": \"0220\", \"EXIF SceneType\": \"'?'\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ImageUniqueID\": \"F05LLLJ00PM\", \"EXIF MaxApertureValue\": \"0\", \"EXIF ExifImageLength\": \"1188\", \"EXIF BrightnessValue\": \"5/2\", \"EXIF DateTimeOriginal\": \"2021:05:01 12:47:08\", \"EXIF FlashPixVersion\": \"0100\", \"EXIF SubSecTimeOriginal\": \"0017\", \"EXIF WhiteBalance\": \"Auto\", \"Interoperability InteroperabilityIndex\": \"R98\", \"EXIF InteroperabilityOffset\": \"895\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF ExposureTime\": \"1/50\", \"EXIF OffsetTime\": \"+02:00\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF SubSecTime\": \"0017\", \"EXIF FNumber\": \"11/5\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifImageWidth\": \"2576\", \"EXIF Saturation\": \"Normal\", \"EXIF ComponentsConfiguration\": \"'?''?''?'\", \"EXIF OffsetTimeDigitized\": \"+02:00\", \"EXIF FocalLengthIn35mmFilm\": \"13\", \"EXIF Contrast\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubSecTimeDigitized\": \"0017\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF DateTimeDigitized\": \"2021:05:01 12:47:08\", \"EXIF ShutterSpeedValue\": \"141/25\", \"EXIF FocalLength\": \"113/100\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF OffsetTimeOriginal\": \"+02:00\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LightSource\": \"Unknown\"}",
+    "sha256": "ff1e30b47b2fa808aaf2ce99adadb1aace5ef38fa417230a382305c412db4baf"
+}

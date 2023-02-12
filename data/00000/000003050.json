@@ -1,0 +1,12 @@
+{
+    "url": "http://thumb.mt.co.kr/06/2018/03/2018032723091464484_5.jpg",
+    "key": "000003050",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 486,
+    "original_height": 475,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Not Absolute\", \"Image ExifOffset\": \"90\", \"EXIF ExifVersion\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"486\", \"EXIF ExifImageLength\": \"475\"}",
+    "sha256": "1fb7d75458ee3151f555b8a06a387f08f8066dcb6db07762110590963d3af96b"
+}

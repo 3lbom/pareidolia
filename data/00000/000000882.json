@@ -1,0 +1,12 @@
+{
+    "url": "http://fromjessicaskitchen.com/wp-content/uploads/2014/12/IMG_5029.jpg",
+    "key": "000000882",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 1200,
+    "original_height": 900,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"8.1.2\", \"Image DateTime\": \"2014:12:29 09:14:59\", \"Image ExifOffset\": \"180\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[34, 11, 369/50]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[118, 51, 49/5]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"33668/125\", \"GPS GPSTimeStamp\": \"[17, 14, 59]\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"21755/141\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"47135/141\", \"GPS GPSDate\": \"2014:12:29\", \"Image GPSInfo\": \"1572\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:12:29 09:14:59\", \"EXIF DateTimeDigitized\": \"2014:12:29 09:14:59\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"5845/1191\", \"EXIF ApertureValue\": \"7801/3429\", \"EXIF BrightnessValue\": \"473/184\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"369\", \"EXIF SubSecTimeDigitized\": \"369\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6 back camera 4.15mm f/2.2\"}",
+    "sha256": "f5ac0b6e5bdfe818feb24b725107f954afabee6efdb7299ddc642ff49a596fb0"
+}

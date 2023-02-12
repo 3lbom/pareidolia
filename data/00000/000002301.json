@@ -1,0 +1,12 @@
+{
+    "url": "http://originalnews.nico/wp-content/uploads/2017/07/eye_banana-600x358.jpg",
+    "key": "000002301",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 358,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"78\", \"EXIF ExifImageWidth\": \"613\", \"EXIF ExifImageLength\": \"366\"}",
+    "sha256": "c5192f478c2e250044034a5d319b5be712e0cb0660b259173ee56389e73bb94c"
+}

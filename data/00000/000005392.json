@@ -1,0 +1,12 @@
+{
+    "url": "https://burrofuso.com/wp-content/uploads/2017/11/preparazione-marmellata-arance-2.jpg",
+    "key": "000005392",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image ImageWidth\": \"960\", \"Image ImageLength\": \"720\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Windows)\", \"Image DateTime\": \"2017:10:31 21:31:33\", \"Image Padding\": \"[]\", \"Image ExifOffset\": \"2308\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4530\", \"Thumbnail JPEGInterchangeFormatLength\": \"4843\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"480\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "830f084248a4c7a76a29ecd0b4d5db981fe116173056bd0ac9c5dbaee65a46bd"
+}

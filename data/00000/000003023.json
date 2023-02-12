@@ -1,0 +1,12 @@
+{
+    "url": "http://tenews.te.ua/admin/upload_news/3-08-2016/pozytyvnyj-budynok.jpg",
+    "key": "000003023",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 600,
+    "original_height": 400,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\"}",
+    "sha256": "ba4ec11bceab1e9992a783f81795283b2d9131c8b6c138fc21dc2ff4bdffe9cd"
+}

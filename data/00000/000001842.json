@@ -1,0 +1,12 @@
+{
+    "url": "http://jurapolska.com/foto_wyc_arch/22122007_6.jpg",
+    "key": "000001842",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 536,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"SAMSUNG TECHWIN Co.\", \"Image Model\": \"SAMSUNG GX10\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"GX10 Ver 1.30\", \"Image DateTime\": \"2017:03:10 18:34:33\", \"Image Artist\": \"Michal Demel www.JuraPolska.com\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image Copyright\": \"Michal Demel www.JuraPolska.com\", \"Image ExifOffset\": \"310\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"882\", \"Thumbnail JPEGInterchangeFormatLength\": \"3682\", \"Thumbnail YCbCrPositioning\": \"Co-sited\", \"EXIF ExposureTime\": \"1/180\", \"EXIF FNumber\": \"11\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:12:22 12:40:16\", \"EXIF DateTimeDigitized\": \"2007:12:22 12:40:16\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"-1/2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"18\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"536\", \"EXIF ExifImageLength\": \"800\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"740\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Bracket\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"27\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Hard\", \"EXIF SubjectDistanceRange\": \"2\"}",
+    "sha256": "300bf8394cf8f8526cc56d608fffbced77ecb7aafa551eb01183ba970e9cb07a"
+}

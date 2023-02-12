@@ -1,0 +1,12 @@
+{
+    "url": "https://cdn.instructables.com/ORIG/FGZ/0NZU/I6SNVK4P/FGZ0NZUI6SNVK4P.jpg",
+    "key": "000006072",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 810,
+    "original_height": 1080,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5s\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"8.1.2\", \"Image DateTime\": \"2015:02:21 13:41:40\", \"Image ExifOffset\": \"168\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"125\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:02:21 13:41:40\", \"EXIF DateTimeDigitized\": \"2015:02:21 13:41:40\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"21292/4339\", \"EXIF ApertureValue\": \"7892/3469\", \"EXIF BrightnessValue\": \"6406/2465\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[2684, 1003, 610, 612]\", \"EXIF SubSecTimeOriginal\": \"950\", \"EXIF SubSecTimeDigitized\": \"950\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2448\", \"EXIF ExifImageLength\": \"3264\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 5s back camera 4.15mm f/2.2\"}",
+    "sha256": "8639f2f716616acf9878f415ed5cbcb08598162f5e2572618adacc22ae1637fd"
+}

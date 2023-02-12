@@ -1,0 +1,12 @@
+{
+    "url": "http://www.medinova.gr/wp-content/uploads/2013/12/healthy-eyes-537x350.jpg",
+    "key": "000003721",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 537,
+    "original_height": 350,
+    "exif": "{\"Image Software\": \"Picasa\", \"Image ExifOffset\": \"2130\", \"Image Tag 0x9009\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\", \"Image Padding\": \"[]\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "c65d8db8f789e9a3118fe03c3ec7a4b0f48b42f5648f4b7c2ffe9cbfec650b2a"
+}

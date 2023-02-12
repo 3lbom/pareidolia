@@ -1,0 +1,12 @@
+{
+    "url": "http://snapthepeaks.co.uk/snapwp/wp-content/uploads/2015/02/lions-head-rock.jpg",
+    "key": "000002820",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 512,
+    "original_width": 533,
+    "original_height": 800,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D3100\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Capture NX 2.2.6 W\", \"Image DateTime\": \"2012:02:19 21:18:53\", \"Image YCbCrPositioning\": \"Centered\", \"Image ReferenceBlackWhite\": \"[0, 255, 0, 255, 0, 255]\", \"Image ExifOffset\": \"292\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"894\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"12336\", \"Thumbnail JPEGInterchangeFormatLength\": \"2065\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"9\", \"EXIF ExposureProgram\": \"Unidentified\", \"EXIF ISOSpeedRatings\": \"560\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:02:19 14:37:28\", \"EXIF DateTimeDigitized\": \"2012:02:19 14:37:28\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"105\", \"EXIF SubSecTime\": \"00\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"533\", \"EXIF ExifImageLength\": \"800\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"157\", \"EXIF SceneCaptureType\": \"Landscape\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "c027361ad77266e6e8e3d1bee66c7cad2f7225d0c19e97428b74c708f0e0f75c"
+}
